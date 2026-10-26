@@ -1,0 +1,2802 @@
+{
+ "books": {
+  "the-big-goose-and-the-little-white-duck": {
+   "title": "The Big Goose and the Little White Duck",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1963,
+   "genres": [
+    "animal story",
+    "picture book",
+    "nature"
+   ],
+   "summary": "A small white duck and a large goose share a farmyard and slowly learn about each other's very different ways. A gentle, funny story for the youngest listeners.",
+   "characters": [
+    "Little White Duck — small, curious farm duck",
+    "Big Goose — large, bossy, protective"
+   ],
+   "setting": "A farmyard, mid-20th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "4-8",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Meindert_DeJong",
+   "note": "Details drawn from memory, not verified online; illustrator left null."
+  },
+  "the-almost-all-white-rabbity-cat": {
+   "title": "The Almost All-White Rabbity Cat",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1972,
+   "genres": [
+    "animal story",
+    "family story",
+    "humor"
+   ],
+   "summary": "A boy and a cat with rabbit-like looks share a quiet, quirky Dutch-American friendship. The tale is warm and funny, centered on the odd affections that bind animals and people.",
+   "characters": [
+    "Rabbity Cat — odd, almost white cat"
+   ],
+   "setting": "A small town, mid-20th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "6-9",
+   "illustrator": "Don Freeman",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Meindert_DeJong",
+   "note": "Plot summary kept general; verify details and illustrator."
+  },
+  "the-little-cow-and-the-turtle": {
+   "title": "The Little Cow and the Turtle",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1955,
+   "genres": [
+    "animal story",
+    "picture book",
+    "humor"
+   ],
+   "summary": "A little cow wanders off the farm and meets a slow, steady turtle. Their unlikely friendship is told with DeJong's gentle humor.",
+   "characters": [
+    "Little Cow — young, adventurous calf",
+    "Turtle — slow, patient companion"
+   ],
+   "setting": "Dutch-style farm and countryside",
+   "awards": [],
+   "series": null,
+   "reading_age": "4-8",
+   "illustrator": "Maurice Sendak",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Meindert_DeJong",
+   "note": "Illustrator and details from memory; unverified."
+  },
+  "journey-from-peppermint-street": {
+   "title": "Journey from Peppermint Street",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1968,
+   "genres": [
+    "adventure",
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "Young Siebren lives in a Dutch village and makes a long journey with his grandfather's old friend across the countryside to a faraway town. Along the way he learns about courage and growing up.",
+   "characters": [
+    "Siebren — shy nine-year-old boy",
+    "Old Uncle Hendrik — kindly, wise traveler"
+   ],
+   "setting": "Netherlands, early 20th century",
+   "awards": [
+    "National Book Award for Children's Books 1969"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Emily Arnold McCully",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Journey_from_Peppermint_Street",
+   "note": "Character names uncertain; award year given from memory."
+  },
+  "the-singing-hill": {
+   "title": "The Singing Hill",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1962,
+   "genres": [
+    "family story",
+    "adventure",
+    "nature"
+   ],
+   "summary": "A young girl is lured by the idea of a hill that sings and sets out to find it. Her quest reveals something about courage and belonging.",
+   "characters": [
+    "Child protagonist — curious, determined"
+   ],
+   "setting": "Rural countryside, mid-20th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "7-10",
+   "illustrator": "Maurice Sendak",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Meindert_DeJong",
+   "note": "Plot details uncertain; keep summary general."
+  },
+  "along-came-a-dog": {
+   "title": "Along Came a Dog",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1958,
+   "genres": [
+    "animal story",
+    "survival",
+    "nature"
+   ],
+   "summary": "A lonely stray dog finds a home on a farm and takes it upon himself to protect a small red hen from a hungry hawk. It's a tender story of devotion between unlikely friends.",
+   "characters": [
+    "Dog — lonely, devoted stray",
+    "Little Red Hen — small, tough, wary",
+    "Mr. Hendrik/Farmer — gruff, slowly warming"
+   ],
+   "setting": "A farm, mid-20th century",
+   "awards": [
+    "Newbery Honor 1959"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Maurice Sendak",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Along_Came_a_Dog",
+   "note": null
+  },
+  "far-out-the-long-canal": {
+   "title": "Far Out the Long Canal",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1964,
+   "genres": [
+    "family story",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "Moerie, a boy in a Dutch village, longs to learn to skate on the long canal. His determination takes him far from home.",
+   "characters": [
+    "Moerie — dreamer, wants to skate"
+   ],
+   "setting": "The Netherlands, early 20th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Nancy Grossman",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Meindert_DeJong",
+   "note": "Details from memory; unverified."
+  },
+  "the-wheel-on-the-school": {
+   "title": "The Wheel on the School",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1954,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "nature"
+   ],
+   "summary": "The children of Shora, a Dutch fishing village, wonder why storks no longer nest there and set out to bring them back by finding a wagon wheel for a nest. Their whole village joins in.",
+   "characters": [
+    "Lina — thoughtful girl who asks why",
+    "Pier — boy with big ideas",
+    "Jella — practical friend",
+    "Janus Dykstra — kindly village elder"
+   ],
+   "setting": "Shora, a Friesian village in the Netherlands, mid-20th century",
+   "awards": [
+    "Newbery Medal 1955"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Maurice Sendak",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Wheel_on_the_School",
+   "note": null
+  },
+  "hurry-home-candy": {
+   "title": "Hurry Home, Candy",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1953,
+   "genres": [
+    "dog story",
+    "survival",
+    "adventure"
+   ],
+   "summary": "A small dog named Candy is swept away from his family and has to survive on the streets and in strange homes. The story follows his long hope of making his way back.",
+   "characters": [
+    "Candy — scrappy, brave stray puppy"
+   ],
+   "setting": "A city and countryside in mid-20th century America",
+   "awards": [
+    "Newbery Honor 1954"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Maurice Sendak",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Meindert_DeJong",
+   "note": null
+  },
+  "the-case-of-the-baker-street-irregular": {
+   "title": "The Case of the Baker Street Irregular",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1978,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "A young American boy in Victorian London is drawn into a puzzling case alongside Sherlock Holmes. It is a lively mystery with a sleuthing hero.",
+   "characters": [
+    "Andrew Tolliver — young, resourceful sleuth"
+   ],
+   "setting": "England, 19th century",
+   "awards": [],
+   "series": "Andrew Tolliver",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robert_Newman_(author)",
+   "note": "Details from memory; publication year and series membership unverified."
+  },
+  "the-case-of-the-murdered-players": {
+   "title": "The Case of the Murdered Players",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1977,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "Andrew Tolliver and his friends investigate a series of deaths among actors. A theatrical mystery with plenty of suspects.",
+   "characters": [
+    "Andrew Tolliver — young, resourceful sleuth"
+   ],
+   "setting": "England, 19th century",
+   "awards": [],
+   "series": "Andrew Tolliver",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robert_Newman_(author)",
+   "note": "Details from memory; publication year and series membership unverified."
+  },
+  "the-case-of-the-somerville-secret": {
+   "title": "The Case of the Somerville Secret",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1981,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "A young detective untangles a secret hidden in an old house. Clues and close calls move the story along.",
+   "characters": [
+    "Andrew Tolliver — young, resourceful sleuth"
+   ],
+   "setting": "England, 19th century",
+   "awards": [],
+   "series": "Andrew Tolliver",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robert_Newman_(author)",
+   "note": "Details from memory; publication year and series membership unverified."
+  },
+  "the-case-of-the-threatened-king": {
+   "title": "The Case of the Threatened King",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1982,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "A royal figure is threatened and Andrew and his friends try to uncover who is behind it. A brisk mystery with historical flavor.",
+   "characters": [
+    "Andrew Tolliver — young, resourceful sleuth"
+   ],
+   "setting": "England, 19th century",
+   "awards": [],
+   "series": "Andrew Tolliver",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robert_Newman_(author)",
+   "note": "Details from memory; publication year and series membership unverified."
+  },
+  "the-case-of-the-watching-boy": {
+   "title": "The Case of the Watching Boy",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1975,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "A boy who seems to be watching something he should not leads to a puzzling investigation. A young reader mystery.",
+   "characters": [
+    "Andrew Tolliver — young, resourceful sleuth"
+   ],
+   "setting": "England, 19th century",
+   "awards": [],
+   "series": "Andrew Tolliver",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robert_Newman_(author)",
+   "note": "Details from memory; publication year and series membership unverified."
+  },
+  "the-case-of-the-frightened-friend": {
+   "title": "The Case of the Frightened Friend",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1973,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "A friend's alarming fear sets a young sleuth on a hunt for the cause. Clues pile up in this children's mystery.",
+   "characters": [
+    "Andrew Tolliver — young, resourceful sleuth"
+   ],
+   "setting": "England, 19th century",
+   "awards": [],
+   "series": "Andrew Tolliver",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robert_Newman_(author)",
+   "note": "Details from memory; publication year and series membership unverified."
+  },
+  "the-case-of-the-indian-curse": {
+   "title": "The Case of the Indian Curse",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1975,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "An old curse seems to be at work and a young detective sets out to find the real explanation. A mystery with eerie touches.",
+   "characters": [
+    "Andrew Tolliver — young, resourceful sleuth"
+   ],
+   "setting": "England, 19th century",
+   "awards": [],
+   "series": "Andrew Tolliver",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robert_Newman_(author)",
+   "note": "Details from memory; publication year and series membership unverified."
+  },
+  "the-case-of-the-vanishing-corpse": {
+   "title": "The Case of the Vanishing Corpse",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1980,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "A body disappears and Andrew Tolliver must discover where it went and why. A spooky puzzle for young readers.",
+   "characters": [
+    "Andrew Tolliver — young, resourceful sleuth"
+   ],
+   "setting": "England, 19th century",
+   "awards": [],
+   "series": "Andrew Tolliver",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robert_Newman_(author)",
+   "note": "Details from memory; publication year and series membership unverified."
+  },
+  "smith-of-wootton-major-farmer-giles-of-ham": {
+   "title": "Smith of Wootton Major & Farmer Giles of Ham",
+   "author_names": [
+    "J. R. R. Tolkien"
+   ],
+   "published": 1949,
+   "genres": [
+    "fantasy",
+    "humor",
+    "fairy tale"
+   ],
+   "summary": "Two shorter fairy tales in one volume. Farmer Giles is a country man who unexpectedly becomes a dragon-taming hero, while Smith of Wootton Major tells of a village smith who visits the land of Faery.",
+   "characters": [
+    "Farmer Giles — stubborn, practical farmer",
+    "Chrysophylax — vain, cunning dragon",
+    "Smith — quiet, gifted village craftsman"
+   ],
+   "setting": "Rural England of an imagined past",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Pauline Baynes",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Farmer_Giles_of_Ham",
+   "note": "Combined edition; Farmer Giles 1949, Smith 1967."
+  },
+  "the-hobbit": {
+   "title": "The Hobbit",
+   "author_names": [
+    "J. R. R. Tolkien"
+   ],
+   "published": 1937,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic"
+   ],
+   "summary": "Bilbo Baggins, a comfortable hobbit, is whisked away by a wizard and thirteen dwarves to win back treasure from a dragon. He discovers unexpected courage and cleverness along the way.",
+   "characters": [
+    "Bilbo Baggins — homey, clever hobbit",
+    "Gandalf — wise, mischievous wizard",
+    "Thorin Oakenshield — proud dwarf king",
+    "Smaug — greedy, cunning dragon",
+    "Gollum — riddling creature of the dark"
+   ],
+   "setting": "Middle-earth, an imagined age",
+   "awards": [
+    "New York Herald Tribune Children's Spring Book Festival prize 1938"
+   ],
+   "series": "Middle-earth",
+   "reading_age": "8-12",
+   "illustrator": "J. R. R. Tolkien",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Hobbit",
+   "note": null
+  },
+  "the-lord-of-the-rings-trilogy-the-fellowship-of-the-ring-the-two-towers-the-return-of-the-king": {
+   "title": "The Lord of the Rings Trilogy",
+   "author_names": [
+    "J. R. R. Tolkien"
+   ],
+   "published": 1954,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic",
+    "epic"
+   ],
+   "summary": "Frodo, a hobbit, inherits a ring of terrible power and sets out with friends to destroy it before the Dark Lord regains it. Their journey spans three volumes of danger, friendship and war.",
+   "characters": [
+    "Frodo Baggins — humble, brave ring-bearer",
+    "Samwise Gamgee — loyal, down-to-earth gardener",
+    "Gandalf — wise wizard",
+    "Aragorn — hidden king, ranger",
+    "Gollum — wretched ring-obsessed creature"
+   ],
+   "setting": "Middle-earth, an imagined age",
+   "awards": [],
+   "series": "The Lord of the Rings",
+   "reading_age": "10-adult",
+   "illustrator": "J. R. R. Tolkien",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+   "note": "Title simplified from notebook listing; published 1954-55 in three volumes."
+  },
+  "the-lord-of-the-rings-trilogy-and-the-hobbit-4-books": {
+   "title": "The Lord of the Rings and The Hobbit (4-book set)",
+   "author_names": [
+    "J. R. R. Tolkien"
+   ],
+   "published": 1937,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic",
+    "epic"
+   ],
+   "summary": "A four-book set pairing Bilbo's adventure in The Hobbit with Frodo's quest to destroy the One Ring. Together they form the great story of Middle-earth.",
+   "characters": [
+    "Frodo Baggins — humble, brave ring-bearer",
+    "Samwise Gamgee — loyal, down-to-earth gardener",
+    "Gandalf — wise wizard",
+    "Aragorn — hidden king, ranger",
+    "Gollum — wretched ring-obsessed creature"
+   ],
+   "setting": "Middle-earth, an imagined age",
+   "awards": [],
+   "series": "The Lord of the Rings",
+   "reading_age": "10-adult",
+   "illustrator": "J. R. R. Tolkien",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+   "note": "Boxed set; The Hobbit 1937, LOTR 1954-55."
+  },
+  "the-lord-of-the-rings": {
+   "title": "The Lord of the Rings",
+   "author_names": [
+    "J. R. R. Tolkien"
+   ],
+   "published": 1954,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic",
+    "epic"
+   ],
+   "summary": "Frodo Baggins and a fellowship of friends set out to destroy a powerful ring and save Middle-earth from the Dark Lord. Told in three parts: The Fellowship of the Ring, The Two Towers, and The Return of the King.",
+   "characters": [
+    "Frodo Baggins — humble, brave ring-bearer",
+    "Samwise Gamgee — loyal, down-to-earth gardener",
+    "Gandalf — wise wizard",
+    "Aragorn — hidden king, ranger",
+    "Gollum — wretched ring-obsessed creature"
+   ],
+   "setting": "Middle-earth, an imagined age",
+   "awards": [],
+   "series": "The Lord of the Rings",
+   "reading_age": "10-adult",
+   "illustrator": "J. R. R. Tolkien",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+   "note": "Published 1954-55."
+  },
+  "anastasia-krupnik": {
+   "title": "Anastasia Krupnik",
+   "author_names": [
+    "Lois Lowry"
+   ],
+   "published": 1979,
+   "genres": [
+    "humor",
+    "family story",
+    "school story"
+   ],
+   "summary": "Ten-year-old Anastasia keeps lists of what she loves and hates, and struggles with a big change: her parents are expecting a baby. Funny and honest about growing up.",
+   "characters": [
+    "Anastasia Krupnik — witty, thoughtful girl",
+    "Katherine Krupnik — creative, artist mother",
+    "Myron Krupnik — poet, professor father",
+    "Sam — baby brother"
+   ],
+   "setting": "Cambridge, Massachusetts, late 1970s",
+   "awards": [],
+   "series": "Anastasia Krupnik",
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Anastasia_Krupnik",
+   "note": null
+  },
+  "anastasia-again": {
+   "title": "Anastasia Again!",
+   "author_names": [
+    "Lois Lowry"
+   ],
+   "published": 1981,
+   "genres": [
+    "humor",
+    "family story",
+    "school story"
+   ],
+   "summary": "The Krupniks move from Cambridge to the suburbs, and Anastasia hates it at first. She sets out to make the best of her new home.",
+   "characters": [
+    "Anastasia Krupnik — witty, resourceful",
+    "Dr. Krupnik — absent-minded professor",
+    "Mrs. Krupnik — artist mother",
+    "Sam — toddler brother"
+   ],
+   "setting": "Massachusetts suburb, early 1980s",
+   "awards": [],
+   "series": "Anastasia Krupnik",
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Anastasia_Krupnik",
+   "note": null
+  },
+  "number-the-stars": {
+   "title": "Number the Stars",
+   "author_names": [
+    "Lois Lowry"
+   ],
+   "published": 1989,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "survival"
+   ],
+   "summary": "In Nazi-occupied Copenhagen, ten-year-old Annemarie and her family help shelter her Jewish best friend, Ellen. A moving story of ordinary courage.",
+   "characters": [
+    "Annemarie Johansen — brave ten-year-old",
+    "Ellen Rosen — Annemarie's Jewish best friend",
+    "Uncle Henrik — fisherman, quietly daring",
+    "Mama and Papa — protective parents"
+   ],
+   "setting": "Copenhagen, Denmark, 1943",
+   "awards": [
+    "Newbery Medal 1990"
+   ],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Number_the_Stars",
+   "note": null
+  },
+  "the-giver": {
+   "title": "The Giver",
+   "author_names": [
+    "Lois Lowry"
+   ],
+   "published": 1993,
+   "genres": [
+    "science fiction",
+    "dystopian",
+    "fantasy"
+   ],
+   "summary": "Jonas lives in a seemingly perfect community where everything is controlled. When he is chosen to receive its memories, he starts to question everything.",
+   "characters": [
+    "Jonas — thoughtful twelve-year-old",
+    "The Giver — old keeper of memories",
+    "Gabriel — baby in Jonas's family",
+    "Lily — Jonas's younger sister"
+   ],
+   "setting": "A future controlled community",
+   "awards": [
+    "Newbery Medal 1994"
+   ],
+   "series": "The Giver Quartet",
+   "reading_age": "12+",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Giver",
+   "note": null
+  },
+  "the-complete-adventures-of-olga-da-polga": {
+   "title": "The Complete Adventures of Olga da Polga",
+   "author_names": [
+    "Michael Bond"
+   ],
+   "published": 1971,
+   "genres": [
+    "animal story",
+    "humor",
+    "family story"
+   ],
+   "summary": "Olga da Polga is a proud, talkative guinea pig who tells wild stories about her origins. She has a series of funny adventures with her family and her animal friends.",
+   "characters": [
+    "Olga da Polga — vain, funny guinea pig",
+    "Noel — her young owner",
+    "Fangio — tortoise friend"
+   ],
+   "setting": "A suburban English home, mid-20th century",
+   "awards": [],
+   "series": "Olga da Polga",
+   "reading_age": "6-10",
+   "illustrator": "Hans Helweg",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Michael_Bond",
+   "note": "Omnibus of Olga stories first published from 1971."
+  },
+  "a-bear-called-paddington": {
+   "title": "A Bear Called Paddington",
+   "author_names": [
+    "Michael Bond"
+   ],
+   "published": 1958,
+   "genres": [
+    "animal fantasy",
+    "humor",
+    "family story"
+   ],
+   "summary": "The Brown family finds a bear from darkest Peru at Paddington Station, and bring him home. His good manners and mishaps lead to funny chaos.",
+   "characters": [
+    "Paddington — polite, accident-prone bear",
+    "Mr. Brown — cautious father",
+    "Mrs. Brown — kindly mother",
+    "Mrs. Bird — practical housekeeper"
+   ],
+   "setting": "London, 1950s",
+   "awards": [],
+   "series": "Paddington",
+   "reading_age": "5-9",
+   "illustrator": "Peggy Fortnum",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/A_Bear_Called_Paddington",
+   "note": null
+  },
+  "paddington-at-large": {
+   "title": "Paddington at Large",
+   "author_names": [
+    "Michael Bond"
+   ],
+   "published": 1962,
+   "genres": [
+    "animal fantasy",
+    "humor",
+    "family story"
+   ],
+   "summary": "Paddington gets into more scrapes, from sightseeing to shopping to a night at the theater. His good intentions keep causing delightful trouble.",
+   "characters": [
+    "Paddington — polite, accident-prone bear",
+    "Mr. Gruber — kindly antique shop owner",
+    "Mr. Curry — grumpy neighbour",
+    "The Browns — his adoptive family"
+   ],
+   "setting": "London, 1960s",
+   "awards": [],
+   "series": "Paddington",
+   "reading_age": "5-9",
+   "illustrator": "Peggy Fortnum",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Paddington_Bear",
+   "note": null
+  },
+  "little-house-books-complete-set": {
+   "title": "Little House Books (complete set)",
+   "author_names": [
+    "Laura Ingalls Wilder"
+   ],
+   "published": 1932,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "classic"
+   ],
+   "summary": "A collection of the beloved books following Laura Ingalls from a log cabin in the Big Woods through frontier life on the prairie and into marriage. They are vivid stories of pioneer hardship and family love.",
+   "characters": [
+    "Laura Ingalls — spirited, observant girl",
+    "Mary — older, gentle sister",
+    "Ma — calm, firm mother",
+    "Pa — fiddler, adventurous father"
+   ],
+   "setting": "American Midwest frontier, 1870s-1880s",
+   "awards": [],
+   "series": "Little House",
+   "reading_age": "7-12",
+   "illustrator": "Garth Williams",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_(book_series)",
+   "note": "Series, first published 1932-1943."
+  },
+  "little-house-books": {
+   "title": "Little House Books",
+   "author_names": [
+    "Laura Ingalls Wilder"
+   ],
+   "published": 1932,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "classic"
+   ],
+   "summary": "The series follows Laura Ingalls as she grows up on the American frontier. Each book brings the hardships and joys of pioneer family life to life.",
+   "characters": [
+    "Laura Ingalls — spirited, observant girl",
+    "Mary — older, gentle sister",
+    "Ma — calm, firm mother",
+    "Pa — fiddler, adventurous father"
+   ],
+   "setting": "American Midwest frontier, 1870s-1880s",
+   "awards": [],
+   "series": "Little House",
+   "reading_age": "7-12",
+   "illustrator": "Garth Williams",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_(book_series)",
+   "note": "Series; first book 1932."
+  },
+  "on-the-way-home": {
+   "title": "On the Way Home",
+   "author_names": [
+    "Laura Ingalls Wilder"
+   ],
+   "published": 1962,
+   "genres": [
+    "biography",
+    "historical fiction",
+    "nonfiction"
+   ],
+   "summary": "Laura's diary of the 1894 wagon journey from South Dakota to Mansfield, Missouri, with her husband Almanzo and daughter Rose. Rose Wilder Lane added a setting-the-scene introduction.",
+   "characters": [
+    "Laura Ingalls Wilder — observant diarist",
+    "Almanzo Wilder — steady farmer husband",
+    "Rose — young daughter"
+   ],
+   "setting": "Dakota Territory to Missouri, 1894",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-adult",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/On_the_Way_Home",
+   "note": "Subtitle: The Diary of a Trip from South Dakota to Mansfield, Missouri, in 1894."
+  },
+  "the-fledgling": {
+   "title": "The Fledgling",
+   "author_names": [
+    "Jane Langton"
+   ],
+   "published": 1980,
+   "genres": [
+    "fantasy",
+    "family story",
+    "nature"
+   ],
+   "summary": "Georgie Hall longs to fly and befriends a wild Canada goose who teaches her. Her dream captures the village of Concord.",
+   "characters": [
+    "Georgie Hall — dreamy, determined girl",
+    "Prince Rupert — Canada goose",
+    "Mr. Hall — Georgie's father"
+   ],
+   "setting": "Concord, Massachusetts, 1970s",
+   "awards": [
+    "Newbery Honor 1981"
+   ],
+   "series": "Hall Family Chronicles",
+   "reading_age": "8-12",
+   "illustrator": "Erik Blegvad",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Fledgling_(novel)",
+   "note": null
+  },
+  "her-majesty-grace-jones": {
+   "title": "Her Majesty, Grace Jones",
+   "author_names": [
+    "Jane Langton"
+   ],
+   "published": 1961,
+   "genres": [
+    "family story",
+    "humor",
+    "fantasy"
+   ],
+   "summary": "Grace Jones is a young girl whose imagination can make anything seem possible. Funny and a little odd, this is Langton's first children's book.",
+   "characters": [
+    "Grace Jones — imaginative, bold girl"
+   ],
+   "setting": "New England, 1960s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Emily Arnold McCully",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Jane_Langton",
+   "note": "Details from memory; unverified."
+  },
+  "the-swing-in-the-summerhouse": {
+   "title": "The Swing in the Summerhouse",
+   "author_names": [
+    "Jane Langton"
+   ],
+   "published": 1967,
+   "genres": [
+    "fantasy",
+    "family story",
+    "adventure"
+   ],
+   "summary": "A swing in the old summerhouse behind the Hall family's house carries the children into magical, surprising places.",
+   "characters": [
+    "Eddy Hall — adventurous boy",
+    "Eleanor Hall — thoughtful sister"
+   ],
+   "setting": "Concord, Massachusetts, 1960s",
+   "awards": [
+    "Newbery Honor 1968"
+   ],
+   "series": "Hall Family Chronicles",
+   "reading_age": "8-12",
+   "illustrator": "Erik Blegvad",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Swing_in_the_Summerhouse",
+   "note": "Characters and plot from memory; verify."
+  },
+  "strawberry-girl": {
+   "title": "Strawberry Girl",
+   "author_names": [
+    "Lois Lenski"
+   ],
+   "published": 1945,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "regional"
+   ],
+   "summary": "Birdie Boyer's family moves to rural Florida to grow strawberries, but their rough neighbors, the Slaters, make trouble. A lively portrait of Florida cracker life.",
+   "characters": [
+    "Birdie Boyer — spirited ten-year-old",
+    "Pa Boyer — hardworking farmer",
+    "Shadrach Slater — troublemaking neighbour"
+   ],
+   "setting": "Florida backcountry, early 1900s",
+   "awards": [
+    "Newbery Medal 1946"
+   ],
+   "series": "Regional America",
+   "reading_age": "8-12",
+   "illustrator": "Lois Lenski",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Strawberry_Girl",
+   "note": null
+  },
+  "to-be-a-logger": {
+   "title": "To Be a Logger",
+   "author_names": [
+    "Lois Lenski"
+   ],
+   "published": 1967,
+   "genres": [
+    "historical fiction",
+    "nonfiction",
+    "regional"
+   ],
+   "summary": "A boy grows up in the Pacific Northwest and learns the craft and community of logging. Part of Lenski's Roundabout America series.",
+   "characters": [
+    "Young logger — aspiring woodsman"
+   ],
+   "setting": "Pacific Northwest, mid-20th century",
+   "awards": [],
+   "series": "Roundabout America",
+   "reading_age": "8-12",
+   "illustrator": "Lois Lenski",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Lois_Lenski",
+   "note": "Details from memory; unverified."
+  },
+  "amos-fortune-free-man": {
+   "title": "Amos Fortune, Free Man",
+   "author_names": [
+    "Elizabeth Yates"
+   ],
+   "published": 1950,
+   "genres": [
+    "biography",
+    "historical fiction",
+    "nonfiction"
+   ],
+   "summary": "Born an African prince, Amos Fortune is captured and enslaved in Massachusetts, and eventually buys his freedom. He settles in New Hampshire and helps others to freedom.",
+   "characters": [
+    "Amos Fortune — dignified, resilient man",
+    "Violet — his wife"
+   ],
+   "setting": "Africa, Massachusetts and New Hampshire, 1700s",
+   "awards": [
+    "Newbery Medal 1951"
+   ],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": "Nora S. Unwin",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Amos_Fortune,_Free_Man",
+   "note": null
+  },
+  "sarah-whitcher-s-story": {
+   "title": "Sarah Whitcher's Story",
+   "author_names": [
+    "Elizabeth Yates"
+   ],
+   "published": 1971,
+   "genres": [
+    "historical fiction",
+    "survival",
+    "family story"
+   ],
+   "summary": "Young Sarah Whitcher gets lost in the New Hampshire woods in 1783 and is guarded by a bear. Based on a true local tale.",
+   "characters": [
+    "Sarah Whitcher — young, lost girl",
+    "Her family — worried settlers"
+   ],
+   "setting": "Piermont, New Hampshire, 1783",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Nora S. Unwin",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_Yates",
+   "note": "Details from memory."
+  },
+  "away-goes-sally": {
+   "title": "Away Goes Sally",
+   "author_names": [
+    "Elizabeth Coatsworth"
+   ],
+   "published": 1934,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "adventure"
+   ],
+   "summary": "Sally and her family travel by a house on runners from Massachusetts to Maine in 1800s. Gentle first book of a series.",
+   "characters": [
+    "Sally Pickering — adventurous girl",
+    "Uncle Jotham — kind relative"
+   ],
+   "setting": "New England, 1800s",
+   "awards": [],
+   "series": "Sally Books",
+   "reading_age": "7-11",
+   "illustrator": "Helen Sewell",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_Coatsworth",
+   "note": "Details approximate."
+  },
+  "the-cat-who-went-to-heaven": {
+   "title": "The Cat Who Went to Heaven",
+   "author_names": [
+    "Elizabeth Coatsworth"
+   ],
+   "published": 1930,
+   "genres": [
+    "fantasy",
+    "classic",
+    "folk tales"
+   ],
+   "summary": "A poor Japanese artist is given a little cat who brings luck. He paints a legend of the Buddha, and the cat shows how love changes the world.",
+   "characters": [
+    "The cat — small, devoted",
+    "The artist — poor, gentle painter"
+   ],
+   "setting": "Japan, long ago",
+   "awards": [
+    "Newbery Medal 1931"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Lynd Ward",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Cat_Who_Went_to_Heaven",
+   "note": null
+  },
+  "the-three-musketeers-adapted-by-carolyn-sherwin-bailey": {
+   "title": "The Three Musketeers (adapted by Carolyn Sherwin Bailey)",
+   "author_names": [
+    "Alexandre Dumas",
+    "Carolyn Sherwin Bailey"
+   ],
+   "published": 1844,
+   "genres": [
+    "adventure",
+    "historical fiction",
+    "classic"
+   ],
+   "summary": "Young d'Artagnan travels to Paris to become a King's Musketeer and befriends Athos, Porthos and Aramis. Together they fight to defend the queen's honor against Cardinal Richelieu's schemes.",
+   "characters": [
+    "D'Artagnan — young, brash Gascon",
+    "Athos — noble, melancholy",
+    "Porthos — big, boastful",
+    "Aramis — pious, elegant"
+   ],
+   "setting": "France, 1620s",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Three_Musketeers",
+   "note": "Original 1844; Bailey adaptation date uncertain."
+  },
+  "the-three-musketeers-complete": {
+   "title": "The Three Musketeers (complete)",
+   "author_names": [
+    "Alexandre Dumas"
+   ],
+   "published": 1844,
+   "genres": [
+    "adventure",
+    "historical fiction",
+    "classic"
+   ],
+   "summary": "D'Artagnan, a young man from Gascony, goes to Paris to join the king's Musketeers and forms an unbreakable friendship with Athos, Porthos and Aramis. They are drawn into court intrigue involving the queen's jewels and the cunning Milady de Winter.",
+   "characters": [
+    "D'Artagnan — young, brash Gascon",
+    "Athos — noble, melancholy",
+    "Porthos — big, boastful",
+    "Aramis — pious, elegant",
+    "Milady — beautiful, dangerous schemer"
+   ],
+   "setting": "France, 1620s",
+   "awards": [],
+   "series": null,
+   "reading_age": "12+",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Three_Musketeers",
+   "note": null
+  },
+  "a-trick-of-light": {
+   "title": "A Trick of Light",
+   "author_names": [
+    "Barbara Corcoran"
+   ],
+   "published": 1972,
+   "genres": [
+    "mystery",
+    "family story",
+    "realistic fiction"
+   ],
+   "summary": "A girl copes with a family move and puzzling events. A young reader mystery with an emotional core.",
+   "characters": [
+    "Teenage protagonist — uneasy, observant"
+   ],
+   "setting": "United States, early 1970s",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Barbara_Corcoran",
+   "note": "Plot from memory; unverified, keep summary vague."
+  },
+  "the-long-journey": {
+   "title": "The Long Journey",
+   "author_names": [
+    "Barbara Corcoran"
+   ],
+   "published": 1970,
+   "genres": [
+    "family story",
+    "adventure",
+    "realistic fiction"
+   ],
+   "summary": "A young girl sets out on a journey, learning about herself and her family. Corcoran's tale of resilience.",
+   "characters": [
+    "Young heroine — resolute, searching"
+   ],
+   "setting": "United States, 1970s",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Barbara_Corcoran",
+   "note": "Plot not verified; summary general."
+  },
+  "the-girl-with-the-silver-eyes": {
+   "title": "The Girl with the Silver Eyes",
+   "author_names": [
+    "Willo Davis Roberts"
+   ],
+   "published": 1980,
+   "genres": [
+    "fantasy",
+    "mystery",
+    "family story"
+   ],
+   "summary": "Katie, a girl with silvery eyes, has unusual powers that make her odd to others. Her new friend helps her figure out who she is and find others like her.",
+   "characters": [
+    "Katie Welker — lonely, gifted girl",
+    "Mr. Hilton — kindly neighbour",
+    "Mark — Katie's friend"
+   ],
+   "setting": "A small town, 1970s",
+   "awards": [
+    "Edgar Award nominee"
+   ],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Willo_Davis_Roberts",
+   "note": "Details from memory; verify plot and award."
+  },
+  "the-pet-sitting-peril": {
+   "title": "The Pet-Sitting Peril",
+   "author_names": [
+    "Willo Davis Roberts"
+   ],
+   "published": 1983,
+   "genres": [
+    "mystery",
+    "adventure",
+    "humor"
+   ],
+   "summary": "A pet-sitting job turns frightening when sinister things start to happen. A suspenseful tale for young detectives.",
+   "characters": [
+    "Young pet sitter — brave, alert"
+   ],
+   "setting": "A suburban neighbourhood, 1980s",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Willo_Davis_Roberts",
+   "note": "Plot not verified."
+  },
+  "the-haunting": {
+   "title": "The Haunting",
+   "author_names": [
+    "Margaret Mahy"
+   ],
+   "published": 1982,
+   "genres": [
+    "fantasy",
+    "family story",
+    "ghost story"
+   ],
+   "summary": "Barney is haunted by a ghostly figure who seems to be his late relative. His family's secrets slowly emerge, and he must survive the mystery.",
+   "characters": [
+    "Barney Palmer — sensitive, haunted boy",
+    "Troy — stepbrother",
+    "Tabitha — younger sister"
+   ],
+   "setting": "New Zealand, 1980s",
+   "awards": [
+    "Carnegie Medal 1982"
+   ],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Haunting_(Mahy_novel)",
+   "note": null
+  },
+  "the-blood-and-thunder-adventure-on-hurricane-peak": {
+   "title": "The Blood-and-Thunder Adventure on Hurricane Peak",
+   "author_names": [
+    "Margaret Mahy"
+   ],
+   "published": 1989,
+   "genres": [
+    "adventure",
+    "humor",
+    "fantasy"
+   ],
+   "summary": "A group of friends takes a wild, madcap trip up a mountain. A lighthearted comic adventure.",
+   "characters": [
+    "Young adventurers — daring, funny"
+   ],
+   "setting": "A mountain, New Zealand-style",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Margaret_Mahy",
+   "note": "Plot not verified; summary vague."
+  },
+  "catherine-called-birdy": {
+   "title": "Catherine, Called Birdy",
+   "author_names": [
+    "Karen Cushman"
+   ],
+   "published": 1994,
+   "genres": [
+    "historical fiction",
+    "humor",
+    "family story"
+   ],
+   "summary": "Fourteen-year-old Catherine, nicknamed Birdy, keeps a diary in 1290s England while dodging unwanted suitors arranged by her father. Funny, sharp and surprisingly modern.",
+   "characters": [
+    "Catherine (Birdy) — witty, stubborn girl",
+    "Lord Rollo — her father",
+    "Aelis — her mother",
+    "Uncle George — kindly crusader"
+   ],
+   "setting": "England, 1290",
+   "awards": [
+    "Newbery Honor 1995"
+   ],
+   "series": null,
+   "reading_age": "11-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Catherine,_Called_Birdy",
+   "note": null
+  },
+  "the-midwife-s-apprentice": {
+   "title": "The Midwife's Apprentice",
+   "author_names": [
+    "Karen Cushman"
+   ],
+   "published": 1995,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "A homeless girl called Brat is taken in by a sharp-tongued midwife. Slowly she gets a name, a home and a purpose.",
+   "characters": [
+    "Alyce (Brat) — resilient orphan",
+    "The Midwife — gruff healer",
+    "Jane Sharp — stern teacher"
+   ],
+   "setting": "Medieval England",
+   "awards": [
+    "Newbery Medal 1996"
+   ],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Midwife%27s_Apprentice",
+   "note": null
+  },
+  "harry-potter-and-the-sorcerer-s-stone": {
+   "title": "Harry Potter and the Sorcerer's Stone",
+   "author_names": [
+    "J. K. Rowling"
+   ],
+   "published": 1997,
+   "genres": [
+    "fantasy",
+    "school story",
+    "adventure"
+   ],
+   "summary": "Orphan Harry Potter learns on his eleventh birthday that he is a wizard and is whisked away to Hogwarts School. He finds friends and a mystery involving a hidden stone.",
+   "characters": [
+    "Harry Potter — orphaned boy wizard",
+    "Hermione Granger — brilliant, bookish friend",
+    "Ron Weasley — loyal, funny friend",
+    "Albus Dumbledore — wise headmaster",
+    "Voldemort — dark wizard"
+   ],
+   "setting": "Britain, 1990s",
+   "awards": [
+    "British Book Award 1997 (Children's Book of the Year)"
+   ],
+   "series": "Harry Potter",
+   "reading_age": "8-12",
+   "illustrator": "Mary GrandPré",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
+   "note": "US title; UK title is Philosopher's Stone."
+  },
+  "harry-potter-series": {
+   "title": "Harry Potter series",
+   "author_names": [
+    "J. K. Rowling"
+   ],
+   "published": 1997,
+   "genres": [
+    "fantasy",
+    "school story",
+    "adventure"
+   ],
+   "summary": "Seven books follow Harry Potter through seven years at Hogwarts as he confronts the dark wizard Voldemort. A story of friendship, courage and growing up.",
+   "characters": [
+    "Harry Potter — orphaned boy wizard",
+    "Hermione Granger — brilliant, bookish friend",
+    "Ron Weasley — loyal, funny friend",
+    "Albus Dumbledore — wise headmaster",
+    "Voldemort — dark wizard"
+   ],
+   "setting": "Britain, 1990s",
+   "awards": [],
+   "series": "Harry Potter",
+   "reading_age": "8-14",
+   "illustrator": "Mary GrandPré",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Harry_Potter",
+   "note": "Seven books published 1997-2007."
+  },
+  "mary-poppins": {
+   "title": "Mary Poppins",
+   "author_names": [
+    "P. L. Travers"
+   ],
+   "published": 1934,
+   "genres": [
+    "fantasy",
+    "family story",
+    "classic"
+   ],
+   "summary": "The magical, stern Mary Poppins arrives on the East Wind to be nanny to the Banks children and takes them on extraordinary outings. She flatly denies it all.",
+   "characters": [
+    "Mary Poppins — vain, magical nanny",
+    "Jane Banks — curious older sister",
+    "Michael Banks — younger brother",
+    "Bert — jack-of-all-trades"
+   ],
+   "setting": "London, 1930s",
+   "awards": [],
+   "series": "Mary Poppins",
+   "reading_age": "6-10",
+   "illustrator": "Mary Shepard",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Mary_Poppins_(book)",
+   "note": null
+  },
+  "tales-told-near-a-crocodile": {
+   "title": "Tales Told Near a Crocodile",
+   "author_names": [
+    "Humphrey Harman"
+   ],
+   "published": 1967,
+   "genres": [
+    "folk tales",
+    "nonfiction"
+   ],
+   "summary": "Stories collected from Africa, told as storytellers might tell them near a river. A group of traditional tales.",
+   "characters": [
+    "Traditional African tricksters and animals"
+   ],
+   "setting": "Africa, traditional",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Humphrey_Harman",
+   "note": "Not independently verified."
+  },
+  "the-summer-birds": {
+   "title": "The Summer Birds",
+   "author_names": [
+    "Penelope Farmer"
+   ],
+   "published": 1962,
+   "genres": [
+    "fantasy",
+    "family story"
+   ],
+   "summary": "Charlotte and her sister meet a strange boy who teaches the children of a village to fly like birds. A haunting first novel.",
+   "characters": [
+    "Charlotte — thoughtful girl",
+    "Emma — her younger sister",
+    "Dr. Heron — gentle stranger"
+   ],
+   "setting": "An English village, 1960s",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Penelope_Farmer",
+   "note": "Details from memory."
+  },
+  "cat-walk": {
+   "title": "Cat Walk",
+   "author_names": [
+    "Mary Stolz"
+   ],
+   "published": 1983,
+   "genres": [
+    "animal story",
+    "family story"
+   ],
+   "summary": "A stray cat has to survive and make a home. A quiet cat story told with Stolz's gentle touch.",
+   "characters": [
+    "Cat — wandering, independent"
+   ],
+   "setting": "American town, 1980s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Mary_Stolz",
+   "note": "Plot from memory."
+  },
+  "hitty-her-first-hundred-years": {
+   "title": "Hitty, Her First Hundred Years",
+   "author_names": [
+    "Rachel Field"
+   ],
+   "published": 1929,
+   "genres": [
+    "historical fiction",
+    "classic",
+    "adventure"
+   ],
+   "summary": "Hitty is a small wooden doll who narrates her hundred years of travels from Maine to the South Seas and India. She sees history through a doll's eyes.",
+   "characters": [
+    "Hitty — brave, wry wooden doll",
+    "Phoebe Preble — her first owner"
+   ],
+   "setting": "Maine and beyond, 1829 to 1929",
+   "awards": [
+    "Newbery Medal 1930"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Dorothy P. Lathrop",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Hitty,_Her_First_Hundred_Years",
+   "note": null
+  },
+  "adam-of-the-road": {
+   "title": "Adam of the Road",
+   "author_names": [
+    "Elizabeth Janet Gray"
+   ],
+   "published": 1942,
+   "genres": [
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "Adam, an eleven-year-old minstrel's son, is separated from his father and dog in 13th-century England and searches the roads to find them.",
+   "characters": [
+    "Adam Quartermayne — young minstrel",
+    "Roger — his father",
+    "Nick — Adam's dog"
+   ],
+   "setting": "England, 1294",
+   "awards": [
+    "Newbery Medal 1943"
+   ],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "Robert Lawson",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Adam_of_the_Road",
+   "note": null
+  },
+  "the-magic-stone": {
+   "title": "The Magic Stone",
+   "author_names": [
+    "Leonie Kooiker"
+   ],
+   "published": 1975,
+   "genres": [
+    "fantasy",
+    "adventure"
+   ],
+   "summary": "A magical stone changes the lives of a group of children. A translated Dutch fantasy.",
+   "characters": [
+    "Children — curious, brave"
+   ],
+   "setting": "The Netherlands, imaginary",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Magic_Stone",
+   "note": "Could not verify; Dutch original possibly 'De toverkei' and English edition 1970s. Facts may be wrong."
+  },
+  "the-exploits-of-moominpappa": {
+   "title": "The Exploits of Moominpappa",
+   "author_names": [
+    "Tove Jansson"
+   ],
+   "published": 1950,
+   "genres": [
+    "fantasy",
+    "humor",
+    "adventure"
+   ],
+   "summary": "Moominpappa writes down his youthful adventures as a foundling, meeting the Hemulen and sailing with the Muddler. A funny memoir in the Moomin series.",
+   "characters": [
+    "Moominpappa — dreamy adventurer",
+    "The Muddler — kind, confused",
+    "Hodgkins — inventor friend",
+    "Fredrickson — ship builder"
+   ],
+   "setting": "Moomin Valley and the sea",
+   "awards": [],
+   "series": "Moomins",
+   "reading_age": "7-11",
+   "illustrator": "Tove Jansson",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Exploits_of_Moominpappa",
+   "note": "First published in Swedish in 1950."
+  },
+  "robinson-crusoe": {
+   "title": "Robinson Crusoe",
+   "author_names": [
+    "Daniel Defoe"
+   ],
+   "published": 1719,
+   "genres": [
+    "adventure",
+    "survival",
+    "classic"
+   ],
+   "summary": "A shipwrecked Englishman survives for years alone on a tropical island, building shelter and growing food. He later befriends a man he names Friday.",
+   "characters": [
+    "Robinson Crusoe — resourceful castaway",
+    "Friday — loyal companion"
+   ],
+   "setting": "A Caribbean island, 17th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "10+",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robinson_Crusoe",
+   "note": null
+  },
+  "the-bushbabies": {
+   "title": "The Bushbabies",
+   "author_names": [
+    "William Stevenson"
+   ],
+   "published": 1965,
+   "genres": [
+    "adventure",
+    "animal story",
+    "survival"
+   ],
+   "summary": "Jackie, a girl in Africa, tries to return her pet bushbaby to the forest where it belongs. She travels hundreds of miles with her servant Tembo.",
+   "characters": [
+    "Jackie — determined girl",
+    "Tembo — wise guide",
+    "Bushbaby — small, wild"
+   ],
+   "setting": "East Africa, 1960s",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Bushbabies",
+   "note": "Details from memory."
+  },
+  "better-known-as-johnny-appleseed": {
+   "title": "Better Known as Johnny Appleseed",
+   "author_names": [
+    "Mabel Leigh Hunt"
+   ],
+   "published": 1950,
+   "genres": [
+    "biography",
+    "historical fiction",
+    "nonfiction"
+   ],
+   "summary": "The life of John Chapman, who planted orchards across the early American frontier, told with warmth. He is remembered for his kindness to all living things.",
+   "characters": [
+    "Johnny Appleseed — gentle, devoted wanderer"
+   ],
+   "setting": "American frontier, early 1800s",
+   "awards": [
+    "Newbery Honor 1951"
+   ],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "James Daugherty",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Johnny_Appleseed",
+   "note": "Illustrator from memory."
+  },
+  "ice-king": {
+   "title": "Ice King",
+   "author_names": [
+    "Ernestine N. Byrd"
+   ],
+   "published": null,
+   "genres": [
+    "historical fiction",
+    "biography"
+   ],
+   "summary": "A story of a man in the ice trade. Unverified.",
+   "characters": [
+    "Unknown"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Ice_King",
+   "note": "Could not identify; may be a transcription error."
+  },
+  "all-the-children-were-sent-away": {
+   "title": "All the Children Were Sent Away",
+   "author_names": [
+    "Sheila Garrigue"
+   ],
+   "published": 1976,
+   "genres": [
+    "historical fiction",
+    "adventure",
+    "family story"
+   ],
+   "summary": "British children are evacuated from London to Canada during World War II. They adjust to a new life far from home.",
+   "characters": [
+    "British evacuee children — brave, homesick"
+   ],
+   "setting": "England and Canada, 1940",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Sheila_Garrigue",
+   "note": "Details from memory."
+  },
+  "the-riddle-of-the-red-whale": {
+   "title": "The Riddle of the Red Whale",
+   "author_names": [
+    "Edward Fenton"
+   ],
+   "published": 1966,
+   "genres": [
+    "mystery",
+    "adventure",
+    "historical fiction"
+   ],
+   "summary": "A boy and his friends try to solve a mystery connected to a whaling vessel. Adventure on the high seas.",
+   "characters": [
+    "Young hero — curious sailor"
+   ],
+   "setting": "New England, 19th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Edward_Fenton",
+   "note": "Plot not verified."
+  },
+  "the-witch-s-daughter": {
+   "title": "The Witch's Daughter",
+   "author_names": [
+    "Nina Bawden"
+   ],
+   "published": 1966,
+   "genres": [
+    "mystery",
+    "adventure",
+    "family story"
+   ],
+   "summary": "On a Scottish island, three children meet a mysterious girl called the witch's daughter. They help her through a dangerous adventure.",
+   "characters": [
+    "Perdita — strange island girl",
+    "Tim, Janey, Perdita's friends — curious children"
+   ],
+   "setting": "A Scottish island, 1960s",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Witch%27s_Daughter_(Bawden_novel)",
+   "note": "Details from memory."
+  },
+  "bunnicula-a-rabbit-tale-of-mystery": {
+   "title": "Bunnicula: A Rabbit-Tale of Mystery",
+   "author_names": [
+    "Deborah Howe",
+    "James Howe"
+   ],
+   "published": 1979,
+   "genres": [
+    "humor",
+    "mystery",
+    "animal fantasy"
+   ],
+   "summary": "The Monroe family's cat Chester becomes convinced that their new pet rabbit is a vampire. The family dog Harold narrates their funny investigation.",
+   "characters": [
+    "Harold — loyal, hungry dog narrator",
+    "Chester — suspicious, dramatic cat",
+    "Bunnicula — mysterious rabbit"
+   ],
+   "setting": "A suburban American home, 1970s",
+   "awards": [],
+   "series": "Bunnicula",
+   "reading_age": "7-11",
+   "illustrator": "Alan Daniel",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Bunnicula",
+   "note": null
+  },
+  "the-ark": {
+   "title": "The Ark",
+   "author_names": [
+    "Margot Benary-Isbert"
+   ],
+   "published": 1953,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "A German family displaced after World War II finds a way to rebuild their lives in an old army barracks. A story of hope and cooperation.",
+   "characters": [
+    "Margret — practical older sister",
+    "Mother — resilient",
+    "Lotte — younger sister"
+   ],
+   "setting": "Germany, 1945-46",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Margot_Benary-Isbert",
+   "note": null
+  },
+  "the-joke-shop": {
+   "title": "The Joke Shop",
+   "author_names": [
+    "D. J. Enright"
+   ],
+   "published": 1976,
+   "genres": [
+    "humor",
+    "adventure",
+    "family story"
+   ],
+   "summary": "Children discover a joke shop with unusual powers. Poet Enright's comic children's novel.",
+   "characters": [
+    "Children — curious, mischievous"
+   ],
+   "setting": "England, 1970s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/D._J._Enright",
+   "note": "Plot unverified."
+  },
+  "the-unicorn-treasury": {
+   "title": "The Unicorn Treasury",
+   "author_names": [
+    "Bruce Coville"
+   ],
+   "published": 1988,
+   "genres": [
+    "fantasy",
+    "poetry",
+    "folk tales"
+   ],
+   "summary": "A collection of stories and poems about unicorns, edited by Bruce Coville. It brings together tales from many writers.",
+   "characters": [
+    "Unicorns — magical, mythic"
+   ],
+   "setting": "Various",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Bruce_Coville",
+   "note": "Editor listed as author."
+  },
+  "homesick-my-own-story": {
+   "title": "Homesick: My Own Story",
+   "author_names": [
+    "Jean Fritz"
+   ],
+   "published": 1982,
+   "genres": [
+    "biography",
+    "historical fiction",
+    "nonfiction"
+   ],
+   "summary": "Jean Fritz remembers her childhood in China in the 1920s, longing for a home she had never seen in America. A warm memoir.",
+   "characters": [
+    "Jean Fritz — homesick, curious girl",
+    "Her parents — missionaries in China"
+   ],
+   "setting": "China, 1920s",
+   "awards": [
+    "Newbery Honor 1983"
+   ],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "Margot Tomes",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Homesick:_My_Own_Story",
+   "note": null
+  },
+  "robin-hood": {
+   "title": "Robin Hood",
+   "author_names": [
+    "Paul Creswick"
+   ],
+   "published": 1917,
+   "genres": [
+    "adventure",
+    "folk tales",
+    "classic"
+   ],
+   "summary": "The classic legend of the outlaw archer who robs the rich to help the poor in Sherwood Forest. Illustrated by N. C. Wyeth.",
+   "characters": [
+    "Robin Hood — outlaw hero",
+    "Little John — loyal giant",
+    "Friar Tuck — jolly monk",
+    "Will Scarlet — fiery outlaw"
+   ],
+   "setting": "Sherwood Forest, medieval England",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "N. C. Wyeth",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Robin_Hood",
+   "note": null
+  },
+  "watership-down": {
+   "title": "Watership Down",
+   "author_names": [
+    "Richard Adams"
+   ],
+   "published": 1972,
+   "genres": [
+    "animal fantasy",
+    "adventure",
+    "classic"
+   ],
+   "summary": "A band of rabbits flees their doomed warren and searches for a new home on Watership Down. Along the way they face dangers, rival warrens, and friendship.",
+   "characters": [
+    "Hazel — kind, wise leader",
+    "Fiver — small, prophetic seer",
+    "Bigwig — strong, loyal rabbit",
+    "Blackberry — clever thinker"
+   ],
+   "setting": "Hampshire, England, 1970s",
+   "awards": [
+    "Carnegie Medal 1972",
+    "Guardian Prize 1973"
+   ],
+   "series": null,
+   "reading_age": "10+",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Watership_Down",
+   "note": null
+  },
+  "witch-s-sister": {
+   "title": "Witch's Sister",
+   "author_names": [
+    "Phyllis Reynolds Naylor"
+   ],
+   "published": 1975,
+   "genres": [
+    "fantasy",
+    "mystery",
+    "family story"
+   ],
+   "summary": "A girl suspects her sister's friend is a witch and tries to prove it. First in the Witch series.",
+   "characters": [
+    "Lynn — brave sister",
+    "Mrs. Tuggle — neighbour",
+    "Jane — friend"
+   ],
+   "setting": "A small American town, 1970s",
+   "awards": [],
+   "series": "Witch",
+   "reading_age": "9-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Phyllis_Reynolds_Naylor",
+   "note": "Details from memory."
+  },
+  "david-copperfield": {
+   "title": "David Copperfield",
+   "author_names": [
+    "Charles Dickens",
+    "Gertrude Moderow"
+   ],
+   "published": 1850,
+   "genres": [
+    "classic",
+    "family story",
+    "adventure"
+   ],
+   "summary": "A shortened version of Dickens's tale of orphan David Copperfield. He grows up through hardship, school and work to become a writer.",
+   "characters": [
+    "David Copperfield — kind, hopeful boy",
+    "Mr. Micawber — cheerful, always in debt",
+    "Betsey Trotwood — formidable great-aunt",
+    "Uriah Heep — creepy, scheming clerk"
+   ],
+   "setting": "England, 19th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "10+",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/David_Copperfield_(novel)",
+   "note": "Adapted by Gertrude Moderow; original 1850."
+  },
+  "unreal-eight-surprising-stories": {
+   "title": "Unreal! Eight Surprising Stories",
+   "author_names": [
+    "Paul Jennings"
+   ],
+   "published": 1985,
+   "genres": [
+    "humor",
+    "short stories",
+    "fantasy"
+   ],
+   "summary": "Eight offbeat, funny and slightly gross stories with twist endings. A hit among young Australian readers.",
+   "characters": [
+    "Quirky young protagonists"
+   ],
+   "setting": "Australia, 1980s",
+   "awards": [],
+   "series": "Paul Jennings stories",
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Paul_Jennings_(author)",
+   "note": null
+  },
+  "the-dark-thirty-southern-tales-of-the-supernatural": {
+   "title": "The Dark-Thirty: Southern Tales of the Supernatural",
+   "author_names": [
+    "Patricia C. McKissack"
+   ],
+   "published": 1992,
+   "genres": [
+    "ghost story",
+    "folk tales",
+    "short stories"
+   ],
+   "summary": "Ghost stories drawn from African American tradition, each reflecting history and community. Told at dusk, they are spooky and thought-provoking.",
+   "characters": [
+    "Storytellers and ghosts — haunting"
+   ],
+   "setting": "The American South",
+   "awards": [
+    "Coretta Scott King Award 1993",
+    "Newbery Honor 1993"
+   ],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "Brian Pinkney",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Dark-Thirty",
+   "note": null
+  },
+  "the-little-bookroom": {
+   "title": "The Little Bookroom",
+   "author_names": [
+    "Eleanor Farjeon"
+   ],
+   "published": 1955,
+   "genres": [
+    "fairy tale",
+    "short stories",
+    "classic"
+   ],
+   "summary": "A collection of Farjeon's own favourite short stories and fairy tales, with a mix of fantasy and gentle humor.",
+   "characters": [
+    "Fairy-tale people — kind, curious"
+   ],
+   "setting": "Imaginary fairy tale lands",
+   "awards": [
+    "Carnegie Medal 1955"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Edward Ardizzone",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Little_Bookroom",
+   "note": null
+  },
+  "jimmy-the-pickpocket-of-the-palace": {
+   "title": "Jimmy, the Pickpocket of the Palace",
+   "author_names": [
+    "Donna Jo Napoli"
+   ],
+   "published": 1995,
+   "genres": [
+    "fantasy",
+    "fairy tale",
+    "humor"
+   ],
+   "summary": "A retelling of The Frog Prince from the frog's viewpoint. A funny fairy tale with a twist.",
+   "characters": [
+    "Jimmy — frog-prince, narrator",
+    "The princess — spirited",
+    "The king — her father"
+   ],
+   "setting": "A fairy tale kingdom",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": "Judith Byron Schachner",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Donna_Jo_Napoli",
+   "note": "Plot from memory; check."
+  },
+  "my-friends-the-wild-chimpanzees": {
+   "title": "My Friends the Wild Chimpanzees",
+   "author_names": [
+    "Jane Goodall"
+   ],
+   "published": 1967,
+   "genres": [
+    "nonfiction",
+    "nature",
+    "biography"
+   ],
+   "summary": "Goodall describes her early years observing chimpanzees at Gombe Stream. A National Geographic book for young readers.",
+   "characters": [
+    "Jane Goodall — patient observer",
+    "David Greybeard — gentle chimp",
+    "Flo — mother chimp"
+   ],
+   "setting": "Gombe, Tanzania, 1960s",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Jane_Goodall",
+   "note": "Original author name Jane van Lawick-Goodall; normalized to Jane Goodall."
+  },
+  "yolonda-s-genius": {
+   "title": "Yolonda's Genius",
+   "author_names": [
+    "Carol Fenner"
+   ],
+   "published": 1995,
+   "genres": [
+    "family story",
+    "school story",
+    "realistic fiction"
+   ],
+   "summary": "Yolonda's little brother Andrew is a harmonica genius. As a fifth-grader, she works hard to give him the chance he deserves.",
+   "characters": [
+    "Yolonda — strong fifth-grader",
+    "Andrew — musical little brother",
+    "Mama — loving mother"
+   ],
+   "setting": "A Midwest American town, 1990s",
+   "awards": [
+    "Newbery Honor 1996"
+   ],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": "Carol Fenner",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Yolonda%27s_Genius",
+   "note": null
+  },
+  "the-poisonwood-bible": {
+   "title": "The Poisonwood Bible",
+   "author_names": [
+    "Barbara Kingsolver"
+   ],
+   "published": 1998,
+   "genres": [
+    "historical fiction",
+    "literary fiction",
+    "family story"
+   ],
+   "summary": "An American missionary family moves to the Belgian Congo in 1959. Told by the wife and four daughters, it shows how their lives unravel.",
+   "characters": [
+    "Nathan Price — zealous father",
+    "Orleanna — his weary wife",
+    "Rachel — vain eldest",
+    "Leah — eager convert",
+    "Adah — silent, brilliant",
+    "Ruth May — youngest"
+   ],
+   "setting": "Belgian Congo, 1959 onward",
+   "awards": [
+    "Pulitzer finalist 1999",
+    "PEN/Faulkner finalist"
+   ],
+   "series": null,
+   "reading_age": "adult",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Poisonwood_Bible",
+   "note": "Adult novel, not a children's book."
+  }
+ },
+ "authors": {
+  "Meindert DeJong": {
+   "born": 1906,
+   "died": 1991,
+   "birthplace": "Wierum, Netherlands",
+   "nationality": "Dutch-American",
+   "bio": "Meindert DeJong was born in a small Friesian village and emigrated to the United States as a child. He wrote warm, humane stories for children, often about animals and Dutch village life. He won the Newbery Medal and the Hans Christian Andersen Award.",
+   "known_for": [
+    "The Wheel on the School",
+    "Along Came a Dog",
+    "Journey from Peppermint Street"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Meindert_DeJong"
+  },
+  "Robert Newman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "Robert Newman was an American author best known for children's mysteries. He wrote detective stories in a series. Few biographical details could be verified.",
+   "known_for": [
+    "The Case of the Baker Street Irregular",
+    "The Case of the Vanishing Corpse"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Robert_Newman_(author)"
+  },
+  "J. R. R. Tolkien": {
+   "born": 1892,
+   "died": 1973,
+   "birthplace": "Bloemfontein, South Africa",
+   "nationality": "British",
+   "bio": "J. R. R. Tolkien was a philologist and Oxford professor who created Middle-earth. He began writing The Hobbit as a bedtime story for his children. He fought in World War I and shaped modern fantasy.",
+   "known_for": [
+    "The Hobbit",
+    "The Lord of the Rings",
+    "The Silmarillion"
+   ],
+   "source": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+  },
+  "Lois Lowry": {
+   "born": 1937,
+   "died": null,
+   "birthplace": "Honolulu, Hawaii",
+   "nationality": "American",
+   "bio": "Lois Lowry grew up in a military family and lived in many places. She is known for writing both humorous and serious children's books. She has won two Newbery Medals.",
+   "known_for": [
+    "Number the Stars",
+    "The Giver",
+    "Anastasia Krupnik"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Lois_Lowry"
+  },
+  "Michael Bond": {
+   "born": 1926,
+   "died": 2017,
+   "birthplace": "Newbury, England",
+   "nationality": "British",
+   "bio": "Michael Bond worked as a BBC cameraman before creating Paddington. He saw a lonely toy bear on a shelf on Christmas Eve 1956 and was inspired. The books became beloved worldwide.",
+   "known_for": [
+    "A Bear Called Paddington",
+    "Olga da Polga"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Michael_Bond"
+  },
+  "Laura Ingalls Wilder": {
+   "born": 1867,
+   "died": 1957,
+   "birthplace": "Pepin, Wisconsin",
+   "nationality": "American",
+   "bio": "Laura Ingalls Wilder grew up on the American frontier and became a teacher. In her sixties she wrote her childhood memories as the Little House books. Her daughter Rose helped edit them.",
+   "known_for": [
+    "Little House in the Big Woods",
+    "Little House on the Prairie",
+    "The Long Winter"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Laura_Ingalls_Wilder"
+  },
+  "Jane Langton": {
+   "born": 1922,
+   "died": 2018,
+   "birthplace": "Boston, Massachusetts",
+   "nationality": "American",
+   "bio": "Jane Langton wrote fantasies and mysteries set in Concord, Massachusetts. She illustrated some of her own books. She won a Newbery Honor.",
+   "known_for": [
+    "The Fledgling",
+    "The Diamond in the Window"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jane_Langton"
+  },
+  "Lois Lenski": {
+   "born": 1893,
+   "died": 1974,
+   "birthplace": "Springfield, Ohio",
+   "nationality": "American",
+   "bio": "Lois Lenski was an author and illustrator who wrote regional stories. She visited the places she wrote about to get the details right. She won the Newbery Medal for Strawberry Girl.",
+   "known_for": [
+    "Strawberry Girl",
+    "Cotton in My Sack"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Lois_Lenski"
+  },
+  "Elizabeth Yates": {
+   "born": 1905,
+   "died": 2001,
+   "birthplace": "Buffalo, New York",
+   "nationality": "American",
+   "bio": "Elizabeth Yates wrote many children's books and biographies. Her work often drew on New England life. She won the Newbery Medal for Amos Fortune, Free Man.",
+   "known_for": [
+    "Amos Fortune, Free Man",
+    "Mountain Born"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_Yates"
+  },
+  "Elizabeth Coatsworth": {
+   "born": 1893,
+   "died": 1986,
+   "birthplace": "Buffalo, New York",
+   "nationality": "American",
+   "bio": "Elizabeth Coatsworth was a poet and children's author who lived in Maine. She won the Newbery Medal for The Cat Who Went to Heaven. She was married to writer Henry Beston.",
+   "known_for": [
+    "The Cat Who Went to Heaven",
+    "Away Goes Sally"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_Coatsworth"
+  },
+  "Alexandre Dumas": {
+   "born": 1802,
+   "died": 1870,
+   "birthplace": "Villers-Cotterets, France",
+   "nationality": "French",
+   "bio": "Alexandre Dumas was a prolific French novelist and playwright. His father was a general of mixed-race heritage. His adventure novels remain popular.",
+   "known_for": [
+    "The Three Musketeers",
+    "The Count of Monte Cristo"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Alexandre_Dumas"
+  },
+  "Carolyn Sherwin Bailey": {
+   "born": 1875,
+   "died": 1961,
+   "birthplace": "Hoosick Falls, New York",
+   "nationality": "American",
+   "bio": "Carolyn Sherwin Bailey was an American children's author and educator. She won the Newbery Medal for Miss Hickory. She adapted classics for young readers.",
+   "known_for": [
+    "Miss Hickory",
+    "Tell Me Another Story"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Carolyn_Sherwin_Bailey"
+  },
+  "Barbara Corcoran": {
+   "born": 1911,
+   "died": 2002,
+   "birthplace": "Hamilton, Massachusetts",
+   "nationality": "American",
+   "bio": "Barbara Corcoran was a teacher and author of young adult novels. She wrote on teens facing life challenges. She lived in Montana.",
+   "known_for": [
+    "A Trick of Light",
+    "Hasty Pudding, Lasting Love"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Barbara_Corcoran"
+  },
+  "Willo Davis Roberts": {
+   "born": 1928,
+   "died": 2004,
+   "birthplace": "Grand Rapids, Michigan",
+   "nationality": "American",
+   "bio": "Willo Davis Roberts wrote suspense and mysteries for young readers and adults. She published over a hundred books. She won several awards.",
+   "known_for": [
+    "The Girl with the Silver Eyes",
+    "What Could Go Wrong?"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Willo_Davis_Roberts"
+  },
+  "Margaret Mahy": {
+   "born": 1936,
+   "died": 2012,
+   "birthplace": "Whakatane, New Zealand",
+   "nationality": "New Zealander",
+   "bio": "Margaret Mahy was a New Zealand librarian who became a celebrated children's writer. She won the Carnegie Medal twice and the Hans Christian Andersen Award. She was known for flamboyant costumes.",
+   "known_for": [
+    "The Haunting",
+    "The Changeover"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Margaret_Mahy"
+  },
+  "Karen Cushman": {
+   "born": 1941,
+   "died": null,
+   "birthplace": "Chicago, Illinois",
+   "nationality": "American",
+   "bio": "Karen Cushman was inspired by her studies of medieval history. She wrote historical fiction about girls. She won the Newbery Medal for The Midwife's Apprentice.",
+   "known_for": [
+    "Catherine, Called Birdy",
+    "The Midwife's Apprentice"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Karen_Cushman"
+  },
+  "J. K. Rowling": {
+   "born": 1965,
+   "died": null,
+   "birthplace": "Yate, England",
+   "nationality": "British",
+   "bio": "J. K. Rowling conceived the idea for Harry Potter on a delayed train. She wrote the first book as a single mother. The series became the best-selling book series in history.",
+   "known_for": [
+    "Harry Potter and the Philosopher's Stone",
+    "The Casual Vacancy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/J._K._Rowling"
+  },
+  "P. L. Travers": {
+   "born": 1899,
+   "died": 1996,
+   "birthplace": "Maryborough, Australia",
+   "nationality": "Australian-British",
+   "bio": "P. L. Travers was born Helen Lyndon Goff and worked as a dancer and actress. She created Mary Poppins while living in England. She had a rocky relationship with Disney's film.",
+   "known_for": [
+    "Mary Poppins",
+    "Mary Poppins Comes Back"
+   ],
+   "source": "https://en.wikipedia.org/wiki/P._L._Travers"
+  },
+  "Humphrey Harman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Humphrey Harman wrote on Africa and told African tales. Little verified biographical information is available.",
+   "known_for": [
+    "Tales Told Near a Crocodile"
+   ],
+   "source": null
+  },
+  "Penelope Farmer": {
+   "born": 1939,
+   "died": null,
+   "birthplace": "Westerham, England",
+   "nationality": "British",
+   "bio": "Penelope Farmer is an English author known for children's fantasy. Her novels, including Charlotte Sometimes, are known for being thoughtful.",
+   "known_for": [
+    "Charlotte Sometimes",
+    "The Summer Birds"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Penelope_Farmer"
+  },
+  "Mary Stolz": {
+   "born": 1920,
+   "died": 2006,
+   "birthplace": "Boston, Massachusetts",
+   "nationality": "American",
+   "bio": "Mary Stolz wrote more than 60 books for children and teens. She was a Newbery Honor recipient.",
+   "known_for": [
+    "A Dog on Barkham Street",
+    "The Bully of Barkham Street"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mary_Stolz"
+  },
+  "Rachel Field": {
+   "born": 1894,
+   "died": 1942,
+   "birthplace": "New York City",
+   "nationality": "American",
+   "bio": "Rachel Field was a poet, novelist and playwright. She won the Newbery Medal for Hitty. She died young at age 47.",
+   "known_for": [
+    "Hitty, Her First Hundred Years",
+    "All This and Heaven Too"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Rachel_Field"
+  },
+  "Elizabeth Janet Gray": {
+   "born": 1902,
+   "died": 1999,
+   "birthplace": "Philadelphia, Pennsylvania",
+   "nationality": "American",
+   "bio": "Elizabeth Janet Gray, later Vining, was a children's author who won the Newbery Medal for Adam of the Road. She later became tutor to Crown Prince Akihito of Japan.",
+   "known_for": [
+    "Adam of the Road",
+    "Windows for the Crown Prince"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_Janet_Gray"
+  },
+  "Leonie Kooiker": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": "Dutch",
+   "bio": "Leonie Kooiker is a Dutch children's author. Little verified information is available.",
+   "known_for": [
+    "The Magic Stone"
+   ],
+   "source": null
+  },
+  "Tove Jansson": {
+   "born": 1914,
+   "died": 2001,
+   "birthplace": "Helsinki, Finland",
+   "nationality": "Finnish",
+   "bio": "Tove Jansson was a Finnish-Swedish artist and writer who created the Moomins. She won the Hans Christian Andersen Medal in 1966. She spent summers on a tiny island.",
+   "known_for": [
+    "The Moomins",
+    "The Summer Book"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Tove_Jansson"
+  },
+  "Daniel Defoe": {
+   "born": 1660,
+   "died": 1731,
+   "birthplace": "London, England",
+   "nationality": "English",
+   "bio": "Daniel Defoe was a merchant, journalist and novelist. He wrote Robinson Crusoe near the end of his life. He is often called a father of the English novel.",
+   "known_for": [
+    "Robinson Crusoe",
+    "Moll Flanders"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Daniel_Defoe"
+  },
+  "William Stevenson": {
+   "born": 1924,
+   "died": 2013,
+   "birthplace": "Edmonton, Canada",
+   "nationality": "Canadian",
+   "bio": "William Stevenson was a Canadian journalist and author. He wrote A Man Called Intrepid and The Bushbabies.",
+   "known_for": [
+    "A Man Called Intrepid",
+    "The Bushbabies"
+   ],
+   "source": "https://en.wikipedia.org/wiki/William_Stevenson_(author)"
+  },
+  "Mabel Leigh Hunt": {
+   "born": 1892,
+   "died": 1971,
+   "birthplace": "Coatesville, Indiana",
+   "nationality": "American",
+   "bio": "Mabel Leigh Hunt was an American children's author with Quaker roots. She wrote historical fiction. She won a Newbery Honor for Better Known as Johnny Appleseed.",
+   "known_for": [
+    "Better Known as Johnny Appleseed",
+    "Ladycake Farm"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mabel_Leigh_Hunt"
+  },
+  "Ernestine N. Byrd": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "No verified information found.",
+   "known_for": [],
+   "source": null
+  },
+  "Sheila Garrigue": {
+   "born": 1931,
+   "died": null,
+   "birthplace": "Cleveland, Ohio",
+   "nationality": "American",
+   "bio": "Sheila Garrigue is an American author who wrote about children's lives during the war. She was inspired by true evacuee stories.",
+   "known_for": [
+    "All the Children Were Sent Away",
+    "The Eternal Spring of Mr. Ito"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Sheila_Garrigue"
+  },
+  "Edward Fenton": {
+   "born": 1917,
+   "died": 1995,
+   "birthplace": "New York City",
+   "nationality": "American",
+   "bio": "Edward Fenton was an American writer and translator. He wrote adventure novels for young readers.",
+   "known_for": [
+    "The Riddle of the Red Whale",
+    "The Phantom of Walkaway Hill"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Edward_Fenton"
+  },
+  "Nina Bawden": {
+   "born": 1925,
+   "died": 2012,
+   "birthplace": "London, England",
+   "nationality": "British",
+   "bio": "Nina Bawden wrote both novels for adults and children. She was evacuated during WWII, an experience that shaped her fiction. She was shortlisted for the Booker Prize.",
+   "known_for": [
+    "Carrie's War",
+    "The Witch's Daughter"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Nina_Bawden"
+  },
+  "Deborah Howe": {
+   "born": 1946,
+   "died": 1978,
+   "birthplace": "Bronxville, New York",
+   "nationality": "American",
+   "bio": "Deborah Howe was an American author who co-wrote Bunnicula with her husband James. She died young.",
+   "known_for": [
+    "Bunnicula"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bunnicula"
+  },
+  "James Howe": {
+   "born": 1946,
+   "died": null,
+   "birthplace": "Oneida, New York",
+   "nationality": "American",
+   "bio": "James Howe is an American author who wrote the Bunnicula series. His books range from humor to serious issues.",
+   "known_for": [
+    "Bunnicula",
+    "Pinky and Rex"
+   ],
+   "source": "https://en.wikipedia.org/wiki/James_Howe_(author)"
+  },
+  "Margot Benary-Isbert": {
+   "born": 1889,
+   "died": 1979,
+   "birthplace": "Saarbrucken, Germany",
+   "nationality": "German-American",
+   "bio": "Margot Benary-Isbert was a German-American author who emigrated after World War II. She wrote about postwar family life in Germany.",
+   "known_for": [
+    "The Ark",
+    "Rowan Farm"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Margot_Benary-Isbert"
+  },
+  "D. J. Enright": {
+   "born": 1920,
+   "died": 2002,
+   "birthplace": "Leamington Spa, England",
+   "nationality": "British",
+   "bio": "D. J. Enright was a poet, novelist and critic who taught in several countries. He wrote a few books for children.",
+   "known_for": [
+    "The Joke Shop",
+    "Academic Year"
+   ],
+   "source": "https://en.wikipedia.org/wiki/D._J._Enright"
+  },
+  "Bruce Coville": {
+   "born": 1950,
+   "died": null,
+   "birthplace": "Syracuse, New York",
+   "nationality": "American",
+   "bio": "Bruce Coville has written many fantasy books for children. He worked as a toymaker and a teacher.",
+   "known_for": [
+    "My Teacher Is an Alien",
+    "The Unicorn Chronicles"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bruce_Coville"
+  },
+  "Jean Fritz": {
+   "born": 1915,
+   "died": 2017,
+   "birthplace": "Hankow, China",
+   "nationality": "American",
+   "bio": "Jean Fritz was born in China to missionary parents and moved to the US as a teen. She wrote lively, well-researched histories and biographies for children.",
+   "known_for": [
+    "Homesick: My Own Story",
+    "And Then What Happened, Paul Revere?"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jean_Fritz"
+  },
+  "Paul Creswick": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": "British",
+   "bio": "Paul Creswick was an English author known for his retelling of Robin Hood, later illustrated by N. C. Wyeth. Few biographical details could be verified.",
+   "known_for": [
+    "Robin Hood"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Robin_Hood"
+  },
+  "Richard Adams": {
+   "born": 1920,
+   "died": 2016,
+   "birthplace": "Newbury, England",
+   "nationality": "British",
+   "bio": "Richard Adams worked as a civil servant before publishing Watership Down. He first told the story to his daughters on a car journey. It became a huge success.",
+   "known_for": [
+    "Watership Down",
+    "Shardik"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Richard_Adams"
+  },
+  "Phyllis Reynolds Naylor": {
+   "born": 1933,
+   "died": null,
+   "birthplace": "Anderson, Indiana",
+   "nationality": "American",
+   "bio": "Phyllis Reynolds Naylor wrote over 140 books. She won the Newbery Medal for Shiloh. She started writing as a child.",
+   "known_for": [
+    "Shiloh",
+    "Witch's Sister"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Phyllis_Reynolds_Naylor"
+  },
+  "Charles Dickens": {
+   "born": 1812,
+   "died": 1870,
+   "birthplace": "Portsmouth, England",
+   "nationality": "English",
+   "bio": "Charles Dickens worked in a factory as a child while his father was in debtors' prison. He became the most popular novelist of his day. His characters are among the best known in literature.",
+   "known_for": [
+    "Oliver Twist",
+    "David Copperfield",
+    "A Christmas Carol"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Charles_Dickens"
+  },
+  "Gertrude Moderow": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "No verified information found about this adaptor.",
+   "known_for": [
+    "David Copperfield (adapted)"
+   ],
+   "source": null
+  },
+  "Paul Jennings": {
+   "born": 1943,
+   "died": null,
+   "birthplace": "Hertfordshire, England",
+   "nationality": "Australian",
+   "bio": "Paul Jennings is an Australian author known for funny, gross and surprising short stories. He grew up in Australia. His stories are popular with reluctant readers.",
+   "known_for": [
+    "Unreal!",
+    "Unbelievable!"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Paul_Jennings_(author)"
+  },
+  "Patricia C. McKissack": {
+   "born": 1944,
+   "died": 2017,
+   "birthplace": "Smyrna, Tennessee",
+   "nationality": "American",
+   "bio": "Patricia McKissack wrote many books on African American history and folklore. She and her husband Fredrick wrote together. She won a Newbery Honor.",
+   "known_for": [
+    "The Dark-Thirty",
+    "Mirandy and Brother Wind"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Patricia_McKissack"
+  },
+  "Eleanor Farjeon": {
+   "born": 1881,
+   "died": 1965,
+   "birthplace": "London, England",
+   "nationality": "British",
+   "bio": "Eleanor Farjeon was an English poet and storyteller who grew up in a literary family. She wrote hymns and fairy tales. The Eleanor Farjeon Award honors her.",
+   "known_for": [
+    "The Little Bookroom",
+    "Martin Pippin in the Apple Orchard"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Eleanor_Farjeon"
+  },
+  "Donna Jo Napoli": {
+   "born": 1948,
+   "died": null,
+   "birthplace": "Miami, Florida",
+   "nationality": "American",
+   "bio": "Donna Jo Napoli is a linguistics professor and children's writer. She retells fairy tales with fresh angles.",
+   "known_for": [
+    "Zel",
+    "Sirena",
+    "Jimmy, the Pickpocket of the Palace"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Donna_Jo_Napoli"
+  },
+  "Jane Goodall": {
+   "born": 1934,
+   "died": 2025,
+   "birthplace": "London, England",
+   "nationality": "British",
+   "bio": "Jane Goodall was a primatologist who studied wild chimpanzees at Gombe. She started with no formal training. She became a leading conservation advocate.",
+   "known_for": [
+    "In the Shadow of Man",
+    "My Friends the Wild Chimpanzees"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jane_Goodall"
+  },
+  "Carol Fenner": {
+   "born": 1929,
+   "died": 2002,
+   "birthplace": "Almond, New York",
+   "nationality": "American",
+   "bio": "Carol Fenner was a children's author and illustrator. She won a Newbery Honor for Yolonda's Genius.",
+   "known_for": [
+    "Yolonda's Genius",
+    "The King of Dragons"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Carol_Fenner"
+  },
+  "Barbara Kingsolver": {
+   "born": 1955,
+   "died": null,
+   "birthplace": "Annapolis, Maryland",
+   "nationality": "American",
+   "bio": "Barbara Kingsolver trained as a biologist and became a novelist. She grew up partly in the Congo. She is known for literary fiction with social themes.",
+   "known_for": [
+    "The Poisonwood Bible",
+    "Animal, Vegetable, Miracle"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Barbara_Kingsolver"
+  }
+ }
+}

@@ -1,0 +1,2702 @@
+{
+ "books": {
+  "the-last-slice-of-rainbow": {
+   "title": "The Last Slice of Rainbow and Other Stories",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1985,
+   "genres": [
+    "fantasy",
+    "short stories",
+    "folk tales"
+   ],
+   "summary": "A collection of original fairy-tale-style stories full of odd magic, clever girls and boys, and delightful nonsense. Rainbows, wishes and mischievous creatures turn up in unexpected places.",
+   "characters": [],
+   "setting": "Imaginary fairy-tale lands",
+   "awards": [],
+   "series": null,
+   "reading_age": "7-11",
+   "illustrator": "Alix Berenzy",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Joan_Aiken",
+   "note": "Full published title includes 'and Other Stories'."
+  },
+  "nightbirds-on-nantucket": {
+   "title": "Night Birds on Nantucket",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1966,
+   "genres": [
+    "adventure",
+    "alternate history",
+    "humor"
+   ],
+   "summary": "Dido Twite, rescued at sea, finds herself in Nantucket where a whaling captain's daughter has a plan to harpoon King James III with a giant pink whale. A swashbuckling, funny alternate-history romp.",
+   "characters": [
+    "Dido Twite — brash, cockney, resourceful",
+    "Captain Casket — whaling captain",
+    "Dutiful Penitence — whaler's strong-minded daughter",
+    "Dr. Mazen — eccentric scientist"
+   ],
+   "setting": "Nantucket and the sea, alternate 1830s",
+   "awards": [],
+   "series": "Wolves Chronicles",
+   "reading_age": "9-13",
+   "illustrator": "Robin Jacques",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Night_Birds_on_Nantucket",
+   "note": "Duplicate of night-birds-on-nantucket (same book, spelled differently)."
+  },
+  "night-birds-on-nantucket": {
+   "title": "Night Birds on Nantucket",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1966,
+   "genres": [
+    "adventure",
+    "alternate history",
+    "humor"
+   ],
+   "summary": "Dido Twite, rescued at sea, finds herself in Nantucket where a whaling captain's daughter has a plan to harpoon King James III with a giant pink whale. A swashbuckling, funny alternate-history romp.",
+   "characters": [
+    "Dido Twite — brash, cockney, resourceful",
+    "Captain Casket — whaling captain",
+    "Dutiful Penitence — whaler's strong-minded daughter",
+    "Dr. Mazen — eccentric scientist"
+   ],
+   "setting": "Nantucket and the sea, alternate 1830s",
+   "awards": [],
+   "series": "Wolves Chronicles",
+   "reading_age": "9-13",
+   "illustrator": "Robin Jacques",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Night_Birds_on_Nantucket",
+   "note": null
+  },
+  "the-cuckoo-tree": {
+   "title": "The Cuckoo Tree",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1971,
+   "genres": [
+    "adventure",
+    "historical fantasy",
+    "mystery"
+   ],
+   "summary": "Dido Twite returns to England and is swept into a plot involving a mysterious chest, a hidden royal threat and a secret society. Packed with chases, villains and cliffhangers.",
+   "characters": [
+    "Dido Twite — sharp-tongued, plucky street girl",
+    "Simon — gentle orphan musician-scholar",
+    "Mr. Rummage — shady schemer"
+   ],
+   "setting": "Alternate Georgian England",
+   "awards": [],
+   "series": "Wolves Chronicles",
+   "reading_age": "9-13",
+   "illustrator": "Susan Obrant",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Cuckoo_Tree",
+   "note": null
+  },
+  "the-wolves-of-willoughby-chase": {
+   "title": "The Wolves of Willoughby Chase",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1962,
+   "genres": [
+    "adventure",
+    "historical fantasy",
+    "classic"
+   ],
+   "summary": "Cousins Bonnie and Sylvia are left in the care of a cruel governess while wolves prowl the snowy English countryside. The girls must escape, find help and save their home.",
+   "characters": [
+    "Bonnie — spirited, wealthy, brave",
+    "Sylvia — timid, bookish cousin",
+    "Miss Slighcarp — scheming governess",
+    "Simon — goose boy ally"
+   ],
+   "setting": "Alternate early 19th-century England, winter",
+   "awards": [],
+   "series": "Wolves Chronicles",
+   "reading_age": "8-12",
+   "illustrator": "Pat Marriott",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Wolves_of_Willoughby_Chase",
+   "note": null
+  },
+  "black-hearts-in-battersea": {
+   "title": "Black Hearts in Battersea",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1964,
+   "genres": [
+    "adventure",
+    "historical fantasy",
+    "mystery"
+   ],
+   "summary": "Simon travels to London to study painting and finds a plot against the Duke of Battersea. With the help of the streetwise Dido Twite he chases through rooftops and rivers.",
+   "characters": [
+    "Simon — earnest young painter",
+    "Dido Twite — cheeky Cockney girl",
+    "Duke of Battersea — kindly aristocrat"
+   ],
+   "setting": "Alternate-history London",
+   "awards": [],
+   "series": "Wolves Chronicles",
+   "reading_age": "9-13",
+   "illustrator": "Robin Jacques",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Black_Hearts_in_Battersea",
+   "note": null
+  },
+  "the-stolen-lake": {
+   "title": "The Stolen Lake",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1981,
+   "genres": [
+    "adventure",
+    "fantasy"
+   ],
+   "summary": "Dido Twite sails to South America aboard a ship on a royal errand and discovers a hidden kingdom ruled by a Queen who clings to Arthurian traditions. Dido finds herself in danger and in charge.",
+   "characters": [
+    "Dido Twite — tough, funny heroine",
+    "Captain Hughes — ship's captain",
+    "Queen Ginevra — imperious ruler"
+   ],
+   "setting": "South America, alternate 1830s",
+   "awards": [],
+   "series": "Wolves Chronicles",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Stolen_Lake",
+   "note": null
+  },
+  "midnight-is-a-place": {
+   "title": "Midnight Is a Place",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1974,
+   "genres": [
+    "historical fiction",
+    "adventure",
+    "mystery"
+   ],
+   "summary": "Lucy and Lucas, young orphaned wards, live in a grim mill town in Victorian England. A fire and a family secret push them into dangerous adventures.",
+   "characters": [
+    "Lucas — bold orphan boy",
+    "Lucy — resourceful young ward"
+   ],
+   "setting": "Fictional Victorian northern England mill town",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Midnight_Is_a_Place",
+   "note": "Not part of the Wolves Chronicles."
+  },
+  "a-whisper-in-the-night": {
+   "title": "A Whisper in the Night: Tales of Terror and Suspense",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1982,
+   "genres": [
+    "short stories",
+    "mystery",
+    "fantasy"
+   ],
+   "summary": "A collection of spooky and suspenseful tales that blend the eerie with Aiken's dry humor. Ideal for read-aloud on a dark evening.",
+   "characters": [],
+   "setting": "Various",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Joan_Aiken",
+   "note": null
+  },
+  "a-foot-in-the-grave": {
+   "title": "A Foot in the Grave",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1989,
+   "genres": [
+    "short stories",
+    "fantasy",
+    "humor"
+   ],
+   "summary": "A collection of short tales ranging from spooky to whimsical, with ghosts, odd bargains and surprising twists.",
+   "characters": [],
+   "setting": "Various",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Joan_Aiken",
+   "note": "Publication year from memory; not verified."
+  },
+  "ginger-pye": {
+   "title": "Ginger Pye",
+   "author_names": [
+    "Eleanor Estes"
+   ],
+   "published": 1951,
+   "genres": [
+    "family story",
+    "dog story",
+    "mystery"
+   ],
+   "summary": "Jerry and Rachel Pye buy a puppy named Ginger with their own money and love him fiercely. When he is stolen they set out to find him, while a mysterious man in a yellow hat lurks.",
+   "characters": [
+    "Jerry Pye — determined, loyal boy",
+    "Rachel Pye — his sensible sister",
+    "Ginger — clever puppy",
+    "Uncle Bennie — kindly bird-watching uncle"
+   ],
+   "setting": "Cranbury, Connecticut, 1920s",
+   "awards": [
+    "Newbery Medal 1952"
+   ],
+   "series": "Pye Family",
+   "reading_age": "7-11",
+   "illustrator": "Eleanor Estes",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Ginger_Pye",
+   "note": null
+  },
+  "the-moffats": {
+   "title": "The Moffats",
+   "author_names": [
+    "Eleanor Estes"
+   ],
+   "published": 1941,
+   "genres": [
+    "family story",
+    "classic",
+    "humor"
+   ],
+   "summary": "Four Moffat children and their widowed mother live in a small Connecticut town, getting into small adventures that feel big. Warm, funny episodes of everyday childhood.",
+   "characters": [
+    "Jane — imaginative middle child",
+    "Sylvie — eldest, practical",
+    "Joey — mischievous younger brother",
+    "Rufus — youngest, curious"
+   ],
+   "setting": "Cranbury, Connecticut, around 1917",
+   "awards": [],
+   "series": "The Moffats",
+   "reading_age": "7-10",
+   "illustrator": "Louis Slobodkin",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Moffats",
+   "note": null
+  },
+  "pinky-pye": {
+   "title": "Pinky Pye",
+   "author_names": [
+    "Eleanor Estes"
+   ],
+   "published": 1958,
+   "genres": [
+    "family story",
+    "animal story",
+    "mystery"
+   ],
+   "summary": "The Pye family spends the summer on Fire Island with a new kitten named Pinky, who seems to be able to do remarkable things. The family also puzzles over a mysterious intruder.",
+   "characters": [
+    "Pinky — kitten with a talent for typing",
+    "Gilly Pye — one of the children",
+    "Mr. Pye — author father"
+   ],
+   "setting": "Fire Island, New York, summer",
+   "awards": [],
+   "series": "Pye Family",
+   "reading_age": "7-11",
+   "illustrator": "Edward Ardizzone",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Pinky_Pye",
+   "note": null
+  },
+  "the-hundred-dresses": {
+   "title": "The Hundred Dresses",
+   "author_names": [
+    "Eleanor Estes"
+   ],
+   "published": 1944,
+   "genres": [
+    "school story",
+    "classic",
+    "family story"
+   ],
+   "summary": "Wanda Petronski, a poor Polish girl, says she owns a hundred dresses at home, and classmates tease her. The story gently examines cruelty, silence and regret.",
+   "characters": [
+    "Wanda Petronski — quiet, proud outsider",
+    "Maddie — conscience-stricken friend",
+    "Peggy — popular, leads teasing"
+   ],
+   "setting": "Small Connecticut town school, 1930s",
+   "awards": [
+    "Newbery Honor 1945"
+   ],
+   "series": null,
+   "reading_age": "7-11",
+   "illustrator": "Louis Slobodkin",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Hundred_Dresses",
+   "note": null
+  },
+  "the-tunnel-of-hugsy-goode": {
+   "title": "The Tunnel of Hugsy Goode",
+   "author_names": [
+    "Eleanor Estes"
+   ],
+   "published": 1972,
+   "genres": [
+    "family story",
+    "humor",
+    "mystery"
+   ],
+   "summary": "Two Cranbury boys dig a tunnel in a bid to find fame and fortune, entangling the townsfolk in a lively episode of mystery and mischief.",
+   "characters": [
+    "Hugsy Goode — local boy",
+    "Jerry — friend and digger"
+   ],
+   "setting": "Cranbury-like American town, 20th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-11",
+   "illustrator": "Edward Ardizzone",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Tunnel_of_Hugsy_Goode",
+   "note": null
+  },
+  "the-alley": {
+   "title": "The Alley",
+   "author_names": [
+    "Eleanor Estes"
+   ],
+   "published": 1964,
+   "genres": [
+    "family story",
+    "mystery",
+    "humor"
+   ],
+   "summary": "Children on a Cranbury street try to solve a mystery that centers on a hidden alley behind their houses. Estes blends neighborhood warmth with a puzzling disappearance.",
+   "characters": [
+    "Neighborhood children"
+   ],
+   "setting": "Small American town, 20th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-11",
+   "illustrator": "Edward Ardizzone",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Alley",
+   "note": "Details of plot from memory; limited verification."
+  },
+  "king-of-the-wind": {
+   "title": "King of the Wind",
+   "author_names": [
+    "Marguerite Henry"
+   ],
+   "published": 1948,
+   "genres": [
+    "horse story",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "A mute stable boy named Agba journeys with a golden Arabian horse called Sham from Morocco to France and England. The horse becomes ancestor of the great Thoroughbreds.",
+   "characters": [
+    "Agba — mute, loyal stable boy",
+    "Sham — golden Godolphin Arabian",
+    "Lord Godolphin — English nobleman"
+   ],
+   "setting": "Morocco, France and England, early 18th century",
+   "awards": [
+    "Newbery Medal 1949"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Wesley Dennis",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/King_of_the_Wind",
+   "note": null
+  },
+  "white-stallion-of-lipizza": {
+   "title": "White Stallion of Lipizza",
+   "author_names": [
+    "Marguerite Henry"
+   ],
+   "published": 1964,
+   "genres": [
+    "horse story",
+    "historical fiction"
+   ],
+   "summary": "A young Viennese boy Hans dreams of riding with the Spanish Riding School's Lipizzaner stallions. The book follows his training and the school's tradition.",
+   "characters": [
+    "Hans — determined young apprentice",
+    "Lipizzan stallions — elegant dancing horses"
+   ],
+   "setting": "Vienna, Austria, mid-20th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Wesley Dennis",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/White_Stallion_of_Lipizza",
+   "note": null
+  },
+  "brighty-of-the-grand-canyon": {
+   "title": "Brighty of the Grand Canyon",
+   "author_names": [
+    "Marguerite Henry"
+   ],
+   "published": 1953,
+   "genres": [
+    "animal story",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "Brighty, a wild burro, roams the Grand Canyon and befriends prospector Old Timer. Based on a real burro, he helps protect a friend from a thief.",
+   "characters": [
+    "Brighty — free-spirited burro",
+    "Old Timer — kind prospector",
+    "Jim Owen — hunter and ally"
+   ],
+   "setting": "Grand Canyon, Arizona, early 1900s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Wesley Dennis",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Brighty_of_the_Grand_Canyon",
+   "note": null
+  },
+  "black-gold": {
+   "title": "Black Gold",
+   "author_names": [
+    "Marguerite Henry"
+   ],
+   "published": 1957,
+   "genres": [
+    "horse story",
+    "biography",
+    "nonfiction"
+   ],
+   "summary": "The true story of Black Gold, a racehorse who became a champion and won the Kentucky Derby. Henry traces his rise from an Oklahoma farm to racing glory.",
+   "characters": [
+    "Black Gold — champion racehorse",
+    "Al Hoots — Native American trainer",
+    "Rosa Hoots — owner"
+   ],
+   "setting": "Oklahoma and Kentucky, 1920s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Wesley Dennis",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Black_Gold",
+   "note": "Plot details from memory."
+  },
+  "san-domingo-the-medicine-hat-stallion": {
+   "title": "San Domingo: The Medicine Hat Stallion",
+   "author_names": [
+    "Marguerite Henry"
+   ],
+   "published": 1972,
+   "genres": [
+    "horse story",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "A boy named Hal and his pony, a Medicine Hat stallion, join the Pony Express. Their journey reveals the courage of the West.",
+   "characters": [
+    "Hal — young rider",
+    "San Domingo — spirited stallion"
+   ],
+   "setting": "American West, 1860s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Robert Lougheed",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/San_Domingo:_The_Medicine_Hat_Stallion",
+   "note": "Details of plot from memory; not fully verified."
+  },
+  "caddie-woodlawn": {
+   "title": "Caddie Woodlawn",
+   "author_names": [
+    "Carol Ryrie Brink"
+   ],
+   "published": 1935,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "classic"
+   ],
+   "summary": "Eleven-year-old Caddie is a tomboy on the Wisconsin frontier who prefers running wild with her brothers to learning ladylike ways. Based on the author's grandmother's childhood.",
+   "characters": [
+    "Caddie — spirited tomboy",
+    "Tom — older brother",
+    "Warren — brother",
+    "Clarissa — prim sister"
+   ],
+   "setting": "Wisconsin frontier, 1860s",
+   "awards": [
+    "Newbery Medal 1936"
+   ],
+   "series": "Caddie Woodlawn",
+   "reading_age": "8-12",
+   "illustrator": "Kate Seredy",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Caddie_Woodlawn",
+   "note": null
+  },
+  "magical-melons": {
+   "title": "Magical Melons",
+   "author_names": [
+    "Carol Ryrie Brink"
+   ],
+   "published": 1939,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "A sequel to Caddie Woodlawn with more Woodlawn family adventures on the frontier, now with new troubles and funny moments.",
+   "characters": [
+    "Caddie — spunky heroine",
+    "Tom — brother"
+   ],
+   "setting": "Wisconsin frontier, 1860s",
+   "awards": [],
+   "series": "Caddie Woodlawn",
+   "reading_age": "8-12",
+   "illustrator": "Marguerite Kirmse",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Magical_Melons",
+   "note": null
+  },
+  "the-bad-times-of-irma-baumlein": {
+   "title": "The Bad Times of Irma Baumlein",
+   "author_names": [
+    "Carol Ryrie Brink"
+   ],
+   "published": 1972,
+   "genres": [
+    "family story",
+    "humor"
+   ],
+   "summary": "Irma tells a lie about a doll and sees it grow in ways she did not expect. A comic and tender story about honesty and friendship.",
+   "characters": [
+    "Irma Baumlein — imaginative girl who tells tall tales"
+   ],
+   "setting": "Small American town",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-11",
+   "illustrator": "Trina Schart Hyman",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Bad_Times_of_Irma_Baumlein",
+   "note": "Plot summary from memory; limited verification."
+  },
+  "winter-cottage": {
+   "title": "Winter Cottage",
+   "author_names": [
+    "Carol Ryrie Brink"
+   ],
+   "published": 1939,
+   "genres": [
+    "family story",
+    "humor"
+   ],
+   "summary": "A family-centred story in which siblings retreat to a winter cottage and discover pleasures and challenges of the season.",
+   "characters": [],
+   "setting": "Winter cottage, rural America",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Winter_Cottage",
+   "note": "Little verified; summary generic."
+  },
+  "the-search-for-delicious": {
+   "title": "The Search for Delicious",
+   "author_names": [
+    "Natalie Babbitt"
+   ],
+   "published": 1969,
+   "genres": [
+    "fantasy",
+    "humor",
+    "adventure"
+   ],
+   "summary": "When a kingdom disagrees about the definition of the most delicious food, young Vernon Parsley, the king's messenger, is sent to poll the people. He finds quarrels, prejudice and a surprise.",
+   "characters": [
+    "Gaylen — young messenger",
+    "The King — jovial ruler",
+    "Mermaids — magical creatures"
+   ],
+   "setting": "Imaginary kingdom",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Natalie Babbitt",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Search_for_Delicious",
+   "note": null
+  },
+  "tuck-everlasting": {
+   "title": "Tuck Everlasting",
+   "author_names": [
+    "Natalie Babbitt"
+   ],
+   "published": 1975,
+   "genres": [
+    "fantasy",
+    "classic",
+    "family story"
+   ],
+   "summary": "Winnie Foster meets the Tuck family, who drank from a spring that makes them live forever. She must decide what it means to live and die.",
+   "characters": [
+    "Winnie Foster — thoughtful ten-year-old",
+    "Jesse Tuck — young-looking, cheerful",
+    "Angus Tuck — weary father",
+    "The Man in the Yellow Suit — mysterious stranger"
+   ],
+   "setting": "New England village, 1880s",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "Natalie Babbitt",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Tuck_Everlasting",
+   "note": null
+  },
+  "knee-knock-rise": {
+   "title": "Knee-Knock Rise",
+   "author_names": [
+    "Natalie Babbitt"
+   ],
+   "published": 1970,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "humor"
+   ],
+   "summary": "Egan visits his aunt and hears of the Megrimum, a fearsome creature said to live on Knee-Knock Rise. He sets out to explore.",
+   "characters": [
+    "Egan — curious young visitor",
+    "Ada — guide",
+    "The Megrimum — mysterious creature"
+   ],
+   "setting": "Imaginary village of Instep",
+   "awards": [
+    "Newbery Honor 1971"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Natalie Babbitt",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Knee-Knock_Rise",
+   "note": null
+  },
+  "the-devil-s-other-storybook": {
+   "title": "The Devil's Other Storybook",
+   "author_names": [
+    "Natalie Babbitt"
+   ],
+   "published": 1987,
+   "genres": [
+    "short stories",
+    "fantasy",
+    "humor"
+   ],
+   "summary": "A second set of stories about the Devil as a mischievous trickster whose schemes often backfire. Wry and funny tales.",
+   "characters": [
+    "The Devil — comic villain"
+   ],
+   "setting": "Various",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "Natalie Babbitt",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Devil's_Other_Storybook",
+   "note": null
+  },
+  "the-secret-garden": {
+   "title": "The Secret Garden",
+   "author_names": [
+    "Frances Hodgson Burnett"
+   ],
+   "published": 1911,
+   "genres": [
+    "classic",
+    "family story",
+    "fantasy"
+   ],
+   "summary": "Orphaned Mary Lennox is sent to live in a gloomy Yorkshire manor, where she finds a locked, neglected garden. With help from Dickon and her sickly cousin Colin, she brings it and herself back to life.",
+   "characters": [
+    "Mary Lennox — sour, lonely orphan",
+    "Colin Craven — invalid cousin",
+    "Dickon — kind animal-whisperer",
+    "Ben Weatherstaff — gruff gardener"
+   ],
+   "setting": "Yorkshire, England, early 1900s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Charles Robinson (1911 edition: Maria Kirk)",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Secret_Garden",
+   "note": null
+  },
+  "a-little-princess": {
+   "title": "A Little Princess",
+   "author_names": [
+    "Frances Hodgson Burnett"
+   ],
+   "published": 1905,
+   "genres": [
+    "classic",
+    "school story",
+    "family story"
+   ],
+   "summary": "Sara Crewe, a rich and imaginative schoolgirl, is reduced to servitude when her father dies. She keeps her dignity through stories and kindness.",
+   "characters": [
+    "Sara Crewe — imaginative, generous girl",
+    "Miss Minchin — stern headmistress",
+    "Becky — scullery maid friend",
+    "Ermengarde — loyal classmate"
+   ],
+   "setting": "London boarding school, Victorian era",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Ethel Franklin Betts",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/A_Little_Princess",
+   "note": null
+  },
+  "little-lord-fauntleroy": {
+   "title": "Little Lord Fauntleroy",
+   "author_names": [
+    "Frances Hodgson Burnett"
+   ],
+   "published": 1886,
+   "genres": [
+    "classic",
+    "family story"
+   ],
+   "summary": "A kind American boy named Cedric discovers he is heir to an English earldom. His good nature softens his gruff grandfather.",
+   "characters": [
+    "Cedric Errol — sweet, trusting boy",
+    "The Earl of Dorincourt — stern grandfather",
+    "Dearest — Cedric's mother"
+   ],
+   "setting": "New York and England, 1880s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Reginald Birch",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Little_Lord_Fauntleroy",
+   "note": null
+  },
+  "the-sign-of-the-beaver": {
+   "title": "The Sign of the Beaver",
+   "author_names": [
+    "Elizabeth George Speare"
+   ],
+   "published": 1983,
+   "genres": [
+    "historical fiction",
+    "survival",
+    "adventure"
+   ],
+   "summary": "Thirteen-year-old Matt is left alone to guard his family's new cabin in the Maine wilderness. A Native American boy named Attean and his grandfather help him survive and understand a different way of life.",
+   "characters": [
+    "Matt — resourceful frontier boy",
+    "Attean — proud Penobscot boy",
+    "Saknis — Attean's grandfather"
+   ],
+   "setting": "Maine wilderness, 1768",
+   "awards": [
+    "Newbery Honor 1984",
+    "Scott O'Dell Award 1984"
+   ],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Sign_of_the_Beaver",
+   "note": "Illustrator not verified; set to null."
+  },
+  "calico-captive": {
+   "title": "Calico Captive",
+   "author_names": [
+    "Elizabeth George Speare"
+   ],
+   "published": 1957,
+   "genres": [
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "In 1754, Miriam Willard and her family are captured in a raid by Abenaki and taken to Canada. Based on a true story, it follows her struggle to keep hope.",
+   "characters": [
+    "Miriam Willard — spirited young woman",
+    "Susanna Johnson — her sister",
+    "Captain Phineas Stevens — rescuer"
+   ],
+   "setting": "New Hampshire and Canada, 1754",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": "W. T. Mars",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Calico_Captive",
+   "note": null
+  },
+  "the-bronze-bow": {
+   "title": "The Bronze Bow",
+   "author_names": [
+    "Elizabeth George Speare"
+   ],
+   "published": 1961,
+   "genres": [
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "Daniel, a young Jewish man in Roman-occupied Galilee, burns for revenge until he meets a gentle teacher. He struggles between hatred and love.",
+   "characters": [
+    "Daniel bar Jamin — vengeful young rebel",
+    "Joel — friend",
+    "Thacia — gentle ally"
+   ],
+   "setting": "Galilee, first-century Roman province",
+   "awards": [
+    "Newbery Medal 1962"
+   ],
+   "series": null,
+   "reading_age": "11-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Bronze_Bow",
+   "note": null
+  },
+  "the-cricket-in-times-square": {
+   "title": "The Cricket in Times Square",
+   "author_names": [
+    "George Selden"
+   ],
+   "published": 1960,
+   "genres": [
+    "animal fantasy",
+    "classic",
+    "family story"
+   ],
+   "summary": "A country cricket named Chester accidentally lands in the Times Square subway station and befriends Mario Bellini, a boy in the newsstand, and street-wise animals. His musical talent brings joy and trouble.",
+   "characters": [
+    "Chester Cricket — gifted musician",
+    "Mario Bellini — kind newsstand boy",
+    "Tucker Mouse — wisecracking New Yorker",
+    "Harry Cat — loyal cat friend"
+   ],
+   "setting": "Times Square, New York City, 1950s",
+   "awards": [
+    "Newbery Honor 1961"
+   ],
+   "series": "Chester Cricket",
+   "reading_age": "7-11",
+   "illustrator": "Garth Williams",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Cricket_in_Times_Square",
+   "note": null
+  },
+  "the-garden-under-the-sea": {
+   "title": "The Garden Under the Sea",
+   "author_names": [
+    "George Selden"
+   ],
+   "published": 1957,
+   "genres": [
+    "fantasy",
+    "adventure"
+   ],
+   "summary": "A young boy discovers a world of underwater life through a dreamlike journey. Selden's early work is a tender, odd adventure.",
+   "characters": [],
+   "setting": "Ocean world",
+   "awards": [],
+   "series": null,
+   "reading_age": "7-11",
+   "illustrator": "Garth Williams",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/George_Selden",
+   "note": "Not verified; summary generic. Possibly mismatched with another Selden title."
+  },
+  "the-call-of-the-wild": {
+   "title": "The Call of the Wild",
+   "author_names": [
+    "Jack London"
+   ],
+   "published": 1903,
+   "genres": [
+    "classic",
+    "adventure",
+    "dog story",
+    "survival"
+   ],
+   "summary": "Buck, a pampered California dog, is stolen and sold into the Klondike sled-dog trade. Hardship awakens his ancient instincts.",
+   "characters": [
+    "Buck — strong, adaptable dog",
+    "John Thornton — kind master",
+    "Spitz — rival lead dog"
+   ],
+   "setting": "Yukon Territory, 1890s Klondike Gold Rush",
+   "awards": [],
+   "series": null,
+   "reading_age": "11-15",
+   "illustrator": "Charles Livingston Bull",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Call_of_the_Wild",
+   "note": null
+  },
+  "white-fang": {
+   "title": "White Fang",
+   "author_names": [
+    "Jack London"
+   ],
+   "published": 1906,
+   "genres": [
+    "classic",
+    "adventure",
+    "dog story",
+    "survival"
+   ],
+   "summary": "White Fang, a wolf-dog born in the wild, learns the harsh laws of survival and slowly comes to trust a kind master.",
+   "characters": [
+    "White Fang — wolf-dog",
+    "Weedon Scott — compassionate mining engineer",
+    "Gray Beaver — Native American owner"
+   ],
+   "setting": "Yukon, Canada, and California, 1890s",
+   "awards": [],
+   "series": null,
+   "reading_age": "11-15",
+   "illustrator": "Charles Livingston Bull",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/White_Fang",
+   "note": null
+  },
+  "rabbit-hill": {
+   "title": "Rabbit Hill",
+   "author_names": [
+    "Robert Lawson"
+   ],
+   "published": 1944,
+   "genres": [
+    "animal fantasy",
+    "classic",
+    "family story"
+   ],
+   "summary": "The animals of Rabbit Hill anxiously await the arrival of new folks in the big house. They hope the new people will be generous gardeners.",
+   "characters": [
+    "Little Georgie — young rabbit",
+    "Father — wise rabbit",
+    "Willie Fieldmouse — shy mouse",
+    "Uncle Analdas — old rabbit"
+   ],
+   "setting": "Connecticut countryside, 1940s",
+   "awards": [
+    "Newbery Medal 1945"
+   ],
+   "series": "Rabbit Hill",
+   "reading_age": "7-11",
+   "illustrator": "Robert Lawson",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Rabbit_Hill",
+   "note": null
+  },
+  "mr-revere-and-i": {
+   "title": "Mr. Revere and I",
+   "author_names": [
+    "Robert Lawson"
+   ],
+   "published": 1953,
+   "genres": [
+    "humor",
+    "historical fiction",
+    "animal fantasy"
+   ],
+   "summary": "Scrawny, the horse of Paul Revere, narrates the events of the American Revolution from his comic and grumbling perspective.",
+   "characters": [
+    "Scrawny Sherman — talking horse",
+    "Paul Revere — patriot silversmith"
+   ],
+   "setting": "Boston and Massachusetts, 1775",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Robert Lawson",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Mr._Revere_and_I",
+   "note": null
+  },
+  "the-twenty-one-balloons": {
+   "title": "The Twenty-One Balloons",
+   "author_names": [
+    "William Pène du Bois"
+   ],
+   "published": 1947,
+   "genres": [
+    "adventure",
+    "fantasy",
+    "classic"
+   ],
+   "summary": "Professor William Waterman Sherman sets off in a hot-air balloon and is stranded on Krakatoa. There he discovers a hidden society living in an extraordinary community with inventions.",
+   "characters": [
+    "Professor Sherman — retired teacher and balloonist",
+    "The Krakatoans — inventive islanders"
+   ],
+   "setting": "Pacific Ocean and Krakatoa, 1883",
+   "awards": [
+    "Newbery Medal 1948"
+   ],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "William Pène du Bois",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Twenty-One_Balloons",
+   "note": null
+  },
+  "the-giant": {
+   "title": "The Giant",
+   "author_names": [
+    "William Pène du Bois"
+   ],
+   "published": 1954,
+   "genres": [
+    "fantasy",
+    "humor"
+   ],
+   "summary": "A whimsical story about a large figure and his place in a miniature world, with du Bois's usual playful illustrations.",
+   "characters": [],
+   "setting": "Imaginary",
+   "awards": [],
+   "series": null,
+   "reading_age": "7-11",
+   "illustrator": "William Pène du Bois",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/William_P%C3%A8ne_du_Bois",
+   "note": "Title 'The Giant' uncertain; possibly a different du Bois title. Limited verification."
+  },
+  "the-piemakers": {
+   "title": "The Piemakers",
+   "author_names": [
+    "Helen Cresswell"
+   ],
+   "published": 1967,
+   "genres": [
+    "humor",
+    "fantasy",
+    "family story"
+   ],
+   "summary": "The Piemakers of Danby Dale must bake the biggest pie ever for the King. The village is full of eccentric characters and surprising mishaps.",
+   "characters": [
+    "The Piemakers — a family of bakers",
+    "The King — pompous visitor"
+   ],
+   "setting": "English village, long ago",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Gareth Floyd",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Piemakers",
+   "note": "Plot summary from general knowledge."
+  },
+  "the-night-watchmen": {
+   "title": "The Night-Watchmen",
+   "author_names": [
+    "Helen Cresswell"
+   ],
+   "published": 1969,
+   "genres": [
+    "fantasy",
+    "mystery",
+    "adventure"
+   ],
+   "summary": "A boy named Henry meets two tramps who become night-watchmen, and together they uncover mysteries of a haunted building. Atmospheric and funny.",
+   "characters": [
+    "Henry — curious boy",
+    "Josh and Caldicott — tramps and companions"
+   ],
+   "setting": "English town, 20th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Gareth Floyd",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Night-Watchmen",
+   "note": "Plot details from memory; not verified."
+  },
+  "children-of-the-wolf": {
+   "title": "Children of the Wolf",
+   "author_names": [
+    "Jane Yolen"
+   ],
+   "published": 1984,
+   "genres": [
+    "historical fiction",
+    "survival"
+   ],
+   "summary": "Based on the true story of two girls found in a wolf's den in India, this novel explores a child's struggle to adapt to human society after living among wolves.",
+   "characters": [
+    "Mohandas — boy missionary",
+    "Kamala — wolf-raised girl"
+   ],
+   "setting": "India, 1920s",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Children_of_the_Wolf",
+   "note": "Based on the Midnapore wolf-children story."
+  },
+  "the-transfigured-hart": {
+   "title": "The Transfigured Hart",
+   "author_names": [
+    "Jane Yolen"
+   ],
+   "published": 1975,
+   "genres": [
+    "fantasy",
+    "family story"
+   ],
+   "summary": "A boy named Richard and a girl named Heather discover a mysterious white creature in the woods, which Heather believes to be a unicorn. Their belief is tested.",
+   "characters": [
+    "Richard — practical boy",
+    "Heather — dreamy girl"
+   ],
+   "setting": "Rural Canada and the U.S., 1970s",
+   "awards": [
+    "Golden Kite Award 1975"
+   ],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": "Donna Diamond",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Transfigured_Hart",
+   "note": null
+  },
+  "the-adventures-of-sherlock-holmes-bks-3-4": {
+   "title": "The Adventures of Sherlock Holmes, Books 3 & 4",
+   "author_names": [
+    "Arthur Conan Doyle",
+    "Catherine Edwards Sadler"
+   ],
+   "published": null,
+   "genres": [
+    "mystery",
+    "classic"
+   ],
+   "summary": "Adapted versions of Sherlock Holmes tales for young readers, bringing the Baker Street detective's clever deductions to a younger audience.",
+   "characters": [
+    "Sherlock Holmes — brilliant, eccentric detective",
+    "Dr. Watson — loyal friend and narrator"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+   "note": "Adaptation by Catherine Edwards Sadler (Avon Camelot Classics, 1980s); year not verified."
+  },
+  "the-adventures-of-sherlock-holmes-bks-1-2": {
+   "title": "The Adventures of Sherlock Holmes, Books 1 & 2",
+   "author_names": [
+    "Arthur Conan Doyle",
+    "Catherine Edwards Sadler"
+   ],
+   "published": null,
+   "genres": [
+    "mystery",
+    "classic"
+   ],
+   "summary": "Adapted versions of Sherlock Holmes tales for young readers, bringing the Baker Street detective's clever deductions to a younger audience.",
+   "characters": [
+    "Sherlock Holmes — brilliant, eccentric detective",
+    "Dr. Watson — loyal friend and narrator"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+   "note": "Adaptation by Catherine Edwards Sadler (Avon Camelot Classics, 1980s); year not verified."
+  },
+  "six-notable-adventures-of-sherlock-holmes": {
+   "title": "Six Notable Adventures of Sherlock Holmes",
+   "author_names": [
+    "Arthur Conan Doyle"
+   ],
+   "published": null,
+   "genres": [
+    "mystery",
+    "classic"
+   ],
+   "summary": "A selection of six of Holmes's most famous cases, in which Holmes and Watson solve puzzling crimes through observation and logic.",
+   "characters": [
+    "Sherlock Holmes — brilliant, eccentric detective",
+    "Dr. Watson — loyal friend and narrator"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+   "note": "Anthology; exact story selection not verified."
+  },
+  "sherlock-holmes": {
+   "title": "Sherlock Holmes",
+   "author_names": [
+    "Arthur Conan Doyle"
+   ],
+   "published": null,
+   "genres": [
+    "mystery",
+    "classic"
+   ],
+   "summary": "Stories of the famous detective Sherlock Holmes and his friend Dr. Watson, who solve cases using sharp observation and logic.",
+   "characters": [
+    "Sherlock Holmes — brilliant, eccentric detective",
+    "Dr. Watson — loyal friend and narrator"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Sherlock_Holmes",
+   "note": "Edition not identified."
+  },
+  "the-old-man-and-the-sea": {
+   "title": "The Old Man and the Sea",
+   "author_names": [
+    "Ernest Hemingway"
+   ],
+   "published": 1952,
+   "genres": [
+    "classic",
+    "adventure",
+    "survival"
+   ],
+   "summary": "Santiago, an aging Cuban fisherman, hooks an enormous marlin and battles it for days far out in the Gulf Stream. A spare story of endurance and dignity.",
+   "characters": [
+    "Santiago — old, determined fisherman",
+    "Manolin — devoted young apprentice"
+   ],
+   "setting": "Gulf Stream off Cuba, 1950s",
+   "awards": [
+    "Pulitzer Prize for Fiction 1953"
+   ],
+   "series": null,
+   "reading_age": "12+",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea",
+   "note": null
+  },
+  "the-sun-also-rises": {
+   "title": "The Sun Also Rises",
+   "author_names": [
+    "Ernest Hemingway"
+   ],
+   "published": 1926,
+   "genres": [
+    "classic",
+    "fiction"
+   ],
+   "summary": "A group of disillusioned American and British expatriates travel from Paris to the bullfights in Pamplona. A novel of the Lost Generation, with adult themes.",
+   "characters": [
+    "Jake Barnes — narrator, war-wounded",
+    "Lady Brett Ashley — glamorous, restless",
+    "Robert Cohn — insecure writer"
+   ],
+   "setting": "Paris and Spain, 1920s",
+   "awards": [],
+   "series": null,
+   "reading_age": "adult",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises",
+   "note": "Adult novel; mature themes."
+  },
+  "sadako-and-the-thousand-paper-cranes": {
+   "title": "Sadako and the Thousand Paper Cranes",
+   "author_names": [
+    "Eleanor Coerr"
+   ],
+   "published": 1977,
+   "genres": [
+    "biography",
+    "historical fiction",
+    "nonfiction"
+   ],
+   "summary": "Sadako Sasaki, a young girl in Hiroshima, falls ill from radiation from the atomic bomb. She folds paper cranes in hope of recovery.",
+   "characters": [
+    "Sadako Sasaki — spirited runner",
+    "Chizuko — friend who shares the legend"
+   ],
+   "setting": "Hiroshima, Japan, 1955",
+   "awards": [
+    "Golden Kite Honor"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Ronald Himler",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Sadako_and_the_Thousand_Paper_Cranes",
+   "note": null
+  },
+  "pinocchio": {
+   "title": "The Adventures of Pinocchio",
+   "author_names": [
+    "Carlo Collodi"
+   ],
+   "published": 1883,
+   "genres": [
+    "classic",
+    "fantasy",
+    "humor"
+   ],
+   "summary": "A wooden puppet carved by Geppetto longs to be a real boy but keeps getting into trouble through lies and temptation.",
+   "characters": [
+    "Pinocchio — mischievous puppet",
+    "Geppetto — loving woodcarver",
+    "The Talking Cricket — scolding conscience",
+    "The Blue-Haired Fairy — kind guide"
+   ],
+   "setting": "Tuscany, Italy, 19th century",
+   "awards": [],
+   "series": null,
+   "reading_age": "6-10",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio",
+   "note": null
+  },
+  "the-enormous-egg": {
+   "title": "The Enormous Egg",
+   "author_names": [
+    "Oliver Butterworth"
+   ],
+   "published": 1956,
+   "genres": [
+    "humor",
+    "adventure",
+    "family story"
+   ],
+   "summary": "A boy named Nate Twitchell's hen lays an enormous egg that hatches into a baby triceratops. Nate raises it and the family becomes famous.",
+   "characters": [
+    "Nate Twitchell — practical New Hampshire boy",
+    "Uncle Beazley — baby triceratops",
+    "Dr. Ziemer — paleontologist"
+   ],
+   "setting": "New Hampshire, 1950s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Louis Darling",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Enormous_Egg",
+   "note": null
+  },
+  "the-house-at-pooh-corner": {
+   "title": "The House at Pooh Corner",
+   "author_names": [
+    "A. A. Milne"
+   ],
+   "published": 1928,
+   "genres": [
+    "classic",
+    "animal fantasy",
+    "humor"
+   ],
+   "summary": "Winnie-the-Pooh and friends have more adventures in the Hundred Acre Wood, including meeting Tigger. The book includes the famous Poohsticks game.",
+   "characters": [
+    "Winnie-the-Pooh — honey-loving bear",
+    "Piglet — small, timid friend",
+    "Eeyore — gloomy donkey",
+    "Tigger — bouncy, boastful tiger",
+    "Christopher Robin — kind boy"
+   ],
+   "setting": "Hundred Acre Wood, England, 1920s",
+   "awards": [],
+   "series": "Winnie-the-Pooh",
+   "reading_age": "4-9",
+   "illustrator": "E. H. Shepard",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_House_at_Pooh_Corner",
+   "note": null
+  },
+  "the-ordinary-princess": {
+   "title": "The Ordinary Princess",
+   "author_names": [
+    "M. M. Kaye"
+   ],
+   "published": 1980,
+   "genres": [
+    "fairy tale",
+    "fantasy",
+    "humor"
+   ],
+   "summary": "Princess Amy was given a fairy's gift of being ordinary. She runs away to find her own life.",
+   "characters": [
+    "Princess Amelia — plain-looking, spirited",
+    "Peregrine — kind prince in disguise"
+   ],
+   "setting": "Fairy-tale kingdom",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "M. M. Kaye",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Ordinary_Princess",
+   "note": "First published 1980."
+  },
+  "indian-sleep-man-tales": {
+   "title": "Indian Sleep-Man Tales",
+   "author_names": [
+    "Bernice G. Anderson"
+   ],
+   "published": 1940,
+   "genres": [
+    "folk tales",
+    "nonfiction"
+   ],
+   "summary": "A collection of bedtime tales told in the tradition of Native American Sleep-Man stories.",
+   "characters": [],
+   "setting": "North America",
+   "awards": [],
+   "series": null,
+   "reading_age": "5-9",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Indian_Sleep-Man_Tales",
+   "note": "Details not verified."
+  },
+  "too-much-magic": {
+   "title": "Too Much Magic",
+   "author_names": [
+    "Betty Sterman",
+    "Samuel Sterman"
+   ],
+   "published": null,
+   "genres": [
+    "fantasy",
+    "humor"
+   ],
+   "summary": "A fantasy in which too much magic causes trouble.",
+   "characters": [],
+   "setting": "Unknown",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Too_Much_Magic",
+   "note": "Could not verify; author listing unclear."
+  },
+  "lafcadio-the-lion-who-shot-back": {
+   "title": "Lafcadio, the Lion Who Shot Back",
+   "author_names": [
+    "Shel Silverstein"
+   ],
+   "published": 1963,
+   "genres": [
+    "humor",
+    "animal fantasy"
+   ],
+   "summary": "Lafcadio, a lion, learns to shoot a rifle and goes to the city, where his sudden success goes to his head. A zany, funny tale by Shel Silverstein.",
+   "characters": [
+    "Lafcadio — clever, ambitious lion",
+    "The Hunter — his teacher"
+   ],
+   "setting": "Africa and a city",
+   "awards": [],
+   "series": null,
+   "reading_age": "6-10",
+   "illustrator": "Shel Silverstein",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Lafcadio,_the_Lion_Who_Shot_Back",
+   "note": null
+  },
+  "rip-van-winkle": {
+   "title": "Rip Van Winkle",
+   "author_names": [
+    "Washington Irving"
+   ],
+   "published": 1819,
+   "genres": [
+    "classic",
+    "folk tales",
+    "fantasy"
+   ],
+   "summary": "A good-natured Dutch-American man wanders into the Catskills, drinks with strange men and falls asleep for twenty years. He wakes to a changed world.",
+   "characters": [
+    "Rip Van Winkle — easygoing storyteller",
+    "Dame Van Winkle — scolding wife"
+   ],
+   "setting": "Catskill Mountains, New York, before and after the American Revolution",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Rip_Van_Winkle",
+   "note": null
+  },
+  "harriet-the-spy": {
+   "title": "Harriet the Spy",
+   "author_names": [
+    "Louise Fitzhugh"
+   ],
+   "published": 1964,
+   "genres": [
+    "school story",
+    "humor",
+    "classic"
+   ],
+   "summary": "Harriet M. Welsch, an eleven-year-old New Yorker, spies on neighbors and classmates and records her honest observations in a notebook. When the notebook is found, trouble follows.",
+   "characters": [
+    "Harriet — observant, stubborn spy",
+    "Sport — her friend",
+    "Janie — scientist friend",
+    "Ole Golly — beloved nanny"
+   ],
+   "setting": "Upper East Side, New York City, 1960s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Louise Fitzhugh",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Harriet_the_Spy",
+   "note": null
+  },
+  "susy-s-scoundrel": {
+   "title": "Susy's Scoundrel",
+   "author_names": [
+    "Harold Keith"
+   ],
+   "published": 1974,
+   "genres": [
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "A historical novel by Harold Keith, set in the 1800s.",
+   "characters": [],
+   "setting": "United States",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Harold_Keith",
+   "note": "Could not verify details."
+  },
+  "the-sea-child": {
+   "title": "The Sea Child",
+   "author_names": [
+    "Carolyn Sloan"
+   ],
+   "published": null,
+   "genres": [
+    "fantasy"
+   ],
+   "summary": "A children's book about a child of the sea.",
+   "characters": [],
+   "setting": "Unknown",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Carolyn_Sloan",
+   "note": "Could not identify."
+  },
+  "tiger-burning-bright": {
+   "title": "Tiger Burning Bright",
+   "author_names": [
+    "Theodora Du Bois"
+   ],
+   "published": 1963,
+   "genres": [
+    "adventure",
+    "animal story"
+   ],
+   "summary": "An adventure involving a tiger.",
+   "characters": [],
+   "setting": "Unknown",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Theodora_Du_Bois",
+   "note": "Could not verify."
+  },
+  "the-warlock-of-westfall": {
+   "title": "The Warlock of Westfall",
+   "author_names": [
+    "Leonard Everett Fisher"
+   ],
+   "published": 1974,
+   "genres": [
+    "fantasy",
+    "historical fiction"
+   ],
+   "summary": "A story of a warlock in a village.",
+   "characters": [],
+   "setting": "Unknown",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": "Leonard Everett Fisher",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Leonard_Everett_Fisher",
+   "note": "Could not verify details."
+  },
+  "kim": {
+   "title": "Kim",
+   "author_names": [
+    "Rudyard Kipling"
+   ],
+   "published": 1901,
+   "genres": [
+    "classic",
+    "adventure",
+    "historical fiction"
+   ],
+   "summary": "Kim, an orphaned Irish boy in British India, becomes the disciple of a Tibetan lama and a spy in the Great Game. A rich adventure full of Indian life.",
+   "characters": [
+    "Kim — street-smart orphan",
+    "The Lama — gentle Tibetan monk",
+    "Mahbub Ali — horse trader and spy"
+   ],
+   "setting": "British India, 1880s",
+   "awards": [],
+   "series": null,
+   "reading_age": "11-15",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Kim_(novel)",
+   "note": null
+  },
+  "witch-week": {
+   "title": "Witch Week",
+   "author_names": [
+    "Diana Wynne Jones"
+   ],
+   "published": 1982,
+   "genres": [
+    "fantasy",
+    "school story",
+    "humor"
+   ],
+   "summary": "In a boarding school in a world where witchcraft is illegal, a note says someone in the class is a witch. Dramatic and funny.",
+   "characters": [
+    "Charles Morgan — troublemaker",
+    "Nan Pilgrim — ordinary girl",
+    "Brian Hawkins — friend"
+   ],
+   "setting": "English boarding school, alternate world",
+   "awards": [],
+   "series": "Chrestomanci",
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Witch_Week",
+   "note": null
+  },
+  "shabanu-daughter-of-the-wind": {
+   "title": "Shabanu: Daughter of the Wind",
+   "author_names": [
+    "Suzanne Fisher Staples"
+   ],
+   "published": 1989,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "Shabanu, a young girl of a nomadic family in Pakistan's Cholistan Desert, faces an arranged marriage that will change her life.",
+   "characters": [
+    "Shabanu — strong-willed girl",
+    "Phulan — her sister",
+    "Dadi — grandfather"
+   ],
+   "setting": "Cholistan Desert, Pakistan, late 20th century",
+   "awards": [
+    "Newbery Honor 1990"
+   ],
+   "series": "Shabanu",
+   "reading_age": "12+",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Shabanu:_Daughter_of_the_Wind",
+   "note": null
+  },
+  "the-foxman": {
+   "title": "The Foxman",
+   "author_names": [
+    "Gary Paulsen"
+   ],
+   "published": 1977,
+   "genres": [
+    "survival",
+    "family story"
+   ],
+   "summary": "A teenager is sent to live in the wilderness with a mysterious man with a scarred face. Their bond grows.",
+   "characters": [
+    "Carl — troubled teen",
+    "Foxman — reclusive man"
+   ],
+   "setting": "Northern Minnesota wilderness",
+   "awards": [],
+   "series": null,
+   "reading_age": "12+",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Gary_Paulsen",
+   "note": null
+  },
+  "catwings": {
+   "title": "Catwings",
+   "author_names": [
+    "Ursula K. Le Guin"
+   ],
+   "published": 1988,
+   "genres": [
+    "animal fantasy",
+    "fantasy"
+   ],
+   "summary": "Four winged kittens leave their city alley to find a safe home in the countryside, where they meet a kind pair of children.",
+   "characters": [
+    "Thelma, Roger, James and Harriet — winged kittens",
+    "Hank and Susan — kind children"
+   ],
+   "setting": "City and countryside, present day",
+   "awards": [],
+   "series": "Catwings",
+   "reading_age": "5-9",
+   "illustrator": "S. D. Schindler",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Catwings",
+   "note": null
+  },
+  "gentle-ben": {
+   "title": "Gentle Ben",
+   "author_names": [
+    "Walt Morey"
+   ],
+   "published": 1965,
+   "genres": [
+    "animal story",
+    "adventure",
+    "family story"
+   ],
+   "summary": "Mark, a boy in Alaska, befriends a giant brown bear named Ben kept in a shed. His father worries that Ben is dangerous.",
+   "characters": [
+    "Mark Anderson — kind boy",
+    "Ben — gentle bear",
+    "Fred Ryan — Ben's owner"
+   ],
+   "setting": "Alaska, 1950s",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Gentle_Ben",
+   "note": null
+  },
+  "the-court-of-the-stone-children": {
+   "title": "The Court of the Stone Children",
+   "author_names": [
+    "Eleanor Cameron"
+   ],
+   "published": 1973,
+   "genres": [
+    "fantasy",
+    "mystery",
+    "time travel"
+   ],
+   "summary": "Nina, a girl who loves museums, meets the ghost of a French girl and unravels an old mystery in a museum.",
+   "characters": [
+    "Nina Harmsworth — museum-loving girl",
+    "Dominique — ghost girl"
+   ],
+   "setting": "San Francisco museum",
+   "awards": [
+    "National Book Award 1974"
+   ],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Court_of_the_Stone_Children",
+   "note": null
+  },
+  "the-usurping-ghost-and-other-encounters-and-experiences": {
+   "title": "The Usurping Ghost and Other Encounters and Experiences",
+   "author_names": [
+    "Susan Dickinson"
+   ],
+   "published": 1971,
+   "genres": [
+    "short stories",
+    "ghost stories"
+   ],
+   "summary": "A compilation of ghost stories gathered by Susan Dickinson.",
+   "characters": [],
+   "setting": "Various",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Susan_Dickinson",
+   "note": "Compiler; not verified."
+  },
+  "ninny-s-boat": {
+   "title": "Ninny's Boat",
+   "author_names": [
+    "Clive King"
+   ],
+   "published": 1980,
+   "genres": [
+    "adventure",
+    "family story"
+   ],
+   "summary": "A story about a boy and a boat.",
+   "characters": [],
+   "setting": "England",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Clive_King",
+   "note": "Could not verify details."
+  },
+  "at-the-mouth-of-the-luckiest-river": {
+   "title": "At the Mouth of the Luckiest River",
+   "author_names": [
+    "Arnold A. Griese"
+   ],
+   "published": 1973,
+   "genres": [
+    "folk tales",
+    "legend"
+   ],
+   "summary": "An Alaska Native legend retold for children.",
+   "characters": [],
+   "setting": "Alaska",
+   "awards": [],
+   "series": null,
+   "reading_age": "6-10",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Arnold_A._Griese",
+   "note": "Could not verify details."
+  },
+  "waiting-for-anya": {
+   "title": "Waiting for Anya",
+   "author_names": [
+    "Michael Morpurgo"
+   ],
+   "published": 1990,
+   "genres": [
+    "historical fiction",
+    "survival",
+    "adventure"
+   ],
+   "summary": "In occupied France in World War II, a boy named Jo helps hide Jewish children until they can escape over the mountains. A story of courage.",
+   "characters": [
+    "Jo Lalis — shepherd boy",
+    "Benjamin — Jewish boy",
+    "Horcada — widow who hides children"
+   ],
+   "setting": "Southern France near the Pyrenees, 1942",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Waiting_for_Anya",
+   "note": null
+  },
+  "ghost-eye": {
+   "title": "Ghost Eye",
+   "author_names": [
+    "Marion Dane Bauer"
+   ],
+   "published": 1992,
+   "genres": [
+    "mystery",
+    "ghost story"
+   ],
+   "summary": "A boy sees ghosts and visits relatives. His gift helps in a haunting.",
+   "characters": [
+    "The boy — ghost seer"
+   ],
+   "setting": "United States",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Marion_Dane_Bauer",
+   "note": "Could not verify details."
+  },
+  "the-enchanted-raisin": {
+   "title": "The Enchanted Raisin",
+   "author_names": [
+    "Jacqueline Balcells"
+   ],
+   "published": null,
+   "genres": [
+    "fantasy"
+   ],
+   "summary": "A magical tale of a raisin.",
+   "characters": [],
+   "setting": "Unknown",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Jacqueline_Balcells",
+   "note": "Could not identify."
+  },
+  "jurassic-park": {
+   "title": "Jurassic Park",
+   "author_names": [
+    "Michael Crichton"
+   ],
+   "published": 1990,
+   "genres": [
+    "science fiction",
+    "adventure"
+   ],
+   "summary": "Scientists clone dinosaurs for a theme park on an island. When the park's security fails, visitors face danger. Adult novel, intense.",
+   "characters": [
+    "Alan Grant — paleontologist",
+    "Ian Malcolm — chaos theorist",
+    "John Hammond — park creator"
+   ],
+   "setting": "Isla Nublar, Costa Rica, present day",
+   "awards": [],
+   "series": null,
+   "reading_age": "adult",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Jurassic_Park",
+   "note": "Adult novel; not a children's read-aloud."
+  },
+  "little-house-in-brookfield-little-town-at-the-crossroads": {
+   "title": "Little House in Brookfield",
+   "author_names": [
+    "Maria D. Wilkes"
+   ],
+   "published": 1996,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "Caroline Quiner's childhood in Wisconsin, a prequel to the Little House series. Combines two titles: Little House in Brookfield and Little Town at the Crossroads.",
+   "characters": [
+    "Caroline Quiner — spirited girl"
+   ],
+   "setting": "Wisconsin, 1840s",
+   "awards": [],
+   "series": "Little House: The Caroline Years",
+   "reading_age": "8-12",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/Maria_D._Wilkes",
+   "note": "Two books listed; Little Town at the Crossroads is by Maria D. Wilkes (1997)."
+  },
+  "the-hundred-secret-senses": {
+   "title": "The Hundred Secret Senses",
+   "author_names": [
+    "Amy Tan"
+   ],
+   "published": 1995,
+   "genres": [
+    "fiction",
+    "family story"
+   ],
+   "summary": "Olivia and her half-sister Kwan, who claims to see ghosts. Adult novel.",
+   "characters": [
+    "Olivia",
+    "Kwan"
+   ],
+   "setting": "San Francisco and China",
+   "awards": [],
+   "series": null,
+   "reading_age": "adult",
+   "illustrator": null,
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Hundred_Secret_Senses",
+   "note": "Adult novel."
+  },
+  "a-series-of-unfortunate-events-the-bad-beginning": {
+   "title": "The Bad Beginning",
+   "author_names": [
+    "Lemony Snicket"
+   ],
+   "published": 1999,
+   "genres": [
+    "humor",
+    "mystery",
+    "adventure"
+   ],
+   "summary": "The three Baudelaire orphans are placed with the villainous Count Olaf. A darkly comic tale.",
+   "characters": [
+    "Violet — inventor",
+    "Klaus — reader",
+    "Sunny — baby with sharp teeth",
+    "Count Olaf — scheming actor"
+   ],
+   "setting": "Unnamed city",
+   "awards": [],
+   "series": "A Series of Unfortunate Events",
+   "reading_age": "8-12",
+   "illustrator": "Brett Helquist",
+   "first_line": null,
+   "source": "https://en.wikipedia.org/wiki/The_Bad_Beginning",
+   "note": "Book the First."
+  }
+ },
+ "authors": {
+  "Joan Aiken": {
+   "born": 1924,
+   "died": 2004,
+   "birthplace": "Rye, East Sussex, England",
+   "nationality": "English",
+   "bio": "Joan Aiken was a prolific English author of children's and adult fiction, best known for the Wolves Chronicles. She grew up in a literary household as the daughter of poet Conrad Aiken and began writing stories young. She wrote her first Wolves book as a bedtime story for her own child.",
+   "known_for": [
+    "The Wolves of Willoughby Chase",
+    "Black Hearts in Battersea",
+    "The Cuckoo Tree"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Joan_Aiken"
+  },
+  "Eleanor Estes": {
+   "born": 1906,
+   "died": 1988,
+   "birthplace": "West Haven, Connecticut, USA",
+   "nationality": "American",
+   "bio": "Eleanor Estes was an American children's author and children's librarian whose books draw on her Connecticut childhood. Her Moffat family stories became classics of everyday life. She won the Newbery Medal for Ginger Pye.",
+   "known_for": [
+    "Ginger Pye",
+    "The Moffats",
+    "The Hundred Dresses"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Eleanor_Estes"
+  },
+  "Marguerite Henry": {
+   "born": 1902,
+   "died": 1997,
+   "birthplace": "Milwaukee, Wisconsin, USA",
+   "nationality": "American",
+   "bio": "Marguerite Henry wrote more than fifty books, mostly about horses and other animals. She spent years researching her subjects and often traveled to meet them. She won the Newbery Medal for King of the Wind and is also known for Misty of Chincoteague.",
+   "known_for": [
+    "King of the Wind",
+    "Misty of Chincoteague",
+    "Brighty of the Grand Canyon"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Marguerite_Henry"
+  },
+  "Carol Ryrie Brink": {
+   "born": 1895,
+   "died": 1981,
+   "birthplace": "Moscow, Idaho, USA",
+   "nationality": "American",
+   "bio": "Carol Ryrie Brink was an American author who wrote novels and children's books. Her best-known book was inspired by her grandmother's tales of frontier childhood. She won the Newbery Medal for Caddie Woodlawn.",
+   "known_for": [
+    "Caddie Woodlawn",
+    "Magical Melons",
+    "Baby Island"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Carol_Ryrie_Brink"
+  },
+  "Natalie Babbitt": {
+   "born": 1932,
+   "died": 2016,
+   "birthplace": "Dayton, Ohio, USA",
+   "nationality": "American",
+   "bio": "Natalie Babbitt was an American author and illustrator best known for Tuck Everlasting. She illustrated her own books and her husband's. She often explored big questions about life and death in gentle fantasy.",
+   "known_for": [
+    "Tuck Everlasting",
+    "Knee-Knock Rise",
+    "The Search for Delicious"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Natalie_Babbitt"
+  },
+  "Frances Hodgson Burnett": {
+   "born": 1849,
+   "died": 1924,
+   "birthplace": "Manchester, England",
+   "nationality": "English-American",
+   "bio": "Frances Hodgson Burnett was a British-American novelist who emigrated as a teenager to Tennessee. She wrote to support her family and became a famed author of children's classics. She loved gardens and cultivated them at her home on Long Island.",
+   "known_for": [
+    "The Secret Garden",
+    "A Little Princess",
+    "Little Lord Fauntleroy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Frances_Hodgson_Burnett"
+  },
+  "Elizabeth George Speare": {
+   "born": 1908,
+   "died": 1994,
+   "birthplace": "Melrose, Massachusetts, USA",
+   "nationality": "American",
+   "bio": "Elizabeth George Speare was an American author of historical novels for young people. She spent years researching her subjects in New England history. She won the Newbery Medal twice, for The Witch of Blackbird Pond and The Bronze Bow.",
+   "known_for": [
+    "The Witch of Blackbird Pond",
+    "The Bronze Bow",
+    "The Sign of the Beaver"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_George_Speare"
+  },
+  "George Selden": {
+   "born": 1929,
+   "died": 1989,
+   "birthplace": "Hartford, Connecticut, USA",
+   "nationality": "American",
+   "bio": "George Selden was an American author best known for The Cricket in Times Square. He lived in New York and worked as a writer and playwright. His cricket story was inspired by a real cricket he heard in the Times Square subway.",
+   "known_for": [
+    "The Cricket in Times Square",
+    "Harry Cat's Pet Puppy",
+    "Tucker's Countryside"
+   ],
+   "source": "https://en.wikipedia.org/wiki/George_Selden"
+  },
+  "Jack London": {
+   "born": 1876,
+   "died": 1916,
+   "birthplace": "San Francisco, California, USA",
+   "nationality": "American",
+   "bio": "Jack London was an American novelist and journalist. After working jobs from oyster pirate to Klondike gold prospector, he turned to writing about life on the edge. He became one of the first writers to earn a fortune from fiction.",
+   "known_for": [
+    "The Call of the Wild",
+    "White Fang",
+    "The Sea-Wolf"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jack_London"
+  },
+  "Robert Lawson": {
+   "born": 1892,
+   "died": 1957,
+   "birthplace": "New York City, USA",
+   "nationality": "American",
+   "bio": "Robert Lawson was an American author and illustrator. He illustrated The Story of Ferdinand and wrote and illustrated his own books. He won both the Caldecott and Newbery Medals.",
+   "known_for": [
+    "Rabbit Hill",
+    "Ben and Me",
+    "They Were Strong and Good"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Robert_Lawson"
+  },
+  "William Pène du Bois": {
+   "born": 1916,
+   "died": 1993,
+   "birthplace": "Nutley, New Jersey, USA",
+   "nationality": "American",
+   "bio": "William Pène du Bois was an American author and illustrator who grew up partly in France. He drew from a fascination with inventions and unusual machines. He won the Newbery Medal for The Twenty-One Balloons.",
+   "known_for": [
+    "The Twenty-One Balloons",
+    "Lazy Tinka",
+    "Peter Graves"
+   ],
+   "source": "https://en.wikipedia.org/wiki/William_P%C3%A8ne_du_Bois"
+  },
+  "Helen Cresswell": {
+   "born": 1934,
+   "died": 2005,
+   "birthplace": "Kirkby-in-Ashfield, Nottinghamshire, England",
+   "nationality": "English",
+   "bio": "Helen Cresswell was an English author and television writer. She wrote more than a hundred books and adapted many for TV. She is known for Lizzie Dripping and The Bagthorpe Saga.",
+   "known_for": [
+    "The Bagthorpe Saga",
+    "Lizzie Dripping",
+    "The Piemakers"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Helen_Cresswell"
+  },
+  "Jane Yolen": {
+   "born": 1939,
+   "died": null,
+   "birthplace": "New York City, USA",
+   "nationality": "American",
+   "bio": "Jane Yolen is a prolific American author of children's books, fantasy and poetry. She has written well over three hundred books. She has been called the Hans Christian Andersen of America.",
+   "known_for": [
+    "Owl Moon",
+    "How Do Dinosaurs Say Goodnight?",
+    "The Devil's Arithmetic"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jane_Yolen"
+  },
+  "Arthur Conan Doyle": {
+   "born": 1859,
+   "died": 1930,
+   "birthplace": "Edinburgh, Scotland",
+   "nationality": "Scottish",
+   "bio": "Arthur Conan Doyle trained as a doctor and began writing stories while waiting for patients. He created Sherlock Holmes, modeled partly on his professor Joseph Bell. He also wrote historical novels and The Lost World.",
+   "known_for": [
+    "A Study in Scarlet",
+    "The Hound of the Baskervilles",
+    "The Lost World"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+  },
+  "Catherine Edwards Sadler": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Catherine Edwards Sadler is an author who adapted classic stories, including Sherlock Holmes tales, for young readers. Little biographical detail is readily available.",
+   "known_for": [
+    "Treasure Island (adaptation)",
+    "The Adventures of Sherlock Holmes (adaptation)"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+  },
+  "Ernest Hemingway": {
+   "born": 1899,
+   "died": 1961,
+   "birthplace": "Oak Park, Illinois, USA",
+   "nationality": "American",
+   "bio": "Ernest Hemingway was an American novelist and journalist known for sparse, direct prose. He served as an ambulance driver in World War I and lived in Paris, Cuba and elsewhere. He won the Nobel Prize in Literature in 1954.",
+   "known_for": [
+    "The Old Man and the Sea",
+    "A Farewell to Arms",
+    "The Sun Also Rises"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+  },
+  "Eleanor Coerr": {
+   "born": 1922,
+   "died": 2010,
+   "birthplace": "Kamsack, Saskatchewan, Canada",
+   "nationality": "Canadian-American",
+   "bio": "Eleanor Coerr was a Canadian-born American author. She became interested in Sadako's story while working in Japan. She wrote many picture books and chapter books.",
+   "known_for": [
+    "Sadako and the Thousand Paper Cranes",
+    "The Josefina Story Quilt",
+    "Mieko and the Fifth Treasure"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Eleanor_Coerr"
+  },
+  "Carlo Collodi": {
+   "born": 1826,
+   "died": 1890,
+   "birthplace": "Florence, Italy",
+   "nationality": "Italian",
+   "bio": "Carlo Collodi was the pen name of Carlo Lorenzini, a journalist and political writer. He serialized Pinocchio in a children's newspaper. The pen name came from his mother's home village.",
+   "known_for": [
+    "The Adventures of Pinocchio"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Carlo_Collodi"
+  },
+  "Oliver Butterworth": {
+   "born": 1915,
+   "died": 1990,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "Oliver Butterworth was an American author and teacher. He wrote humorous children's books.",
+   "known_for": [
+    "The Enormous Egg",
+    "The Trouble with Jenny's Ear"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Oliver_Butterworth"
+  },
+  "A. A. Milne": {
+   "born": 1882,
+   "died": 1956,
+   "birthplace": "London, England",
+   "nationality": "English",
+   "bio": "A. A. Milne was an English writer who worked for Punch. He wrote the Pooh stories for his son Christopher Robin. He wrote plays and mysteries as well.",
+   "known_for": [
+    "Winnie-the-Pooh",
+    "The House at Pooh Corner",
+    "When We Were Very Young"
+   ],
+   "source": "https://en.wikipedia.org/wiki/A._A._Milne"
+  },
+  "M. M. Kaye": {
+   "born": 1908,
+   "died": 2004,
+   "birthplace": "Simla, British India",
+   "nationality": "British",
+   "bio": "M. M. Kaye grew up in India. She wrote historical novels, including The Far Pavilions, and children's books.",
+   "known_for": [
+    "The Far Pavilions",
+    "The Ordinary Princess"
+   ],
+   "source": "https://en.wikipedia.org/wiki/M._M._Kaye"
+  },
+  "Bernice G. Anderson": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Bernice G. Anderson was an author of Native American folk-tale collections. Little biographical information was found.",
+   "known_for": [
+    "Indian Sleep-Man Tales"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Indian_Sleep-Man_Tales"
+  },
+  "Betty Sterman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Betty Sterman co-wrote children's books with a spouse or relative. Little biographical information was found.",
+   "known_for": [
+    "Too Much Magic"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Too_Much_Magic"
+  },
+  "Samuel Sterman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Samuel Sterman co-wrote children's books with a spouse or relative. Little biographical information was found.",
+   "known_for": [
+    "Too Much Magic"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Too_Much_Magic"
+  },
+  "Shel Silverstein": {
+   "born": 1930,
+   "died": 1999,
+   "birthplace": "Chicago, Illinois, USA",
+   "nationality": "American",
+   "bio": "Shel Silverstein was an American poet, songwriter and cartoonist. He wrote and illustrated books such as Where the Sidewalk Ends. He also wrote songs such as A Boy Named Sue.",
+   "known_for": [
+    "The Giving Tree",
+    "Where the Sidewalk Ends",
+    "A Light in the Attic"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Shel_Silverstein"
+  },
+  "Washington Irving": {
+   "born": 1783,
+   "died": 1859,
+   "birthplace": "New York City, USA",
+   "nationality": "American",
+   "bio": "Washington Irving was an early American author and diplomat. He wrote The Legend of Sleepy Hollow and Rip Van Winkle. He was among the first American writers to earn an international reputation.",
+   "known_for": [
+    "Rip Van Winkle",
+    "The Legend of Sleepy Hollow",
+    "Tales of the Alhambra"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Washington_Irving"
+  },
+  "Louise Fitzhugh": {
+   "born": 1928,
+   "died": 1974,
+   "birthplace": "Memphis, Tennessee, USA",
+   "nationality": "American",
+   "bio": "Louise Fitzhugh was an American writer and illustrator. She grew up in Memphis and moved to New York as an adult. Harriet the Spy was her first and most famous book.",
+   "known_for": [
+    "Harriet the Spy",
+    "The Long Secret",
+    "Nobody's Family Is Going to Change"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Louise_Fitzhugh"
+  },
+  "Harold Keith": {
+   "born": 1903,
+   "died": 1998,
+   "birthplace": "Lambert, Oklahoma, USA",
+   "nationality": "American",
+   "bio": "Harold Keith was an American author and sports information director at the University of Oklahoma. He won the Newbery Medal for Rifles for Watie.",
+   "known_for": [
+    "Rifles for Watie",
+    "The Obstinate Land"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Harold_Keith"
+  },
+  "Carolyn Sloan": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Little biographical information found for this author.",
+   "known_for": [
+    "The Sea Child"
+   ],
+   "source": null
+  },
+  "Theodora Du Bois": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Theodora Du Bois was an American author of mystery novels and children's books.",
+   "known_for": [
+    "Tiger Burning Bright"
+   ],
+   "source": null
+  },
+  "Leonard Everett Fisher": {
+   "born": 1924,
+   "died": null,
+   "birthplace": "New York City, USA",
+   "nationality": "American",
+   "bio": "Leonard Everett Fisher is an American author and illustrator of more than 250 books. He taught at Yale and received many awards.",
+   "known_for": [
+    "The Great Wall of China",
+    "Alphabet Art"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Leonard_Everett_Fisher"
+  },
+  "Rudyard Kipling": {
+   "born": 1865,
+   "died": 1936,
+   "birthplace": "Bombay, India",
+   "nationality": "British",
+   "bio": "Rudyard Kipling was an English writer born in India. He wrote The Jungle Book and Kim. He won the Nobel Prize in Literature in 1907.",
+   "known_for": [
+    "The Jungle Book",
+    "Kim",
+    "Just So Stories"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Rudyard_Kipling"
+  },
+  "Diana Wynne Jones": {
+   "born": 1934,
+   "died": 2011,
+   "birthplace": "London, England",
+   "nationality": "English",
+   "bio": "Diana Wynne Jones was a British fantasy writer. She grew up in wartime England. She wrote Howl's Moving Castle.",
+   "known_for": [
+    "Howl's Moving Castle",
+    "Charmed Life",
+    "Witch Week"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Diana_Wynne_Jones"
+  },
+  "Suzanne Fisher Staples": {
+   "born": 1945,
+   "died": null,
+   "birthplace": "Philadelphia, Pennsylvania, USA",
+   "nationality": "American",
+   "bio": "Suzanne Fisher Staples is an American author and former journalist. She lived in Pakistan, which inspired Shabanu.",
+   "known_for": [
+    "Shabanu",
+    "Haveli",
+    "Under the Persimmon Tree"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Suzanne_Fisher_Staples"
+  },
+  "Gary Paulsen": {
+   "born": 1939,
+   "died": 2021,
+   "birthplace": "Minneapolis, Minnesota, USA",
+   "nationality": "American",
+   "bio": "Gary Paulsen was an American author of more than 200 books. He was an Iditarod racer. He wrote Hatchet.",
+   "known_for": [
+    "Hatchet",
+    "Dogsong",
+    "The Winter Room"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Gary_Paulsen"
+  },
+  "Ursula K. Le Guin": {
+   "born": 1929,
+   "died": 2018,
+   "birthplace": "Berkeley, California, USA",
+   "nationality": "American",
+   "bio": "Ursula K. Le Guin was an American author of fantasy and science fiction. She wrote the Earthsea books. She won many awards.",
+   "known_for": [
+    "A Wizard of Earthsea",
+    "The Left Hand of Darkness",
+    "The Dispossessed"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ursula_K._Le_Guin"
+  },
+  "Walt Morey": {
+   "born": 1907,
+   "died": 1992,
+   "birthplace": "Hoquiam, Washington, USA",
+   "nationality": "American",
+   "bio": "Walt Morey was an American author of outdoor stories. He lived in Oregon and Alaska. He is best known for Gentle Ben.",
+   "known_for": [
+    "Gentle Ben",
+    "Kavik the Wolf Dog",
+    "Canyon Winter"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Walt_Morey"
+  },
+  "Eleanor Cameron": {
+   "born": 1912,
+   "died": 1996,
+   "birthplace": "Winnipeg, Manitoba, Canada",
+   "nationality": "Canadian-American",
+   "bio": "Eleanor Cameron was a Canadian-American author. She wrote The Wonderful Flight to the Mushroom Planet.",
+   "known_for": [
+    "The Court of the Stone Children",
+    "The Wonderful Flight to the Mushroom Planet"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Eleanor_Cameron"
+  },
+  "Susan Dickinson": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Susan Dickinson compiled ghost stories for young readers. Little biographical information found.",
+   "known_for": [
+    "The Usurping Ghost"
+   ],
+   "source": null
+  },
+  "Clive King": {
+   "born": 1924,
+   "died": 2018,
+   "birthplace": null,
+   "nationality": "British",
+   "bio": "Clive King was a British author. He wrote Stig of the Dump.",
+   "known_for": [
+    "Stig of the Dump",
+    "Ninny's Boat"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Clive_King"
+  },
+  "Arnold A. Griese": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "Arnold A. Griese was an American author who wrote about Alaska Native cultures.",
+   "known_for": [
+    "At the Mouth of the Luckiest River"
+   ],
+   "source": null
+  },
+  "Michael Morpurgo": {
+   "born": 1943,
+   "died": null,
+   "birthplace": "St Albans, England",
+   "nationality": "British",
+   "bio": "Michael Morpurgo is a British author and former Children's Laureate. He wrote War Horse. He founded Farms for City Children.",
+   "known_for": [
+    "War Horse",
+    "Private Peaceful",
+    "Waiting for Anya"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Michael_Morpurgo"
+  },
+  "Marion Dane Bauer": {
+   "born": 1938,
+   "died": null,
+   "birthplace": "Oglesby, Illinois, USA",
+   "nationality": "American",
+   "bio": "Marion Dane Bauer is an American author of children's and young adult books. She wrote On My Honor.",
+   "known_for": [
+    "On My Honor",
+    "A Question of Trust"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Marion_Dane_Bauer"
+  },
+  "Jacqueline Balcells": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Jacqueline Balcells was a Chilean-born children's author.",
+   "known_for": [
+    "The Enchanted Raisin"
+   ],
+   "source": null
+  },
+  "Michael Crichton": {
+   "born": 1942,
+   "died": 2008,
+   "birthplace": "Chicago, Illinois, USA",
+   "nationality": "American",
+   "bio": "Michael Crichton was an American author and filmmaker. He trained as a doctor. He created ER.",
+   "known_for": [
+    "Jurassic Park",
+    "The Andromeda Strain",
+    "Congo"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Michael_Crichton"
+  },
+  "Maria D. Wilkes": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "Maria D. Wilkes is an American author.",
+   "known_for": [
+    "Little House in Brookfield",
+    "Little Town at the Crossroads"
+   ],
+   "source": null
+  },
+  "Amy Tan": {
+   "born": 1952,
+   "died": null,
+   "birthplace": "Oakland, California, USA",
+   "nationality": "American",
+   "bio": "Amy Tan is an American author of The Joy Luck Club.",
+   "known_for": [
+    "The Joy Luck Club",
+    "The Kitchen God's Wife"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Amy_Tan"
+  },
+  "Lemony Snicket": {
+   "born": 1970,
+   "died": null,
+   "birthplace": "San Francisco, California, USA",
+   "nationality": "American",
+   "bio": "Lemony Snicket is the pen name of Daniel Handler.",
+   "known_for": [
+    "A Series of Unfortunate Events",
+    "All the Wrong Questions"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Lemony_Snicket"
+  }
+ }
+}
