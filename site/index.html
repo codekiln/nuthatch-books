@@ -31,7 +31,7 @@
 <main>
   <section class="family" aria-labelledby="family-h">
     <h2 id="family-h" class="section-h">The listeners</h2>
-    <p class="section-sub">Tap a child to see how old they were beside every book.</p>
+    <p class="section-sub">Tap a child to open their shelf.</p>
     <ul class="family-row" id="family"></ul>
   </section>
 
@@ -58,6 +58,7 @@
       <select id="genre"><option value="">All kinds of books</option></select>
       <label class="sr-only" for="jump">Jump to year</label>
       <select id="jump"><option value="">Jump to a year</option></select>
+      <button type="button" class="btn pull" id="pull">Pull a book off the shelf</button>
       <div class="sky" role="radiogroup" aria-label="Day or night">
         <button type="button" data-sky="auto" role="radio">Auto</button>
         <button type="button" data-sky="day" role="radio">Day</button>
