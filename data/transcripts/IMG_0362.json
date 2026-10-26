@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0362",
+ "page_notes": "Yellow legal pad page, Nov 1993 – Jan 1994. 'The Good Master' entry written in a different (darker blue) pen.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Nov. 93",
+   "title": "The Hundred Dresses",
+   "author": "Eleanor Estes",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Nov. 93",
+   "title": "Brighty of the Grand Canyon",
+   "author": "Marguerite Henry",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Nov. 93",
+   "title": "The Wind in the Willows",
+   "author": "Kenneth Grahame",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Dec. 93",
+   "title": "Secret of the Andes",
+   "author": "Ann Nolan Clark",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Dec. 93",
+   "title": "Witches' Children",
+   "author": "Patricia Clapp",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Dec. 93",
+   "title": "The Door in the Wall",
+   "author": "Marguerite de Angeli",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Jan. 94",
+   "title": "The Twenty-One Balloons",
+   "author": "William Pène du Bois",
+   "as_written": "The 21 Balloons",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Jan. 94",
+   "title": "The Good Master",
+   "author": "Kate Seredy",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": "written in different pen"
+  },
+  {
+   "seq": 9,
+   "date_raw": "Jan. 94",
+   "title": "The Tale of Pigling Bland; The Tale of Miss Moppet; The Tale of Mr. Tod",
+   "author": "Beatrix Potter",
+   "as_written": "Pigling Bland, Miss Moppet, Mr. Tod",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "Jan. 94",
+   "title": "The Big Goose and the Little White Duck",
+   "author": "Meindert DeJong",
+   "as_written": "The Big Goose & the Little White Duck / Meindert De Jong",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

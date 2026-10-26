@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0314",
+ "page_notes": "Top sheet of a legal pad (gray binding visible). No dates on page. Every entry has a * before it; some also have a short dash line in the left margin.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": null,
+   "title": "The Wind in the Willows",
+   "author": "Kenneth Grahame",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": null,
+   "title": "The Good Master",
+   "author": "Kate Seredy",
+   "as_written": "The Good Master / Kate Serendy",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": "author written 'Serendy' (corrected letter)"
+  },
+  {
+   "seq": 3,
+   "date_raw": null,
+   "title": "The Cricket in Times Square",
+   "author": "George Selden",
+   "as_written": "A Cricket in Times Square / George Selden",
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": null,
+   "title": "The Complete Adventures of Olga da Polga",
+   "author": "Michael Bond",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": null,
+   "title": "A Bear Called Paddington",
+   "author": "Michael Bond",
+   "as_written": null,
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": null,
+   "title": "Paddington at Large",
+   "author": "Michael Bond",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": null,
+   "title": "Mr. Popper's Penguins",
+   "author": "Richard & Florence Atwater",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": null,
+   "title": "The Prince and the Pauper",
+   "author": "Mark Twain",
+   "as_written": "The Prince & the Pauper / Mark Twain",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": null,
+   "title": "Adventures of Huckleberry Finn",
+   "author": "Mark Twain",
+   "as_written": "Huckleberry Finn / Mark Twain",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": null,
+   "title": "King of the Wind",
+   "author": "Marguerite Henry",
+   "as_written": null,
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

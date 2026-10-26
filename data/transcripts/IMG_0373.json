@@ -1,0 +1,96 @@
+{
+ "image": "IMG_0373",
+ "page_notes": "Yellow legal pad page, Jan 2001 – Feb 2002, with two undated entries at the bottom (To Kill a Mockingbird, Hitty) presumably 2002. Under the RLS 'Short Stories' entry, two story titles are printed small in caps ('A Night's Lodging', 'THE SUICIDE CLUB'); kept within that entry. Tolkien's three LOTR volumes share one author line, with 'Jan. 02' beside Fellowship and 'Feb. 02' beside The Two Towers; kept as one entry.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Jan. 01",
+   "title": "Short Stories (A Lodging for the Night; The Suicide Club)",
+   "author": "Robert Louis Stevenson",
+   "as_written": "Short Stories / Robert Louis Stevenson / A Night's Lodging / THE SUICIDE CLUB",
+   "marks": null,
+   "confidence": "high",
+   "comment": "'A Night's Lodging' is presumably RLS's 'A Lodging for the Night'"
+  },
+  {
+   "seq": 2,
+   "date_raw": "Feb. 01",
+   "title": "The Winter of Our Discontent",
+   "author": "John Steinbeck",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Apr. 01",
+   "title": "A Tale of Two Cities",
+   "author": "Charles Dickens",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Jn. 01",
+   "title": "The Iron Ring",
+   "author": "Lloyd Alexander",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Aug. 01",
+   "title": "Harry Potter and the Sorcerer's Stone",
+   "author": "J. K. Rowling",
+   "as_written": "Harry Potter & the Sorcerer's Stone",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Jan. 02",
+   "title": "Midnight Magic",
+   "author": "Avi",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Jan. 02 / Feb. 02",
+   "title": "The Lord of the Rings: The Fellowship of the Ring; The Two Towers; The Return of the King",
+   "author": "J. R. R. Tolkien",
+   "as_written": "The Fellowship of the Ring / The Two Towers / The Return of the King / J.R.R. Tolkien",
+   "marks": null,
+   "confidence": "high",
+   "comment": "'Jan. 02' beside Fellowship, 'Feb. 02' beside The Two Towers; Return of the King undated"
+  },
+  {
+   "seq": 8,
+   "date_raw": null,
+   "title": "To Kill a Mockingbird",
+   "author": "Harper Lee",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": "undated"
+  },
+  {
+   "seq": 9,
+   "date_raw": null,
+   "title": "Hitty, Her First Hundred Years",
+   "author": "Rachel Field",
+   "as_written": "Hitty: Her First Hundred Years",
+   "marks": null,
+   "confidence": "high",
+   "comment": "undated; printed in different style/pen"
+  }
+ ]
+}

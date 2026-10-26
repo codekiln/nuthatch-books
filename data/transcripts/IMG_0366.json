@@ -1,0 +1,116 @@
+{
+ "image": "IMG_0366",
+ "page_notes": "Yellow legal pad page, Apr–Oct 1995. L'Engle's A Wind in the Door and A Swiftly Tilting Planet are undated lines with ditto marks for author, following the May 95 A Wrinkle in Time entry (date likely applies to the group).",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Apr. 95",
+   "title": "Shadows and Whispers: Tales from the Other Side",
+   "author": "Collin McDonald",
+   "as_written": "Shadows & Whispers: Tales from the Other Side / Collin Mc Donald",
+   "marks": null,
+   "confidence": "medium",
+   "comment": "Collin McDonald, Shadows and Whispers (1994)"
+  },
+  {
+   "seq": 2,
+   "date_raw": "Apr. 95",
+   "title": "Jurassic Park",
+   "author": "Michael Crichton",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "May 95",
+   "title": "A Wrinkle in Time",
+   "author": "Madeleine L'Engle",
+   "as_written": "A Wrinkle In Time / Madeline L'Engle",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": null,
+   "title": "A Wind in the Door",
+   "author": "Madeleine L'Engle",
+   "as_written": null,
+   "marks": "ditto marks for author",
+   "confidence": "high",
+   "comment": "undated; probably under May 95"
+  },
+  {
+   "seq": 5,
+   "date_raw": null,
+   "title": "A Swiftly Tilting Planet",
+   "author": "Madeleine L'Engle",
+   "as_written": null,
+   "marks": "ditto marks for author",
+   "confidence": "high",
+   "comment": "undated; probably under May 95"
+  },
+  {
+   "seq": 6,
+   "date_raw": "July 95",
+   "title": "Jimmy, the Pickpocket of the Palace",
+   "author": "Donna Jo Napoli",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Aug. 95",
+   "title": "Danny, the Champion of the World",
+   "author": "Roald Dahl",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Aug 95",
+   "title": "The Wind in the Willows",
+   "author": "Kenneth Grahame",
+   "as_written": "The Wind In the Willows / Kenneth Graham",
+   "marks": null,
+   "confidence": "high",
+   "comment": "re-read; also logged Nov. 93"
+  },
+  {
+   "seq": 9,
+   "date_raw": "Aug. 95",
+   "title": "Paddington at Large",
+   "author": "Michael Bond",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "Sept. 95",
+   "title": "When Hitler Stole Pink Rabbit",
+   "author": "Judith Kerr",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 11,
+   "date_raw": "Oct. 95",
+   "title": "Rip Van Winkle",
+   "author": "Washington Irving",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

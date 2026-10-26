@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0322",
+ "page_notes": "All entries dated Feb. 88 to Mar. 88. Underlines beneath the second Feb. 88 and the last Mar. 88.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Feb. 88",
+   "title": "Charlie and the Chocolate Factory",
+   "author": "Roald Dahl",
+   "as_written": "Charlie & the Chocolate Factory",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Feb. 88",
+   "title": "Amos Fortune, Free Man",
+   "author": "Elizabeth Yates",
+   "as_written": "Amos Fortune - Free Man",
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Feb. 88",
+   "title": "A Brand-New Uncle",
+   "author": "Kate Seredy",
+   "as_written": "Kate Seredy",
+   "marks": null,
+   "confidence": "high",
+   "comment": "author possibly written 'Seredy' or 'Serody'"
+  },
+  {
+   "seq": 4,
+   "date_raw": "Feb. 88",
+   "title": "The House at Pooh Corner",
+   "author": "A. A. Milne",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Feb. 88",
+   "title": "The Wind in the Willows",
+   "author": "Kenneth Grahame",
+   "as_written": "Kenneth Graham",
+   "marks": null,
+   "confidence": "high",
+   "comment": "date may read 'Feb. 86' but sequence implies 88"
+  },
+  {
+   "seq": 6,
+   "date_raw": "Mar. 88",
+   "title": "Journey from Peppermint Street",
+   "author": "Meindert DeJong",
+   "as_written": "Meindert DeJong",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Mar. 88",
+   "title": "The Garden Under the Sea",
+   "author": "George Selden",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Mar. 88",
+   "title": "A Grass Rope",
+   "author": "William Mayne",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "Mar. 88",
+   "title": "The Singing Hill",
+   "author": "Meindert DeJong",
+   "as_written": "Meindert De Jong",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "Mar. 88",
+   "title": "Cat Walk",
+   "author": "Mary Stolz",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

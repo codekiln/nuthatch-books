@@ -1,0 +1,116 @@
+{
+ "image": "IMG_0367",
+ "page_notes": "Yellow legal pad page, Oct 1995 – March 1997. 'Mar. 96' and 'Apr. 96' are on consecutive lines for the two C. S. Lewis Space Trilogy books, which share one author line. The Laura Ingalls Wilder line is undated (likely 1996, between Apr. 96 and Jan. 97). 'On the Way Home' is underlined word by word.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Oct. 95",
+   "title": "The Arkadians",
+   "author": "Lloyd Alexander",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Nov 95",
+   "title": "The Barn",
+   "author": "Avi",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Nov. 95",
+   "title": "The Bamboo Flute",
+   "author": "Garry Disher",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Nov. 95",
+   "title": "Over the Water",
+   "author": "Maude Casey",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "winter 96",
+   "title": "The Chronicles of Narnia",
+   "author": "C. S. Lewis",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Mar. 96",
+   "title": "Out of the Silent Planet",
+   "author": "C. S. Lewis",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": "author line shared with Perelandra"
+  },
+  {
+   "seq": 7,
+   "date_raw": "Apr. 96",
+   "title": "Perelandra",
+   "author": "C. S. Lewis",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": null,
+   "title": "Little House books",
+   "author": "Laura Ingalls Wilder",
+   "as_written": "Laura Ingalls Wilder books",
+   "marks": null,
+   "confidence": "high",
+   "comment": "series listed as one line, undated"
+  },
+  {
+   "seq": 9,
+   "date_raw": null,
+   "title": "On the Way Home",
+   "author": "Laura Ingalls Wilder",
+   "as_written": "+ On the Way Home",
+   "marks": "underlined; preceded by '+'",
+   "confidence": "high",
+   "comment": "continuation of the Wilder line, undated"
+  },
+  {
+   "seq": 10,
+   "date_raw": "Jan. 97",
+   "title": "Caddie Woodlawn",
+   "author": "Carol Ryrie Brink",
+   "as_written": "Caddie Woodlawn / C. R. Brink",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 11,
+   "date_raw": "March 97",
+   "title": "Free Land",
+   "author": "Rose Wilder Lane",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

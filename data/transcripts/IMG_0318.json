@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0318",
+ "page_notes": "Two entries dated at top (Sept. Oct. 85; 1984), then undated * entries. A struck-through 'Sept. 86' in the left margin beside the Meindert De Jong author line (between The Big Goose and the Little White Duck and The Almost All-White Rabbity Cat).",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Sept. Oct. 85",
+   "title": "Little House books (complete set)",
+   "author": "Laura Ingalls Wilder",
+   "as_written": "Little House Books - complete set",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "1984",
+   "title": "The Chronicles of Narnia",
+   "author": "C. S. Lewis",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": null,
+   "title": "You Were Princess Last Time",
+   "author": "Laura Fisher",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": null,
+   "title": "Amy and the Sorrel Summer",
+   "author": "Laura Fisher",
+   "as_written": "Amy & the Sorrel Summer",
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": null,
+   "title": "Alice's Adventures in Wonderland",
+   "author": "Lewis Carroll",
+   "as_written": "Alice in Wonderland / Lewiss Caroll",
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": null,
+   "title": "The Bad Times of Irma Baumlein",
+   "author": "Carol Ryrie Brink",
+   "as_written": "The Bad Times of Irma Baumlein",
+   "marks": "*",
+   "confidence": "high",
+   "comment": "first letter of Irma looks like 'J/I'"
+  },
+  {
+   "seq": 7,
+   "date_raw": null,
+   "title": "The Voyages of Doctor Dolittle",
+   "author": "Hugh Lofting",
+   "as_written": "The Voyages of Dr. Dolittle",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Sept. 86 (struck through)",
+   "title": "The Big Goose and the Little White Duck",
+   "author": "Meindert DeJong",
+   "as_written": "The Big Goose & the Little White Duck / Meindert De Jong",
+   "marks": "*, struck-through date in margin",
+   "confidence": "high",
+   "comment": "Struck-through 'Sept. 86' sits beside the author line; may belong to this or the next entry"
+  },
+  {
+   "seq": 9,
+   "date_raw": null,
+   "title": "The Almost All-White Rabbity Cat",
+   "author": "Meindert DeJong",
+   "as_written": "De Jong",
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": null,
+   "title": "The Call of the Wild",
+   "author": "Jack London",
+   "as_written": "Call of the Wild",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

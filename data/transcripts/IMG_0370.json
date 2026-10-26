@@ -1,0 +1,126 @@
+{
+ "image": "IMG_0370",
+ "page_notes": "Yellow legal pad page, Jan 1998 – May 1999. Susan Cooper's Dark Is Rising sequence listed one title per line with month-only dates (Jan 99, Feb, March, April, May) and ditto marks for author; kept as separate entries since each has its own date. Last entry (Amy Tan) in a different, thinner pen.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Jan. 98",
+   "title": "Jane Eyre",
+   "author": "Charlotte Brontë",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Feb. 98",
+   "title": "Wuthering Heights",
+   "author": "Emily Brontë",
+   "as_written": "Wuthering Hights",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Mar. 98",
+   "title": "Seven Alone",
+   "author": "Honoré Morrow",
+   "as_written": "Seven Alone (no author written)",
+   "marks": null,
+   "confidence": "medium",
+   "comment": "No author written; Seven Alone is the 1950s retitling of Honoré Morrow's On to Oregon!"
+  },
+  {
+   "seq": 4,
+   "date_raw": "Mar. 98",
+   "title": "A Connecticut Yankee in King Arthur's Court",
+   "author": "Mark Twain",
+   "as_written": "A Connecticut yankee in King Arther's Court. / Mark twain",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Apr. 98",
+   "title": "Villette",
+   "author": "Charlotte Brontë",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "July 98",
+   "title": "Sherlock Holmes",
+   "author": "Sir Arthur Conan Doyle",
+   "as_written": "Sherlock Holmes (no author written)",
+   "marks": null,
+   "confidence": "medium",
+   "comment": "unspecified Sherlock Holmes stories; no author written"
+  },
+  {
+   "seq": 7,
+   "date_raw": "Jan 99",
+   "title": "Over Sea, Under Stone",
+   "author": "Susan Cooper",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Feb",
+   "title": "The Dark Is Rising",
+   "author": "Susan Cooper",
+   "as_written": null,
+   "marks": "ditto marks for author",
+   "confidence": "high",
+   "comment": "month only; year 99 implied"
+  },
+  {
+   "seq": 9,
+   "date_raw": "March",
+   "title": "Greenwitch",
+   "author": "Susan Cooper",
+   "as_written": null,
+   "marks": "ditto marks for author",
+   "confidence": "high",
+   "comment": "month only; year 99 implied"
+  },
+  {
+   "seq": 10,
+   "date_raw": "April",
+   "title": "The Grey King",
+   "author": "Susan Cooper",
+   "as_written": null,
+   "marks": "ditto marks for author",
+   "confidence": "high",
+   "comment": "month only; year 99 implied"
+  },
+  {
+   "seq": 11,
+   "date_raw": "May",
+   "title": "Silver on the Tree",
+   "author": "Susan Cooper",
+   "as_written": null,
+   "marks": "ditto marks for author",
+   "confidence": "high",
+   "comment": "month only; year 99 implied"
+  },
+  {
+   "seq": 12,
+   "date_raw": "May 99",
+   "title": "The Hundred Secret Senses",
+   "author": "Amy Tan",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": "author written in different pen"
+  }
+ ]
+}

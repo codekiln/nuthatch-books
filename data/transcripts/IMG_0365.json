@@ -1,0 +1,66 @@
+{
+ "image": "IMG_0365",
+ "page_notes": "Yellow legal pad page, Aug 1994 – Apr 1995. Two series blocks: Lloyd Alexander's Prydain Chronicles (5 titles under 'Aug. 94', one author line) and Brian Jacques' Redwall books (6 titles under 'Oct. 94 thru Feb. 95', one author line); each block kept as one entry.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Aug. 94",
+   "title": "The Chronicles of Prydain: The Book of Three; The Black Cauldron; The Castle of Llyr; Taran Wanderer; The High King",
+   "author": "Lloyd Alexander",
+   "as_written": "The Book of Three / The Black Cauldron / The Castle of Llyr / Taran Wanderer / The High King / Lloyd Alexander",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Oct. 94 thru Feb. 95",
+   "title": "Redwall series: Mossflower; Redwall; Mattimeo; Mariel of Redwall; Salamandastron; Martin the Warrior",
+   "author": "Brian Jacques",
+   "as_written": "Mossflower / Redwall / Mattimeo / Mariel of Redwall / Salamandastron / Martin the Warrior / Brian Jacques",
+   "marks": null,
+   "confidence": "high",
+   "comment": "date range written over three margin lines: 'Oct. 94 / thru / Feb. 95'"
+  },
+  {
+   "seq": 3,
+   "date_raw": "Feb. 95",
+   "title": "Cat Running",
+   "author": "Zilpha Keatley Snyder",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Mar. 95",
+   "title": "Go to the Room of the Eyes",
+   "author": "Betty K. Erwin",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Mar. 95",
+   "title": "Catherine, Called Birdy",
+   "author": "Karen Cushman",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Apr. 95",
+   "title": "The Mennyms",
+   "author": "Sylvia Waugh",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0328",
+ "page_notes": "All entries dated Dec. 88 to Jan. 89. Underlines beneath the second Dec. 88 (Secret of the Andes) and first Jan. 89 (Adam of the Road).",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Dec. 88",
+   "title": "The BFG",
+   "author": "Roald Dahl",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Dec. 88",
+   "title": "Secret of the Andes",
+   "author": "Ann Nolan Clark",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Dec. 88",
+   "title": "The Stone Book",
+   "author": "Alan Garner",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Dec. 88",
+   "title": "Little Lord Fauntleroy",
+   "author": "Frances Hodgson Burnett",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Dec. 88",
+   "title": "Indian Sleep-Man Tales",
+   "author": "Bernice G. Anderson",
+   "as_written": "Indian Sleep Man Tales",
+   "marks": null,
+   "confidence": "medium",
+   "comment": "author middle initial read as G."
+  },
+  {
+   "seq": 6,
+   "date_raw": "Jan. 89",
+   "title": "Adam of the Road",
+   "author": "Elizabeth Janet Gray",
+   "as_written": "Elizabeth Janet Gray",
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": "surname written with a looped G that resembles 'Shay'"
+  },
+  {
+   "seq": 7,
+   "date_raw": "Jan. 89",
+   "title": "Granny Reardun",
+   "author": "Alan Garner",
+   "as_written": "Granny Reardun",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Jan. 89",
+   "title": "The Aimer Gate",
+   "author": "Alan Garner",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "Jan. 89",
+   "title": "Onion John",
+   "author": "Joseph Krumgold",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "Jan. 89",
+   "title": "Shen of the Sea",
+   "author": "Arthur Bowie Chrisman",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

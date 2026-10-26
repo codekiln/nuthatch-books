@@ -1,0 +1,76 @@
+{
+ "image": "IMG_0327",
+ "page_notes": "Dated Oct.-Nov. 88 to Nov. 88. The first entry is a header 'The Chronicles of Narnia: Bks. 1-7' followed by the seven titles listed one per line under a single date and single author line; kept as one entry. Faint margin dates (Dec. 88, Jan. 89 ...) are bleed-through from the next page.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Oct.-Nov. 88",
+   "title": "The Chronicles of Narnia (books 1-7)",
+   "author": "C. S. Lewis",
+   "as_written": "The Chronicles of Narnia: Bks. 1-7",
+   "marks": null,
+   "confidence": "high",
+   "comment": "Lists: The Lion, the Witch & the Wardrobe; Prince Caspian; The Voyage of the \"Dawn Treader\"; The Silver Chair; The Horse & His Boy; The Magician's Nephew; The Last Battle"
+  },
+  {
+   "seq": 2,
+   "date_raw": "Nov. 88",
+   "title": "Sarah, Plain and Tall",
+   "author": "Patricia MacLachlan",
+   "as_written": "Sarah, Plain & Tall",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Nov. 88",
+   "title": "The Cat Who Went to Heaven",
+   "author": "Elizabeth Coatsworth",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Nov. 88",
+   "title": "Thimble Summer",
+   "author": "Elizabeth Enright",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Nov. 88",
+   "title": "The Saturdays",
+   "author": "Elizabeth Enright",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Nov. 88",
+   "title": "Snow Dog",
+   "author": "Jim Kjelgaard",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Nov. 88",
+   "title": "Wild Trek",
+   "author": "Jim Kjelgaard",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}
