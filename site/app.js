@@ -131,7 +131,7 @@
     const btn = h("button", {
       class: "kid", type: "button", disabled: !isKid,
       "aria-pressed": isKid ? "false" : null,
-      onclick: isKid ? () => setFocus(state.focus === member.slug ? null : member.slug) : null,
+      onclick: isKid ? () => openKid(member.slug) : null,
     },
       h("span", { class: "frame" }, portrait(member)),
       h("span", { class: "kid-name", text: member.name }),
@@ -198,6 +198,10 @@
         h("span", { class: "year-count", text: inYear.length === 1 ? "1 book" : `${inYear.length} books` }),
         ages.length ? h("ul", { class: "ages", "aria-label": `Ages in ${y}` }, ages.map((a) => ageChip(a.kid, a.age))) : null,
       ),
+      kids.filter((k) => k.born === y).map((k) => h("button", { class: "nest", type: "button", onclick: () => openKid(k.slug) },
+        h("span", { class: "nest-bowl" }, portrait(k, "nest-img")),
+        h("span", { class: "nest-words" }, h("b", { text: `${k.name} arrived!` }), ` A new listener joined the read-alouds in ${y}.`),
+      )),
       h("div", { class: "seasons" }, SEASONS.map((s) => {
         const list = inYear.filter((b) => b.season === s.key);
         return h("section", { class: `season ${s.key}`, "aria-label": `${s.label} ${y}` },
@@ -387,9 +391,96 @@
       b.parts.length ? [h("h3", { text: "Books on this line" }), h("ul", { class: "list" }, b.parts.map((x) => h("li", { text: x })))] : null,
       h("h3", { text: all.length > 1 ? `Read aloud ${all.length} times` : "Read aloud" }),
       checkoutTable(all, false),
+      h("div", { class: "card-actions" },
+        h("button", { class: "btn", type: "button", onclick: () => findOnTimeline(b.id), text: "Find it on the timeline" }),
+        h("button", { class: "btn btn-quiet", type: "button", onclick: pullABook, text: "Pull another book" }),
+      ),
       link(c.source),
     ], c.title || b.title);
     highlightAges();
+  }
+
+  function findOnTimeline(id) {
+    const el = slipEls.get(id);
+    if (!el) return;
+    if (el.hidden) {
+      $("#q").value = ""; genreSel.value = ""; state.q = ""; state.genre = "";
+      applyFilter();
+    }
+    dialog.close();
+    el.scrollIntoView({ block: "center" });
+    el.classList.remove("flash");
+    void el.offsetWidth;
+    el.classList.add("flash");
+  }
+
+  function pullABook() {
+    const b = books[Math.floor(Math.random() * books.length)];
+    openBook(b.id);
+  }
+  $("#pull").addEventListener("click", pullABook);
+
+  function openKid(slug) {
+    const kid = kids.find((k) => k.slug === slug);
+    const ageOf = (b) => b.season_year - kid.born;
+    const heard = books.filter((b) => ageOf(b) >= 0);
+    const fromAge = Math.max(0, firstYear - kid.born);
+    const perAge = [];
+    for (let a = fromAge; a <= lastYear - kid.born; a++) perAge.push({ age: a, n: heard.filter((b) => ageOf(b) === a).length });
+    const most = Math.max(...perAge.map((p) => p.n), 1);
+    const busiest = perAge.reduce((x, p) => (p.n > x.n ? p : x), perAge[0]);
+
+    const firstHeard = books.find((b) => b.year >= kid.born);
+    const growingUp = heard.filter((b) => ageOf(b) >= 4 && ageOf(b) <= 12);
+    const authorCount = new Map();
+    for (const b of growingUp) for (const n of authorNames(b)) authorCount.set(n, (authorCount.get(n) || 0) + 1);
+    const topAuthors = [...authorCount.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 4);
+    const sevenYear = heard.filter((b) => ageOf(b) === 7);
+    const lit = state.focus === slug;
+
+    showCard([
+      h("div", { class: "kid-card-head" },
+        h("span", { class: "frame kid-card-frame" }, portrait(kid)),
+        h("div", {},
+          h("p", { class: "card-kind", text: "Listener's shelf" }),
+          h("h2", { id: "card-title", text: kid.name }),
+          h("p", { class: "by", text: kid.born < firstYear
+            ? `Born ${kid.born}. The notebook begins in ${firstYear}, when you were ${firstYear - kid.born}.`
+            : `Arrived in ${kid.born}, the ${ordinal(kids.indexOf(kid) + 1)} of five listeners.` }),
+        ),
+      ),
+      h("dl", { class: "fields" },
+        field("Since you arrived", `${heard.length} readings in the notebook`),
+        field("Ages 4 to 12", growingUp.length ? `${growingUp.length} readings` : null),
+        field("Busiest year", busiest.n ? `${kid.born + busiest.age}, when you were ${busiest.age || "a baby"}: ${busiest.n} books` : null),
+      ),
+      h("h3", { text: "Books read aloud at each age" }),
+      h("div", { class: "age-chart-wrap" }, h("div", { class: "age-chart", role: "list" }, perAge.map((p) =>
+        h("button", { class: "age-col", type: "button", role: "listitem", title: `Age ${p.age}, ${kid.born + p.age}: ${p.n} books`,
+          onclick: () => { dialog.close(); setFocus(slug); goToYear(kid.born + p.age); } },
+          h("span", { class: "age-n", text: p.n || "" }),
+          h("span", { class: "age-bar", style: `height:${Math.round((p.n / most) * 100)}%` }),
+          h("span", { class: "age-x", text: p.age }),
+        )))),
+      firstHeard ? [h("h3", { text: kid.born < firstYear ? "First book in the notebook" : "First book the year you arrived" }),
+        h("p", {}, h("button", { class: "inline-book", type: "button", onclick: () => openBook(firstHeard.id), text: (info(firstHeard) || {}).title || firstHeard.title }),
+          ` by ${firstHeard.author}, ${whenText(firstHeard)}.`)] : null,
+      topAuthors.length ? [h("h3", { text: "Most-heard authors, ages 4 to 12" }),
+        h("ul", { class: "list" }, topAuthors.map(([n, count]) => h("li", {},
+          h("button", { class: "author-link", type: "button", onclick: () => openAuthor(n), text: n }), ` · ${count} books`)))] : null,
+      sevenYear.length ? [h("h3", { text: `The year you were 7 (${kid.born + 7})` }),
+        h("ul", { class: "list" }, sevenYear.slice(0, 8).map((b) => h("li", {},
+          h("button", { class: "inline-book", type: "button", onclick: () => openBook(b.id), text: (info(b) || {}).title || b.title }))))] : null,
+      h("div", { class: "card-actions" },
+        h("button", { class: "btn", type: "button", onclick: () => { setFocus(lit ? null : slug); openKid(slug); },
+          text: lit ? "Stop lighting up my ages" : "Light up my ages on the timeline" }),
+        h("button", { class: "btn", type: "button", onclick: () => { dialog.close(); goToYear(Math.max(kid.born, firstYear)); },
+          text: kid.born < firstYear ? `Go to ${firstYear}` : `Go to ${kid.born}` }),
+      ),
+    ], kid.name);
+  }
+  function ordinal(n) {
+    return ["first", "second", "third", "fourth", "fifth"][n - 1];
   }
 
   function openAuthor(name) {
