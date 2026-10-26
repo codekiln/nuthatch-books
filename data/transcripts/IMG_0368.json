@@ -1,0 +1,76 @@
+{
+ "image": "IMG_0368",
+ "page_notes": "Yellow legal pad page, Feb–July 1997. Bracket in margin 'Feb. 97 } thru Apr. 97 }' spans the five Roger Lea MacBride Rocky Ridge books (one author line); kept as one entry. Two Maria D. Wilkes titles under 'Apr. 97' share one author line; also kept as one entry. 'Jn. 97' presumably June 1997.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Feb. 97 thru Apr. 97",
+   "title": "Rocky Ridge series: Little House on Rocky Ridge; Little Farm in the Ozarks; In the Land of the Big Red Apple; On the Other Side of the Hill; Little Town in the Ozarks",
+   "author": "Roger Lea MacBride",
+   "as_written": null,
+   "marks": "bracket in margin spanning the group",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Apr. 97",
+   "title": "Little House in Brookfield; Little Town at the Crossroads",
+   "author": "Maria D. Wilkes",
+   "as_written": "Little house in brookfield / Little town at the Crossroads / Maria d. Wilkes",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "May 97",
+   "title": "Little Women",
+   "author": "Louisa May Alcott",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Jn. 97",
+   "title": "My Friends the Wild Chimpanzees",
+   "author": "Jane van Lawick-Goodall",
+   "as_written": "My friends the Wild Chimpanzees / Jane Van-lawick Goodall",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Jn. 97",
+   "title": "Missing May",
+   "author": "Cynthia Rylant",
+   "as_written": "Missing May / Cynthia Pylant",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "July 97",
+   "title": "Jack and Jill",
+   "author": "Louisa May Alcott",
+   "as_written": "Jack & Jill",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "July 97",
+   "title": "Maniac Magee",
+   "author": "Jerry Spinelli",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

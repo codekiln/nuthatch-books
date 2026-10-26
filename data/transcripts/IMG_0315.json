@@ -1,0 +1,76 @@
+{
+ "image": "IMG_0315",
+ "page_notes": "Next legal-pad page, undated. Entries marked with *; several also with a dash line in the left margin. Bleed-through from the following page is visible but not transcribed.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": null,
+   "title": "Beezus and Ramona",
+   "author": "Beverly Cleary",
+   "as_written": "Beezus & Ramona / Beverly Cleary",
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": null,
+   "title": "Gay-Neck: The Story of a Pigeon",
+   "author": "Dhan Gopal Mukerji",
+   "as_written": "Gay Neck / Dhan Gopal Mukerji",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": null,
+   "title": "Ginger Pye",
+   "author": "Eleanor Estes",
+   "as_written": null,
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": null,
+   "title": "The Yearling",
+   "author": "Marjorie Kinnan Rawlings",
+   "as_written": null,
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": null,
+   "title": "Little Britches",
+   "author": "Ralph Moody",
+   "as_written": null,
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": null,
+   "title": "Caddie Woodlawn",
+   "author": "Carol Ryrie Brink",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": null,
+   "title": "White Stallion of Lipizza",
+   "author": "Marguerite Henry",
+   "as_written": "White Stallion of Lipizza / Henry",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

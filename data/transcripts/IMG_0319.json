@@ -1,0 +1,116 @@
+{
+ "image": "IMG_0319",
+ "page_notes": "Dated entries Mar. 86 through Apr. 87 in left margin; two undated lines marked only with a dash line (Black Beauty, Rascal).",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Mar. 86",
+   "title": "The Master Puppeteer",
+   "author": "Katherine Paterson",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Mar. 86",
+   "title": "Five Children and It",
+   "author": "E. Nesbit",
+   "as_written": "Five Children & It",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Apr. 86",
+   "title": "Lad: A Dog",
+   "author": "Albert Payson Terhune",
+   "as_written": "Lad, a Dog / Terehue",
+   "marks": null,
+   "confidence": "high",
+   "comment": "author written 'Terehue' (Terhune)"
+  },
+  {
+   "seq": 4,
+   "date_raw": "Sept. 86",
+   "title": "Peter Pan",
+   "author": "J. M. Barrie",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Oct. 86",
+   "title": "Pinocchio",
+   "author": "Carlo Collodi",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Oct. 86",
+   "title": "Tales Told Near a Crocodile",
+   "author": "Humphrey Harman",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": null,
+   "title": "Black Beauty",
+   "author": "Anna Sewell",
+   "as_written": null,
+   "marks": "dash line",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Mar. 87",
+   "title": "Snow Dog",
+   "author": "Jim Kjelgaard",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "Mar. 87",
+   "title": "Wild Trek",
+   "author": "Jim Kjelgaard",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": null,
+   "title": "Rascal",
+   "author": "Sterling North",
+   "as_written": null,
+   "marks": "dash line",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 11,
+   "date_raw": "Apr. 87",
+   "title": "The Castle of Llyr",
+   "author": "Lloyd Alexander",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

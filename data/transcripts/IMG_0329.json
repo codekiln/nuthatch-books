@@ -1,0 +1,96 @@
+{
+ "image": "IMG_0329",
+ "page_notes": "All entries dated Jan. 89 to Feb. 89. Bleed-through from the next page is visible but not transcribed.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Jan. 89",
+   "title": "Tom Fobble's Day",
+   "author": "Alan Garner",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Jan. 89",
+   "title": "The Fledgling",
+   "author": "Jane Langton",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Jan. 89",
+   "title": "Racso and the Rats of NIMH",
+   "author": "Jane Leslie Conly",
+   "as_written": "Racso & the Rats of Nimh",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Feb. 89",
+   "title": "Babe: The Gallant Pig",
+   "author": "Dick King-Smith",
+   "as_written": "Babe - The Gallant Pig",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Feb. 89",
+   "title": "Lotte's Locket",
+   "author": "Virginia Sorensen",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Feb. 89",
+   "title": "The Pushcart War",
+   "author": "Jean Merrill",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Feb. 89",
+   "title": "Too Much Magic",
+   "author": "Betty & Samuel Sterman",
+   "as_written": "Too Much Magic / Betsy & Samuel Sterman",
+   "marks": null,
+   "confidence": "medium",
+   "comment": "first author read as 'Betsy'; the book is by Betty Sterman and Samuel Sterman"
+  },
+  {
+   "seq": 8,
+   "date_raw": "Feb. 89",
+   "title": "The Magic Stone",
+   "author": "Leonie Kooiker",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "Feb. 89",
+   "title": "Encyclopedia Brown and the Case of the Mysterious Handprints",
+   "author": "Donald J. Sobol",
+   "as_written": "Encyclopedia Brown & The Case of the Mysterious Handprints",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0321",
+ "page_notes": "All entries dated Nov. 87 to Feb. 88. Underlines beneath the first Dec. 87 and the third Dec. 87 dates.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Nov. 87",
+   "title": "The Secret Garden",
+   "author": "Frances Hodgson Burnett",
+   "as_written": "Francis Hodgsen Burnett",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Nov. 87",
+   "title": "A Little Princess",
+   "author": "Frances Hodgson Burnett",
+   "as_written": "\" \" Burnett (ditto)",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Dec. 87",
+   "title": "One-Eyed Cat",
+   "author": "Paula Fox",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Dec. 87",
+   "title": "The Candy Corn Contest",
+   "author": "Patricia Reilly Giff",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Dec. 87",
+   "title": "The Incredible Journey",
+   "author": "Sheila Burnford",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Jan. 88",
+   "title": "The Phantom Tollbooth",
+   "author": "Norton Juster",
+   "as_written": "The Phantom Tollbooth (no author written)",
+   "marks": null,
+   "confidence": "high",
+   "comment": "author not written; filled in"
+  },
+  {
+   "seq": 7,
+   "date_raw": "Jan. 88",
+   "title": "Outlaw Red",
+   "author": "Jim Kjelgaard",
+   "as_written": "Kjelgaard",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Jan. 88",
+   "title": "White Fang",
+   "author": "Jack London",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "Jan. 88",
+   "title": "The Little Cow and the Turtle",
+   "author": "Meindert DeJong",
+   "as_written": "The Little Cow & the Turtle / Meindert De Jong",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "Feb. 88",
+   "title": "The Happiest Ending",
+   "author": "Yoshiko Uchida",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

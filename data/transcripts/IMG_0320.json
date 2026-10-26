@@ -1,0 +1,96 @@
+{
+ "image": "IMG_0320",
+ "page_notes": "Dated entries Apr. 87 to June 87, then undated * entries. Underline under the first Apr. 87; a dash line in the left margin beside From the Mixed-Up Files.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Apr. 87",
+   "title": "Harvey's Horrible Snake Disaster",
+   "author": "Eth Clifford",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Apr. 87",
+   "title": "The Summer of the Swans",
+   "author": "Betsy Byars",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "May 87",
+   "title": "Only Earth and Sky Last Forever",
+   "author": "Nathaniel Benchley",
+   "as_written": "Only Earth & Sky Last Forever",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "June 87",
+   "title": "The Chronicles of Narnia (books 1-7)",
+   "author": "C. S. Lewis",
+   "as_written": "The Chronicles of Narnia - Books 1-7",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": null,
+   "title": "The Enormous Egg",
+   "author": "Oliver Butterworth",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": null,
+   "title": "From the Mixed-Up Files of Mrs. Basil E. Frankweiler",
+   "author": "E. L. Konigsburg",
+   "as_written": null,
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": null,
+   "title": "Jennifer, Hecate, Macbeth, William McKinley, and Me, Elizabeth",
+   "author": "E. L. Konigsburg",
+   "as_written": "Jennifer, Hecate, Macbeth, William McKinley, & me, Elizabeth",
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": null,
+   "title": "Father's Arcane Daughter",
+   "author": "E. L. Konigsburg",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": null,
+   "title": "The Summer Birds",
+   "author": "Penelope Farmer",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

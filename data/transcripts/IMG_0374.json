@@ -1,0 +1,86 @@
+{
+ "image": "IMG_0374",
+ "page_notes": "Yellow legal pad page, roughly 2002–2003+. Only three dates on the page (Dec. 02, Jan. 03, Jan. 03); first entry above Dec. 02 and everything below 'Stuck in Neutral' are undated. Harry Potter series listed as a block of seven lines with ditto marks and one author note; kept as one entry. The Harry Potter block (incl. Deathly Hallows, 2007) shows the list continued for years after the last date.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": null,
+   "title": "A Series of Unfortunate Events: The Bad Beginning",
+   "author": "Lemony Snicket",
+   "as_written": null,
+   "marks": "asterisks around 'The Bad Beginning'",
+   "confidence": "high",
+   "comment": "undated (before Dec. 02)"
+  },
+  {
+   "seq": 2,
+   "date_raw": "Dec. 02",
+   "title": "The Poisonwood Bible",
+   "author": "Barbara Kingsolver",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Jan. 03",
+   "title": "A Single Shard",
+   "author": "Linda Sue Park",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Jan. 03",
+   "title": "Stuck in Neutral",
+   "author": "Terry Trueman",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": null,
+   "title": "Gay-Neck: The Story of a Pigeon",
+   "author": "Dhan Gopal Mukerji",
+   "as_written": "Gay Neck (no author written)",
+   "marks": null,
+   "confidence": "medium",
+   "comment": "undated; no author written"
+  },
+  {
+   "seq": 6,
+   "date_raw": null,
+   "title": "The Door in the Wall",
+   "author": "Marguerite de Angeli",
+   "as_written": "A Door in the Wall (no author written)",
+   "marks": null,
+   "confidence": "medium",
+   "comment": "undated; re-read (also logged Dec. 93)"
+  },
+  {
+   "seq": 7,
+   "date_raw": null,
+   "title": "Great Expectations",
+   "author": "Charles Dickens",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": "undated"
+  },
+  {
+   "seq": 8,
+   "date_raw": null,
+   "title": "Harry Potter series: Sorcerer's Stone; Chamber of Secrets; Prisoner of Azkaban; Goblet of Fire; Order of the Phoenix; Half-Blood Prince; Deathly Hallows",
+   "author": "J. K. Rowling",
+   "as_written": "Harry Potter & the Sorcerer's Stone / \" \" & the Chamber of Secrets / ... / \" \" Half-Blood Prince (J.K. Rowling) / \" \" The Deathly Hallows",
+   "marks": "ditto marks for 'Harry Potter'",
+   "confidence": "high",
+   "comment": "undated"
+  }
+ ]
+}

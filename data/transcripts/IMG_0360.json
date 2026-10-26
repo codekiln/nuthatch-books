@@ -1,0 +1,11 @@
+{"image":"IMG_0360","page_notes":"Dates Feb. 93 - Sept. 93. 'Mar-July 93' is written once beside the Narnia entry and appears to cover both the Narnia and the Tolkien (Ring Trilogy & Hobbit) entries, which has no date of its own.","entries":[
+{"seq":1,"date_raw":"Feb. 93","title":"Knights of the Kitchen Table (The Time Warp Trio)","author":"Jon Scieszka","as_written":"THE TIME WARP TRIO - Knights of the Kitchen Table","marks":null,"confidence":"high","comment":null},
+{"seq":2,"date_raw":"Feb. 93","title":"Charlie and the Chocolate Factory","author":"Roald Dahl","as_written":"Charlie & the Chocolate Factory","marks":null,"confidence":"high","comment":null},
+{"seq":3,"date_raw":"Feb. 93","title":"Charlie and the Great Glass Elevator","author":"Roald Dahl","as_written":"Charlie & the Great Glass Elevator","marks":null,"confidence":"high","comment":null},
+{"seq":4,"date_raw":"Feb. 93","title":"The BFG","author":"Roald Dahl","as_written":null,"marks":null,"confidence":"high","comment":null},
+{"seq":5,"date_raw":"Mar-July 93","title":"The Chronicles of Narnia (7 books)","author":"C. S. Lewis","as_written":"The Chronicles of Narnia / 7 Books / C.S. Lewis","marks":null,"confidence":"high","comment":"Series kept as one entry."},
+{"seq":6,"date_raw":null,"title":"The Lord of the Rings trilogy and The Hobbit (4 books)","author":"J. R. R. Tolkien","as_written":"The Ring Trilogy & The Hobbit / 4 Books / J.R. Tolkein","marks":null,"confidence":"high","comment":"No own date; likely within the Mar-July 93 span."},
+{"seq":7,"date_raw":"Aug. 93","title":"Adrift","author":"Allan Baillie","as_written":null,"marks":null,"confidence":"high","comment":null},
+{"seq":8,"date_raw":"Sept. 93","title":"The Boggart","author":"Susan Cooper","as_written":null,"marks":null,"confidence":"high","comment":null},
+{"seq":9,"date_raw":"Sept. 93","title":"Morning Girl","author":"Michael Dorris","as_written":null,"marks":null,"confidence":"high","comment":null}
+]}

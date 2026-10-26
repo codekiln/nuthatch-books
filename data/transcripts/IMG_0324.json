@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0324",
+ "page_notes": "Mostly dated May 88 to June 88; four undated * entries (Charlotte's Web, Stuart Little, The Trumpet of the Swan, Heidi) interleaved after the first entry. Faint dates in the margin beside those * lines appear to be bleed-through from the next page, not written here. Underline beneath the first June 88.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "May 88",
+   "title": "Charlie and the Great Glass Elevator",
+   "author": "Roald Dahl",
+   "as_written": "Charlie & the Great Glass Elevator",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": null,
+   "title": "Charlotte's Web",
+   "author": "E. B. White",
+   "as_written": null,
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": null,
+   "title": "Stuart Little",
+   "author": "E. B. White",
+   "as_written": null,
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": null,
+   "title": "The Trumpet of the Swan",
+   "author": "E. B. White",
+   "as_written": null,
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": null,
+   "title": "Heidi",
+   "author": "Johanna Spyri",
+   "as_written": "Heidi / Spyri",
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "May 88",
+   "title": "Anastasia Again!",
+   "author": "Lois Lowry",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "May 88",
+   "title": "The Moffats",
+   "author": "Eleanor Estes",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "May 88",
+   "title": "The Wheel on the School",
+   "author": "Meindert DeJong",
+   "as_written": "Meindert De Jong",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "June 88",
+   "title": "Tales of a Fourth Grade Nothing",
+   "author": "Judy Blume",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "June 88",
+   "title": "Danny the Champion of the World",
+   "author": "Roald Dahl",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0325",
+ "page_notes": "All entries dated June 88 to Aug. 88. Underline beneath the last Aug. 88.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "June 88",
+   "title": "Cassie Binegar",
+   "author": "Patricia MacLachlan",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "June 88",
+   "title": "Blue Willow",
+   "author": "Doris Gates",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "June 88",
+   "title": "The Witch's Brat",
+   "author": "Rosemary Sutcliff",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "July 88",
+   "title": "Miss Hickory",
+   "author": "Carolyn Sherwin Bailey",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "July 88",
+   "title": "Rabbit Hill",
+   "author": "Robert Lawson",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "July 88",
+   "title": "The Ordinary Princess",
+   "author": "M. M. Kaye",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "July 88",
+   "title": "Hitty, Her First Hundred Years",
+   "author": "Rachel Field",
+   "as_written": "Hitty",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Aug. 88",
+   "title": "Where the Red Fern Grows",
+   "author": "Wilson Rawls",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "Aug. 88",
+   "title": "Mrs. Frisby and the Rats of NIMH",
+   "author": "Robert C. O'Brien",
+   "as_written": "Mrs Frisby & the Rats of NIMH",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "Aug. 88",
+   "title": "The Sign of the Beaver",
+   "author": "Elizabeth George Speare",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

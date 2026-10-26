@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0317",
+ "page_notes": "All entries dated in left margin, Feb. 86 to Mar. 86. A short line above the first Feb. 86 and an underline beneath the first Mar. 86 for The Great Brain.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Feb. 86",
+   "title": "The Town Cats and Other Tales",
+   "author": "Lloyd Alexander",
+   "as_written": "The Town Cats & Other Tales",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Feb. 86",
+   "title": "The Secret Garden",
+   "author": "Frances Hodgson Burnett",
+   "as_written": "The Secret Garden / Francis Hodgsen Burnett",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Feb. 86",
+   "title": "Sing Down the Moon",
+   "author": "Scott O'Dell",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Feb. 86",
+   "title": "Magical Melons",
+   "author": "Carol Ryrie Brink",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Mar. 86",
+   "title": "Mary Poppins",
+   "author": "P. L. Travers",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Mar. 86",
+   "title": "The Great Brain",
+   "author": "John D. Fitzgerald",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Mar. 86",
+   "title": "More Adventures of the Great Brain",
+   "author": "John D. Fitzgerald",
+   "as_written": "J. D. Fitzgerald",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Mar. 86",
+   "title": "The Great Brain at the Academy",
+   "author": "John D. Fitzgerald",
+   "as_written": "J. D. Fitzgerald",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "Mar. 86",
+   "title": "The Great Brain Reforms",
+   "author": "John D. Fitzgerald",
+   "as_written": "J.D. Fitzgerald",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "Mar. 86",
+   "title": "The Return of the Great Brain",
+   "author": "John D. Fitzgerald",
+   "as_written": "J. D. Fitzgerald",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

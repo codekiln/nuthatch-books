@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0316",
+ "page_notes": "Undated * entries at top, then dated entries begin (Jan. 86, Feb. 86) in left margin. The Jan. 86 beside A Wrinkle in Time is underlined.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": null,
+   "title": "Strawberry Girl",
+   "author": "Lois Lenski",
+   "as_written": null,
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": null,
+   "title": "To Be a Logger",
+   "author": "Lois Lenski",
+   "as_written": "To Be a Logger - \" \" (ditto for Lois Lenski)",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": "Title is 'To Be a Logger' (Lois Lenski, 1967); author given by ditto marks"
+  },
+  {
+   "seq": 3,
+   "date_raw": null,
+   "title": "Danny Dunn and the Anti-Gravity Paint",
+   "author": "Jay Williams & Raymond Abrashkin",
+   "as_written": "Danny Dunn & the Anti-Gravity Paint",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": null,
+   "title": "Julie of the Wolves",
+   "author": "Jean Craighead George",
+   "as_written": "Julie of the Wolves / Jean C. George",
+   "marks": "dash line, *",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": null,
+   "title": "The Summer of the Falcon",
+   "author": "Jean Craighead George",
+   "as_written": "Summer of the Falcon",
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": null,
+   "title": "The Door in the Wall",
+   "author": "Marguerite de Angeli",
+   "as_written": "A Door in the Wall / de Angeli",
+   "marks": "*",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Jan. 86",
+   "title": "A Wrinkle in Time",
+   "author": "Madeleine L'Engle",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Jan. 86",
+   "title": "Of Nightingales That Weep",
+   "author": "Katherine Paterson",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "Jan. 86",
+   "title": "Island of the Blue Dolphins",
+   "author": "Scott O'Dell",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "Feb. 86",
+   "title": "Sadako and the Thousand Paper Cranes",
+   "author": "Eleanor Coerr",
+   "as_written": "Sadako & the 1000 Paper Cranes / Eleanor Coerr",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

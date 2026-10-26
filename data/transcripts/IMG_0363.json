@@ -1,0 +1,96 @@
+{
+ "image": "IMG_0363",
+ "page_notes": "Yellow legal pad page, Jan–Apr 1994. Alan Garner's four Stone Book Quartet titles are listed under one Apr. 94 date with a single author line; kept as one entry.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Jan. 94",
+   "title": "The Pearl",
+   "author": "John Steinbeck",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Feb. 94",
+   "title": "The Tunnel of Hugsy Goode",
+   "author": "Eleanor Estes",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Feb. 94",
+   "title": "The Enchanted Raisin",
+   "author": "Jacqueline Balcells",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Feb. 94",
+   "title": "The Little Bookroom",
+   "author": "Eleanor Farjeon",
+   "as_written": "Little Bookroom / Elizabeth Farejon",
+   "marks": null,
+   "confidence": "medium",
+   "comment": "Author written as 'Elizabeth Farejon'; the book is by Eleanor Farjeon"
+  },
+  {
+   "seq": 5,
+   "date_raw": "Mar. 94",
+   "title": "The True Confessions of Charlotte Doyle",
+   "author": "Avi",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Mar. 94",
+   "title": "The Alley",
+   "author": "Eleanor Estes",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Apr. 94",
+   "title": "The Stone Book Quartet: The Stone Book; Granny Reardun; The Aimer Gate; Tom Fobble's Day",
+   "author": "Alan Garner",
+   "as_written": "The Stone Book / Granny Reardun / The Aimer Gate / Tom Fobble's Day / Alan Garner",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Apr. 94",
+   "title": "The Wolves of Willoughby Chase",
+   "author": "Joan Aiken",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "Apr. 94",
+   "title": "Black Hearts in Battersea",
+   "author": "Joan Aiken",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}

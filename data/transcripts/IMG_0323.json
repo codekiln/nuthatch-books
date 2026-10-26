@@ -1,0 +1,106 @@
+{
+ "image": "IMG_0323",
+ "page_notes": "All entries dated Mar. 88 to May 88. Underline beneath the third date (Apr. 88, Otherwise Known as Sheila the Great). Last line lists two Tolkien titles together as one entry.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": "Mar. 88",
+   "title": "Journey to America",
+   "author": "Sonia Levitin",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": "Apr. 88",
+   "title": "James and the Giant Peach",
+   "author": "Roald Dahl",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": "Apr. 88",
+   "title": "Otherwise Known as Sheila the Great",
+   "author": "Judy Blume",
+   "as_written": null,
+   "marks": "date underlined",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 4,
+   "date_raw": "Apr. 88",
+   "title": "Anastasia Krupnik",
+   "author": "Lois Lowry",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 5,
+   "date_raw": "Apr. 88",
+   "title": "Along Came a Dog",
+   "author": "Meindert DeJong",
+   "as_written": "Meindert De Jong",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": "Apr. 88",
+   "title": "Doctor Dolittle's Zoo",
+   "author": "Hugh Lofting",
+   "as_written": "Dr. Dolittle's Zoo",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 7,
+   "date_raw": "Apr. 88",
+   "title": "Far Out the Long Canal",
+   "author": "Meindert DeJong",
+   "as_written": "Meindert De Jong",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 8,
+   "date_raw": "Apr. 88",
+   "title": "The Mouse and the Motorcycle",
+   "author": "Beverly Cleary",
+   "as_written": null,
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 9,
+   "date_raw": "May 88",
+   "title": "A Wind in the Door",
+   "author": "Madeleine L'Engle",
+   "as_written": "A Wind In the Door",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 10,
+   "date_raw": "May 88",
+   "title": "Smith of Wootton Major & Farmer Giles of Ham",
+   "author": "J. R. R. Tolkien",
+   "as_written": "Smith of Wootton Major & Farmer Giles of Ham",
+   "marks": null,
+   "confidence": "high",
+   "comment": "two titles written as one entry (published together in one volume)"
+  }
+ ]
+}

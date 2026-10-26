@@ -1,0 +1,66 @@
+{
+ "image": "IMG_0375",
+ "page_notes": "Yellow legal pad page, no dates at all; probably after IMG_0374 (2000s). Lower two-thirds blank. Edge Chronicles author line: 'Paul Stewart - Paul Riddell' with 'Paul' struck through and 'Chris' written beneath (corrected to Chris Riddell). Edge Chronicles three titles share one author line; kept as one entry.",
+ "entries": [
+  {
+   "seq": 1,
+   "date_raw": null,
+   "title": "The Edge Chronicles: Beyond the Deepwoods; Stormchaser; Midnight Over Sanctaphrax",
+   "author": "Paul Stewart & Chris Riddell",
+   "as_written": "Beyond the Deep Woods / Storm Chaser / Midnight Over Sanctaphrax / Paul Stewart - Paul Riddell [Paul struck, 'Chris' above/below]",
+   "marks": "'Paul' in 'Paul Riddell' struck through, corrected to 'Chris'",
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 2,
+   "date_raw": null,
+   "title": "The Good Earth",
+   "author": "Pearl S. Buck",
+   "as_written": "The Good Earth / Pearl Buck",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 3,
+   "date_raw": null,
+   "title": "A Tale of Two Cities",
+   "author": "Charles Dickens",
+   "as_written": "Tale of Two Cities. Charles Dickens",
+   "marks": null,
+   "confidence": "high",
+   "comment": "re-read; also logged Apr. 01"
+  },
+  {
+   "seq": 4,
+   "date_raw": null,
+   "title": "Great Expectations",
+   "author": "Charles Dickens",
+   "as_written": "Great Expectations C. Dickens",
+   "marks": null,
+   "confidence": "high",
+   "comment": "also logged on IMG_0374"
+  },
+  {
+   "seq": 5,
+   "date_raw": null,
+   "title": "Bleak House",
+   "author": "Charles Dickens",
+   "as_written": "Bleak House C. Dickens",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  },
+  {
+   "seq": 6,
+   "date_raw": null,
+   "title": "The Old Curiosity Shop",
+   "author": "Charles Dickens",
+   "as_written": "The Old Curiosity Shop C. Dickens",
+   "marks": null,
+   "confidence": "high",
+   "comment": null
+  }
+ ]
+}
