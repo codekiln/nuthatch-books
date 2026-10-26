@@ -10,3 +10,5 @@ A timeline of the books a mother read aloud to her five children in a log cabin 
 ```bash
 python3 scripts/build.py
 ```
+
+Every push to `main` rebuilds the page and deploys it to https://codekiln.github.io/nuthatch-books/.
