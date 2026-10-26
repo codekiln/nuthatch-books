@@ -1,0 +1,641 @@
+{
+ "books": {
+  "a-girl-of-the-limberlost": {
+   "title": "A Girl of the Limberlost",
+   "author_names": [
+    "Gene Stratton-Porter"
+   ],
+   "published": 1909,
+   "published_last": 1909,
+   "genres": [
+    "classic",
+    "nature",
+    "family story"
+   ],
+   "summary": "Elnora Comstock grows up poor beside the Limberlost swamp in Indiana, with a mother who resents her. She pays for her schooling by collecting and selling moths and other swamp specimens, and finds a calling in nature.",
+   "characters": [
+    "Elnora Comstock \u2014 poor, determined young woman",
+    "Katharine Comstock \u2014 her widowed, bitter mother",
+    "Philip Ammon \u2014 young man recuperating nearby",
+    "Margaret and Wesley Sinton \u2014 kind neighbors"
+   ],
+   "setting": "Limberlost Swamp and the town of Onabasha, northeastern Indiana, early 1900s",
+   "awards": [],
+   "series": "Sequel to Freckles",
+   "reading_age": "11-adult",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/A_Girl_of_the_Limberlost_(novel)",
+   "identified": true,
+   "note": "Source URL was the disambiguation title; corrected. Added neighbors; mother's name Katharine."
+  },
+  "beauty-a-retelling-of-the-story-of-beauty-and-the-beast": {
+   "title": "Beauty: A Retelling of the Story of Beauty and the Beast",
+   "author_names": [
+    "Robin McKinley"
+   ],
+   "published": 1978,
+   "published_last": 1978,
+   "genres": [
+    "fantasy",
+    "folk tales"
+   ],
+   "summary": "Honour, nicknamed Beauty, is the plain, bookish daughter of a merchant whose fortunes have collapsed. When her father stumbles on an enchanted castle, she volunteers to live there with its Beast, and an unexpected friendship grows. It was McKinley's first novel.",
+   "characters": [
+    "Beauty (Honour) \u2014 bookish, loyal youngest daughter",
+    "The Beast \u2014 master of the enchanted castle",
+    "Roderick Huston \u2014 her father, a ruined merchant",
+    "Grace and Hope \u2014 her sisters"
+   ],
+   "setting": "A small town called Blue Hill, and an enchanted castle in the woods",
+   "awards": [
+    "Phoenix Award honor book (1998)"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Beauty:_A_Retelling_of_the_Story_of_Beauty_and_the_Beast",
+   "identified": true,
+   "note": "Added Phoenix Award honor; named father and sisters; setting is Blue Hill and the castle. Reading age not stated by source; set null."
+  },
+  "blue-heron": {
+   "title": "Blue Heron",
+   "author_names": [
+    "Avi"
+   ],
+   "published": 1992,
+   "published_last": 1992,
+   "genres": [
+    "family story",
+    "nature"
+   ],
+   "summary": "Almost-thirteen-year-old Maggie spends August at the shore with her father, stepmother and their new baby, and feels like an outsider. Watching a great blue heron gives her something of her own while her family strains.",
+   "characters": [
+    "Maggie \u2014 thoughtful, guarded girl",
+    "Her father",
+    "Her stepmother and baby half-sibling"
+   ],
+   "setting": "Massachusetts seashore, a summer in the 1980s",
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=blue+heron+avi&fields=title,author_name,first_publish_year,subject&limit=3",
+   "identified": true,
+   "note": "Setting corrected from Maine to Massachusetts shore (per library summaries found via search; the fetched Open Library record confirms 1992, Avi, subjects family problems/herons/friendship). Decade of setting not verified."
+  },
+  "bridge-to-terabithia": {
+   "title": "Bridge to Terabithia",
+   "author_names": [
+    "Katherine Paterson"
+   ],
+   "published": 1977,
+   "published_last": 1977,
+   "genres": [
+    "family story",
+    "friendship",
+    "realistic fiction"
+   ],
+   "summary": "Jess Aarons, a fifth-grader who secretly loves to draw, becomes friends with new neighbor Leslie Burke. Together they invent Terabithia, a secret kingdom in the woods. The friendship changes how Jess faces his world, and the book deals with imagination and grief.",
+   "characters": [
+    "Jess (Jesse) Aarons \u2014 fearful boy who draws",
+    "Leslie Burke \u2014 imaginative new neighbor",
+    "May Belle Aarons \u2014 Jess's little sister",
+    "Miss Edmunds \u2014 his music teacher"
+   ],
+   "setting": "Rural Lark Creek, Virginia, 1970s",
+   "awards": [
+    "Newbery Medal 1978"
+   ],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": "Donna Diamond (first edition)",
+   "source": "https://en.wikipedia.org/wiki/Bridge_to_Terabithia_(novel)",
+   "identified": true,
+   "note": "Added illustrator Donna Diamond; setting Lark Creek, VA."
+  },
+  "earthfasts": {
+   "title": "Earthfasts",
+   "author_names": [
+    "William Mayne"
+   ],
+   "published": 1966,
+   "published_last": 2000,
+   "genres": [
+    "fantasy",
+    "adventure"
+   ],
+   "summary": "A drummer boy from the eighteenth century goes into a cave looking for Arthur's treasure and comes out two centuries later. Modern schoolboys David and Keith befriend him, and old magic breaks into the present. It opens a trilogy that draws on the King Arthur legend.",
+   "characters": [
+    "David \u2014 schoolboy",
+    "Keith \u2014 his friend",
+    "The drummer boy from the past"
+   ],
+   "setting": "Northern England, 1960s",
+   "awards": [],
+   "series": "Earthfasts trilogy",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/William_Mayne",
+   "identified": true,
+   "note": "published_last 2000 = Candlefasts. Wikipedia's Earthfasts page is a disambiguation; used the Mayne page plus search results. Summary corrected to the time-slip plot. Setting only loosely sourced (Mayne lived in North Yorkshire); character name 'Nowt' not confirmed, removed."
+  },
+  "east-of-eden": {
+   "title": "East of Eden",
+   "author_names": [
+    "John Steinbeck"
+   ],
+   "published": 1952,
+   "published_last": 1952,
+   "genres": [
+    "family saga",
+    "classic",
+    "historical fiction"
+   ],
+   "summary": "Two families, the Trasks and the Hamiltons, settle California's Salinas Valley and live out an echo of Cain and Abel across generations. The book asks how far people are free to choose who they become.",
+   "characters": [
+    "Adam Trask \u2014 idealistic settler",
+    "Cathy Ames (Kate) \u2014 his troubled wife",
+    "Cal and Aron Trask \u2014 their twin sons",
+    "Samuel Hamilton \u2014 Irish neighbor",
+    "Lee \u2014 Chinese-American servant and friend"
+   ],
+   "setting": "Salinas Valley, California, 1862-1918",
+   "awards": [],
+   "series": null,
+   "reading_age": "adult",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/East_of_Eden_(novel)",
+   "identified": true,
+   "note": "Source corrected to the novel article. Added Cathy and Aron; no awards listed."
+  },
+  "father-s-arcane-daughter": {
+   "title": "Father's Arcane Daughter",
+   "author_names": [
+    "E. L. Konigsburg"
+   ],
+   "published": 1976,
+   "published_last": 1976,
+   "genres": [
+    "mystery",
+    "family story"
+   ],
+   "summary": "A young woman long believed kidnapped returns to a wealthy family, and her half-brother and half-sister start to wonder if she is who she claims to be. It is a quiet mystery about family and identity.",
+   "characters": [
+    "Caroline \u2014 the returned daughter",
+    "Winston \u2014 her half-brother",
+    "Heidi \u2014 her half-sister"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/E._L._Konigsburg",
+   "identified": true,
+   "note": "Year 1976 confirmed (reissued as My Father's Daughter; 1990 TV film Caroline?). The page gives no plot or characters; those are from the original notes and unverified. Setting set to null."
+  },
+  "free-land": {
+   "title": "Free Land",
+   "author_names": [
+    "Rose Wilder Lane"
+   ],
+   "published": 1938,
+   "published_last": 1938,
+   "genres": [
+    "historical fiction"
+   ],
+   "summary": "Newlyweds, the Beatons, take up a 300-acre homestead on the Dakota prairie and fight cyclones, blizzards and drought to make a living. It was serialized in the Saturday Evening Post before book publication.",
+   "characters": [
+    "The Beatons \u2014 newlywed homesteaders"
+   ],
+   "setting": "Dakota Territory (now South Dakota), 1880s",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Free_Land_(novel)",
+   "identified": true,
+   "note": "Corrected family name (Beaton, not Beach) and the date (1880s). Inspired by Laura Ingalls Wilder's family. Reading age unverified; null."
+  },
+  "gay-neck-the-story-of-a-pigeon": {
+   "title": "Gay-Neck: The Story of a Pigeon",
+   "author_names": [
+    "Dhan Gopal Mukerji"
+   ],
+   "published": 1927,
+   "published_last": 1927,
+   "genres": [
+    "animal story",
+    "adventure",
+    "nature"
+   ],
+   "summary": "Gay-Neck, a prized pigeon in India, is raised by a boy, is frightened by hawks and is healed at a Buddhist lamasery. He later carries messages in World War I and has to recover from what he sees.",
+   "characters": [
+    "Gay-Neck \u2014 the pigeon",
+    "His young master \u2014 the boy who raises him",
+    "Ghond \u2014 a hunter who travels with them",
+    "The lamasery monks"
+   ],
+   "setting": "India, the Himalayas and World War I Europe",
+   "awards": [
+    "Newbery Medal 1928"
+   ],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "Boris Artzybasheff",
+   "source": "https://en.wikipedia.org/wiki/Gay-Neck,_the_Story_of_a_Pigeon",
+   "identified": true,
+   "note": "Ghond is a hunter, not the young master; setting extended to WWI Europe. Published by E. P. Dutton."
+  },
+  "in-search-of-tutankhamun": {
+   "title": "In Search of Tutankhamun",
+   "author_names": [
+    "Piero Ventura",
+    "Gian Paolo Ceserani"
+   ],
+   "published": 1985,
+   "published_last": 1985,
+   "genres": [
+    "nonfiction",
+    "history"
+   ],
+   "summary": "An illustrated account of the search for and discovery of Tutankhamun's tomb. Large pictures and short text show how archaeologists worked in Egypt.",
+   "characters": [],
+   "setting": "Egypt, 1920s",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Piero Ventura",
+   "source": "https://openlibrary.org/search.json?q=in+search+of+tutankhamun+ventura",
+   "identified": true,
+   "note": "Open Library lists the 1985 edition under Ventura and a 1987 omnibus (with Crete and Troy) under Ventura and Ceserani, so Ceserani's role is only partly confirmed. Wikipedia source was wrong; replaced."
+  },
+  "jack-and-jill": {
+   "title": "Jack and Jill",
+   "author_names": [
+    "Louisa May Alcott"
+   ],
+   "published": 1880,
+   "published_last": 1880,
+   "genres": [
+    "classic",
+    "family story",
+    "school story"
+   ],
+   "summary": "After a sledding crash, neighbors Jack and Jill are laid up for months in a New England village. With their families and friends they learn patience and kindness, and take on small projects to improve their lives. It first ran in St. Nicholas magazine.",
+   "characters": [
+    "Jack Minot \u2014 wealthy schoolboy",
+    "Jill (Janey Pecq) \u2014 high-spirited girl from a poorer family",
+    "Mrs. Minot \u2014 Jack's mother",
+    "Molly and Merry \u2014 Jill's friends"
+   ],
+   "setting": "Harmony Village, New England, 1870s",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Jack_and_Jill:_A_Village_Story",
+   "identified": true,
+   "note": "Subtitle article is the correct page. Names and setting added."
+  },
+  "knights-of-the-kitchen-table-the-time-warp-trio": {
+   "title": "Knights of the Kitchen Table (The Time Warp Trio)",
+   "author_names": [
+    "Jon Scieszka"
+   ],
+   "published": 1991,
+   "published_last": 2006,
+   "genres": [
+    "humor",
+    "fantasy",
+    "adventure"
+   ],
+   "summary": "Joe, Sam and Fred are pulled into the past by a magic book and land at King Arthur's court. They have to survive the Middle Ages and find a way home. It starts the Time Warp Trio series.",
+   "characters": [
+    "Joe \u2014 the narrator and book's owner",
+    "Sam \u2014 the brainy one",
+    "Fred \u2014 the headstrong sports fan"
+   ],
+   "setting": "Medieval Camelot, reached from a modern home",
+   "awards": [],
+   "series": "Time Warp Trio",
+   "reading_age": "7-10",
+   "illustrator": "Lane Smith",
+   "source": "https://en.wikipedia.org/wiki/The_Time_Warp_Trio",
+   "identified": true,
+   "note": "published_last 2006 = end of the series. Open Library shows a 1987 date, but Wikipedia gives 1991 for the series start; kept 1991. Dragon/giant details from original notes could not be verified and were dropped."
+  },
+  "lad-a-dog": {
+   "title": "Lad: A Dog",
+   "author_names": [
+    "Albert Payson Terhune"
+   ],
+   "published": 1919,
+   "published_last": 1929,
+   "genres": [
+    "dog story",
+    "classic",
+    "nature"
+   ],
+   "summary": "A dozen linked stories about a noble collie based on Terhune's own dog. Lad shows loyalty, courage and cleverness as he guards his family's country home.",
+   "characters": [
+    "Lad \u2014 noble collie",
+    "The Mistress \u2014 his beloved owner",
+    "The Master \u2014 her husband"
+   ],
+   "setting": "Sunnybank, Terhune's estate in northern New Jersey, early 1900s",
+   "awards": [],
+   "series": "Lad",
+   "reading_age": "9-13",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Albert_Payson_Terhune",
+   "identified": true,
+   "note": "Lad: A Dog redirects to another-language wiki; used the Terhune article. Later Lad books: 1922, 1929 (so published_last 1929). Estate named Sunnybank; 'The Place' naming not confirmed."
+  },
+  "lafcadio-the-lion-who-shot-back": {
+   "title": "Lafcadio, the Lion Who Shot Back",
+   "author_names": [
+    "Shel Silverstein"
+   ],
+   "published": 1963,
+   "published_last": 1963,
+   "genres": [
+    "humor",
+    "animal fantasy"
+   ],
+   "summary": "Lafcadio, a young lion, learns to shoot a hunter's rifle and is taken to the city, where he becomes a famous circus star and starts acting like a human. Narrated by Silverstein as 'Uncle Shelby', it asks what fame costs.",
+   "characters": [
+    "Lafcadio \u2014 the lion",
+    "Finchfinger \u2014 circus owner and hunter",
+    "Uncle Shelby \u2014 the narrator"
+   ],
+   "setting": "An African jungle, then a city",
+   "awards": [],
+   "series": null,
+   "reading_age": "6-10",
+   "illustrator": "Shel Silverstein",
+   "source": "https://en.wikipedia.org/wiki/Lafcadio:_The_Lion_Who_Shot_Back",
+   "identified": true,
+   "note": "'The Hunter \u2014 his teacher' replaced by Finchfinger. First appeared in Playboy, Nov 1963."
+  },
+  "little-britches": {
+   "title": "Little Britches",
+   "author_names": [
+    "Ralph Moody"
+   ],
+   "published": 1950,
+   "published_last": 1968,
+   "genres": [
+    "biography",
+    "family story",
+    "nonfiction"
+   ],
+   "summary": "A memoir of Ralph Moody's boyhood, when his family moves from New Hampshire to a Colorado ranch because of his father's health. Ralph learns to work like a cowboy and takes on more responsibility.",
+   "characters": [
+    "Ralph \u2014 the narrator",
+    "Father",
+    "Mother"
+   ],
+   "setting": "Littleton, Colorado, 1906-1910",
+   "awards": [],
+   "series": "Little Britches",
+   "reading_age": "10-14",
+   "illustrator": "Edward Shenton",
+   "source": "https://en.wikipedia.org/wiki/Little_Britches_(book)",
+   "identified": true,
+   "note": "Setting dates narrowed to 1906-1910. Published by W. W. Norton, 14 Aug 1950. published_last 1968 = Horse of a Different Color, per the Moody article."
+  },
+  "magic-by-the-lake": {
+   "title": "Magic by the Lake",
+   "author_names": [
+    "Edward Eager"
+   ],
+   "published": 1957,
+   "published_last": 1962,
+   "genres": [
+    "fantasy",
+    "family story",
+    "adventure"
+   ],
+   "summary": "Four siblings on summer vacation find that a lake is magic, with wishes granted through a grumpy talking box turtle. Their wishes take them to a desert island and Ali Baba's cave.",
+   "characters": [
+    "Jane",
+    "Mark",
+    "Katharine",
+    "Martha"
+   ],
+   "setting": "A lake in the 1920s United States, modeled on Eager's Indiana vacations",
+   "awards": [],
+   "series": "Tales of Magic",
+   "reading_age": "8-12",
+   "illustrator": "N. M. Bodecker",
+   "source": "https://en.wikipedia.org/wiki/Edward_Eager",
+   "identified": true,
+   "note": "Magic comes via a turtle, not a wish-granting lake alone. Setting 1920s. published_last 1962 (Seven-Day Magic) is from my memory; the page only says seven books."
+  },
+  "mr-revere-and-i": {
+   "title": "Mr. Revere and I",
+   "author_names": [
+    "Robert Lawson"
+   ],
+   "published": 1953,
+   "published_last": 1953,
+   "genres": [
+    "humor",
+    "historical fiction",
+    "animal fantasy"
+   ],
+   "summary": "Paul Revere's horse tells the story of the American Revolution from his own grumbling point of view. Published by Little, Brown, and illustrated by Lawson.",
+   "characters": [
+    "Scheherazade (Sherry) \u2014 Revere's talking horse",
+    "Paul Revere \u2014 patriot silversmith"
+   ],
+   "setting": "Boston and Massachusetts, 1775",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Robert Lawson",
+   "source": "https://en.wikipedia.org/wiki/Robert_Lawson_(author)",
+   "identified": true,
+   "note": "Horse's name corrected from 'Scrawny Sherman' to Scheherazade/Sherry (from a catalog and review via search; the Wikipedia article lacks it). Book article does not exist at the original URL."
+  },
+  "night-birds-on-nantucket": {
+   "title": "Nightbirds on Nantucket",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1966,
+   "published_last": 2005,
+   "genres": [
+    "adventure",
+    "alternate history",
+    "humor"
+   ],
+   "summary": "Dido Twite wakes on a whaling ship and is sent to Nantucket, where she and the captain's daughter uncover a plot to build a giant cannon to destroy King James III's palace. Nobody believes her. A fast, funny alternate-history adventure.",
+   "characters": [
+    "Dido Twite \u2014 brash, resourceful girl",
+    "Captain Jabez Casket \u2014 whaler",
+    "Pen (Dutiful Penitence) \u2014 his daughter",
+    "Nate Pardon \u2014 sailor",
+    "Mr. Slighcarp \u2014 villain",
+    "Doktor Axeltree Breadno \u2014 gunnery expert"
+   ],
+   "setting": "A whaler and Nantucket, in an alternate 19th century",
+   "awards": [],
+   "series": "Wolves Chronicles",
+   "reading_age": "9-13",
+   "illustrator": "Robin Jacques (US); Pat Marriott (UK)",
+   "source": "https://en.wikipedia.org/wiki/Nightbirds_on_Nantucket",
+   "identified": true,
+   "note": "Title is Nightbirds. Plot is a giant cannon, not a harpoon plan; 'Dr. Mazen' replaced. published_last 2005 (The Witch of Clatteringshaws) is from memory."
+  },
+  "night-journeys": {
+   "title": "Night Journeys",
+   "author_names": [
+    "Avi"
+   ],
+   "published": 1979,
+   "published_last": 1980,
+   "genres": [
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "In colonial Pennsylvania, Quaker orphan Everett Shinn is pulled into the hunt for two runaway indentured servants. He has to decide where duty ends and what is right.",
+   "characters": [
+    "Everett Shinn \u2014 young Quaker orphan"
+   ],
+   "setting": "Pennsylvania-New Jersey border, 1768",
+   "awards": [],
+   "series": "Night Journeys (followed by Encounter at Easton, 1980)",
+   "reading_age": "10-14",
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=night+journeys+avi&fields=title,first_publish_year,subject,first_sentence&limit=3",
+   "identified": true,
+   "note": "Protagonist is Everett Shinn, not Peter York. The Edgar nominee claim could not be verified and was removed. Year 1768 comes from a search snippet; Open Library confirms 1979 and Quaker/indentured-servant themes."
+  },
+  "roller-skates": {
+   "title": "Roller Skates",
+   "author_names": [
+    "Ruth Sawyer"
+   ],
+   "published": 1936,
+   "published_last": 1936,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "Ten-year-old Lucinda Wyman spends a year in 1890s New York City while her parents are in Italy. She roams on roller skates and befriends cab drivers, police officers and shopkeepers' families.",
+   "characters": [
+    "Lucinda Wyman \u2014 free-spirited ten-year-old",
+    "Miss Peters \u2014 her teacher",
+    "Miss Nettie \u2014 Miss Peters's shy friend",
+    "Mr. Gilligan \u2014 hansom cab driver",
+    "Tony Coppino \u2014 fruit seller's son"
+   ],
+   "setting": "New York City, 1890s",
+   "awards": [
+    "Newbery Medal 1937"
+   ],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": "Valenti Angelo",
+   "source": "https://en.wikipedia.org/wiki/Roller_Skates",
+   "identified": true,
+   "note": "Guardian and character list corrected; Gussie dropped (unconfirmed)."
+  },
+  "secret-of-the-andes": {
+   "title": "Secret of the Andes",
+   "author_names": [
+    "Ann Nolan Clark"
+   ],
+   "published": 1952,
+   "published_last": 1952,
+   "genres": [
+    "adventure",
+    "coming of age"
+   ],
+   "summary": "Cusi, a young Inca herder in the Peruvian Andes, lives with his llama Misti. He learns the truth about his birth and his people's past and must prove he is worthy of the secret.",
+   "characters": [
+    "Cusi \u2014 young llama herder",
+    "Misti \u2014 his llama"
+   ],
+   "setting": "The Peruvian Andes",
+   "awards": [
+    "Newbery Medal 1953"
+   ],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": "Jean Charlot",
+   "source": "https://en.wikipedia.org/wiki/Secret_of_the_Andes_(novel)",
+   "identified": true,
+   "note": "Characters trimmed to confirmed ones."
+  }
+ },
+ "authors": {
+  "Gian Paolo Ceserani": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": "Italian",
+   "bio": "Italian author who wrote text for illustrated history books for young readers, often with Piero Ventura. His books have been translated into many languages.",
+   "known_for": [
+    "In Search of Tutankhamun",
+    "Marco Polo",
+    "Pompei"
+   ],
+   "source": "https://archiv.bibiana.sk/ilustratori/737"
+  },
+  "Oliver Butterworth": {
+   "born": 1915,
+   "died": 1990,
+   "birthplace": "Hartford, Connecticut",
+   "nationality": "American",
+   "bio": "American children's author and English teacher at Hartford College for Women. He is best known for The Enormous Egg.",
+   "known_for": [
+    "The Enormous Egg",
+    "The Trouble with Jenny's Ear",
+    "The Narrow Passage"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Oliver_Butterworth_(writer)"
+  },
+  "Paul Jennings": {
+   "born": 1943,
+   "died": null,
+   "birthplace": "Heston, Middlesex, England",
+   "nationality": "English-born Australian",
+   "bio": "Writer of short stories with surprising endings, who emigrated to Australia in 1949. He worked as a speech pathologist before Unreal! (1985), and his stories were adapted for the TV series Round the Twist.",
+   "known_for": [
+    "Unreal!",
+    "Uncanny!",
+    "Round the Twist"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Paul_Jennings_(Australian_author)"
+  },
+  "Piero Ventura": {
+   "born": 1937,
+   "died": null,
+   "birthplace": "Milan, Italy",
+   "nationality": "Italian",
+   "bio": "Italian illustrator of historical picture books, often with text by Gian Paolo Ceserani. His book Pompei earned an honorable mention at the 1983 Bratislava biennial.",
+   "known_for": [
+    "In Search of Tutankhamun",
+    "Pompei",
+    "Marco Polo",
+    "Christopher Columbus"
+   ],
+   "source": "https://archiv.bibiana.sk/ilustratori/737"
+  },
+  "Ralph Moody": {
+   "born": 1898,
+   "died": 1982,
+   "birthplace": "East Rochester, New Hampshire, USA",
+   "nationality": "American",
+   "bio": "Rancher, worker and storyteller who wrote about his boyhood in Colorado. He started writing in his fifties after a writing class, and his autobiographies follow his Little Britches years.",
+   "known_for": [
+    "Little Britches",
+    "Man of the Family"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ralph_Moody_(writer)"
+  }
+ }
+}

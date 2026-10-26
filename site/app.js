@@ -387,7 +387,6 @@
       b.parts.length ? [h("h3", { text: "Books on this line" }), h("ul", { class: "list" }, b.parts.map((x) => h("li", { text: x })))] : null,
       h("h3", { text: all.length > 1 ? `Read aloud ${all.length} times` : "Read aloud" }),
       checkoutTable(all, false),
-      c.note ? h("p", { class: "source", text: c.note }) : null,
       link(c.source),
     ], c.title || b.title);
     highlightAges();

@@ -1,0 +1,1313 @@
+{
+ "books": {
+  "a-series-of-unfortunate-events-the-bad-beginning": {
+   "title": "The Bad Beginning",
+   "author_names": [
+    "Lemony Snicket"
+   ],
+   "published": 1999,
+   "published_last": 1999,
+   "genres": [
+    "humor",
+    "gothic mystery",
+    "adventure"
+   ],
+   "summary": "After a fire kills their parents, the three Baudelaire children are sent to live with a distant relative, Count Olaf. He is only interested in their inherited fortune and treats them cruelly while he schemes. The children must rely on their own talents to stay one step ahead of him.",
+   "characters": [
+    "Violet Baudelaire — inventor",
+    "Klaus Baudelaire — reader",
+    "Sunny Baudelaire — baby with sharp teeth",
+    "Count Olaf — scheming actor",
+    "Mr. Poe — banker and guardian-arranger"
+   ],
+   "setting": "Briny Beach and Count Olaf's run-down house",
+   "awards": [],
+   "series": "A Series of Unfortunate Events #1",
+   "reading_age": null,
+   "illustrator": "Brett Helquist",
+   "source": "https://en.wikipedia.org/wiki/The_Bad_Beginning",
+   "identified": true,
+   "note": "Transcribed as 'A Series of Unfortunate Events: The Bad Beginning'; Book the First. Lemony Snicket is the pen name of Daniel Handler. First published by HarperCollins, 30 September 1999."
+  },
+  "alpha-centauri": {
+   "title": "Alpha Centauri",
+   "author_names": [
+    "Robert Siegel"
+   ],
+   "published": 1980,
+   "published_last": 1980,
+   "genres": [
+    "fantasy",
+    "time travel",
+    "adventure"
+   ],
+   "summary": "A girl named Becky, visiting a farm in England, is carried back to ancient Britain. There she finds cruel men trying to wipe out a peaceful race of centaurs.",
+   "characters": [
+    "Becky — girl who travels back in time"
+   ],
+   "setting": "A farm in England and ancient Britain",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL3952697W",
+   "identified": true,
+   "note": "Draft described a girl named Alpha Centauri in a fantasy world; the catalog record instead gives the heroine as Becky. Author is the poet and novelist Robert Siegel (1939-2012), whose Wikipedia page lists Alpha Centauri (1980)."
+  },
+  "at-the-mouth-of-the-luckiest-river": {
+   "title": "At the Mouth of the Luckiest River",
+   "author_names": [
+    "Arnold A. Griese"
+   ],
+   "published": 1973,
+   "published_last": 1973,
+   "genres": [
+    "adventure",
+    "native american fiction"
+   ],
+   "summary": "A young Athabascan boy in Alaska stands up to his tribe's medicine man to try to head off a conflict with a neighboring Eskimo people. It is a short children's story set along a river.",
+   "characters": [],
+   "setting": "Alaska river country",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL3536849W",
+   "identified": true,
+   "note": "Plot description is the one-line library summary only."
+  },
+  "cassie-binegar": {
+   "title": "Cassie Binegar",
+   "author_names": [
+    "Patricia MacLachlan"
+   ],
+   "published": 1982,
+   "published_last": 1982,
+   "genres": [
+    "family story",
+    "realistic fiction"
+   ],
+   "summary": "Cassie's family moves to a shore house near her father's and brothers' fishing boat, and she misses having a space of her own. She also feels guilty over her grandfather's death after she once yelled at him. Over the story she learns to accept imperfection and change in herself and her eccentric family.",
+   "characters": [
+    "Cassie Binegar — introspective girl",
+    "Margaret Mary — friend from a proper household",
+    "Gran — eccentric relative",
+    "Uncle Hat — relative who talks in numbers and rhymes",
+    "Cousin Coralee — feathered relative with a baby"
+   ],
+   "setting": "An unnamed seashore",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://www.kirkusreviews.com/book-reviews/a/patricia-maclachlan-11/cassie-binegar/",
+   "identified": true,
+   "note": "Harper & Row, 1982."
+  },
+  "dinosaurs-down-under-and-other-fossils-from-australia": {
+   "title": "Dinosaurs Down Under: And Other Fossils from Australia",
+   "author_names": [
+    "Caroline Arnold"
+   ],
+   "published": 1990,
+   "published_last": 1990,
+   "genres": [
+    "nonfiction",
+    "paleontology",
+    "science"
+   ],
+   "summary": "A photo-illustrated look at how an exhibit of Australian fossils was shipped to a Los Angeles museum, put together and put on display. It introduces the unusual prehistoric animals of Australia along the way.",
+   "characters": [],
+   "setting": "Los Angeles museum and Australia",
+   "awards": [],
+   "series": null,
+   "reading_age": "Richard Hewett (photographs)",
+   "illustrator": "https://openlibrary.org/search.json?q=title%3A%22dinosaurs+down+under%22&fields=title,author_name,first_publish_year,key,subject,publisher",
+   "source": true,
+   "identified": "Clarion Books, 1990 (Open Library). Photographer credit and plot come from a library catalog record seen in search results; the catalog page itself could not be opened. Open Library also lists a 1994 edition.",
+   "note": null
+  },
+  "ghost-eye": {
+   "title": "Ghost Eye",
+   "author_names": [
+    "Marion Dane Bauer"
+   ],
+   "published": 1992,
+   "published_last": 1992,
+   "genres": [
+    "animal fantasy",
+    "ghost story"
+   ],
+   "summary": "Purrloom Popcorn is a prize-winning Cornish Rex cat with one blue eye and one gold eye, and the blue eye lets him see ghosts. When his elderly owner Lydia is gone, he is sent to her old house, which is now home to her great-nephew's family. The ghosts he meets turn out to be fairly harmless.",
+   "characters": [
+    "Purrloom Popcorn — Cornish Rex cat with a ghost-seeing eye",
+    "Lydia — his elderly breeder and owner",
+    "A young girl — wants a cat"
+   ],
+   "setting": "Lydia's old house",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Trina Schart Hyman",
+   "source": "https://agreenmanreview.com/?p=66982",
+   "identified": true,
+   "note": "Scholastic, 1992."
+  },
+  "harvey-s-horrible-snake-disaster": {
+   "title": "Harvey's Horrible Snake Disaster",
+   "author_names": [
+    "Eth Clifford"
+   ],
+   "published": 1984,
+   "published_last": 1984,
+   "genres": [
+    "humor",
+    "family story",
+    "animal story"
+   ],
+   "summary": "Ten-year-old Harvey's visit from his cousin Nora leads to trouble involving snakes. It is the first of Eth Clifford's Harvey and Nora books.",
+   "characters": [
+    "Harvey — ten-year-old boy",
+    "Nora — his cousin"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": "Harvey and Nora #1",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL15854356W",
+   "identified": true,
+   "note": "Series position (#1) inferred from the 1984 start date of the four-book Harvey and Nora series on Eth Clifford's Wikipedia page. Illustrator not found."
+  },
+  "in-face-of-danger": {
+   "title": "In Face of Danger",
+   "author_names": [
+    "Mara Kay"
+   ],
+   "published": 1977,
+   "published_last": 1977,
+   "genres": [
+    "fiction",
+    "jewish interest"
+   ],
+   "summary": "A 1977 novel for young readers by Mara Kay, catalogued under fiction about Jews. No plot description was found, so the story is not summarized.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=title%3A%22in+face+of+danger%22&fields=title,author_name,first_publish_year,key,subject,first_sentence",
+   "identified": true,
+   "note": "Previously marked unidentified. Open Library lists In face of danger by Mara Kay, first published 1977, subject Fiction; Jews. Genre and setting are not verified."
+  },
+  "little-house-books": {
+   "title": "Little House Books",
+   "author_names": [
+    "Laura Ingalls Wilder"
+   ],
+   "published": 1932,
+   "published_last": 1971,
+   "genres": [
+    "historical fiction",
+    "pioneer life",
+    "autobiographical fiction"
+   ],
+   "summary": "A series of semi-autobiographical novels following Laura Ingalls and her family as they move across the American frontier in the late 1800s. The books move from the big woods of Wisconsin through prairies, towns and hard winters to Laura's marriage.",
+   "characters": [
+    "Laura Ingalls — the narrator, growing from child to young woman",
+    "Ma and Pa Ingalls — her parents",
+    "Mary Ingalls — her older sister",
+    "Almanzo Wilder — her future husband"
+   ],
+   "setting": "Wisconsin, Kansas, Minnesota and Dakota Territory, 1870s-1880s",
+   "awards": [
+    "Newbery Honor (five of the books, 1938-1944)"
+   ],
+   "series": "Little House",
+   "reading_age": null,
+   "illustrator": "Garth Williams (1953 uniform edition)",
+   "source": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_(book_series)",
+   "identified": true,
+   "note": "Series line. First book Little House in the Big Woods (1932); the last of the core nine, The First Four Years, appeared posthumously in 1971. On the Way Home (1962) and West from Home (1974) are extra books."
+  },
+  "magic-money": {
+   "title": "Magic Money",
+   "author_names": [
+    "Ann Nolan Clark"
+   ],
+   "published": 1950,
+   "published_last": 1950,
+   "genres": [
+    "children's fiction",
+    "family story",
+    "latin america"
+   ],
+   "summary": "A children's story set in rural Costa Rica, drawn from the years the author spent working in Latin America. It centers on a boy, his family and the idea of giving.",
+   "characters": [],
+   "setting": "Rural Costa Rica",
+   "awards": [],
+   "series": null,
+   "reading_age": "Leo Politi",
+   "illustrator": "https://en.wikipedia.org/wiki/Ann_Nolan_Clark",
+   "source": true,
+   "identified": "Viking, 1950 (Open Library). Illustrator Leo Politi appeared in a bookseller listing seen in search. Detailed plot not verified.",
+   "note": null
+  },
+  "mystery-of-the-angry-idol": {
+   "title": "Mystery of the Angry Idol",
+   "author_names": [
+    "Phyllis A. Whitney"
+   ],
+   "published": 1965,
+   "published_last": 1965,
+   "genres": [
+    "mystery",
+    "juvenile fiction"
+   ],
+   "summary": "Teenager Jan Pendleton spends a summer at her grandmother's home, where a stranger watches the house and her great-grandmother's fearsome Chinese idol goes missing. The mystery draws in the neighbors and the family's past in China.",
+   "characters": [
+    "Jan Pendleton — teenage heroine",
+    "Althea — her great-grandmother, who grew up in China"
+   ],
+   "setting": "Mystic, Connecticut",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=title%3A%22mystery+of+the+angry+idol%22&fields=title,author_name,first_publish_year,key,subject",
+   "identified": true,
+   "note": "Year confirmed as 1965 (Open Library). Plot details come from reader blurbs found in search results and were not checked against a full synopsis."
+  },
+  "on-the-way-home": {
+   "title": "On the Way Home",
+   "author_names": [
+    "Laura Ingalls Wilder"
+   ],
+   "published": 1962,
+   "published_last": 1962,
+   "genres": [
+    "diary",
+    "nonfiction",
+    "pioneer history"
+   ],
+   "summary": "Laura Ingalls Wilder's diary of the 1894 journey with her husband Almanzo and daughter Rose from De Smet, South Dakota, to Mansfield, Missouri. Rose Wilder Lane added a setting that frames the diary. It was published after Wilder's death.",
+   "characters": [
+    "Laura Ingalls Wilder — diarist",
+    "Almanzo Wilder — her husband",
+    "Rose Wilder Lane — daughter, later editor"
+   ],
+   "setting": "Overland from South Dakota to Missouri, 1894",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "https://en.wikipedia.org/wiki/On_the_Way_Home",
+   "source": true,
+   "identified": "Harper & Row, 12 November 1962. Subtitle: The Diary of a Trip from South Dakota to Mansfield, Missouri, in 1894.",
+   "note": null
+  },
+  "peter-pan": {
+   "title": "Peter Pan",
+   "author_names": [
+    "J. M. Barrie"
+   ],
+   "published": 1911,
+   "published_last": 1911,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic"
+   ],
+   "summary": "Peter Pan is a boy who refuses to grow up and lives in Neverland. He leads Wendy Darling and her brothers there, where they meet pirates and Lost Boys. The tale began as a 1904 play and was told as a novel in 1911.",
+   "characters": [
+    "Peter Pan — the boy who won't grow up",
+    "Wendy Darling — girl who mothers the Lost Boys",
+    "Captain Hook — pirate captain",
+    "Tinker Bell — fairy"
+   ],
+   "setting": "London and Neverland",
+   "awards": [],
+   "series": null,
+   "reading_age": "F. D. Bedford (first edition of the novel)",
+   "illustrator": "https://en.wikipedia.org/wiki/Peter_Pan",
+   "source": true,
+   "identified": "The novel was first published in 1911 as Peter and Wendy; the play Peter Pan, or The Boy Who Wouldn't Grow Up premiered in 1904. Bedford's illustration credit comes from a bookseller listing seen in search.",
+   "note": null
+  },
+  "sarah-whitcher-s-story": {
+   "title": "Sarah Whitcher's Story",
+   "author_names": [
+    "Elizabeth Yates"
+   ],
+   "published": 1971,
+   "published_last": 1971,
+   "genres": [
+    "historical fiction",
+    "survival",
+    "true story"
+   ],
+   "summary": "Based on a true incident, the story follows a very young girl who wanders into the New Hampshire forest in pioneer days and is lost. It tells of the search for her and her adventures while she is gone.",
+   "characters": [
+    "Sarah Whitcher — young pioneer girl lost in the woods"
+   ],
+   "setting": "New Hampshire forest in pioneer days",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "https://openlibrary.org/search.json?q=sarah+whitcher%27s+story&fields=title,author_name,first_publish_year,key,subject",
+   "source": true,
+   "identified": "Open Library lists a 1971 edition (a 1994 BJU Press reprint also exists). Illustrator not confirmed, so left blank.",
+   "note": null
+  },
+  "six-notable-adventures-of-sherlock-holmes": {
+   "title": "Six Notable Adventures of Sherlock Holmes",
+   "author_names": [
+    "Arthur Conan Doyle"
+   ],
+   "published": 1960,
+   "published_last": 1960,
+   "genres": [
+    "mystery",
+    "detective fiction",
+    "classic"
+   ],
+   "summary": "A collection of six Sherlock Holmes stories in which the detective and Dr. Watson solve puzzling crimes in Victorian London. It is a school-friendly selection from Conan Doyle's tales.",
+   "characters": [
+    "Sherlock Holmes — consulting detective",
+    "Dr. John Watson — his friend and narrator"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "https://openlibrary.org/search.json?q=title%3A%22six+notable+adventures+of+sherlock+holmes%22&fields=title,author_name,first_publish_year,key,subject,publisher",
+   "source": true,
+   "identified": "Appears to be the 1960 Platt & Munk volume 'Conan Doyle Stories: Six Notable Adventures of Sherlock Holmes'. Which six stories it contains was not verified.",
+   "note": null
+  },
+  "tales-told-near-a-crocodile": {
+   "title": "Tales Told Near a Crocodile",
+   "author_names": [
+    "Humphrey Harman"
+   ],
+   "published": 1962,
+   "published_last": 1962,
+   "genres": [
+    "folktales",
+    "african stories"
+   ],
+   "summary": "A collection of ten folktales gathered from six peoples who live on the northern shore of Lake Victoria (Nyanza) in East Africa. Titles include stories about crocodiles, the king of the frogs and cranes.",
+   "characters": [],
+   "setting": "Northern shore of Lake Victoria (Nyanza), East Africa",
+   "awards": [],
+   "series": null,
+   "reading_age": "George Ford (1967 US edition)",
+   "illustrator": "https://openlibrary.org/search.json?q=title%3A%22tales+told+near+a+crocodile%22&fields=title,author_name,first_publish_year,key,subject",
+   "source": true,
+   "identified": "Draft gave 1967, the first US (Viking) edition; Open Library dates the book to 1962 (UK). Subtitle: Stories from Nyanza. Illustrator and contents come from catalog snippets seen in search.",
+   "note": null
+  },
+  "the-aimer-gate": {
+   "title": "The Aimer Gate",
+   "author_names": [
+    "Alan Garner"
+   ],
+   "published": 1978,
+   "published_last": 1978,
+   "genres": [
+    "historical fiction",
+    "family saga",
+    "novella"
+   ],
+   "summary": "In the First World War years, a boy named Robert discovers that his secret place has another secret. The day his soldier uncle comes home to help with the corn harvest brings these threads together. It is a short story of one day in the life of a Cheshire family.",
+   "characters": [
+    "Robert — boy in the Garner family",
+    "Uncle — soldier home for the harvest"
+   ],
+   "setting": "Cheshire, England, during the First World War",
+   "awards": [],
+   "series": "The Stone Book Quartet #3",
+   "reading_age": null,
+   "illustrator": "Michael Foreman",
+   "source": "https://en.wikipedia.org/wiki/The_Stone_Book_Quartet",
+   "identified": true,
+   "note": "Collins, 1978. Third in narrative order after The Stone Book and Granny Reardun; Tom Fobble's Day follows. Plot summary comes from a review snippet seen in search."
+  },
+  "the-big-goose-and-the-little-white-duck": {
+   "title": "The Big Goose and the Little White Duck",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1938,
+   "published_last": 1938,
+   "genres": [
+    "animal story",
+    "farm life"
+   ],
+   "summary": "A gentle children's story about farm life centered on a big goose and a little white duck. It was Meindert DeJong's first book.",
+   "characters": [],
+   "setting": "A farm",
+   "awards": [],
+   "series": null,
+   "reading_age": "Nancy Ekholm Burkert (1963 edition)",
+   "illustrator": "https://en.wikipedia.org/wiki/Meindert_DeJong",
+   "source": true,
+   "identified": "Wikipedia and Open Library date the book to 1938 (DeJong's first book, Harper); the 1963 Harper & Row edition was illustrated by Nancy Ekholm Burkert. Plot detail not verified.",
+   "note": null
+  },
+  "the-case-of-the-baker-street-irregular": {
+   "title": "The Case of the Baker Street Irregular",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1978,
+   "published_last": 1978,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "detective"
+   ],
+   "summary": "A boy from Cornwall arrives in London with his former tutor and temporary guardian, who promptly vanishes. The boy turns to Sherlock Holmes for help.",
+   "characters": [
+    "Andrew — boy from Cornwall",
+    "Sherlock Holmes — the detective he consults"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": "Andrew Tillet mysteries #1",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=author%3A%22Robert+Newman%22+title%3A%22baker+street+irregular%22&fields=title,author_name,first_publish_year,key,subject",
+   "identified": true,
+   "note": "Atheneum, 1978. Search listings give the boy's surname inconsistently (Tillet vs Craigie) and the series name is informal. Draft's 'Tolliver' was not found."
+  },
+  "the-case-of-the-vanishing-corpse": {
+   "title": "The Case of the Vanishing Corpse",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1980,
+   "published_last": 1980,
+   "genres": [
+    "mystery",
+    "detective",
+    "children's fiction"
+   ],
+   "summary": "When Andrew returns to London from boarding school, he is drawn into several mysteries involving stolen jewels and a corpse that disappears after a murder. He teams up with Sara to solve them.",
+   "characters": [
+    "Andrew Tillet — young detective",
+    "Sara Wiggins — his partner in sleuthing",
+    "Constable Wyatt — police officer"
+   ],
+   "setting": "London",
+   "awards": [],
+   "series": "Andrew Tillet mysteries",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=title%3A%22vanishing+corpse%22+author%3Anewman&fields=title,author_name,first_publish_year,key,subject",
+   "identified": true,
+   "note": "Atheneum, 1980. Character details come from library and retailer blurbs seen in search; The Case of the Somerville Secret (1981) is another in the group. Draft's 'Tolliver' was not found."
+  },
+  "the-complete-adventures-of-olga-da-polga": {
+   "title": "The Complete Adventures of Olga da Polga",
+   "author_names": [
+    "Michael Bond"
+   ],
+   "published": 1971,
+   "published_last": 1982,
+   "genres": [
+    "animal fantasy",
+    "humor",
+    "episodic"
+   ],
+   "summary": "Olga da Polga is a guinea pig who turns everyday events into wildly exaggerated tall tales for the other animals. Her owner's family and neighborhood animals keep puncturing the stories with plain facts.",
+   "characters": [
+    "Olga da Polga — storytelling guinea pig",
+    "Karen Sawdust — her owner",
+    "Noel — doubtful black cat",
+    "Graham — slow tortoise",
+    "Fangio — hedgehog",
+    "Boris — Olga's rival storyteller"
+   ],
+   "setting": "The Sawdust family's home and garden, England",
+   "awards": [],
+   "series": "Olga da Polga",
+   "reading_age": null,
+   "illustrator": "Hans Helweg",
+   "source": "https://en.wikipedia.org/wiki/Olga_da_Polga",
+   "identified": true,
+   "note": "Omnibus (1987 per Wikipedia; Open Library also lists a 1983 edition) of the Olga chapter books, which began with The Tales of Olga da Polga in 1971. published_last is 1982, the year of Olga Takes Charge, assuming the omnibus holds the four 1971-1982 books; its exact contents were not verified."
+  },
+  "the-enchanted-raisin": {
+   "title": "The Enchanted Raisin",
+   "author_names": [
+    "Jacqueline Balcells"
+   ],
+   "published": 1988,
+   "published_last": 1988,
+   "genres": [
+    "fairy tales",
+    "humor",
+    "translated fiction"
+   ],
+   "summary": "A collection of Chilean children's fairy tales in English translation. In the title story, three incorrigible boys wear their mother out until she shrivels into a raisin. Other stories include 'The Buried Giant' and 'The Princess and the Green Dwarf'.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "https://www.publishersweekly.com/978-0-935480-38-2",
+   "source": true,
+   "identified": "Previously unidentified. English edition 1988 (Latin American Literary Review Press, per Open Library and Publishers Weekly); Goodreads and a French listing seen in search suggest the stories first appeared around 1984. Original Spanish title not verified.",
+   "note": null
+  },
+  "the-garden-under-the-sea": {
+   "title": "The Garden Under the Sea",
+   "author_names": [
+    "George Selden"
+   ],
+   "published": 1957,
+   "published_last": 1957,
+   "genres": [
+    "animal fantasy",
+    "nature story"
+   ],
+   "summary": "Sea creatures off Long Island Sound are angry at humans who carry shells and other treasures away from the shore. They build a garden of their own out of human relics. The gentle episodic tale carries a message about taking only what you need.",
+   "characters": [
+    "Peter Starfish — sea creature",
+    "Oscar Lobster — sea creature",
+    "Hector Crab — sea creature",
+    "James Fish — sea creature",
+    "Old periwinkle — mentor and guide"
+   ],
+   "setting": "Long Island Sound, near Turtle Rock",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://kirkusreviews.com/book-reviews/george-selden-2/garden-under-the-sea",
+   "identified": true,
+   "note": "Viking, 1957. The draft's illustrator Garth Williams is not supported: a catalog snippet seen in search credits Garry MacKenzie, but this was not confirmed, so left blank. Also issued as Oscar Lobster's Fair Exchange (1966)."
+  },
+  "the-iron-ring": {
+   "title": "The Iron Ring",
+   "author_names": [
+    "Lloyd Alexander"
+   ],
+   "published": 1997,
+   "published_last": 1997,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "mythology"
+   ],
+   "summary": "King Tamar of Sundari loses a dice game to the maharajah Jaya and is bound by an iron ring, so honor sends him on a long journey. Along the way he gathers odd companions, including a monkey king, a cowgirl and a gloomy eagle. The adventure is set in a land inspired by Indian mythology.",
+   "characters": [
+    "Tamar — king bound by his word",
+    "Rajaswami — his sage mentor",
+    "Mirri — cowgirl companion",
+    "Hashkat — monkey king",
+    "Garuda — pessimistic eagle"
+   ],
+   "setting": "A mythical India of humans and talking animals",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Iron_Ring_(novel)",
+   "identified": true,
+   "note": "Dutton, 1997."
+  },
+  "the-long-journey": {
+   "title": "The Long Journey",
+   "author_names": [
+    "Barbara Corcoran"
+   ],
+   "published": 1970,
+   "published_last": 1970,
+   "genres": [
+    "adventure",
+    "western",
+    "family story"
+   ],
+   "summary": "A young girl rides alone across Montana to get help for her grandfather, who is going blind.",
+   "characters": [
+    "Grandfather — going blind"
+   ],
+   "setting": "Montana",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL4084045W",
+   "identified": true,
+   "note": "Atheneum, 1970 per Open Library search; Aladdin paperback 1974. Details are from a one-line catalog summary."
+  },
+  "the-mennyms": {
+   "title": "The Mennyms",
+   "author_names": [
+    "Sylvia Waugh"
+   ],
+   "published": 1993,
+   "published_last": 1993,
+   "genres": [
+    "fantasy",
+    "family story",
+    "humor"
+   ],
+   "summary": "The Mennyms are a family of life-size rag dolls who live quietly in England as an ordinary household. A letter from Australia threatens to expose the secret they have kept for decades.",
+   "characters": [
+    "The Mennym family — life-size rag dolls living as humans"
+   ],
+   "setting": "A house in England",
+   "awards": [
+    "Guardian Children's Fiction Prize"
+   ],
+   "series": "The Mennyms #1",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Mennyms",
+   "identified": true,
+   "note": "Julia MacRae, 1993. The Wikipedia infobox dates the Guardian prize 1994; some of the page's smaller awards are marked 'citation needed'. Individual character names not verified."
+  },
+  "the-ordinary-princess": {
+   "title": "The Ordinary Princess",
+   "author_names": [
+    "M. M. Kaye"
+   ],
+   "published": 1980,
+   "published_last": 1980,
+   "genres": [
+    "fairy tale",
+    "fantasy",
+    "humor"
+   ],
+   "summary": "At her christening Princess Amy is given the 'gift' of being ordinary. When her parents plan to hire a dragon so a prince can rescue her, she runs away to the forest and later takes a job as a kitchen-maid in a neighboring palace. There she meets a young man who is also hiding who he is.",
+   "characters": [
+    "Princess Amy — plain, practical princess",
+    "Crustacea — the fairy godmother",
+    "Peregrine — palace worker who befriends Amy",
+    "Peter Aurelious — crow",
+    "Mr. Pemberthy — squirrel"
+   ],
+   "setting": "Phantasmorania, the Forest of Faraway and the castle of Ambergeldar",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "M. M. Kaye",
+   "source": "https://en.wikipedia.org/wiki/The_Ordinary_Princess",
+   "identified": true,
+   "note": "Kestrel Books, 1980; Kaye wrote and illustrated it."
+  },
+  "the-sea-child": {
+   "title": "The Sea Child",
+   "author_names": [
+    "Carolyn Sloan"
+   ],
+   "published": 1987,
+   "published_last": 1987,
+   "genres": [
+    "fantasy",
+    "supernatural",
+    "children's fiction"
+   ],
+   "summary": "A mysterious sea child comes into a nearby village, where she meets a lonely nine-year-old. It is a children's fantasy set along the English coast.",
+   "characters": [
+    "The sea child — mysterious visitor from the sea",
+    "A lonely nine-year-old — her new friend"
+   ],
+   "setting": "An English seaside village",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL1963582W",
+   "identified": true,
+   "note": "Previously unidentified. Open Library has The sea child by Carolyn Sloan (1987; a 1989 edition also listed), subjects Fantasy, Supernatural, Seashore. Only a one-line description was found."
+  },
+  "the-summer-birds": {
+   "title": "The Summer Birds",
+   "author_names": [
+    "Penelope Farmer"
+   ],
+   "published": 1962,
+   "published_last": 1962,
+   "genres": [
+    "fantasy",
+    "children's fiction"
+   ],
+   "summary": "Sisters Charlotte and Emma Makepeace meet a mysterious boy on the way to school who says he can teach them to fly. He teaches Charlotte first, then the other village children, and they spend a summer flying over the Downs. As summer ends he invites them on a journey, and the children prepare to go.",
+   "characters": [
+    "Charlotte Makepeace — girl who learns to fly",
+    "Emma Makepeace — her sister",
+    "Elijah — their grandfather",
+    "The mysterious boy — flying teacher",
+    "Miss Hallibutt — schoolteacher"
+   ],
+   "setting": "Aviary Hall and a village school in the South Downs, England",
+   "awards": [
+    "Carnegie Medal commendation (1963)",
+    "ALA Notable Book (1963)"
+   ],
+   "series": "Makepeace sisters #1",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Summer_Birds",
+   "identified": true,
+   "note": "Chatto & Windus (UK) and Harcourt Brace (US), 1962."
+  },
+  "the-three-musketeers-adapted-by-carolyn-sherwin-bailey": {
+   "title": "The Three Musketeers (adapted by Carolyn Sherwin Bailey)",
+   "author_names": [
+    "Alexandre Dumas",
+    "Carolyn Sherwin Bailey"
+   ],
+   "published": 1844,
+   "published_last": 1844,
+   "genres": [
+    "historical adventure",
+    "swashbuckler",
+    "classic"
+   ],
+   "summary": "A young Gascon named d'Artagnan goes to Paris to join the king's musketeers and falls in with the inseparable trio Athos, Porthos and Aramis. Together they are drawn into court intrigue and a plot against the queen.",
+   "characters": [
+    "d'Artagnan — young Gascon swordsman",
+    "Athos — musketeer",
+    "Porthos — musketeer",
+    "Aramis — musketeer"
+   ],
+   "setting": "17th-century France",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Alexandre_Dumas",
+   "identified": true,
+   "note": "Dumas's novel dates to 1844. No Carolyn Sherwin Bailey adaptation could be found in Open Library or searches, so the adaptation's publication year is unknown."
+  },
+  "the-warlock-of-westfall": {
+   "title": "The Warlock of Westfall",
+   "author_names": [
+    "Leonard Everett Fisher"
+   ],
+   "published": 1974,
+   "published_last": 1974,
+   "genres": [
+    "historical fiction",
+    "witchcraft",
+    "juvenile fiction"
+   ],
+   "summary": "A lonely elderly recluse is accused by his neighbors of being the devil's disciple after they learn he has invented an imaginary family for company.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL14865748W",
+   "identified": true,
+   "note": "Doubleday, 1974 per Open Library. Illustrator credit and setting not verified; plot is a one-line catalog summary."
+  },
+  "three-lives-to-live": {
+   "title": "Three Lives to Live",
+   "author_names": [
+    "Anne Lindbergh"
+   ],
+   "published": 1992,
+   "published_last": 1992,
+   "genres": [
+    "fantasy",
+    "time travel",
+    "children's fiction"
+   ],
+   "summary": "Thirteen-year-old Garet lives a quiet life with her grandmother until a girl who calls herself her twin, Daisy, comes down the laundry chute. Daisy's true identity turns out to be a surprise tied to time travel.",
+   "characters": [
+    "Garet — thirteen-year-old girl",
+    "Daisy — her mysterious 'twin'",
+    "Garet's grandmother — guardian"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL3926820W",
+   "identified": true,
+   "note": "Little, Brown, 1992 per Open Library; Aladdin paperback 1995. Plot is from a short catalog description."
+  },
+  "trouble-river": {
+   "title": "Trouble River",
+   "author_names": [
+    "Betsy Byars"
+   ],
+   "published": 1969,
+   "published_last": 1969,
+   "genres": [
+    "adventure",
+    "historical fiction",
+    "survival"
+   ],
+   "summary": "Dewey Martin's parents are away, so the boy has to get his cranky grandmother and their lame dog Charlie to safety downriver on a homemade raft. They face wolves and rapids and find the cabin they were headed for burned and empty. They keep going toward Hunter City to find the Martins.",
+   "characters": [
+    "Dewey Martin — boy who pilots the raft",
+    "Grandma — cranky, unflappable passenger",
+    "Charlie — lame dog"
+   ],
+   "setting": "A frontier river journey toward Hunter City",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Rocco Negri",
+   "source": "https://kirkusreviews.com/book-reviews/rocco-negri/trouble-river/print",
+   "identified": true,
+   "note": "Viking, 28 April 1969."
+  },
+  "you-were-princess-last-time": {
+   "title": "You Were Princess Last Time",
+   "author_names": [
+    "Laura Fisher"
+   ],
+   "published": 1965,
+   "published_last": 1965,
+   "genres": [
+    "children's fiction"
+   ],
+   "summary": "A children's book by Laura Fisher, listed in Open Library as first published in 1965. No description was found, so the story is not summarized.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=title%3A%22you+were+princess+last+time%22&fields=title,author_name,first_publish_year,key,subject",
+   "identified": true,
+   "note": "Previously unidentified. Open Library has You were princess last time by Laura Fisher (1965) with no description. Author identity and plot not verified."
+  }
+ },
+ "authors": {
+  "Lemony Snicket": {
+   "born": 1970,
+   "died": null,
+   "birthplace": "San Francisco, California",
+   "nationality": "American",
+   "bio": "Lemony Snicket is the pen name and fictional narrator of the American author Daniel Handler. The name came from research for his first book, The Basic Eight. A Series of Unfortunate Events, first published in 1999, has sold over 60 million copies and was adapted for film and television.",
+   "known_for": [
+    "A Series of Unfortunate Events",
+    "All the Wrong Questions",
+    "The Composer Is Dead"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Lemony_Snicket"
+  },
+  "Robert Siegel": {
+   "born": 1939,
+   "died": 2012,
+   "birthplace": "Oak Park, Illinois",
+   "nationality": "American",
+   "bio": "Robert Siegel was an American poet and novelist who taught at Dartmouth, Princeton and the University of Wisconsin-Milwaukee. He wrote the children's books Alpha Centauri (1980) and Whalesong (1981), which became a trilogy. He died in South Berwick, Maine.",
+   "known_for": [
+    "Whalesong",
+    "Alpha Centauri"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Robert_Siegel_(author)"
+  },
+  "Arnold A. Griese": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Arnold A. Griese wrote children's fiction about Alaska Native life and also books on education. His titles include At the Mouth of the Luckiest River (1973), Way of Our People (1975) and The Wind Is Not a River (1978). No biographical details were found.",
+   "known_for": [
+    "At the Mouth of the Luckiest River",
+    "The Wind Is Not a River",
+    "Anna's Athabaskan Summer"
+   ],
+   "source": "https://openlibrary.org/search.json?q=author%3A%22Arnold+A.+Griese%22&fields=title,author_name,first_publish_year,key&limit=40"
+  },
+  "Patricia MacLachlan": {
+   "born": 1938,
+   "died": 2022,
+   "birthplace": "Cheyenne, Wyoming",
+   "nationality": "American",
+   "bio": "Patricia MacLachlan was an American children's author who taught English in Connecticut before she began writing in her mid-30s. Her first book, The Sick Day, appeared in 1979. She won the 1986 Newbery Medal for Sarah, Plain and Tall and wrote over 60 children's books.",
+   "known_for": [
+    "Sarah, Plain and Tall",
+    "Skylark",
+    "Journey",
+    "Baby"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Patricia_MacLachlan"
+  },
+  "Caroline Arnold": {
+   "born": 1944,
+   "died": null,
+   "birthplace": "Pittsburgh, Pennsylvania",
+   "nationality": "American",
+   "bio": "Caroline Arnold is an American author of well over 160 nonfiction children's books, mostly on natural and social science. She studied at Grinnell College and the University of Iowa and taught in UCLA Extension's Writers' Program. She made 49 books with photographer Richard Hewett.",
+   "known_for": [
+    "Five Nests",
+    "Saving the Peregrine Falcon",
+    "Trapped in Tar",
+    "Dinosaur Mountain"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Caroline_Scheaffer_Arnold"
+  },
+  "Marion Dane Bauer": {
+   "born": 1938,
+   "died": null,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "Marion Dane Bauer is an American children's author who grew up in Oglesby, Illinois, and helped found the MFA in Writing for Children and Young Adults at Vermont College of Fine Arts. Her novel On My Honor was a 1987 Newbery Honor Book. She lives in Saint Paul, Minnesota.",
+   "known_for": [
+    "On My Honor",
+    "Rain of Fire",
+    "Am I Blue?",
+    "Runt"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Marion_Dane_Bauer"
+  },
+  "Eth Clifford": {
+   "born": 1915,
+   "died": 2003,
+   "birthplace": "New York, New York",
+   "nationality": "American",
+   "bio": "Eth Clifford, born Ethel Clifford Rosenberg, was an American writer of children's and young-adult fiction. She began with adult novels under the name Ethel Rosenberg in 1949 and later adopted the Eth Clifford byline. She co-founded David-Stewart Publishing with her husband.",
+   "known_for": [
+    "Flatfoot Fox series",
+    "Harvey and Nora series",
+    "Help! I'm a Prisoner in the Library!"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Eth_Clifford"
+  },
+  "Mara Kay": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Mara Kay wrote young-adult and children's novels published in the 1960s to 1980s. Open Library lists a dozen of her works, including Masha (1968), In Place of Katia (1963) and In Face of Danger (1977). No biographical details were found.",
+   "known_for": [
+    "Masha",
+    "In Place of Katia",
+    "In Face of Danger"
+   ],
+   "source": "https://openlibrary.org/search.json?q=author%3A%22Mara+Kay%22&fields=title,author_name,first_publish_year,key"
+  },
+  "Laura Ingalls Wilder": {
+   "born": 1867,
+   "died": 1957,
+   "birthplace": "Pepin County, Wisconsin",
+   "nationality": "American",
+   "bio": "Laura Ingalls Wilder was an American writer and former teacher who wrote the Little House books from her pioneer childhood. She began her autobiography Pioneer Girl around 1929, and publishers' rejection led her to rework it into the series. The Laura Ingalls Wilder Medal is named for her.",
+   "known_for": [
+    "Little House in the Big Woods",
+    "Little House on the Prairie",
+    "The Long Winter",
+    "These Happy Golden Years"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Laura_Ingalls_Wilder"
+  },
+  "Ann Nolan Clark": {
+   "born": 1896,
+   "died": 1995,
+   "birthplace": "Las Vegas, New Mexico",
+   "nationality": "American",
+   "bio": "Ann Nolan Clark was an American author who taught at the Tesuque Pueblo school for about 25 years. In 1945 she was sent to Latin America for about five years, which shaped books like Magic Money. She won the 1953 Newbery Medal for Secret of the Andes.",
+   "known_for": [
+    "Secret of the Andes",
+    "In My Mother's House",
+    "Magic Money"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ann_Nolan_Clark"
+  },
+  "Phyllis A. Whitney": {
+   "born": 1903,
+   "died": 2008,
+   "birthplace": "Yokohama, Japan",
+   "nationality": "American",
+   "bio": "Phyllis A. Whitney was an American mystery writer born in Japan to American parents. She wrote 73 novels for adults, young adults and children and was called a Gothic novelist though she preferred 'romantic suspense'. She won Edgar Awards and the Mystery Writers of America Grand Master Award.",
+   "known_for": [
+    "The Mystery of the Haunted Pool",
+    "The Mystery of the Hidden Hand",
+    "Mystery of the Angry Idol"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Phyllis_A._Whitney"
+  },
+  "J. M. Barrie": {
+   "born": 1860,
+   "died": 1937,
+   "birthplace": "Kirriemuir, Angus, Scotland",
+   "nationality": "Scottish",
+   "bio": "J. M. Barrie was a Scottish novelist and playwright who made his name with village stories before creating Peter Pan. He was inspired by the Llewelyn Davies boys and gave the Peter Pan copyright to Great Ormond Street Hospital in 1929. He was made a baronet in 1913.",
+   "known_for": [
+    "Peter Pan",
+    "The Little Minister",
+    "The Admirable Crichton"
+   ],
+   "source": "https://en.wikipedia.org/wiki/J._M._Barrie"
+  },
+  "Elizabeth Yates": {
+   "born": 1905,
+   "died": 2001,
+   "birthplace": "Buffalo, New York",
+   "nationality": "American",
+   "bio": "Elizabeth Yates was an American author who began as a journalist and settled in New Hampshire. She won the 1951 Newbery Medal for Amos Fortune, Free Man and a 1944 Newbery Honor for Mountain Born. She also wrote a three-volume autobiography.",
+   "known_for": [
+    "Amos Fortune, Free Man",
+    "Mountain Born",
+    "Patterns on the Wall"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_Yates_(writer)"
+  },
+  "Arthur Conan Doyle": {
+   "born": 1859,
+   "died": 1930,
+   "birthplace": "Edinburgh, Scotland",
+   "nationality": "British",
+   "bio": "Arthur Conan Doyle was a Scottish-born physician and writer who created Sherlock Holmes. He killed Holmes off in 1893 but later revived him, and also wrote historical fiction and The Lost World. He was knighted in 1902 and later became a spiritualist.",
+   "known_for": [
+    "A Study in Scarlet",
+    "The Hound of the Baskervilles",
+    "The Lost World"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+  },
+  "Humphrey Harman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Humphrey Harman wrote on East Africa, collecting folktales from the Lake Victoria region. His Tales Told Near a Crocodile appeared in 1962, followed by More Tales Told Near a Crocodile (1973) and Tales Told to an African King (1978). No biographical details were found.",
+   "known_for": [
+    "Tales Told Near a Crocodile",
+    "More Tales Told Near a Crocodile",
+    "Tales Told to an African King"
+   ],
+   "source": "https://openlibrary.org/search.json?q=author%3A%22Humphrey+Harman%22&fields=title,author_name,first_publish_year,key&limit=20"
+  },
+  "Alan Garner": {
+   "born": 1934,
+   "died": null,
+   "birthplace": "Congleton, Cheshire, England",
+   "nationality": "English",
+   "bio": "Alan Garner is an English novelist and folklorist raised in Alderley Edge, whose children's fantasy draws on Cheshire landscape and folklore. He won the 1967 Carnegie Medal for The Owl Service and the 2012 World Fantasy lifetime award. His Stone Book Quartet follows four generations of his family.",
+   "known_for": [
+    "The Weirdstone of Brisingamen",
+    "The Owl Service",
+    "The Stone Book Quartet"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Alan_Garner"
+  },
+  "Meindert DeJong": {
+   "born": 1906,
+   "died": 1991,
+   "birthplace": "Wierum, Friesland, Netherlands",
+   "nationality": "Dutch-born American",
+   "bio": "Meindert DeJong emigrated from the Netherlands to Michigan as a child and published his first book, The Big Goose and the Little White Duck, in 1938. He won the 1955 Newbery Medal for The Wheel on the School and the 1962 Hans Christian Andersen Award. Maurice Sendak illustrated seven of his books.",
+   "known_for": [
+    "The Wheel on the School",
+    "Journey from Peppermint Street",
+    "Hurry Home, Candy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Meindert_DeJong"
+  },
+  "Robert Newman": {
+   "born": 1909,
+   "died": 1988,
+   "birthplace": "Manhattan, New York",
+   "nationality": "American",
+   "bio": "Robert Newman was an American writer who began his career in radio and also wrote for television. His children's mysteries include The Case of the Baker Street Irregular (1978) and The Case of the Vanishing Corpse (1980). Birthplace comes from a library biography snippet.",
+   "known_for": [
+    "The Case of the Baker Street Irregular",
+    "The Case of the Vanishing Corpse"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Robert+Newman"
+  },
+  "Michael Bond": {
+   "born": 1926,
+   "died": 2017,
+   "birthplace": "Newbury, Berkshire, England",
+   "nationality": "English",
+   "bio": "Michael Bond was an English author who worked as a BBC cameraman before writing full time in 1965. He is best known for Paddington Bear, which has sold over 35 million copies. He also wrote the Olga da Polga guinea pig books.",
+   "known_for": [
+    "A Bear Called Paddington",
+    "Olga da Polga",
+    "Monsieur Pamplemousse"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Michael_Bond"
+  },
+  "Jacqueline Balcells": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": "Chilean",
+   "bio": "Jacqueline Balcells is a Chilean children's author whose works have been translated into English and French. Open Library lists about 26 works, including El archipiélago de las puntuadas and The Enchanted Raisin (English, 1988). Exact birth details were not found.",
+   "known_for": [
+    "The Enchanted Raisin",
+    "El archipiélago de las puntuadas",
+    "El mar de las maravillas"
+   ],
+   "source": "https://openlibrary.org/search.json?q=author%3A%22Jacqueline+Balcells%22&fields=title,author_name,first_publish_year,key&limit=20"
+  },
+  "George Selden": {
+   "born": 1929,
+   "died": 1989,
+   "birthplace": "Hartford, Connecticut",
+   "nationality": "American",
+   "bio": "George Selden, born George Selden Thompson, was an American children's writer and Yale graduate who studied in Rome on a Fulbright. He is best known for The Cricket in Times Square, a Newbery Honor Book. He also wrote biographies of archaeologists and a 1974 adult novel under the name Terry Andrews.",
+   "known_for": [
+    "The Cricket in Times Square",
+    "The Genie of Sutton Place",
+    "The Garden Under the Sea"
+   ],
+   "source": "https://en.wikipedia.org/wiki/George_Selden_(author)"
+  },
+  "Lloyd Alexander": {
+   "born": 1924,
+   "died": 2007,
+   "birthplace": "Philadelphia, Pennsylvania",
+   "nationality": "American",
+   "bio": "Lloyd Alexander was an American novelist, mostly of fantasy for young readers, and wrote 48 books. He won the 1969 Newbery Medal for The High King and National Book Awards for two other titles. He also translated the poet Paul Eluard.",
+   "known_for": [
+    "The Chronicles of Prydain",
+    "Westmark",
+    "The Iron Ring"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Lloyd_Alexander"
+  },
+  "Sylvia Waugh": {
+   "born": 1935,
+   "died": null,
+   "birthplace": "Gateshead, England",
+   "nationality": "British",
+   "bio": "Sylvia Waugh is a British children's author who worked as a teacher, careers advisor and librarian before turning to writing in 1987. Her first book, The Mennyms (1993), won the Guardian Children's Fiction Prize and led to a five-book series. She later wrote the Ormingat trilogy.",
+   "known_for": [
+    "The Mennyms",
+    "Space Race",
+    "Earthborn"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Sylvia_Waugh"
+  },
+  "Anne Lindbergh": {
+   "born": 1940,
+   "died": 1993,
+   "birthplace": "Manhattan, New York",
+   "nationality": "American",
+   "bio": "Anne Spencer Lindbergh was the daughter of aviators Charles and Anne Morrow Lindbergh and wrote mostly children's novels. She studied at Radcliffe and the Sorbonne and lived in Vermont. She died of cancer in 1993 at age 53.",
+   "known_for": [
+    "The People in Pineapple Place",
+    "Three Lives to Live",
+    "Nobody's Orphan"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Anne_Lindbergh"
+  },
+  "Leonard Everett Fisher": {
+   "born": 1924,
+   "died": 2024,
+   "birthplace": "The Bronx, New York",
+   "nationality": "American",
+   "bio": "Leonard Everett Fisher was an American artist who illustrated about 250 children's books and wrote about 88 of them. He studied at Yale and lived in Westport, Connecticut. He was a finalist for the 2015 NSK Neustadt Prize.",
+   "known_for": [
+    "The Warlock of Westfall"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Leonard_Everett_Fisher"
+  },
+  "Carolyn Sloan": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Carolyn Sloan is credited in Open Library with The Sea Child (1987) and several other children's titles. The catalog record seems to merge more than one author with this name, and no reliable biography was found.",
+   "known_for": [
+    "The Sea Child"
+   ],
+   "source": "https://openlibrary.org/search.json?q=author%3A%22Carolyn+Sloan%22&fields=title,author_name,first_publish_year,key&limit=20"
+  },
+  "Alexandre Dumas": {
+   "born": 1802,
+   "died": 1870,
+   "birthplace": "Villers-Cotterets, Picardy, France",
+   "nationality": "French",
+   "bio": "Alexandre Dumas pere was a French novelist and playwright who began as a dramatist and then turned to serial historical novels. He wrote The Three Musketeers (1844) and The Count of Monte Cristo (1844-46). He founded the Theatre Historique in Paris.",
+   "known_for": [
+    "The Three Musketeers",
+    "The Count of Monte Cristo",
+    "The Man in the Iron Mask"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Alexandre_Dumas"
+  },
+  "Carolyn Sherwin Bailey": {
+   "born": 1875,
+   "died": 1961,
+   "birthplace": "Hoosick Falls, New York",
+   "nationality": "American",
+   "bio": "Carolyn Sherwin Bailey was an American children's author who began as a teacher and social worker. Her best-known book, Miss Hickory, won the Newbery Medal in 1947. Open Library lists over 80 of her works but no Three Musketeers adaptation.",
+   "known_for": [
+    "Miss Hickory",
+    "Boys and Girls of Colonial Days",
+    "Pioneer Art in America"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Carolyn_Sherwin_Bailey"
+  },
+  "Betsy Byars": {
+   "born": 1928,
+   "died": 2020,
+   "birthplace": "Charlotte, North Carolina",
+   "nationality": "American",
+   "bio": "Betsy Byars was an American children's author who wrote for magazines before her first novel, Clementine, in 1962. She won the 1971 Newbery Medal for Summer of the Swans and a National Book Award for The Night Swimmers. She retired from writing in 1990 per her Wikipedia page.",
+   "known_for": [
+    "Summer of the Swans",
+    "The Pinballs",
+    "The Night Swimmers"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Betsy_Byars"
+  },
+  "M. M. Kaye": {
+   "born": 1908,
+   "died": 2004,
+   "birthplace": "Simla, British India",
+   "nationality": "British",
+   "bio": "M. M. Kaye was a British writer born in India who started out as a children's book illustrator. She is best known for the bestselling novel The Far Pavilions (1978), and also wrote crime novels and a children's book, The Ordinary Princess. She wrote a three-volume autobiography.",
+   "known_for": [
+    "The Far Pavilions",
+    "The Ordinary Princess",
+    "Death in Kashmir"
+   ],
+   "source": "https://en.wikipedia.org/wiki/M._M._Kaye"
+  },
+  "Penelope Farmer": {
+   "born": 1939,
+   "died": null,
+   "birthplace": "Westerham, Kent, England",
+   "nationality": "English",
+   "bio": "Penelope Farmer is an English children's fantasy writer who studied history at Oxford. Her first children's novel, The Summer Birds, won a Carnegie commendation, and Charlotte Sometimes (1969) is her best known. Her earlier collection The China People appeared in 1960.",
+   "known_for": [
+    "Charlotte Sometimes",
+    "The Summer Birds",
+    "Emma in Winter"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Penelope_Farmer"
+  },
+  "Barbara Corcoran": {
+   "born": 1911,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Barbara Corcoran wrote some 72 books, mostly realistic fiction for middle-grade and teen readers, including The Long Journey (1970). Open Library gives her birth year as 1911, and a Montana profile cited in search results calls her a Montana writer. She should not be confused with the real-estate businesswoman of the same name.",
+   "known_for": [
+    "The Long Journey",
+    "Which Witch Is Which"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Barbara+Corcoran"
+  },
+  "Laura Fisher": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Laura Fisher is credited with the children's book You Were Princess Last Time (1965) and, in Open Library, Never Try Nathaniel (1968). No biographical details were found, and many unrelated authors share the name.",
+   "known_for": [
+    "You Were Princess Last Time"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Laura+Fisher"
+  }
+ }
+}

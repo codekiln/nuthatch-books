@@ -1,0 +1,1353 @@
+{
+ "books": {
+  "a-foot-in-the-grave": {
+   "title": "A Foot in the Grave",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1989,
+   "published_last": 1989,
+   "genres": [
+    "short stories",
+    "ghost stories",
+    "horror"
+   ],
+   "summary": "A collection of eight ghost and horror tales, each prompted by a strange picture. A grave-robber is dragged into a grave, a ghost-snatcher is snatched and a poisonous aunt comes back as a strangling vine.",
+   "characters": [],
+   "setting": "Various",
+   "awards": [],
+   "series": null,
+   "reading_age": "10+",
+   "illustrator": "Jan Pienkowski",
+   "source": "https://kirkusreviews.com/book-reviews/joan-aiken/a-foot-in-the-grave/print",
+   "identified": true,
+   "note": "Publication date varies by source: 1989 in a Goodreads listing, 1990 UK and 1991 US per a bibliography, Kirkus dates the Viking edition Feb 1992. Not the 1987 Bruce Marshall novel of the same title."
+  },
+  "adventures-of-huckleberry-finn": {
+   "title": "Adventures of Huckleberry Finn",
+   "author_names": [
+    "Mark Twain"
+   ],
+   "published": 1884,
+   "published_last": 1884,
+   "genres": [
+    "classic",
+    "adventure",
+    "satire"
+   ],
+   "summary": "Huck fakes his own death to escape his abusive father and drifts down the Mississippi on a raft with Jim, who has run away from slavery. They meet feuding families and swindlers while Huck wrestles with what he has been taught about right and wrong.",
+   "characters": [
+    "Huckleberry Finn — narrator, runaway boy",
+    "Jim — escaped slave and Huck's companion",
+    "The King and the Duke — con men",
+    "Tom Sawyer — Huck's friend",
+    "Pap Finn — Huck's abusive father"
+   ],
+   "setting": "The Mississippi River region, 1840s",
+   "awards": [],
+   "series": null,
+   "reading_age": "12+",
+   "illustrator": "E. W. Kemble",
+   "source": "https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn",
+   "identified": true,
+   "note": "First published in the UK and Canada in December 1884; US edition February 1885. Contains racial slurs and portrayals; best read with discussion."
+  },
+  "apricots-at-midnight": {
+   "title": "Apricots at Midnight",
+   "author_names": [
+    "Adèle Geras"
+   ],
+   "published": 1977,
+   "published_last": 1977,
+   "genres": [
+    "short stories",
+    "fantasy",
+    "family"
+   ],
+   "summary": "Aunt Pinny tells stories drawn from the scraps of an old patchwork quilt. Each patch, such as a red velvet dress or a haunted lace one, opens onto a tale.",
+   "characters": [
+    "Aunt Pinny — storyteller"
+   ],
+   "setting": "London",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Doreen Caldwell (Atheneum 1982 edition)",
+   "source": "https://openlibrary.org/search.json?q=title%3A%22Apricots+at+midnight%22&fields=key,title,author_name,first_publish_year,publisher,subject",
+   "identified": true,
+   "note": "Full title is Apricots at Midnight and Other Stories from a Patchwork Quilt; first published by Hamish Hamilton in 1977, US edition Atheneum 1982."
+  },
+  "better-known-as-johnny-appleseed": {
+   "title": "Better Known as Johnny Appleseed",
+   "author_names": [
+    "Mabel Leigh Hunt"
+   ],
+   "published": 1950,
+   "published_last": 1950,
+   "genres": [
+    "biography",
+    "historical",
+    "tall tales"
+   ],
+   "summary": "The life and legend of John Chapman told in nine stories, each named for a kind of apple. They follow his travels west from the Youghiogheny River to the Mississippi.",
+   "characters": [
+    "Johnny Appleseed (John Chapman) — wandering orchardist"
+   ],
+   "setting": "Early American frontier, Ohio River country",
+   "awards": [
+    "Newbery Honor (1951)"
+   ],
+   "series": null,
+   "reading_age": "Grades 5-8",
+   "illustrator": "James Daugherty",
+   "source": "https://en.wikipedia.org/wiki/Better_Known_as_Johnny_Appleseed",
+   "identified": true,
+   "note": null
+  },
+  "children-of-the-wolf": {
+   "title": "Children of the Wolf",
+   "author_names": [
+    "Jane Yolen"
+   ],
+   "published": 1984,
+   "published_last": 1984,
+   "genres": [
+    "historical fiction",
+    "survival",
+    "family"
+   ],
+   "summary": "In an Indian orphanage in 1920, a clergyman and two boys capture two girls found living with wolves. Fourteen-year-old Mohandas is asked to teach them to walk and talk, and he struggles with the adults' motives.",
+   "characters": [
+    "Mohandas Jinnah — narrator, orphan",
+    "Rama — his friend",
+    "Kamala — the older wolf-girl",
+    "Amala — the younger wolf-girl",
+    "Reverend Welles — orphanage director"
+   ],
+   "setting": "An orphanage near Midnapore, India, 1920",
+   "awards": [],
+   "series": null,
+   "reading_age": "10+",
+   "illustrator": null,
+   "source": "https://www.ebsco.com/research-starters/literature-and-writing/children-wolf-jane-yolen",
+   "identified": true,
+   "note": "Published by Viking Press (per library record)."
+  },
+  "evy-ivy-over": {
+   "title": "Evy-Ivy-Over",
+   "author_names": [
+    "Colby Rodowsky"
+   ],
+   "published": 1978,
+   "published_last": 1978,
+   "genres": [
+    "realistic fiction",
+    "family",
+    "psychic"
+   ],
+   "summary": "Slug, a girl known as Mary Rose October, lives with her grandmother Gussie, who has the gift of ESP. As Slug grows older she begins to see her grandmother differently.",
+   "characters": [
+    "Slug (Mary Rose October) — young girl",
+    "Gussie — her grandmother with ESP"
+   ],
+   "setting": "Cape Charles, Virginia",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL473943W",
+   "identified": true,
+   "note": "Published by F. Watts in 1978; the sequel is Julie's Daughter. Author appears as Colby F. Rodowsky."
+  },
+  "haji-of-the-elephants": {
+   "title": "Haji of the Elephants",
+   "author_names": [
+    "Willis Lindquist"
+   ],
+   "published": 1976,
+   "published_last": 1976,
+   "genres": [
+    "adventure",
+    "animal story"
+   ],
+   "summary": "Haji's greatest wish comes true when he is given a mighty elephant to ride. He then faces a dangerous stretch in which both animals and people threaten him.",
+   "characters": [
+    "Haji — boy elephant rider"
+   ],
+   "setting": "A village in Burma",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL5158702W",
+   "identified": true,
+   "note": "Published by McGraw-Hill in 1976. Willis Lindquist also wrote Burma Boy (1953), whose hero is also named Haji and rides elephants; it may be an earlier or related story, not confirmed. Setting inferred from that book."
+  },
+  "hyenas": {
+   "title": "Hyenas",
+   "author_names": [
+    "Alice L. Hopf"
+   ],
+   "published": 1983,
+   "published_last": 1983,
+   "genres": [
+    "nonfiction",
+    "animals",
+    "science"
+   ],
+   "summary": "An introduction to the hyena, a misunderstood animal related to civets and mongooses and widely hated in Africa. The book describes how it lives and why its reputation is unfair.",
+   "characters": [],
+   "setting": "Africa",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL4778536W",
+   "identified": true,
+   "note": "Published by Dodd, Mead. Hopf also published as A. M. Lightner for science fiction."
+  },
+  "jimmy-the-pickpocket-of-the-palace": {
+   "title": "Jimmy, the Pickpocket of the Palace",
+   "author_names": [
+    "Donna Jo Napoli"
+   ],
+   "published": 1995,
+   "published_last": 1995,
+   "genres": [
+    "fantasy",
+    "fairy tale retelling",
+    "humor"
+   ],
+   "summary": "Jimmy is the frog-son of the frog prince, and he must stop a hag from draining his pond. He is turned into a human boy and put to work in the palace, where a spirited princess helps and hinders him.",
+   "characters": [
+    "Jimmy — frog turned boy, narrator",
+    "Princess Sally — spirited princess",
+    "The Hag — pond-draining villain",
+    "The Prince — knows about frogs"
+   ],
+   "setting": "A pond and a royal palace",
+   "awards": [],
+   "series": "Sequel to The Prince of the Pond (1992)",
+   "reading_age": "7-10",
+   "illustrator": "Judith Byron Schachner",
+   "source": "https://kirkusreviews.com/book-reviews/donna-jo-napoli/jimmy-the-pickpocket-of-the-palace",
+   "identified": true,
+   "note": "Published by Dutton."
+  },
+  "lizzie-silver-of-sherwood-forest": {
+   "title": "Lizzie Silver of Sherwood Forest",
+   "author_names": [
+    "Marilyn Singer"
+   ],
+   "published": 1986,
+   "published_last": 1986,
+   "genres": [
+    "humor",
+    "realistic fiction",
+    "friendship"
+   ],
+   "summary": "Lizzie is obsessed with Robin Hood and acts out his sword fights, to her sister Rona's annoyance. Her new obsession follows an earlier one for her pet tarantula.",
+   "characters": [
+    "Lizzie — Robin Hood-obsessed girl",
+    "Rona — her sister",
+    "Tessa — her best friend",
+    "Buster — Tessa's uncle"
+   ],
+   "setting": "Contemporary New York area",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Miriam Nerlove",
+   "source": "https://marilynsinger.net/?p=1230",
+   "identified": true,
+   "note": "Published by Harper & Row."
+  },
+  "morena": {
+   "title": "Morena",
+   "author_names": [
+    "Peter Zachary Cohen"
+   ],
+   "published": 1970,
+   "published_last": 1970,
+   "genres": [
+    "animal story",
+    "survival",
+    "adventure"
+   ],
+   "summary": "A young Boy Scout lost in the hills and an abandoned old mare must rely on each other to survive a heavy snowstorm and the freezing weather that follows.",
+   "characters": [
+    "Morena — abandoned old mare",
+    "A Boy Scout — lost in the hills"
+   ],
+   "setting": "Hills in winter",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Haris Petie",
+   "source": "https://openlibrary.org/works/OL3579375W",
+   "identified": true,
+   "note": "Published by Atheneum."
+  },
+  "ninny-s-boat": {
+   "title": "Ninny's Boat",
+   "author_names": [
+    "Clive King"
+   ],
+   "published": 1980,
+   "published_last": 1980,
+   "genres": [
+    "historical fiction",
+    "adventure",
+    "sea story"
+   ],
+   "summary": "Ninny is a slave of the Angles, a tribe planning to sail in search of a new land. His resourcefulness and friendship with the leader Offa win him a place in the boat, and in Britain he discovers he is himself a Briton.",
+   "characters": [
+    "Ninny — slave and narrator",
+    "Offa — leader of the voyage"
+   ],
+   "setting": "Denmark and Britain, fifth century AD",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Ian Newsham",
+   "source": "https://encyclopedia.com/arts/educational-magazines/king-david-clive-1924",
+   "identified": true,
+   "note": "Kestrel (UK) 1980, Macmillan (US) 1981."
+  },
+  "over-the-water": {
+   "title": "Over the Water",
+   "author_names": [
+    "Maude Casey"
+   ],
+   "published": 1987,
+   "published_last": 1987,
+   "genres": [
+    "realistic fiction",
+    "family",
+    "coming of age"
+   ],
+   "summary": "Fourteen-year-old Mary feels out of place both in England, where her family lives, and in Ireland, where they came from. A visit to her Irish relatives helps her understand her heritage and her mother.",
+   "characters": [
+    "Mary — fourteen-year-old girl"
+   ],
+   "setting": "Ireland and England",
+   "awards": [],
+   "series": null,
+   "reading_age": "Young adult",
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL2969070W",
+   "identified": true,
+   "note": "First published in England by The Women's Press in 1987; US edition Holt 1994."
+  },
+  "ronia-the-robber-s-daughter": {
+   "title": "Ronia, the Robber's Daughter",
+   "author_names": [
+    "Astrid Lindgren"
+   ],
+   "published": 1981,
+   "published_last": 1981,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "friendship"
+   ],
+   "summary": "Ronia grows up in a robber chief's castle, which is split in two by lightning when a rival gang moves in. She befriends Birk, the rival chief's son, and the two run into the forest and face its creatures.",
+   "characters": [
+    "Ronia — robber chief's daughter",
+    "Matt — her father, the robber chief",
+    "Birk Borkason — rival chief's son",
+    "Borka — rival robber chief"
+   ],
+   "setting": "Early-medieval Scandinavian forest",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Ilon Wikland (Swedish); Trina Schart Hyman (1983 English edition)",
+   "source": "https://en.wikipedia.org/wiki/Ronja,_the_Robber%27s_Daughter",
+   "identified": true,
+   "note": "Swedish original (Ronja rövardotter) 1981; English translation 1983 (Methuen, as The Robber's Daughter) and 1985 (Puffin)."
+  },
+  "shadows-and-whispers-tales-from-the-other-side": {
+   "title": "Shadows and Whispers: Tales from the Other Side",
+   "author_names": [
+    "Collin McDonald"
+   ],
+   "published": 1994,
+   "published_last": 1994,
+   "genres": [
+    "horror",
+    "short stories",
+    "supernatural"
+   ],
+   "summary": "A collection of short horror stories for young readers, including tales about a cursed soda machine, a slumber party and a music teacher. Each is a spooky story told in a modern setting.",
+   "characters": [],
+   "setting": "Various",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL3455601W",
+   "identified": true,
+   "note": "Published by Cobblehill Books, 135 pages. Story details from a reader recollection; no publisher summary found."
+  },
+  "some-things-strange-and-sinister": {
+   "title": "Some Things Strange and Sinister",
+   "author_names": [
+    "Joan Kahn"
+   ],
+   "published": 1973,
+   "published_last": 1973,
+   "genres": [
+    "anthology",
+    "horror",
+    "mystery"
+   ],
+   "summary": "An anthology of strange and sinister stories edited by Joan Kahn, drawing on authors such as Agatha Christie and others. It belongs to her \"Some Things\" series of suspense anthologies.",
+   "characters": [],
+   "setting": "Various",
+   "awards": [],
+   "series": "Some Things... anthologies edited by Joan Kahn",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=title%3A%22Some+Things+Strange+and+Sinister%22&fields=title,author_name,first_publish_year,publisher",
+   "identified": true,
+   "note": "Harper & Row first edition 1973; contents not verified in detail."
+  },
+  "the-adventures-of-sherlock-holmes-bks-1-2": {
+   "title": "The Adventures of Sherlock Holmes, Books 1 & 2",
+   "author_names": [
+    "Arthur Conan Doyle",
+    "Catherine Edwards Sadler"
+   ],
+   "published": 1981,
+   "published_last": 1981,
+   "genres": [
+    "mystery",
+    "classic",
+    "adaptation"
+   ],
+   "summary": "Simplified retellings for young readers of Sherlock Holmes cases. Book One covers A Study in Scarlet, The Red-Headed League and The Man with the Twisted Lip; Book Two covers other cases such as The Sign of the Four.",
+   "characters": [
+    "Sherlock Holmes — consulting detective",
+    "Dr. Watson — his friend and narrator"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": "Adapted for young readers, Avon Camelot, Books 1 and 2",
+   "reading_age": "Young readers",
+   "illustrator": "Andrew Glass",
+   "source": "https://openlibrary.org/works/OL5368284W",
+   "identified": true,
+   "note": "Book One published Nov 1981 (Avon Camelot); Book Two year listed as 1981 on Goodreads, with later Camelot reprints (1986, 1989). Book Two contents come from a search snippet, not a fetched page."
+  },
+  "the-bad-times-of-irma-baumlein": {
+   "title": "The Bad Times of Irma Baumlein",
+   "author_names": [
+    "Carol Ryrie Brink"
+   ],
+   "published": 1972,
+   "published_last": 1972,
+   "genres": [
+    "realistic fiction",
+    "humor",
+    "family"
+   ],
+   "summary": "Irma tells a lie about owning the biggest doll in the world, and the lie drags her into deeper and deeper trouble.",
+   "characters": [
+    "Irma Baumlein — girl who tells a lie"
+   ],
+   "setting": "Not verified",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Trina Schart Hyman (per a search listing)",
+   "source": "https://openlibrary.org/search.json?q=title%3A%22Bad+times+of+Irma+Baumlein%22&fields=key,title,author_name,first_publish_year,publisher,subject",
+   "identified": true,
+   "note": "Also published as Irma's Big Lie. Illustrator from a search snippet, not a fetched page."
+  },
+  "the-borrowed-house": {
+   "title": "The Borrowed House",
+   "author_names": [
+    "Hilda van Stockum"
+   ],
+   "published": 1975,
+   "published_last": 1975,
+   "genres": [
+    "historical fiction",
+    "World War II",
+    "young adult"
+   ],
+   "summary": "A German girl in the Hitler Youth moves to occupied Amsterdam to join her parents. There she learns what the war really means for ordinary people.",
+   "characters": [
+    "A German Hitler Youth girl — protagonist"
+   ],
+   "setting": "Occupied Amsterdam, World War II",
+   "awards": [],
+   "series": null,
+   "reading_age": "13-18",
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=title%3A%22The+borrowed+house%22+author%3Astockum&fields=key,title,author_name,first_publish_year,publisher,subject",
+   "identified": true,
+   "note": "Published by Farrar, Straus, Giroux. Summary and age from search snippets and catalog subjects."
+  },
+  "the-case-of-the-murdered-players": {
+   "title": "The Case of the Murdered Players",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1985,
+   "published_last": 1985,
+   "genres": [
+    "mystery",
+    "historical",
+    "detective"
+   ],
+   "summary": "In 1890s London a killer is targeting the city's leading actresses. Andrew Tillett, Sara Wiggins and Inspector Wyatt must find the culprit before he reaches Andrew's actress mother.",
+   "characters": [
+    "Andrew Tillett — young sleuth",
+    "Sara Wiggins — his partner",
+    "Inspector Wyatt — police detective",
+    "Baron Beasley — antiquities dealer"
+   ],
+   "setting": "London, 1890s",
+   "awards": [],
+   "series": "Andrew Tillett, Sara Wiggins & Inspector Wyatt (book 7)",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL5108837W",
+   "identified": true,
+   "note": "Draft said 1977; Open Library gives Atheneum 1985 (174 pages)."
+  },
+  "the-chronicles-of-narnia": {
+   "title": "The Chronicles of Narnia",
+   "author_names": [
+    "C. S. Lewis"
+   ],
+   "published": 1950,
+   "published_last": 1956,
+   "genres": [
+    "fantasy",
+    "children's classic",
+    "allegory"
+   ],
+   "summary": "Seven books tell the history of Narnia, a land of talking animals and magic, from its creation to its end. Children from England are drawn into it to help the lion Aslan.",
+   "characters": [
+    "Aslan — the great lion",
+    "Lucy, Edmund, Susan and Peter Pevensie — children",
+    "Jadis — the White Witch",
+    "Caspian — prince and king"
+   ],
+   "setting": "Narnia and England",
+   "awards": [],
+   "series": "The Chronicles of Narnia (7 books)",
+   "reading_age": null,
+   "illustrator": "Pauline Baynes",
+   "source": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia",
+   "identified": true,
+   "note": "First book 1950, last 1956."
+  },
+  "the-dragon-of-og": {
+   "title": "The Dragon of Og",
+   "author_names": [
+    "Rumer Godden"
+   ],
+   "published": 1981,
+   "published_last": 1981,
+   "genres": [
+    "fantasy",
+    "folk tale",
+    "humor"
+   ],
+   "summary": "Based on a Scottish Lowlands legend, a luck-bringing dragon has long received two bullocks a month. When Angus Og inherits the castle he insists the dragon must die, and a contest of wits begins.",
+   "characters": [
+    "The Dragon — gentle luck-bringer",
+    "Angus Og — new lord",
+    "The lady of the manor — dragon's friend"
+   ],
+   "setting": "Scottish Lowlands",
+   "awards": [
+    "ALA Notable Book"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Pauline Baynes",
+   "source": "https://www.exodusbooks.com/dragon-of-og/godden/88045/",
+   "identified": true,
+   "note": null
+  },
+  "the-falcon-bow-an-arctic-legend": {
+   "title": "The Falcon Bow: An Arctic Legend",
+   "author_names": [
+    "James Houston"
+   ],
+   "published": 1986,
+   "published_last": 1986,
+   "genres": [
+    "adventure",
+    "Inuit legend",
+    "historical"
+   ],
+   "summary": "Kungo, an Inuk, travels into Indian country when the caribou fail to return and fires are blamed on neighbors. He and his sister Shulu work for peace between the two peoples.",
+   "characters": [
+    "Kungo — young Inuk",
+    "Shulu — his sister"
+   ],
+   "setting": "The Keewatin region of the Arctic",
+   "awards": [],
+   "series": "Sequel to The White Archer",
+   "reading_age": "Grades 4-8",
+   "illustrator": "James Houston",
+   "source": "https://en.wikipedia.org/wiki/James_Archibald_Houston",
+   "identified": true,
+   "note": "Published by McClelland and Stewart. Plot details come from a search snippet (publisher page not fetched)."
+  },
+  "the-house-on-the-hill": {
+   "title": "The House on the Hill",
+   "author_names": [
+    "Eileen Dunlop"
+   ],
+   "published": 1987,
+   "published_last": 1987,
+   "genres": [
+    "ghost story",
+    "mystery",
+    "family"
+   ],
+   "summary": "Twelve-year-old Philip is sent to stay with his great-aunt and cousin in a decaying Glasgow mansion. The cousins notice a light in a long-empty room and photos showing furniture that is not there.",
+   "characters": [
+    "Philip — twelve-year-old boy",
+    "Jane Gilmore — great-aunt",
+    "Susan — cousin"
+   ],
+   "setting": "A decaying mansion in Glasgow",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": null,
+   "source": "https://www.publishersweekly.com/9780823406586",
+   "identified": true,
+   "note": "Holiday House edition 1987/88."
+  },
+  "the-jungle": {
+   "title": "The Jungle",
+   "author_names": [
+    "Upton Sinclair"
+   ],
+   "published": 1906,
+   "published_last": 1906,
+   "genres": [
+    "classic",
+    "social realism",
+    "political fiction"
+   ],
+   "summary": "A Lithuanian immigrant family comes to Chicago hoping for a better life and meets brutal work and poverty in the meatpacking plants. The book exposed unsanitary conditions in the industry.",
+   "characters": [
+    "Jurgis Rudkus — Lithuanian immigrant",
+    "Ona — his wife",
+    "Marija — Ona's cousin",
+    "Teta Elzbieta — Ona's stepmother"
+   ],
+   "setting": "Chicago stockyards, around 1900",
+   "awards": [],
+   "series": null,
+   "reading_age": "Adult",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Jungle",
+   "identified": true,
+   "note": "Serialized in 1905; book published 1906."
+  },
+  "the-lord-of-the-rings-trilogy-the-fellowship-of-the-ring-the-two-towers-the-return-of-the-king": {
+   "title": "The Lord of the Rings Trilogy",
+   "author_names": [
+    "J. R. R. Tolkien"
+   ],
+   "published": 1954,
+   "published_last": 1955,
+   "genres": [
+    "fantasy",
+    "epic",
+    "adventure"
+   ],
+   "summary": "The hobbit Frodo sets out from the Shire to deal with a ring of great power, pursued by enemies and joined by companions. Together they resist the Dark Lord Sauron.",
+   "characters": [
+    "Frodo Baggins — hobbit ring-bearer",
+    "Samwise Gamgee — his friend",
+    "Gandalf — wizard",
+    "Aragorn — ranger"
+   ],
+   "setting": "Middle-earth",
+   "awards": [
+    "International Fantasy Award (1957)"
+   ],
+   "series": "The Lord of the Rings (3 volumes)",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+   "identified": true,
+   "note": "Fellowship July 1954, Two Towers Nov 1954, Return of the King Oct 1955."
+  },
+  "the-night-daddy": {
+   "title": "The Night Daddy",
+   "author_names": [
+    "Maria Gripe"
+   ],
+   "published": 1968,
+   "published_last": 1968,
+   "genres": [
+    "family",
+    "realistic fiction",
+    "translated"
+   ],
+   "summary": "A night-shift nurse hires a young writer to babysit her daughter. The girl comes to call him her \"Night Daddy\".",
+   "characters": [
+    "The night daddy — young writer",
+    "The girl — nurse's daughter",
+    "The nurse — working mother"
+   ],
+   "setting": "Sweden",
+   "awards": [],
+   "series": "Followed by Julia's House",
+   "reading_age": "Children",
+   "illustrator": "Harald Gripe",
+   "source": "https://en.wikipedia.org/wiki/Maria_Gripe",
+   "identified": true,
+   "note": "Swedish original Nattpappan 1968; English translation by Gerry Bothmer, Delacorte 1971 (Open Library dates the work 1971). Plot from a bookseller snippet."
+  },
+  "the-poisonwood-bible": {
+   "title": "The Poisonwood Bible",
+   "author_names": [
+    "Barbara Kingsolver"
+   ],
+   "published": 1998,
+   "published_last": 1998,
+   "genres": [
+    "literary fiction",
+    "historical fiction",
+    "family saga"
+   ],
+   "summary": "A Baptist missionary moves his wife and four daughters to the Belgian Congo in 1959. As the country heads toward independence, the family's mission is shaken by cultural clashes and political upheaval.",
+   "characters": [
+    "Nathan Price — missionary father",
+    "Orleanna — mother",
+    "Rachel, Leah, Adah and Ruth May — daughters"
+   ],
+   "setting": "Kilanga, Belgian Congo, from 1959",
+   "awards": [
+    "Pulitzer Prize for Fiction finalist (1999)",
+    "Oprah's Book Club selection (1999)"
+   ],
+   "series": null,
+   "reading_age": "Adult",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Poisonwood_Bible",
+   "identified": true,
+   "note": null
+  },
+  "the-singing-hill": {
+   "title": "The Singing Hill",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1962,
+   "published_last": 1962,
+   "genres": [
+    "realistic fiction",
+    "animal story"
+   ],
+   "summary": "A lonely boy named Ray finds an abandoned horse in a field. A looming threat challenges him to turn his loneliness into courage.",
+   "characters": [
+    "Ray — lonely boy"
+   ],
+   "setting": "A farm hill",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Maurice Sendak",
+   "source": "https://en.wikipedia.org/wiki/Meindert_De_Jong",
+   "identified": true,
+   "note": "Published by Harper & Row, 1962. Plot from a search snippet, not a fetched page."
+  },
+  "the-swing-in-the-summerhouse": {
+   "title": "The Swing in the Summerhouse",
+   "author_names": [
+    "Jane Langton"
+   ],
+   "published": 1967,
+   "published_last": 1967,
+   "genres": [
+    "fantasy",
+    "family",
+    "adventure"
+   ],
+   "summary": "The Hall children are warned to keep out of a forbidden opening in their summerhouse. When two younger friends vanish through it, Eleanor and Eddy must decide whether to break their promise.",
+   "characters": [
+    "Eleanor Hall — girl",
+    "Eddy Hall — boy",
+    "Prince Krishna — visiting prince"
+   ],
+   "setting": "A summerhouse near Concord, Massachusetts",
+   "awards": [],
+   "series": "The Hall Family Chronicles (book 2)",
+   "reading_age": null,
+   "illustrator": "Erik Blegvad",
+   "source": "https://openlibrary.org/search.json?q=title%3A%22swing+in+the+summerhouse%22&fields=key,title,author_name,first_publish_year,publisher,subject",
+   "identified": true,
+   "note": "Plot from a search snippet; year and illustrator from Open Library."
+  },
+  "the-unicorn-treasury": {
+   "title": "The Unicorn Treasury",
+   "author_names": [
+    "Bruce Coville"
+   ],
+   "published": 1988,
+   "published_last": 1988,
+   "genres": [
+    "anthology",
+    "fantasy",
+    "poetry"
+   ],
+   "summary": "An anthology of stories, poems and folklore about unicorns, gathered by Bruce Coville. It includes pieces by Madeleine L'Engle, Jane Yolen, C. S. Lewis and Myra Cohn Livingston.",
+   "characters": [],
+   "setting": "Various",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Tim Hildebrandt",
+   "source": "https://openlibrary.org/works/OL69332W",
+   "identified": true,
+   "note": "Doubleday 1988; illustrator from a search snippet."
+  },
+  "the-witch-s-daughter": {
+   "title": "The Witch's Daughter",
+   "author_names": [
+    "Nina Bawden"
+   ],
+   "published": 1966,
+   "published_last": 1966,
+   "genres": [
+    "mystery",
+    "adventure",
+    "children's fiction"
+   ],
+   "summary": "On a remote Scottish island, Perdita is shunned because her mother is said to have cursed the sea. Two visiting children befriend her and the three look into an old crime and a new one.",
+   "characters": [
+    "Perdita — shunned island girl",
+    "Janey — blind visiting girl",
+    "Tim — her brother"
+   ],
+   "setting": "The island of Skua, Scotland",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Shirley Hughes",
+   "source": "https://en.wikipedia.org/wiki/The_Witch%27s_Daughter",
+   "identified": true,
+   "note": "Gollancz (UK) 1966; Lippincott (US) 1966."
+  },
+  "to-be-a-logger": {
+   "title": "To Be a Logger",
+   "author_names": [
+    "Lois Lenski"
+   ],
+   "published": 1967,
+   "published_last": 1967,
+   "genres": [
+    "regional fiction",
+    "family",
+    "nature"
+   ],
+   "summary": "Joel, son of an Oregon logger, grows up in a family that sees the forest as something to cut. He comes to understand the dangers of his father's work and the harm done to forests.",
+   "characters": [
+    "Joel — logger's son"
+   ],
+   "setting": "Pacific Northwest, Oregon",
+   "awards": [],
+   "series": "Regional America series",
+   "reading_age": null,
+   "illustrator": "Lois Lenski (her own)",
+   "source": "https://openlibrary.org/search.json?q=title%3A%22To+be+a+logger%22&fields=key,title,author_name,first_publish_year,publisher,subject",
+   "identified": true,
+   "note": "Lippincott 1967. Series and plot from a library record snippet."
+  },
+  "witch-s-sister": {
+   "title": "Witch's Sister",
+   "author_names": [
+    "Phyllis Reynolds Naylor"
+   ],
+   "published": 1975,
+   "published_last": 1975,
+   "genres": [
+    "mystery",
+    "supernatural",
+    "children's fiction"
+   ],
+   "summary": "Eleven-year-old Lynn suspects her older sister Judith of witchcraft after strange events. She and her friend Mouse learn that Judith is under the influence of an old woman.",
+   "characters": [
+    "Lynn Morley — eleven-year-old",
+    "Judith — her older sister",
+    "Mouse (Marjorie Beasley) — Lynn's friend",
+    "Mrs. Tuggle — elderly neighbor"
+   ],
+   "setting": "A small Indiana town",
+   "awards": [],
+   "series": "The Witch Saga (book 1)",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Witch_Saga",
+   "identified": true,
+   "note": "Atheneum 1975."
+  }
+ },
+ "authors": {
+  "Joan Aiken": {
+   "born": 1924,
+   "died": 2004,
+   "birthplace": "Rye, Sussex, England",
+   "nationality": "English",
+   "bio": "Aiken was the daughter of the American poet Conrad Aiken. She wrote full-time after 1955 and produced over 100 books of novels, stories and plays. She was appointed MBE in 1999.",
+   "known_for": [
+    "The Wolves of Willoughby Chase",
+    "The Whispering Mountain",
+    "Arabel and Mortimer"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Joan_Aiken"
+  },
+  "Mark Twain": {
+   "born": 1835,
+   "died": 1910,
+   "birthplace": "Florida, Missouri",
+   "nationality": "American",
+   "bio": "Twain, born Samuel Clemens, grew up in Hannibal, Missouri and worked as a printer and steamboat pilot. He became a journalist and then a world-famous writer and lecturer. He was bankrupted in 1894 and later became a critic of imperialism.",
+   "known_for": [
+    "The Adventures of Tom Sawyer",
+    "Adventures of Huckleberry Finn",
+    "A Connecticut Yankee in King Arthur's Court"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mark_Twain"
+  },
+  "Adèle Geras": {
+   "born": 1944,
+   "died": null,
+   "birthplace": "Jerusalem",
+   "nationality": "English",
+   "bio": "Geras was born Adèle Weston to British Jewish parents and spent her childhood in several countries. She studied at St Hilda's College, Oxford, before becoming a full-time writer. Her first book was Tea at Mrs Manderby's in 1976.",
+   "known_for": [
+    "Troy",
+    "Ithaka",
+    "Happy Ever After"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ad%C3%A8le_Geras"
+  },
+  "Mabel Leigh Hunt": {
+   "born": 1892,
+   "died": 1971,
+   "birthplace": "Coatesville, Indiana",
+   "nationality": "American",
+   "bio": "Hunt grew up in a Quaker household in Indiana and worked as a librarian in Indianapolis from 1926 to 1938. She then wrote full-time, often setting stories in Indiana. Two of her books were Newbery Honor books.",
+   "known_for": [
+    "Better Known as Johnny Appleseed",
+    "Have You Seen Tom Thumb?",
+    "Lucinda, A Little Girl of 1860"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mabel_Leigh_Hunt"
+  },
+  "Jane Yolen": {
+   "born": 1939,
+   "died": 2026,
+   "birthplace": "New York City",
+   "nationality": "American",
+   "bio": "Yolen wrote fantasy, science fiction and children's books and earned a BA from Smith College in 1960. She edited books in New York and later lived in Hatfield, Massachusetts. She wrote around 450 books and died in June 2026.",
+   "known_for": [
+    "The Devil's Arithmetic",
+    "Owl Moon",
+    "Commander Toad series"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jane_Yolen"
+  },
+  "Colby Rodowsky": {
+   "born": 1932,
+   "died": null,
+   "birthplace": "Baltimore, Maryland",
+   "nationality": "American",
+   "bio": "Rodowsky studied at the College of Notre Dame of Maryland and taught in Baltimore schools. She began writing for children around age forty, and her first novel appeared in 1976. Many of her books follow young protagonists facing hardship.",
+   "known_for": [
+    "What About Me?",
+    "P.S. Write Soon",
+    "Evy-Ivy-Over"
+   ],
+   "source": "https://www.encyclopedia.com/arts/educational-magazines/rodowsky-colby-1932"
+  },
+  "Willis Lindquist": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Lindquist wrote children's books for McGraw-Hill and Whittlesey House, including Burma Boy and Alaska, the Forty-Ninth State. He also adapted Ben-Hur for Scholastic. Biographical details could not be verified.",
+   "known_for": [
+    "Burma Boy",
+    "Haji of the Elephants",
+    "Alaska, the Forty-Ninth State"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Willis+Lindquist"
+  },
+  "Alice L. Hopf": {
+   "born": 1904,
+   "died": 1988,
+   "birthplace": "Detroit, Michigan",
+   "nationality": "American",
+   "bio": "Hopf graduated from Vassar in 1927 and wrote children's nature books under the name Alice Hopf. She also wrote science fiction as A. M. Lightner. Two of her nonfiction books won National Science Teachers Association awards.",
+   "known_for": [
+    "Biography of a Rhino",
+    "Misunderstood Animals",
+    "The Day of the Drones"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Alice_Lightner_Hopf"
+  },
+  "Donna Jo Napoli": {
+   "born": 1948,
+   "died": null,
+   "birthplace": "Miami, Florida",
+   "nationality": "American",
+   "bio": "Napoli is a linguist and author who earned a Harvard degree in 1970 and a PhD in Romance languages in 1973. She teaches at Swarthmore College. Her fiction often retells fairy tales and addresses real-life difficulties.",
+   "known_for": [
+    "The Magic Circle",
+    "Daughter of Venice",
+    "Breath"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Donna_Jo_Napoli"
+  },
+  "Marilyn Singer": {
+   "born": 1948,
+   "died": null,
+   "birthplace": "The Bronx, New York City",
+   "nationality": "American",
+   "bio": "Singer earned a BA from Queens College and an MA from NYU, then taught high-school English in New York. She began writing in 1974 and has published over one hundred books. Her work spans fiction, nonfiction, poetry and picture books.",
+   "known_for": [
+    "Mirror, Mirror",
+    "City Lullaby",
+    "Turtle in July"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Marilyn_Singer"
+  },
+  "Peter Zachary Cohen": {
+   "born": 1931,
+   "died": null,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "Cohen taught English at Kansas State University from 1961 and served on a county planning commission. He studied at the University of Wyoming and served in the US Army from 1954 to 1956. He wrote children's fiction and plays, and lived on a small farm in Alta Vista, Kansas.",
+   "known_for": [
+    "Morena",
+    "Foal Creek",
+    "The Great Red River Raft"
+   ],
+   "source": "https://www.encyclopedia.com/arts/educational-magazines/cohen-peter-zachary-1931"
+  },
+  "Clive King": {
+   "born": 1924,
+   "died": 2018,
+   "birthplace": "Richmond, Surrey, England",
+   "nationality": "English",
+   "bio": "King read English at Cambridge and served in the Royal Navy in 1943-46. He then worked abroad for the British Council and as a lecturer before writing full-time from 1973. He is best known for Stig of the Dump.",
+   "known_for": [
+    "Stig of the Dump",
+    "The Twenty-two Letters",
+    "Ninny's Boat"
+   ],
+   "source": "https://booksforkeeps.co.uk/article/obituary-clive-king/"
+  },
+  "Maude Casey": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Maude Casey wrote Over the Water, first published in England by The Women's Press in 1987 and in the US by Holt in 1994. Open Library lists only two records for her. No further biographical details could be verified.",
+   "known_for": [
+    "Over the Water"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Maude+Casey"
+  },
+  "Astrid Lindgren": {
+   "born": 1907,
+   "died": 2002,
+   "birthplace": "Vimmerby, Sweden",
+   "nationality": "Swedish",
+   "bio": "Lindgren grew up on a farm near Vimmerby and worked as a journalist and secretary before becoming an author. She wrote over 30 children's books translated into about 100 languages. She won the Hans Christian Andersen Medal in 1958 and campaigned for children's and animal rights.",
+   "known_for": [
+    "Pippi Longstocking",
+    "Emil of Lönneberga",
+    "Ronia the Robber's Daughter"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Astrid_Lindgren"
+  },
+  "Collin McDonald": {
+   "born": 1943,
+   "died": null,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "McDonald wrote scary-story collections for young readers published by Cobblehill Books. His books include Nightwaves (1990), The Chilling Hour (1992) and Shadows and Whispers (1994). Other details could not be verified.",
+   "known_for": [
+    "Nightwaves",
+    "The Chilling Hour",
+    "Shadows and Whispers"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Collin+McDonald"
+  },
+  "Joan Kahn": {
+   "born": 1914,
+   "died": 1994,
+   "birthplace": "New York City",
+   "nationality": "American",
+   "bio": "Kahn was an editor at Harper & Row from about 1946 to 1980, where she built its mystery list. She edited about eleven suspense anthologies, several for young adults. She received a special Edgar Award in 1989.",
+   "known_for": [
+    "Some Things Strange and Sinister",
+    "Harper Novels of Suspense"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Joan_Kahn"
+  },
+  "Arthur Conan Doyle": {
+   "born": 1859,
+   "died": 1930,
+   "birthplace": "Edinburgh, Scotland",
+   "nationality": "British",
+   "bio": "Doyle trained as a physician and practised in Portsmouth before turning to writing. He created Sherlock Holmes and was knighted in 1902. He later became a spiritualist.",
+   "known_for": [
+    "The Adventures of Sherlock Holmes",
+    "The Lost World",
+    "The White Company"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+  },
+  "Catherine Edwards Sadler": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Sadler adapted Arthur Conan Doyle's Sherlock Holmes stories for young readers in books published by Avon Camelot. Book One appeared in November 1981 with illustrations by Andrew Glass. No biographical details could be verified.",
+   "known_for": [
+    "Sir Arthur Conan Doyle's The Adventures of Sherlock Holmes (Book One)"
+   ],
+   "source": "https://openlibrary.org/works/OL5368284W"
+  },
+  "Carol Ryrie Brink": {
+   "born": 1895,
+   "died": 1981,
+   "birthplace": "Moscow, Idaho",
+   "nationality": "American",
+   "bio": "Brink was raised in Idaho by her grandmother and graduated from UC Berkeley in 1918. She lived in St. Paul, Minnesota, for 42 years and wrote over thirty books. She won the Newbery Medal in 1936.",
+   "known_for": [
+    "Caddie Woodlawn",
+    "Baby Island",
+    "Anything Can Happen on the River"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Carol_Ryrie_Brink"
+  },
+  "Hilda van Stockum": {
+   "born": 1908,
+   "died": 2006,
+   "birthplace": "Rotterdam, Netherlands",
+   "nationality": "Dutch-born, naturalized American",
+   "bio": "Van Stockum was a children's author, illustrator and painter who became a US citizen in 1936. She married Ervin Ross Marlin and had six children. She won a Newbery Honor for A Day on Skates.",
+   "known_for": [
+    "A Day on Skates",
+    "The Winged Watchman",
+    "The Mitchells"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hilda_van_Stockum"
+  },
+  "Robert Newman": {
+   "born": 1909,
+   "died": 1988,
+   "birthplace": "New York City",
+   "nationality": "American",
+   "bio": "Newman was an early radio writer, working on Inner Sanctum Mysteries and Murder at Midnight. He helped found the Radio Writers Guild. From 1973 he wrote children's books, including the Tillett, Wiggins and Wyatt mysteries.",
+   "known_for": [
+    "The Andrew Tillett, Sara Wiggins & Inspector Wyatt mysteries",
+    "Merlin's Mistake",
+    "Grettir the Strong"
+   ],
+   "source": "https://openlibrary.org/authors/OL1125431A"
+  },
+  "C. S. Lewis": {
+   "born": 1898,
+   "died": 1963,
+   "birthplace": "Belfast, Ireland",
+   "nationality": "British",
+   "bio": "Lewis taught at Oxford and Cambridge and was a lay theologian. He returned to Christianity as an adult and belonged to the Inklings with Tolkien. He married Joy Davidman in 1956.",
+   "known_for": [
+    "The Chronicles of Narnia",
+    "Mere Christianity",
+    "The Screwtape Letters"
+   ],
+   "source": "https://en.wikipedia.org/wiki/C._S._Lewis"
+  },
+  "Rumer Godden": {
+   "born": 1907,
+   "died": 1998,
+   "birthplace": "Eastbourne, Sussex, England",
+   "nationality": "British",
+   "bio": "Godden grew up in colonial India and ran a dance school in Calcutta for about 20 years. She wrote more than 60 books and nine were filmed. She was made OBE in 1993.",
+   "known_for": [
+    "Black Narcissus",
+    "The River",
+    "The Doll's House"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Rumer_Godden"
+  },
+  "James Houston": {
+   "born": 1921,
+   "died": 2005,
+   "birthplace": "St. Catharines, Ontario",
+   "nationality": "Canadian",
+   "bio": "Houston was an artist and author who lived in the Eastern Arctic for about twelve years and introduced printmaking to the Inuit in 1957. He later moved to New York and worked for Steuben Glass. He was an Officer of the Order of Canada.",
+   "known_for": [
+    "The White Archer",
+    "Tikta'liktak",
+    "The White Dawn"
+   ],
+   "source": "https://en.wikipedia.org/wiki/James_Archibald_Houston"
+  },
+  "Eileen Dunlop": {
+   "born": 1938,
+   "died": null,
+   "birthplace": null,
+   "nationality": "British",
+   "bio": "Dunlop was head teacher of the Preparatory School of Dollar Academy from 1980 to 1990. She wrote many children's novels set in Scotland, as well as books on Scottish history and folklore. Her birthplace was not listed.",
+   "known_for": [
+    "Robinsheugh",
+    "The Maze Stone",
+    "The House on the Hill"
+   ],
+   "source": "https://encyclopedia.com/arts/culture-magazines/dunlop-eileen-rhona"
+  },
+  "Upton Sinclair": {
+   "born": 1878,
+   "died": 1968,
+   "birthplace": "Baltimore, Maryland",
+   "nationality": "American",
+   "bio": "Sinclair was a muckraking novelist and socialist activist who wrote nearly 100 books. The Jungle helped lead to US food-safety laws. He won the Pulitzer Prize for Fiction in 1943.",
+   "known_for": [
+    "The Jungle",
+    "Oil!",
+    "Dragon's Teeth"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Upton_Sinclair"
+  },
+  "J. R. R. Tolkien": {
+   "born": 1892,
+   "died": 1973,
+   "birthplace": "Bloemfontein, Orange Free State (now South Africa)",
+   "nationality": "British",
+   "bio": "Tolkien was a philologist who held professorships at Oxford. He fought in the First World War and was a close friend of C. S. Lewis. His Middle-earth books made him one of fantasy's defining authors.",
+   "known_for": [
+    "The Hobbit",
+    "The Lord of the Rings",
+    "The Silmarillion"
+   ],
+   "source": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+  },
+  "Maria Gripe": {
+   "born": 1923,
+   "died": 2007,
+   "birthplace": "Vaxholm, Sweden",
+   "nationality": "Swedish",
+   "bio": "Gripe worked as a journalist before becoming a writer, and her husband Harald illustrated most of her books. Her books blend fairy-tale elements with psychological realism. She won the Hans Christian Andersen Medal in 1974.",
+   "known_for": [
+    "Josephine",
+    "The Glassblower's Children",
+    "The Night Daddy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Maria_Gripe"
+  },
+  "Barbara Kingsolver": {
+   "born": 1955,
+   "died": null,
+   "birthplace": "Annapolis, Maryland",
+   "nationality": "American",
+   "bio": "Kingsolver grew up in rural Kentucky and lived in the Congo as a young child. She studied at DePauw and the University of Arizona. Her fiction deals with social justice and the environment.",
+   "known_for": [
+    "The Poisonwood Bible",
+    "The Lacuna",
+    "Demon Copperhead"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Barbara_Kingsolver"
+  },
+  "Meindert DeJong": {
+   "born": 1906,
+   "died": 1991,
+   "birthplace": "Wierum, Friesland, Netherlands",
+   "nationality": "Dutch-born American",
+   "bio": "DeJong emigrated with his family to the US in 1914 and settled in Michigan. He wrote children's books from 1938 to 1986. He won the Newbery Medal in 1955 and was the first American to receive the Hans Christian Andersen Award.",
+   "known_for": [
+    "The Wheel on the School",
+    "Journey from Peppermint Street",
+    "The House of Sixty Fathers"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Meindert_De_Jong"
+  },
+  "Jane Langton": {
+   "born": 1922,
+   "died": 2018,
+   "birthplace": "Boston, Massachusetts",
+   "nationality": "American",
+   "bio": "Langton studied astronomy and art history and illustrated her own books. She lived in Lincoln, Massachusetts, near Concord, setting many novels there. She received the Edgar Grand Master Award in 2018.",
+   "known_for": [
+    "The Diamond in the Window",
+    "The Fledgling",
+    "The Transcendental Murder"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jane_Langton"
+  },
+  "Bruce Coville": {
+   "born": 1950,
+   "died": null,
+   "birthplace": "Syracuse, New York",
+   "nationality": "American",
+   "bio": "Coville has published over 100 books and worked as a toymaker, gravedigger and teacher before writing. He co-founded Full Cast Audio. He was first published in 1977.",
+   "known_for": [
+    "My Teacher Glows in the Dark",
+    "I Was a 6th Grade Alien",
+    "Armageddon Summer"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Bruce_Coville"
+  },
+  "Nina Bawden": {
+   "born": 1925,
+   "died": 2012,
+   "birthplace": "Ilford, Essex, England",
+   "nationality": "English",
+   "bio": "Bawden studied at Somerville College, Oxford, and was evacuated to Wales during the war. She wrote for both adults and children. She was shortlisted for the Booker Prize in 1987.",
+   "known_for": [
+    "Carrie's War",
+    "The Peppermint Pig",
+    "The Witch's Daughter"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Nina_Bawden"
+  },
+  "Lois Lenski": {
+   "born": 1893,
+   "died": 1974,
+   "birthplace": "Springfield, Ohio",
+   "nationality": "American",
+   "bio": "Lenski illustrated 57 books by other authors before writing her own. Her regional series portrayed children outside the middle-class mainstream. She won the Newbery Medal for Strawberry Girl.",
+   "known_for": [
+    "Strawberry Girl",
+    "Bayou Suzette",
+    "Roundabout America books"
+   ],
+   "source": "https://encyclopedia.com/arts/news-wires-white-papers-and-books/lenski-lois"
+  },
+  "Phyllis Reynolds Naylor": {
+   "born": 1933,
+   "died": null,
+   "birthplace": "Anderson, Indiana",
+   "nationality": "American",
+   "bio": "Naylor began writing as a teenager and earned a BA from American University in 1963. She has written over 130 books. She won the Newbery Medal in 1992 for Shiloh.",
+   "known_for": [
+    "Shiloh",
+    "The Alice series",
+    "The Witch Saga"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Phyllis_Reynolds_Naylor"
+  }
+ }
+}

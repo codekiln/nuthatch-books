@@ -1,0 +1,653 @@
+{
+ "books": {
+  "sounder": {
+   "title": "Sounder",
+   "author_names": [
+    "William H. Armstrong"
+   ],
+   "published": 1969,
+   "published_last": 1969,
+   "genres": [
+    "historical fiction",
+    "dog story",
+    "family story"
+   ],
+   "summary": "A poor Black sharecropper family struggles to find enough food, and the father is arrested after taking a ham. The unnamed boy searches for his injured dog and later goes looking for his father, hungering to learn to read along the way.",
+   "characters": [
+    "The Boy (unnamed)",
+    "Sounder, the coon dog",
+    "The father",
+    "The mother"
+   ],
+   "setting": "Rural American South (Georgia counties mentioned; place never named), before the mid-1950s",
+   "awards": [
+    "Newbery Medal 1970",
+    "Mark Twain Award 1972"
+   ],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": "James Barkley",
+   "source": "https://en.wikipedia.org/wiki/Sounder_(novel)",
+   "identified": true,
+   "note": "Setting corrected: not explicitly Depression-era or 19th century; only the dog is named in the book."
+  },
+  "the-arkadians": {
+   "title": "The Arkadians",
+   "author_names": [
+    "Lloyd Alexander"
+   ],
+   "published": 1995,
+   "published_last": 1995,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "humor",
+    "mythology"
+   ],
+   "summary": "Lucian, a palace bean-counter, flees after uncovering fraud among the royal soothsayers. He joins a mysterious girl with strange powers and a poet turned into a donkey, and they set out to restore the poet to human form.",
+   "characters": [
+    "Lucian, palace bean-counter",
+    "Fronto, a poet turned into a donkey",
+    "Joy-in-the-Dance, a mysterious girl with strange powers"
+   ],
+   "setting": "Arkadia, a land drawn from Greek myth",
+   "awards": [],
+   "series": null,
+   "reading_age": "10+",
+   "illustrator": null,
+   "source": "https://www.kirkusreviews.com/book-reviews/lloyd-alexander/the-arkadians/",
+   "identified": true,
+   "note": "Corrected Lucian from lawyer's assistant to palace bean-counter; Fronto is a poet turned donkey."
+  },
+  "the-bears-house": {
+   "title": "The Bears' House",
+   "author_names": [
+    "Marilyn Sachs"
+   ],
+   "published": 1971,
+   "published_last": 1971,
+   "genres": [
+    "family story",
+    "realistic fiction"
+   ],
+   "summary": "Fran Ellen and her brother Fletcher hide from welfare workers and teachers after their father leaves and their mother falls too ill to care for the family. Fran Ellen finds comfort in a bear family living in a doll's house at school.",
+   "characters": [
+    "Fran Ellen, a thumb-sucking fourth-grader",
+    "Fletcher, her brother",
+    "The bear family in the doll's house"
+   ],
+   "setting": null,
+   "awards": [
+    "ALA Notable Book"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Louis Glanzman",
+   "source": "https://kirkusreviews.com/book-reviews/marilyn-sachs/the-bears-house/print",
+   "identified": true,
+   "note": "City not named in the page read; San Francisco setting unverified so removed. ALA Notable claim comes from a search snippet."
+  },
+  "the-black-stallion-and-satan": {
+   "title": "The Black Stallion and Satan",
+   "author_names": [
+    "Walter Farley"
+   ],
+   "published": 1949,
+   "published_last": 1949,
+   "genres": [
+    "horse story",
+    "adventure"
+   ],
+   "summary": "Alec Ramsay inherits the Black, and a question arises of whether the Black or his colt Satan is faster. A raging forest fire puts both horses in a race for their lives.",
+   "characters": [
+    "Alec Ramsay",
+    "The Black",
+    "Satan, the Black's colt"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": "The Black Stallion #5",
+   "reading_age": "8-12",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Black_Stallion",
+   "identified": true,
+   "note": "Series is the numbered Black Stallion books (1941-1983); this is #5. Illustrator unverified so null. Plot detail from search snippet only."
+  },
+  "the-changeling": {
+   "title": "The Changeling",
+   "author_names": [
+    "Zilpha Keatley Snyder"
+   ],
+   "published": 1970,
+   "published_last": 1970,
+   "genres": [
+    "family story",
+    "fantasy",
+    "friendship"
+   ],
+   "summary": "Shy, anxious Martha befriends fearless, imaginative Ivy Carson, who calls herself a changeling. Together they build a make-believe world, the Land of the Green Sky, and their friendship is shaped by growing up.",
+   "characters": [
+    "Martha",
+    "Ivy Carson"
+   ],
+   "setting": "A town and the hills above it with the Carson family's derelict mansion",
+   "awards": [
+    "Christopher Award",
+    "Junior Library Guild outstanding book"
+   ],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": "Alton Raible",
+   "source": "https://en.wikipedia.org/wiki/The_Changeling_(Snyder_novel)",
+   "identified": true,
+   "note": "Source URL fixed (disambiguated title); added illustrator and awards; California 1950s unverified so removed."
+  },
+  "the-dark-is-rising": {
+   "title": "The Dark Is Rising",
+   "author_names": [
+    "Susan Cooper"
+   ],
+   "published": 1973,
+   "published_last": 1973,
+   "genres": [
+    "fantasy",
+    "adventure"
+   ],
+   "summary": "On his eleventh birthday at midwinter, Will Stanton discovers he is one of the Old Ones, who serve the Light against the Dark. He must gather the Signs to help the Light as magic stirs through the Christmas season.",
+   "characters": [
+    "Will Stanton",
+    "Merriman Lyon",
+    "Herne the Hunter"
+   ],
+   "setting": "Thames Valley, England, from the winter solstice to Twelfth Night",
+   "awards": [
+    "Newbery Honor 1974"
+   ],
+   "series": "The Dark Is Rising Sequence #2",
+   "reading_age": "10-14",
+   "illustrator": "Alan E. Cober",
+   "source": "https://en.wikipedia.org/wiki/The_Dark_Is_Rising",
+   "identified": true,
+   "note": "Added illustrator; Rider/Merriman details unverified beyond series knowledge, so Rider removed."
+  },
+  "the-devil-s-other-storybook": {
+   "title": "The Devil's Other Storybook",
+   "author_names": [
+    "Natalie Babbitt"
+   ],
+   "published": 1987,
+   "published_last": 1987,
+   "genres": [
+    "short stories",
+    "fantasy",
+    "humor"
+   ],
+   "summary": "Ten more tales about the Devil, mostly set in the afterlife, where a lazy Satan dispenses poetic rather than gruesome justice. Witty and good for reading aloud.",
+   "characters": [
+    "The Devil"
+   ],
+   "setting": "Mostly the afterlife",
+   "awards": [],
+   "series": "Sequel to The Devil's Storybook",
+   "reading_age": "8-12",
+   "illustrator": "Natalie Babbitt",
+   "source": "https://kirkusreviews.com/book-reviews/natalie-babbitt/the-devils-other-storybook/print",
+   "identified": true,
+   "note": "Collection has ten stories; age 8-12 per Publishers Weekly (search snippet)."
+  },
+  "the-fledgling": {
+   "title": "The Fledgling",
+   "author_names": [
+    "Jane Langton"
+   ],
+   "published": 1980,
+   "published_last": 1980,
+   "genres": [
+    "fantasy",
+    "family story",
+    "nature"
+   ],
+   "summary": "Georgie Dorian believes she can fly and is taught by a Canada goose called the Goose Prince. A hunter obsessed with the bird threatens them in Concord.",
+   "characters": [
+    "Georgie (Georgina) Dorian",
+    "The Goose Prince",
+    "Eleanor Hall",
+    "Eddy Hall",
+    "Mr. Preek"
+   ],
+   "setting": "Concord, Massachusetts",
+   "awards": [
+    "Newbery Honor 1981",
+    "ALA Notable Children's Book"
+   ],
+   "series": "Hall Family Chronicles #4",
+   "reading_age": "8-12",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Fledgling",
+   "identified": true,
+   "note": "Corrected heroine surname to Dorian and goose to Goose Prince; illustrator unverified so null."
+  },
+  "the-green-book": {
+   "title": "The Green Book",
+   "author_names": [
+    "Jill Paton Walsh"
+   ],
+   "published": 1981,
+   "published_last": 1981,
+   "genres": [
+    "science fiction",
+    "survival"
+   ],
+   "summary": "As Earth dies, a group of refugees including a girl named Pattie flee in an old spaceship to a new planet. The colony struggles to survive there.",
+   "characters": [
+    "Pattie"
+   ],
+   "setting": "The planet Shine (a distant world)",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "Joanna Stubbs (UK 1981); Lloyd Bloom (US 1982)",
+   "source": "https://encyclopedia.com/arts/educational-magazines/paton-walsh-jill-1937",
+   "identified": true,
+   "note": "First published London 1981 (Macmillan); US edition 1982 illustrated by Lloyd Bloom; reissued as Shine (1988). Plot details from search snippets."
+  },
+  "the-high-king": {
+   "title": "The High King",
+   "author_names": [
+    "Lloyd Alexander"
+   ],
+   "published": 1968,
+   "published_last": 1968,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic"
+   ],
+   "summary": "War engulfs Prydain as Arawn's forces strike, and Taran and his companions rally the land against him. It concludes the Chronicles of Prydain.",
+   "characters": [
+    "Taran",
+    "Eilonwy",
+    "Gurgi",
+    "Fflewddur Fflam",
+    "Gwydion",
+    "Dallben"
+   ],
+   "setting": "Prydain",
+   "awards": [
+    "Newbery Medal 1969"
+   ],
+   "series": "The Chronicles of Prydain #5",
+   "reading_age": "9-12",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_High_King",
+   "identified": true,
+   "note": "Doli removed from main characters; summary rewritten to remove Dyrnwyn-delivery detail."
+  },
+  "the-night-journey": {
+   "title": "The Night Journey",
+   "author_names": [
+    "Kathryn Lasky"
+   ],
+   "published": 1981,
+   "published_last": 1981,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "Rachel overhears her great-grandmother Nana Sashie telling of her childhood escape from Russia. The story recounts flight from pogroms in the Russian Empire.",
+   "characters": [
+    "Rachel (Rache)",
+    "Nana Sashie"
+   ],
+   "setting": "Mykolaiv in the Russian Empire, early 1900s; later Minnesota",
+   "awards": [
+    "National Jewish Book Award 1982"
+   ],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": "Trina Schart Hyman",
+   "source": "https://en.wikipedia.org/wiki/The_Night_Journey_(novel)",
+   "identified": true,
+   "note": "Award year corrected to 1982; added illustrator; Association of Jewish Libraries Award from catalog snippet."
+  },
+  "the-pearl": {
+   "title": "The Pearl",
+   "author_names": [
+    "John Steinbeck"
+   ],
+   "published": 1947,
+   "published_last": 1947,
+   "genres": [
+    "classic",
+    "parable",
+    "adventure"
+   ],
+   "summary": "A poor pearl diver in a Mexican fishing village finds a huge pearl and hopes it will change his family's life. Instead it draws greed and danger toward them.",
+   "characters": [
+    "Kino",
+    "Juana",
+    "Coyotito"
+   ],
+   "setting": "La Paz, Baja California Sur, Mexico, 1940s",
+   "awards": [],
+   "series": null,
+   "reading_age": "12+",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Pearl_(novella)",
+   "identified": true,
+   "note": "Setting period adjusted; first appeared as short story in 1945."
+  },
+  "the-story-of-siegfried": {
+   "title": "The Story of Siegfried",
+   "author_names": [
+    "James Baldwin"
+   ],
+   "published": 1882,
+   "published_last": 1882,
+   "genres": [
+    "folk tales",
+    "mythology",
+    "adventure"
+   ],
+   "summary": "A retelling of the Norse and German legends of Siegfried, from his boyhood apprenticeship to the smith Mimer to his meeting with a dragon and cursed treasure.",
+   "characters": [
+    "Siegfried",
+    "Mimer",
+    "King Siegmund"
+   ],
+   "setting": "Medieval Norse/Germanic legend",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": null,
+   "source": "https://www.gutenberg.org/ebooks/6866",
+   "identified": true,
+   "note": "Author is the Indiana educator James Baldwin (1841-1925), not the civil rights writer. Brunhild removed (unverified); illustrator unverified (Howard Pyle named in search results for editions) so null."
+  },
+  "the-transfigured-hart": {
+   "title": "The Transfigured Hart",
+   "author_names": [
+    "Jane Yolen"
+   ],
+   "published": 1975,
+   "published_last": 1975,
+   "genres": [
+    "fantasy",
+    "family story"
+   ],
+   "summary": "A boy and a girl encounter an albino deer in the woods that on one special night becomes a unicorn.",
+   "characters": [
+    "A boy",
+    "A girl",
+    "The white hart"
+   ],
+   "setting": null,
+   "awards": [
+    "Golden Kite Honor Book 1974 (as listed by author site)"
+   ],
+   "series": null,
+   "reading_age": "10-14",
+   "illustrator": "Donna Diamond",
+   "source": "https://www.janeyolen.com/the-transfigured-hart",
+   "identified": true,
+   "note": "Award is Golden Kite Honor, not winner; names Richard/Heather unverified so removed; setting unverified so null."
+  },
+  "the-tunnel-of-hugsy-goode": {
+   "title": "The Tunnel of Hugsy Goode",
+   "author_names": [
+    "Eleanor Estes"
+   ],
+   "published": 1972,
+   "published_last": 1972,
+   "genres": [
+    "family story",
+    "humor",
+    "mystery"
+   ],
+   "summary": "Nobody believed Hugsy Goode's claim of a tunnel under the alley. Years later two boys, Nicholas and Timothy, find an entrance and explore it.",
+   "characters": [
+    "Hugsy Goode",
+    "Nicholas (Copin)",
+    "Timothy (Tornid)"
+   ],
+   "setting": "An alley near the old Goode house, with a tunnel beneath it",
+   "awards": [],
+   "series": "Sequel to The Alley",
+   "reading_age": "8-11",
+   "illustrator": "Edward Ardizzone",
+   "source": "https://www.bookshare.org/browse/book/972374",
+   "identified": true,
+   "note": "Boys are Nicholas and Timothy, not Jerry; the Cranbury setting claim removed."
+  },
+  "the-van-gogh-cafe": {
+   "title": "The Van Gogh Cafe",
+   "author_names": [
+    "Cynthia Rylant"
+   ],
+   "published": 1995,
+   "published_last": 1995,
+   "genres": [
+    "fantasy",
+    "family story"
+   ],
+   "summary": "A cafe in Flowers, Kansas becomes a place of strange magic after a lightning strike. Linked episodes follow Marc, the owner, his 10-year-old daughter Clara, and visitors.",
+   "characters": [
+    "Clara",
+    "Marc",
+    "An old film star"
+   ],
+   "setting": "A cafe in Flowers, Kansas",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "source": "https://kirkusreviews.com/book-reviews/cynthia-rylant/the-van-gogh-cafe/print",
+   "identified": true,
+   "note": "Illustrator Rylant not confirmed so null; character Doll removed."
+  },
+  "the-winged-watchman": {
+   "title": "The Winged Watchman",
+   "author_names": [
+    "Hilda van Stockum"
+   ],
+   "published": 1962,
+   "published_last": 1962,
+   "genres": [
+    "historical fiction",
+    "war",
+    "family story"
+   ],
+   "summary": "A Dutch family and their windmill during the German occupation of the Netherlands in World War II. Windmill arm positions are used to signal the resistance.",
+   "characters": [
+    "Two Dutch boys"
+   ],
+   "setting": "Netherlands, WWII",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Hilda_van_Stockum",
+   "identified": true,
+   "note": "Newbery Honor 1963 removed: van Stockum's only Newbery Honor was 1935 for A Day on Skates. Sheltering a Jewish child unverified, removed."
+  },
+  "the-wonderful-wizard-of-oz": {
+   "title": "The Wonderful Wizard of Oz",
+   "author_names": [
+    "L. Frank Baum"
+   ],
+   "published": 1900,
+   "published_last": 1900,
+   "genres": [
+    "fantasy",
+    "classic",
+    "adventure"
+   ],
+   "summary": "A tornado carries Dorothy and Toto from Kansas to Oz. She follows the Yellow Brick Road to the Emerald City with a Scarecrow, Tin Woodman and Cowardly Lion to ask the Wizard for help.",
+   "characters": [
+    "Dorothy",
+    "Toto",
+    "Scarecrow",
+    "Tin Woodman",
+    "Cowardly Lion",
+    "The Wizard"
+   ],
+   "setting": "Kansas and the Land of Oz",
+   "awards": [],
+   "series": "Oz #1",
+   "reading_age": "6-12",
+   "illustrator": "W. W. Denslow",
+   "source": "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz",
+   "identified": true,
+   "note": "Source was a 404; first published Sept 1, 1900 per Wikipedia (May 17 elsewhere)."
+  },
+  "tuck-everlasting": {
+   "title": "Tuck Everlasting",
+   "author_names": [
+    "Natalie Babbitt"
+   ],
+   "published": 1975,
+   "published_last": 1975,
+   "genres": [
+    "fantasy",
+    "classic",
+    "family story"
+   ],
+   "summary": "Ten-year-old Winnie Foster discovers the Tuck family, who gained immortality from a spring in the woods. A stranger wants to exploit the water, and Winnie must choose what to do.",
+   "characters": [
+    "Winnie Foster",
+    "Angus Tuck",
+    "Mae Tuck",
+    "Miles Tuck",
+    "Jesse Tuck",
+    "The Man in the Yellow Suit"
+   ],
+   "setting": "Treegap, a small American village, 1880 (epilogue 1950)",
+   "awards": [
+    "Christopher Award 1976",
+    "ALA Notable Book",
+    "Janusz Korczak Medal"
+   ],
+   "series": null,
+   "reading_age": "9-13",
+   "illustrator": "Natalie Babbitt",
+   "source": "https://en.wikipedia.org/wiki/Tuck_Everlasting_(novel)",
+   "identified": true,
+   "note": "Setting 1880 village Treegap, not generic New England; awards added."
+  },
+  "unreal-eight-surprising-stories": {
+   "title": "Unreal! Eight Surprising Stories",
+   "author_names": [
+    "Paul Jennings"
+   ],
+   "published": 1985,
+   "published_last": 1985,
+   "genres": [
+    "humor",
+    "short stories",
+    "fantasy"
+   ],
+   "summary": "Eight funny, odd stories with twist endings, including Without a Shirt, Skeleton on the Dunny and Wunderpants. Several became episodes of the TV series Round the Twist.",
+   "characters": [
+    "Various young protagonists"
+   ],
+   "setting": "Australia",
+   "awards": [
+    "Young Australians' Best Book Award 1987",
+    "BILBY Early Readers Award 1992",
+    "COOL Award 1993"
+   ],
+   "series": "Paul Jennings short story collections #1 (Unbelievable! 1986 follows)",
+   "reading_age": "9-13",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Unreal_(short_story_collection)",
+   "identified": true,
+   "note": "Awards added; source fixed from author page to collection article."
+  },
+  "white-stallion-of-lipizza": {
+   "title": "White Stallion of Lipizza",
+   "author_names": [
+    "Marguerite Henry"
+   ],
+   "published": 1964,
+   "published_last": 1964,
+   "genres": [
+    "horse story",
+    "historical fiction"
+   ],
+   "summary": "Hans, a baker's son in Vienna, dreams of working with the Lipizzan stallions of the Spanish Riding School. The book follows him and his horse Borina through training.",
+   "characters": [
+    "Hans Haupt",
+    "Borina"
+   ],
+   "setting": "Vienna and Lipizza, Austria",
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Wesley Dennis",
+   "source": "https://www.bookshare.org/browse/book/781384",
+   "identified": true,
+   "note": "Published by Rand McNally 1964; Borina is the stallion."
+  }
+ },
+ "authors": {
+  "Robert Lawson": {
+   "born": 1892,
+   "died": 1957,
+   "birthplace": "New York City, USA",
+   "nationality": "American",
+   "bio": "Robert Lawson was an American author, illustrator and etcher. He illustrated The Story of Ferdinand and Mr. Popper's Penguins and wrote his own books. He is the only person to win both the Caldecott (1941) and Newbery (1945) Medals.",
+   "known_for": [
+    "Rabbit Hill",
+    "Ben and Me",
+    "They Were Strong and Good"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Robert_Lawson_(author)"
+  },
+  "Will James": {
+   "born": 1892,
+   "died": 1942,
+   "birthplace": "Saint-Nazaire-d'Acton, Quebec, Canada",
+   "nationality": "Canadian-born American",
+   "bio": "Born Joseph Ernest Nephtali Dufault, he became a cowboy artist and writer and claimed a Montana birth. He won the 1927 Newbery Medal for Smoky the Cowhorse.",
+   "known_for": [
+    "Smoky the Cowhorse",
+    "Lone Cowboy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Will_James_(artist)"
+  },
+  "William H. Armstrong": {
+   "born": 1911,
+   "died": 1999,
+   "birthplace": "Lexington, Virginia, United States",
+   "nationality": "American",
+   "bio": "Armstrong taught history at Kent School in Connecticut for 52 years and wrote children's books. Sounder won the 1970 Newbery Medal.",
+   "known_for": [
+    "Sounder"
+   ],
+   "source": "https://en.wikipedia.org/wiki/William_H._Armstrong_(author)"
+  },
+  "Charles G. Waugh": {
+   "born": 1943,
+   "died": null,
+   "birthplace": "Philadelphia, Pennsylvania",
+   "nationality": "American",
+   "bio": "American college professor and anthologist who co-edited many anthologies, mostly with Martin H. Greenberg and Isaac Asimov.",
+   "known_for": [
+    "A Newbery Halloween",
+    "Anthologies with Isaac Asimov and Martin H. Greenberg"
+   ],
+   "source": "https://sf-encyclopedia.com/entry/waugh_charles_g"
+  },
+  "Marion Smoothey": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Author of children's mathematics nonfiction in the Let's Investigate series; no personal details found.",
+   "known_for": [
+    "Let's Investigate (math series)"
+   ],
+   "source": null
+  }
+ }
+}
