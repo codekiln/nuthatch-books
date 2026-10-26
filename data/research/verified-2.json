@@ -1,0 +1,1315 @@
+{
+ "books": {
+  "a-chance-wild-apple": {
+   "title": "A Chance Wild Apple",
+   "author_names": [
+    "Marian Potter"
+   ],
+   "published": 1982,
+   "published_last": 1982,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "farm life"
+   ],
+   "summary": "Eleven-year-old Maureen lives on a Missouri farm during the Great Depression. Her luck turns a little when she discovers a special wild apple tree. A quiet rural story of a hard-up family.",
+   "characters": [
+    "Maureen — eleven-year-old farm girl who finds the tree"
+   ],
+   "setting": "A Missouri farm during the Great Depression",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=a+chance+wild+apple&fields=title,author_name,first_publish_year,key,subject",
+   "identified": true,
+   "note": "Published by Morrow, New York, 1982 (library catalog record). Few details online beyond the catalog summary."
+  },
+  "a-trick-of-light": {
+   "title": "A Trick of Light",
+   "author_names": [
+    "Barbara Corcoran"
+   ],
+   "published": 1972,
+   "published_last": 1972,
+   "genres": [
+    "realistic fiction",
+    "family story",
+    "coming of age"
+   ],
+   "summary": "A twin brother and sister discover that the closeness of their childhood must change if they are to grow up. A short, emotional novel for young readers.",
+   "characters": [
+    "Twin brother and sister — the central pair"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Lydia Dabcovich",
+   "source": "https://openlibrary.org/works/OL4084063W/editions.json",
+   "identified": true,
+   "note": "The earlier draft described a mystery about a family move; the catalog description is about twins growing apart. Atheneum, 1972, 117 pages."
+  },
+  "an-american-ghost": {
+   "title": "An American Ghost",
+   "author_names": [
+    "Chester Aaron"
+   ],
+   "published": 1973,
+   "published_last": 1973,
+   "genres": [
+    "ghost story",
+    "young adult",
+    "historical fiction"
+   ],
+   "summary": "A young adult novel by Chester Aaron, published by Harcourt in 1973. Details of the plot could not be confirmed online.",
+   "characters": [],
+   "setting": "United States",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "David Lemon",
+   "source": "https://en.wikipedia.org/wiki/Chester_Aaron",
+   "identified": true,
+   "note": "Plot not verified; reprinted by Zumaya Publications in 2011."
+  },
+  "babe-the-gallant-pig": {
+   "title": "Babe: The Gallant Pig",
+   "author_names": [
+    "Dick King-Smith"
+   ],
+   "published": 1983,
+   "published_last": 1983,
+   "genres": [
+    "animal fantasy",
+    "farm story",
+    "humor"
+   ],
+   "summary": "A piglet won at a fair is meant for the Christmas table but is taken under the wing of the sheepdog Fly. He learns to herd sheep by asking them politely rather than bossing them. His talent leads to the sheepdog trials.",
+   "characters": [
+    "Babe — piglet who herds sheep",
+    "Fly — sheepdog who mentors him",
+    "Farmer Hogget — the farmer",
+    "Mrs. Hogget — the farmer's wife",
+    "Maa — an ewe who teaches Babe about sheep"
+   ],
+   "setting": "A sheep farm in England",
+   "awards": [
+    "Guardian Children's Fiction Prize (1984)",
+    "Boston Globe-Horn Book Honor (1985)"
+   ],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": "Mary Rayner",
+   "source": "https://en.wikipedia.org/wiki/The_Sheep-Pig",
+   "identified": true,
+   "note": "First published in Britain as The Sheep-Pig (Gollancz, 12 Nov 1983); US edition (Crown, 1985) titled Babe: The Gallant Pig."
+  },
+  "cheetah": {
+   "title": "Cheetah",
+   "author_names": [
+    "Caroline Arnold"
+   ],
+   "published": 1989,
+   "published_last": 1989,
+   "genres": [
+    "nonfiction",
+    "animals",
+    "photo book"
+   ],
+   "summary": "A children's nonfiction look at the physical features, habits and life cycle of cheetahs, both wild and in zoos.",
+   "characters": [],
+   "setting": "Wild habitat and zoos",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Richard Hewett (photographs)",
+   "source": "https://openlibrary.org/works/OL34646W.json",
+   "identified": true,
+   "note": "Open Library dates Arnold's Cheetah to 1989; a separate record credits Richard Hewett on a 1992 edition. The photographer credit comes from a LibraryThing listing."
+  },
+  "eight-mules-from-monterey": {
+   "title": "Eight Mules from Monterey",
+   "author_names": [
+    "Patricia Beatty"
+   ],
+   "published": 1982,
+   "published_last": 1982,
+   "genres": [
+    "historical fiction",
+    "adventure",
+    "family story"
+   ],
+   "summary": "In the summer of 1916 a thirteen-year-old girl and her brother go with their widowed mother on a mule trip into the California mountains. Their mother is setting up library outposts in remote communities.",
+   "characters": [
+    "Fayette — thirteen-year-old narrator",
+    "Her younger brother",
+    "Their widowed mother — traveling librarian"
+   ],
+   "setting": "California mountains near Monterey, summer 1916",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL4090645W.json",
+   "identified": true,
+   "note": "Morrow, 1982 (Open Library and a library catalog). Wikipedia's Beatty page lists 1966, which conflicts with those sources."
+  },
+  "go-to-the-room-of-the-eyes": {
+   "title": "Go to the Room of the Eyes",
+   "author_names": [
+    "Betty K. Erwin"
+   ],
+   "published": 1969,
+   "published_last": 1969,
+   "genres": [
+    "mystery",
+    "treasure hunt",
+    "family story"
+   ],
+   "summary": "Six Evans children move into an old house in Seattle and find a cryptic message left by earlier young residents thirty years before. It sets them off on a treasure hunt.",
+   "characters": [
+    "The six Evans children — the treasure hunters"
+   ],
+   "setting": "An old house in Seattle",
+   "awards": [
+    "Dorothy Canfield Fisher Award (1971)"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL7200550W.json",
+   "identified": true,
+   "note": null
+  },
+  "high-elk-s-treasure": {
+   "title": "High Elk's Treasure",
+   "author_names": [
+    "Virginia Driving Hawk Sneve"
+   ],
+   "published": 1972,
+   "published_last": 1972,
+   "genres": [
+    "adventure",
+    "Native American fiction",
+    "family story"
+   ],
+   "summary": "Thirteen-year-old Joe High Elk searches for a valuable filly lost in a storm. Sheltering in an ancestor's cave with his sister Marie, he makes a discovery of historical importance.",
+   "characters": [
+    "Joe High Elk — thirteen-year-old",
+    "Marie — his sister",
+    "Steps High Like an Elk — their ancestor"
+   ],
+   "setting": "Dakota (Lakota) country, South Dakota",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": "Oren Lyons",
+   "source": "https://openlibrary.org/search.json?q=high+elk%27s+treasure&fields=title,author_name,first_publish_year,key",
+   "identified": true,
+   "note": "Holiday House, 1972, 96 pages."
+  },
+  "indian-sleep-man-tales": {
+   "title": "Indian Sleep-Man Tales",
+   "author_names": [
+    "Bernice G. Anderson"
+   ],
+   "published": 1940,
+   "published_last": 1940,
+   "genres": [
+    "folklore",
+    "bedtime stories",
+    "Native American tales"
+   ],
+   "summary": "A collection of Otoe bedtime tales gathered by Bernice G. Anderson on visits to the Otoe reservation in Oklahoma. The stories explain features of nature such as the rabbit's pink eyes and the man in the moon.",
+   "characters": [],
+   "setting": "Otoe reservation near Red Rock, Oklahoma",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Sears Frank",
+   "source": "https://openlibrary.org/works/OL11522696W.json",
+   "identified": true,
+   "note": "Caxton Printers, Caldwell, Idaho; first dated 1940 (Open Library), with a 1947 printing. Illustrator credit comes from a bookseller listing."
+  },
+  "little-house-in-brookfield-little-town-at-the-crossroads": {
+   "title": "Little House in Brookfield and Little Town at the Crossroads",
+   "author_names": [
+    "Maria D. Wilkes"
+   ],
+   "published": 1996,
+   "published_last": 1997,
+   "genres": [
+    "historical fiction",
+    "pioneer life",
+    "family story"
+   ],
+   "summary": "Set in 1845, these two books follow young Caroline Quiner, later Laura Ingalls Wilder's mother, in Brookfield, Wisconsin. Her father has been lost at sea, and her family gets through its hardest year with courage and love.",
+   "characters": [
+    "Caroline Quiner — five-year-old girl who grows up to be Ma Ingalls",
+    "Her mother, grandmother and siblings"
+   ],
+   "setting": "Brookfield, Wisconsin, 1845",
+   "awards": [],
+   "series": "Little House: The Caroline Years",
+   "reading_age": "8-12",
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL29175W.json",
+   "identified": true,
+   "note": "The notebook line names two books; Little Town at the Crossroads is the second (1997, Open Library). Title expanded to name both. Reading age is the grade 4-7 range given in one listing."
+  },
+  "moon-eyes": {
+   "title": "Moon Eyes",
+   "author_names": [
+    "Josephine Poole"
+   ],
+   "published": 1965,
+   "published_last": 1965,
+   "genres": [
+    "horror",
+    "supernatural",
+    "children's fiction"
+   ],
+   "summary": "Kate lives with her struggling-artist father and young brother Thomas in a run-down house. When a mysterious Aunt Rhoda arrives, a sinister presence and a great dog called Moon Eyes follow her. The children become the prize in a dangerous struggle.",
+   "characters": [
+    "Kate — the older sister",
+    "Thomas — her five-year-old brother",
+    "Aunt Rhoda — the mysterious relative",
+    "Moon Eyes — the great dog"
+   ],
+   "setting": "A decaying family house in England",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Trina Schart Hyman (US edition)",
+   "source": "https://openlibrary.org/works/OL2706326W.json",
+   "identified": true,
+   "note": "First published 1965; Trina Schart Hyman illustrated the 1967 US edition."
+  },
+  "nightbirds-on-nantucket": {
+   "title": "Nightbirds on Nantucket",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1966,
+   "published_last": 1966,
+   "genres": [
+    "alternate history",
+    "adventure",
+    "humor"
+   ],
+   "summary": "Dido Twite wakes aboard a whaling ship and ends up on Nantucket looking after the captain's anxious daughter. She uncovers a plot involving a giant cannon aimed at England.",
+   "characters": [
+    "Dido Twite — resourceful heroine",
+    "Pen Casket — the captain's daughter",
+    "Captain Jabez Casket — the whaler's captain",
+    "Aunt Tribulation — Pen's guardian",
+    "Nate Pardon — friendly sailor"
+   ],
+   "setting": "An alternate nineteenth century: a whaler in the Atlantic and Nantucket",
+   "awards": [],
+   "series": "Wolves Chronicles #3",
+   "reading_age": null,
+   "illustrator": "Robin Jacques",
+   "source": "https://en.wikipedia.org/wiki/Nightbirds_on_Nantucket",
+   "identified": true,
+   "note": "Spelled Night Birds on Nantucket in some editions; Jonathan Cape, 1966."
+  },
+  "outlaw-red": {
+   "title": "Outlaw Red",
+   "author_names": [
+    "Jim Kjelgaard"
+   ],
+   "published": 1953,
+   "published_last": 1953,
+   "genres": [
+    "dog story",
+    "adventure",
+    "wilderness"
+   ],
+   "summary": "Sean, an Irish setter of the Big Red line, is lost from a truck and must survive in the Wintapi wilderness. Meanwhile kennel boy Billy Dash becomes a fugitive after a clash with his uncle.",
+   "characters": [
+    "Sean — setter, son of Big Red",
+    "Billy Dash — kennel boy",
+    "Uncle Hat — Billy's uncle"
+   ],
+   "setting": "The Wintapi wilderness",
+   "awards": [],
+   "series": "Big Red (third book)",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://www.kirkusreviews.com/book-reviews/a/jim-kjelgaard-8/outlaw-red/",
+   "identified": true,
+   "note": "Holiday House, Sept 15, 1953; sequel to Big Red and Irish Red."
+  },
+  "rocky-ridge-series": {
+   "title": "Rocky Ridge series",
+   "author_names": [
+    "Roger Lea MacBride"
+   ],
+   "published": 1993,
+   "published_last": 1996,
+   "genres": [
+    "historical fiction",
+    "pioneer life",
+    "family story"
+   ],
+   "summary": "A series about Rose Wilder Lane's childhood, beginning with the Wilder family's move to the Ozarks of Missouri. The five books on this line cover their first years on Rocky Ridge farm.",
+   "characters": [
+    "Rose Wilder — the young heroine",
+    "Laura and Almanzo Wilder — her parents"
+   ],
+   "setting": "Rocky Ridge farm, Mansfield, Missouri, 1890s-1900s",
+   "awards": [],
+   "series": "Rocky Ridge (Little House: The Rose Years)",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Roger_MacBride",
+   "identified": true,
+   "note": "Five volumes listed: 1993, 1994, 1995, 1995, 1996. The full series ran to eight books by 1999."
+  },
+  "seven-alone": {
+   "title": "Seven Alone",
+   "author_names": [
+    "Honoré Morrow"
+   ],
+   "published": 1926,
+   "published_last": 1926,
+   "genres": [
+    "historical fiction",
+    "pioneer story",
+    "adventure"
+   ],
+   "summary": "Based on the true story of the Sager children, orphaned on the trail west. Thirteen-year-old John Sager keeps his siblings moving toward Oregon.",
+   "characters": [
+    "John Sager — the eldest, thirteen",
+    "Catherine Sager — younger sister whose memoir inspired the story"
+   ],
+   "setting": "The Oregon Trail, 1840s",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Honor%C3%A9_Willsie_Morrow",
+   "identified": true,
+   "note": "Published in 1926 as On to Oregon!: The Story of a Pioneer Boy; reissued as Seven Alone, also the title of the 1974 film. Sources differ on the trail year."
+  },
+  "snow-dog": {
+   "title": "Snow Dog",
+   "author_names": [
+    "Jim Kjelgaard"
+   ],
+   "published": 1948,
+   "published_last": 1948,
+   "genres": [
+    "dog story",
+    "adventure",
+    "wilderness"
+   ],
+   "summary": "Chiri, a part-husky puppy, loses his mother and brothers in the wild. He grows up to find his way to a sled-dog driver named Link, the one person he comes to trust.",
+   "characters": [
+    "Chiri — the husky",
+    "Link Stevens — trapper and sled driver",
+    "Queenie — Chiri's mother"
+   ],
+   "setting": "The northern wilderness",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Jacob Landau",
+   "source": "https://kirkusreviews.com/book-reviews/a/jim-kjelgaard-2/snow-dog",
+   "identified": true,
+   "note": "Holiday House, Oct 1, 1948."
+  },
+  "that-s-one-ornery-orphan": {
+   "title": "That's One Ornery Orphan",
+   "author_names": [
+    "Patricia Beatty"
+   ],
+   "published": 1980,
+   "published_last": 1980,
+   "genres": [
+    "historical fiction",
+    "western",
+    "humor"
+   ],
+   "summary": "Hallie is a thirteen-year-old orphan in nineteenth-century Texas who keeps being sent back to the orphanage after failed adoptions. An author's note explains the real history behind several incidents.",
+   "characters": [
+    "Hallie — thirteen-year-old orphan"
+   ],
+   "setting": "Nineteenth-century Texas",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/John_and_Patricia_Beatty",
+   "identified": true,
+   "note": "Morrow, 1980. Plot details come from catalog and reader summaries."
+  },
+  "the-almost-all-white-rabbity-cat": {
+   "title": "The Almost All-White Rabbity Cat",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1972,
+   "published_last": 1972,
+   "genres": [
+    "realistic fiction",
+    "animal story",
+    "family story"
+   ],
+   "summary": "A boy left alone in his family's new city apartment befriends a white cat that appears and vanishes without explanation. The cat leads the family on a chase and teaches them something about loneliness and joy.",
+   "characters": [
+    "Barney — the lonely boy",
+    "The cat — almost all white"
+   ],
+   "setting": "A city apartment",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Herman B. Vestal",
+   "source": "https://openlibrary.org/works/OL4456946W.json",
+   "identified": true,
+   "note": "Macmillan, New York, 1972 (a UK edition by Lutterworth also dated 1972)."
+  },
+  "the-boggart": {
+   "title": "The Boggart",
+   "author_names": [
+    "Susan Cooper"
+   ],
+   "published": 1993,
+   "published_last": 1993,
+   "genres": [
+    "fantasy",
+    "humor",
+    "family story"
+   ],
+   "summary": "A mischievous Scottish spirit is accidentally shipped from a castle to Toronto inside an antique desk. Emily and Jessup Volnik must find a way to send him home.",
+   "characters": [
+    "The Boggart — ancient mischievous spirit",
+    "Emily Volnik — twelve-year-old",
+    "Jessup Volnik — her computer-minded brother",
+    "Tommy Cameron — Scottish boy who helps"
+   ],
+   "setting": "Castle Keep in Scotland and Toronto, Canada",
+   "awards": [
+    "Judy Lopez Memorial Award (1994)",
+    "Vermont Golden Dome Book Award (1995)"
+   ],
+   "series": "The Boggart #1",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Boggart",
+   "identified": true,
+   "note": "Margaret K. McElderry Books, 1993. Sequels: The Boggart and the Monster (1997), The Boggart Fights Back (2018)."
+  },
+  "the-case-of-the-indian-curse": {
+   "title": "The Case of the Indian Curse",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1986,
+   "published_last": 1986,
+   "genres": [
+    "mystery",
+    "detective story",
+    "historical fiction"
+   ],
+   "summary": "With Inspector Wyatt out of town, Andrew Tillet and Sara Wiggins try to help their friend, antiquities dealer Baron Beasley. He seems more frightened than sick, and a strange artifact has gone missing from his shop.",
+   "characters": [
+    "Andrew Tillet — teenage detective",
+    "Sara Wiggins — his partner",
+    "Baron Beasley — antiquities dealer",
+    "Inspector Wyatt — police inspector"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": "Andrew Tillet, Sara Wiggins & Inspector Wyatt #8",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=case+of+the+indian+curse+newman&fields=title,key,first_publish_year,publisher,publish_year&limit=1",
+   "identified": true,
+   "note": "Atheneum, 1986 (Open Library). The draft's character spelling Tolliver is Tillet in all catalog sources. Earlier draft date 1975 was wrong."
+  },
+  "the-casebook-of-sherlock-holmes-a-study-in-scarlet-the-adventure-of-the-speckled-band-a-scandal-in-bohemia-the-adventure-of-the-blue-carbuncle-the-hound-of-the-baskervilles": {
+   "title": "Sherlock Holmes: Selected Stories and Novels",
+   "author_names": [
+    "Arthur Conan Doyle"
+   ],
+   "published": 1887,
+   "published_last": 1902,
+   "genres": [
+    "detective fiction",
+    "mystery",
+    "classic"
+   ],
+   "summary": "Classic cases of Sherlock Holmes and Dr. Watson, including the novels A Study in Scarlet and The Hound of the Baskervilles and several short stories. Together they take in murder, a moor-haunting legend and a stolen jewel.",
+   "characters": [
+    "Sherlock Holmes — consulting detective",
+    "Dr. John Watson — narrator and friend"
+   ],
+   "setting": "Victorian London and England",
+   "awards": [],
+   "series": "Sherlock Holmes",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+   "identified": true,
+   "note": "None of the five listed items is in The Case-Book of Sherlock Holmes (1927), so the line is probably a compilation. A Study in Scarlet 1887; Hound of the Baskervilles serialized from 1901, book 1902."
+  },
+  "the-digging-badger": {
+   "title": "The Digging Badger",
+   "author_names": [
+    "Kathryn A. Minta"
+   ],
+   "published": 1985,
+   "published_last": 1985,
+   "genres": [
+    "nonfiction",
+    "animals",
+    "nature"
+   ],
+   "summary": "A children's nonfiction book on the body, habits and habitat of the North American badger and its relatives.",
+   "characters": [],
+   "setting": "North America",
+   "awards": [],
+   "series": null,
+   "reading_age": "grades 3-6",
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL5475311W.json",
+   "identified": true,
+   "note": "Dodd, Mead (Skylight book), 1985, 64 pages."
+  },
+  "the-exploits-of-moominpappa": {
+   "title": "The Exploits of Moominpappa",
+   "author_names": [
+    "Tove Jansson"
+   ],
+   "published": 1950,
+   "published_last": 1950,
+   "genres": [
+    "fantasy",
+    "memoir",
+    "humor"
+   ],
+   "summary": "Moominpappa writes his memoirs for Moomintroll, Sniff and Snufkin. He tells of running away from a foundling home and sailing off with Hodgkins and other friends in a boat.",
+   "characters": [
+    "Moominpappa — the author of the memoirs",
+    "Hodgkins — inventor friend",
+    "The Joxter and the Muddler — fellow adventurers",
+    "Moominmamma — future wife"
+   ],
+   "setting": "Finland-inspired Moominvalley and the seas beyond",
+   "awards": [],
+   "series": "Moomins",
+   "reading_age": null,
+   "illustrator": "Tove Jansson",
+   "source": "https://en.wikipedia.org/wiki/The_Exploits_of_Moominpappa",
+   "identified": true,
+   "note": "Jansson revised it in 1968 as Moominpappa's Memoirs; sources differ on the English release date."
+  },
+  "the-girl-with-the-silver-eyes": {
+   "title": "The Girl with the Silver Eyes",
+   "author_names": [
+    "Willo Davis Roberts"
+   ],
+   "published": 1980,
+   "published_last": 1980,
+   "genres": [
+    "science fiction",
+    "mystery",
+    "young adult"
+   ],
+   "summary": "Katie Welker has silver eyes and can move things by thinking about them. People fear her, so she wonders whether other children like her exist.",
+   "characters": [
+    "Katie Welker — girl with silver eyes and telekinesis"
+   ],
+   "setting": "Present-day United States",
+   "awards": [
+    "Mark Twain Readers Award (1983)",
+    "California Young Reader Medal (1986)"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL13329W.json",
+   "identified": true,
+   "note": null
+  },
+  "the-joke-shop": {
+   "title": "The Joke Shop",
+   "author_names": [
+    "D. J. Enright"
+   ],
+   "published": 1976,
+   "published_last": 1976,
+   "genres": [
+    "fantasy",
+    "humor",
+    "children's fiction"
+   ],
+   "summary": "Three children cross an invisible border into a frightening world, where they are captured. Later they question whether they want to be rescued.",
+   "characters": [],
+   "setting": "A fantasy world beyond an invisible border",
+   "awards": [],
+   "series": "Atlantis",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL1944179W.json",
+   "identified": true,
+   "note": "First in Enright's Atlantis series (Chatto and Windus, London), per SF Encyclopedia; sequels 1978 and 1979."
+  },
+  "the-lord-of-the-rings-trilogy-and-the-hobbit-4-books": {
+   "title": "The Lord of the Rings and The Hobbit (4-book set)",
+   "author_names": [
+    "J. R. R. Tolkien"
+   ],
+   "published": 1937,
+   "published_last": 1955,
+   "genres": [
+    "fantasy",
+    "epic",
+    "adventure"
+   ],
+   "summary": "Bilbo Baggins joins a company of dwarves to win back a treasure from a dragon in The Hobbit. The Lord of the Rings follows the quest to destroy a ruling ring of power.",
+   "characters": [
+    "Bilbo Baggins — hobbit adventurer",
+    "Frodo Baggins — ring-bearer",
+    "Gandalf — wizard"
+   ],
+   "setting": "Middle-earth",
+   "awards": [],
+   "series": "The Lord of the Rings",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+   "identified": true,
+   "note": "The Hobbit 1937; The Lord of the Rings published in three volumes 1954-1955."
+  },
+  "the-neverending-story": {
+   "title": "The Neverending Story",
+   "author_names": [
+    "Michael Ende"
+   ],
+   "published": 1979,
+   "published_last": 1979,
+   "genres": [
+    "fantasy",
+    "metafiction",
+    "coming of age"
+   ],
+   "summary": "A lonely boy reads a stolen book about the magical land Fantastica, which is being swallowed by the Nothing. The boy becomes part of the tale, and each wish he makes costs him a memory.",
+   "characters": [
+    "Bastian Balthazar Bux — the reader",
+    "Atreyu — boy warrior",
+    "The Childlike Empress — ruler of Fantastica",
+    "Falkor — luckdragon"
+   ],
+   "setting": "Fantastica and the human world",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Neverending_Story",
+   "identified": true,
+   "note": "German original Die unendliche Geschichte (Thienemann, 1979); English translation by Ralph Manheim, 1983."
+  },
+  "the-piemakers": {
+   "title": "The Piemakers",
+   "author_names": [
+    "Helen Cresswell"
+   ],
+   "published": 1967,
+   "published_last": 1967,
+   "genres": [
+    "humor",
+    "children's fiction",
+    "village story"
+   ],
+   "summary": "A family of piemakers prepares a gigantic pie, so big that its dish had to be floated down a river from the foundry. The story follows the events and preparations behind this masterpiece.",
+   "characters": [
+    "The Piemakers — the pie-baking family"
+   ],
+   "setting": "An English village",
+   "awards": [
+    "Carnegie Medal commended runner-up"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "V. H. Drummond",
+   "source": "https://en.wikipedia.org/wiki/Helen_Cresswell",
+   "identified": true,
+   "note": "Faber, 1967."
+  },
+  "the-sign-of-the-beaver": {
+   "title": "The Sign of the Beaver",
+   "author_names": [
+    "Elizabeth George Speare"
+   ],
+   "published": 1983,
+   "published_last": 1983,
+   "genres": [
+    "historical fiction",
+    "survival story",
+    "adventure"
+   ],
+   "summary": "Thirteen-year-old Matt is left alone to guard the family's new cabin in the Maine wilderness. He learns to survive with help from Attean, a Native American boy, and Attean's family.",
+   "characters": [
+    "Matt Hallowell — thirteen-year-old",
+    "Attean — Native American boy",
+    "Saknis — Attean's grandfather"
+   ],
+   "setting": "Maine wilderness, 1768",
+   "awards": [
+    "Newbery Honor (1984)",
+    "Scott O'Dell Award for Historical Fiction (1984)",
+    "Christopher Award (1984)"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Sign_of_the_Beaver",
+   "identified": true,
+   "note": "Houghton Mifflin, Feb 1983. No WebSearch call completed for this title because the search budget ran out; checked via Wikipedia fetch only."
+  },
+  "the-sun-also-rises": {
+   "title": "The Sun Also Rises",
+   "author_names": [
+    "Ernest Hemingway"
+   ],
+   "published": 1926,
+   "published_last": 1926,
+   "genres": [
+    "literary fiction",
+    "modernist",
+    "adult novel"
+   ],
+   "summary": "Jake Barnes, an American expatriate journalist in Paris, loves Lady Brett Ashley, who cannot be with him. He and his friends travel to Pamplona for the fiesta, where jealousy over Brett builds.",
+   "characters": [
+    "Jake Barnes — narrator",
+    "Lady Brett Ashley — the object of the group's love",
+    "Robert Cohn — writer and former boxer",
+    "Mike Campbell — Brett's fiance",
+    "Pedro Romero — young bullfighter"
+   ],
+   "setting": "Paris and Pamplona, mid-1920s",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Sun_Also_Rises",
+   "identified": true,
+   "note": "Scribner's, 22 Oct 1926; British title Fiesta (1927). No WebSearch call completed; checked via Wikipedia fetch only."
+  },
+  "the-umbrella-man-and-other-stories": {
+   "title": "The Umbrella Man and Other Stories",
+   "author_names": [
+    "Roald Dahl"
+   ],
+   "published": 1998,
+   "published_last": 1998,
+   "genres": [
+    "short stories",
+    "dark humor",
+    "twist endings"
+   ],
+   "summary": "A collection of Roald Dahl's short stories for teen readers, chosen from his adult work. Most have a dry, macabre humor and a twist ending.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Umbrella_Man_and_Other_Stories",
+   "identified": true,
+   "note": "Wikipedia lists the book under The Great Automatic Grammatizator (posthumous 1998 collection, thirteen stories), published in the US as The Umbrella Man and Other Stories. No WebSearch call completed."
+  },
+  "the-witch-s-brat": {
+   "title": "The Witch's Brat",
+   "author_names": [
+    "Rosemary Sutcliff"
+   ],
+   "published": 1970,
+   "published_last": 1970,
+   "genres": [
+    "historical fiction",
+    "medieval",
+    "children's fiction"
+   ],
+   "summary": "In twelfth-century England a crippled boy is helped by herbal healing knowledge, the same knowledge that once got a man driven out of his village. His path leads to monks and a hospital in London.",
+   "characters": [],
+   "setting": "Twelfth-century England",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Richard Lebenson",
+   "source": "https://openlibrary.org/works/OL1417786W.json",
+   "identified": true,
+   "note": "Illustrator from Wikipedia's Sutcliff page. No WebSearch call completed for this title (search budget ran out); checked via Open Library and Wikipedia fetches."
+  },
+  "time-s-up": {
+   "title": "Time's Up!",
+   "author_names": [
+    "Florence Parry Heide"
+   ],
+   "published": 1982,
+   "published_last": 1982,
+   "genres": [
+    "mystery",
+    "humor",
+    "children's fiction"
+   ],
+   "summary": "Noah worries that suburban life will be dull until he meets a clever girl named Bib and an unusual house painter named Bruce Dooster.",
+   "characters": [
+    "Noah — the bored boy",
+    "Bib — clever girl",
+    "Bruce Dooster — unusual house painter"
+   ],
+   "setting": "A suburb",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL1826321W/editions.json",
+   "identified": true,
+   "note": "Holiday House, 1982 (earlier draft said 1980). No WebSearch call completed."
+  },
+  "winter-cottage": {
+   "title": "Winter Cottage",
+   "author_names": [
+    "Carol Ryrie Brink"
+   ],
+   "published": 1968,
+   "published_last": 1968,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "Depression era"
+   ],
+   "summary": "A Depression-era family takes over a summer cottage in the Wisconsin woods for the winter. They welcome visitors, including a runaway youth and two strangers.",
+   "characters": [
+    "The family — winter residents",
+    "A runaway youth — a visitor"
+   ],
+   "setting": "A cottage in the Wisconsin woods during the Depression",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Fermin Rocker",
+   "source": "https://openlibrary.org/works/OL2621467W/editions.json",
+   "identified": true,
+   "note": "Macmillan, 1968, 178 pages (earlier draft said 1939). No WebSearch call completed."
+  }
+ },
+ "authors": {
+  "Tove Jansson": {
+   "born": 1914,
+   "died": 2001,
+   "birthplace": "Helsinki, Finland",
+   "nationality": "Finnish (Finland-Swedish)",
+   "bio": "Tove Jansson was a Finland-Swedish writer, painter and illustrator from a family of artists. She is best known for the Moomin books, beginning with The Moomins and the Great Flood. She won the Hans Christian Andersen Medal in 1966.",
+   "known_for": [
+    "Moomin books",
+    "Finn Family Moomintroll",
+    "The Summer Book"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Tove_Jansson"
+  },
+  "Marian Potter": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Marian Potter wrote the 1982 children's novel A Chance Wild Apple. Little biographical information could be found online. Open Library also lists a picture book under her name, but it could not be confirmed to be the same author.",
+   "known_for": [
+    "A Chance Wild Apple"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Marian+Potter"
+  },
+  "D. J. Enright": {
+   "born": 1920,
+   "died": 2002,
+   "birthplace": "Royal Leamington Spa, England",
+   "nationality": "British",
+   "bio": "D. J. Enright was an English poet, novelist and critic. He taught in Egypt, Japan, Thailand and Singapore and later directed Chatto and Windus. He received the Queen's Gold Medal for Poetry in 1981 and an OBE in 1991.",
+   "known_for": [
+    "Academic Year",
+    "Memoirs of a Mendicant Professor",
+    "Collected Poems"
+   ],
+   "source": "https://en.wikipedia.org/wiki/D._J._Enright"
+  },
+  "Betty K. Erwin": {
+   "born": 1922,
+   "died": 1989,
+   "birthplace": "Whitehall, Wisconsin",
+   "nationality": "American",
+   "bio": "Betty K. Erwin was a physician who began submitting short stories in 1950. She and her husband had six children and lived in Seattle from 1952. Her books are realistic stories drawing on Wisconsin and Seattle.",
+   "known_for": [
+    "Go to the Room of the Eyes",
+    "Aggie, Maggie, and Tish",
+    "Who Is Victoria?"
+   ],
+   "source": "https://lib.usm.edu/legacy/degrum/public_html/html/research/findaids/DG1198f.html"
+  },
+  "Arthur Conan Doyle": {
+   "born": 1859,
+   "died": 1930,
+   "birthplace": "Edinburgh, Scotland",
+   "nationality": "British",
+   "bio": "Arthur Conan Doyle trained as a doctor at Edinburgh before turning to writing. His Sherlock Holmes stories made him one of the best-paid authors of his day. He was knighted in 1902 and later became a spiritualist.",
+   "known_for": [
+    "Sherlock Holmes stories",
+    "The Lost World",
+    "The White Company"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+  },
+  "Elizabeth George Speare": {
+   "born": 1908,
+   "died": 1994,
+   "birthplace": "Melrose, Massachusetts",
+   "nationality": "American",
+   "bio": "Elizabeth George Speare wrote historical fiction for children after a career teaching high-school English. She won two Newbery Medals, for The Witch of Blackbird Pond and The Bronze Bow. The Sign of the Beaver was a Newbery Honor book.",
+   "known_for": [
+    "The Witch of Blackbird Pond",
+    "The Bronze Bow",
+    "The Sign of the Beaver"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_George_Speare"
+  },
+  "Dick King-Smith": {
+   "born": 1922,
+   "died": 2011,
+   "birthplace": "Bitton, Gloucestershire, England",
+   "nationality": "English",
+   "bio": "Dick King-Smith farmed for about twenty years and then became a teacher before turning to writing. His first book, The Fox Busters, appeared in 1978. His best-known book is The Sheep-Pig, which became the film Babe.",
+   "known_for": [
+    "The Sheep-Pig (Babe: The Gallant Pig)",
+    "The Fox Busters",
+    "The Hodgeheg"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Dick_King-Smith"
+  },
+  "Honoré Morrow": {
+   "born": 1880,
+   "died": 1940,
+   "birthplace": "Ottumwa, Iowa",
+   "nationality": "American",
+   "bio": "Honoré Willsie Morrow was an American novelist and magazine editor who edited The Delineator. She focused on fiction after 1919 and is best known for a trilogy about Abraham Lincoln. Her 1926 book On to Oregon! was reissued as Seven Alone.",
+   "known_for": [
+    "Great Captain trilogy",
+    "On to Oregon! (Seven Alone)"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Honor%C3%A9_Willsie_Morrow"
+  },
+  "Helen Cresswell": {
+   "born": 1934,
+   "died": 2005,
+   "birthplace": "Kirkby-in-Ashfield, Nottinghamshire, England",
+   "nationality": "English",
+   "bio": "Helen Cresswell was an English children's writer and television scriptwriter. She studied English at King's College London and wrote more than a hundred books. Her work is known for comedy and supernatural fiction.",
+   "known_for": [
+    "The Piemakers",
+    "Lizzie Dripping",
+    "The Bagthorpe Saga",
+    "Moondial"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Helen_Cresswell"
+  },
+  "Ernest Hemingway": {
+   "born": 1899,
+   "died": 1961,
+   "birthplace": "Oak Park, Illinois",
+   "nationality": "American",
+   "bio": "Ernest Hemingway was an American novelist and short-story writer. He served as an ambulance driver in the First World War and lived in Paris as an expatriate before gaining fame. He won the Pulitzer Prize in 1953 and the Nobel Prize in Literature in 1954.",
+   "known_for": [
+    "The Sun Also Rises",
+    "A Farewell to Arms",
+    "The Old Man and the Sea"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+  },
+  "Barbara Corcoran": {
+   "born": 1911,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Barbara Corcoran, born in 1911, wrote books for younger teenagers and began her career writing plays. She was educated at Wellesley College and also wrote as Paige Dixon and Gail Hamilton. Her horse stories include The Long Journey and A Horse Named Sky.",
+   "known_for": [
+    "A Trick of Light",
+    "The Long Journey",
+    "A Horse Named Sky"
+   ],
+   "source": "https://janebadgerbooks.co.uk/?p=19494"
+  },
+  "Chester Aaron": {
+   "born": 1923,
+   "died": 2019,
+   "birthplace": "Butler, Pennsylvania",
+   "nationality": "American",
+   "bio": "Chester Aaron was an American writer who also worked as a steelworker, X-ray technician, college professor and garlic farmer. His writing career ran from 1955 to 2011. He studied at UCLA, UC Berkeley and San Francisco State.",
+   "known_for": [
+    "An American Ghost",
+    "Better than Laughter",
+    "Garlic Is Life"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Chester_Aaron"
+  },
+  "Roald Dahl": {
+   "born": 1916,
+   "died": 1990,
+   "birthplace": "Llandaff, Cardiff, Wales",
+   "nationality": "British",
+   "bio": "Roald Dahl was a Welsh-born writer of Norwegian parentage who flew with the RAF in the Second World War. He wrote children's books, adult short stories and screenplays. His stories are known for dark humor and surprise endings.",
+   "known_for": [
+    "Charlie and the Chocolate Factory",
+    "Matilda",
+    "Tales of the Unexpected"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Roald_Dahl"
+  },
+  "Jim Kjelgaard": {
+   "born": 1910,
+   "died": 1959,
+   "birthplace": "New York City",
+   "nationality": "American",
+   "bio": "Jim Kjelgaard grew up on a farm in Pennsylvania's Allegheny Mountains, which shaped his love of the outdoors and dogs. He wrote more than forty novels, mostly about dogs and wild animals. His best-known book is Big Red.",
+   "known_for": [
+    "Big Red",
+    "Snow Dog",
+    "Outlaw Red"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jim_Kjelgaard"
+  },
+  "Florence Parry Heide": {
+   "born": 1919,
+   "died": 2011,
+   "birthplace": "Pittsburgh, Pennsylvania",
+   "nationality": "American",
+   "bio": "Florence Parry Heide began writing after her five children were in school, and her first book appeared in 1967. She wrote more than a hundred books for children and young adults. She is known for the Treehorn series illustrated by Edward Gorey.",
+   "known_for": [
+    "The Shrinking of Treehorn",
+    "Sound of Sunshine, Sound of Rain",
+    "Time's Up!"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Florence_Parry_Heide"
+  },
+  "Meindert DeJong": {
+   "born": 1906,
+   "died": 1991,
+   "birthplace": "Wierum, Friesland, Netherlands",
+   "nationality": "Dutch-born American",
+   "bio": "Meindert DeJong came to the United States with his family in 1914 and grew up in Grand Rapids, Michigan. He won the Newbery Medal in 1955 and the Hans Christian Andersen Award in 1962. Maurice Sendak illustrated seven of his books.",
+   "known_for": [
+    "The Wheel on the School",
+    "Journey from Peppermint Street",
+    "Hurry Home, Candy"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Meindert_De_Jong"
+  },
+  "Willo Davis Roberts": {
+   "born": 1928,
+   "died": 2004,
+   "birthplace": "Grand Rapids, Michigan",
+   "nationality": "American",
+   "bio": "Willo Davis Roberts began with adult mysteries and published her first children's book in 1975. She became known for children's mystery and suspense novels. She won three Edgar Awards.",
+   "known_for": [
+    "The Girl with the Silver Eyes",
+    "The View from the Cherry Tree",
+    "Don't Hurt Laurie"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Willo_Davis_Roberts"
+  },
+  "Patricia Beatty": {
+   "born": 1922,
+   "died": 1991,
+   "birthplace": "Portland, Oregon",
+   "nationality": "American",
+   "bio": "Patricia Beatty graduated from Reed College and worked as a children's librarian and teacher. She wrote fifty books, ten of them with her first husband, the historian John Beatty. Her Charley Skedaddle won the 1988 Scott O'Dell Award.",
+   "known_for": [
+    "Charley Skedaddle",
+    "Bonanza Girl",
+    "Turn Homeward, Hannalee"
+   ],
+   "source": "https://en.wikipedia.org/wiki/John_and_Patricia_Beatty"
+  },
+  "Susan Cooper": {
+   "born": 1935,
+   "died": null,
+   "birthplace": "Burnham, Buckinghamshire, England",
+   "nationality": "English",
+   "bio": "Susan Cooper studied at Somerville College, Oxford, and worked as a reporter for The Sunday Times. She moved to the United States in 1963. She is best known for The Dark Is Rising sequence and won the Newbery Medal for The Grey King.",
+   "known_for": [
+    "The Dark Is Rising sequence",
+    "The Boggart",
+    "King of Shadows"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Susan_Cooper"
+  },
+  "Bernice G. Anderson": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Bernice G. Anderson collected tales from the Otoe people, visiting their reservation near Red Rock, Oklahoma. Her book Indian Sleep-Man Tales was published in 1940. Little else about her life could be confirmed.",
+   "known_for": [
+    "Indian Sleep-Man Tales",
+    "Trickster Tales from Prairie Lodgefires"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Bernice+G.+Anderson"
+  },
+  "Joan Aiken": {
+   "born": 1924,
+   "died": 2004,
+   "birthplace": "Rye, Sussex, England",
+   "nationality": "English",
+   "bio": "Joan Aiken was the daughter of the American poet Conrad Aiken. She worked for the United Nations Information Centre before becoming a full-time writer of more than a hundred books. She was made an MBE in 1999.",
+   "known_for": [
+    "The Wolves of Willoughby Chase",
+    "Nightbirds on Nantucket",
+    "Arabel and Mortimer"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Joan_Aiken"
+  },
+  "Josephine Poole": {
+   "born": 1933,
+   "died": null,
+   "birthplace": null,
+   "nationality": "English",
+   "bio": "Josephine Poole is a pen name of Jane Penelope Josephine Helyar. She published her first book in 1961 and is known for children's and young adult books and television writing. Moon Eyes is one of her best-known works.",
+   "known_for": [
+    "Moon Eyes",
+    "Touch and Go",
+    "Anne Frank"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Josephine+Poole"
+  },
+  "Caroline Arnold": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Caroline Arnold writes nonfiction animal books for children. Several of her titles, such as Lion and Fox, were illustrated with photographs by Richard Hewett. Biographical details could not be confirmed from the sources fetched.",
+   "known_for": [
+    "Cheetah",
+    "Lion",
+    "Fox"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Caroline+Arnold"
+  },
+  "Robert Newman": {
+   "born": 1909,
+   "died": 1988,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "Robert Newman was a pioneer of early radio and chief writer for Inner Sanctum Mysteries. He began writing books for children in 1973. His series about Andrew Tillet and Sara Wiggins is set in Victorian London.",
+   "known_for": [
+    "The Case of the Baker Street Irregular",
+    "The Case of the Indian Curse"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Robert+Newman"
+  },
+  "Kathryn A. Minta": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Kathryn A. Minta wrote the children's nonfiction book The Digging Badger in 1985. No biographical information could be found online.",
+   "known_for": [
+    "The Digging Badger"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=Kathryn+Minta"
+  },
+  "Carol Ryrie Brink": {
+   "born": 1895,
+   "died": 1981,
+   "birthplace": "Moscow, Idaho",
+   "nationality": "American",
+   "bio": "Carol Ryrie Brink was raised in Moscow, Idaho, by her grandmother, whose stories inspired her writing. She won the 1936 Newbery Medal for Caddie Woodlawn. She lived in St. Paul, Minnesota, for 42 years.",
+   "known_for": [
+    "Caddie Woodlawn",
+    "Harps in the Wind",
+    "Winter Cottage"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Carol_Ryrie_Brink"
+  },
+  "Virginia Driving Hawk Sneve": {
+   "born": 1933,
+   "died": null,
+   "birthplace": "South Dakota",
+   "nationality": "American (Rosebud Sioux)",
+   "bio": "Virginia Driving Hawk Sneve is a member of the Rosebud Sioux Tribe who grew up on the Rosebud Indian Reservation. She worked as a teacher and school counselor and writes children's books about Native Americans. She received the National Humanities Medal in 2000.",
+   "known_for": [
+    "High Elk's Treasure",
+    "The Christmas Coat",
+    "Completing the Circle"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Virginia_Driving_Hawk_Sneve"
+  },
+  "Rosemary Sutcliff": {
+   "born": 1920,
+   "died": 1992,
+   "birthplace": "East Clandon, Surrey, England",
+   "nationality": "English",
+   "bio": "Rosemary Sutcliff spent much of her childhood in Malta and at naval bases and was a lifelong wheelchair user. She is best known for children's historical fiction. She won the Carnegie Medal in 1959 for The Lantern Bearers.",
+   "known_for": [
+    "The Eagle of the Ninth",
+    "The Lantern Bearers",
+    "The Mark of the Horse Lord"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Rosemary_Sutcliff"
+  },
+  "Michael Ende": {
+   "born": 1929,
+   "died": 1995,
+   "birthplace": "Garmisch, Germany",
+   "nationality": "German",
+   "bio": "Michael Ende was the only child of the painter Edgar Ende, whose work the Nazis labelled degenerate. He worked as an actor and cabaret writer before his first novel in 1960. His books have sold over thirty-five million copies.",
+   "known_for": [
+    "The Neverending Story",
+    "Momo",
+    "Jim Button and Luke the Engine Driver"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Michael_Ende"
+  },
+  "J. R. R. Tolkien": {
+   "born": 1892,
+   "died": 1973,
+   "birthplace": "Bloemfontein, Orange Free State (now South Africa)",
+   "nationality": "English (British)",
+   "bio": "J. R. R. Tolkien was a philologist who held professorships at Oxford. He was a friend of C. S. Lewis and a member of the Inklings. He is widely regarded as the father of modern fantasy.",
+   "known_for": [
+    "The Hobbit",
+    "The Lord of the Rings",
+    "The Silmarillion"
+   ],
+   "source": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+  },
+  "Roger Lea MacBride": {
+   "born": 1929,
+   "died": 1995,
+   "birthplace": "New Rochelle, New York",
+   "nationality": "American",
+   "bio": "Roger Lea MacBride was a lawyer, author and political activist who inherited Rose Wilder Lane's literary estate. He was the Libertarian Party's presidential nominee in 1976. He wrote the Rocky Ridge series about Rose Wilder Lane's childhood.",
+   "known_for": [
+    "Little House on Rocky Ridge",
+    "Rocky Ridge series"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Roger_MacBride"
+  },
+  "Maria D. Wilkes": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "Maria D. Wilkes grew up reading the Little House books and became interested in pioneer history. She researched the Caroline Years series using family letters and diaries and consulted the Laura Ingalls Wilder estate. She wrote the series about Caroline Quiner, Laura's mother.",
+   "known_for": [
+    "Little House in Brookfield",
+    "Little Town at the Crossroads",
+    "Little Clearing in the Woods"
+   ],
+   "source": "https://openlibrary.org/search.json?q=little+house+in+brookfield+wilkes&fields=title,key,subject,first_publish_year,first_sentence&limit=3"
+  }
+ }
+}

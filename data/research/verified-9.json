@@ -1,0 +1,153 @@
+{
+ "books": {
+  "dominic": {
+   "author_names": [
+    "William Steig"
+   ],
+   "awards": [],
+   "characters": [
+    "Dominic — good-hearted dog",
+    "Doomsday Gang — villains"
+   ],
+   "first_line": null,
+   "genres": [
+    "animal fantasy",
+    "adventure"
+   ],
+   "illustrator": "William Steig",
+   "note": null,
+   "published": 1972,
+   "reading_age": "7-10",
+   "series": null,
+   "setting": "A fanciful countryside",
+   "source": "https://openlibrary.org/works/OL22323W",
+   "summary": "A cheerful dog sets off to see the world, meeting oddball characters. A weasel-like villain stands in his way.",
+   "title": "Dominic"
+  },
+  "let-s-investigate-numbers": {
+   "author_names": [
+    "Marion Smoothey"
+   ],
+   "awards": [],
+   "characters": [],
+   "first_line": null,
+   "genres": [
+    "nonfiction",
+    "mathematics"
+   ],
+   "illustrator": null,
+   "note": null,
+   "published": 1992,
+   "reading_age": "8-12",
+   "series": null,
+   "setting": null,
+   "source": "https://openlibrary.org/works/OL3474574W",
+   "summary": "Hands-on puzzles and activities introduce number ideas to children.",
+   "title": "Let's Investigate Numbers"
+  },
+  "morning-girl": {
+   "author_names": [
+    "Michael Dorris"
+   ],
+   "awards": [],
+   "characters": [
+    "Morning Girl — dreamer",
+    "Star Boy — brother"
+   ],
+   "first_line": null,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "illustrator": null,
+   "note": null,
+   "published": 1992,
+   "reading_age": "9-12",
+   "series": null,
+   "setting": "Bahamas, 1492",
+   "source": "https://openlibrary.org/works/OL2625575W",
+   "summary": "Morning Girl and her brother Star Boy live on a Bahamian island in 1492.",
+   "title": "Morning Girl"
+  },
+  "robin-hood": {
+   "author_names": [
+    "Paul Creswick"
+   ],
+   "awards": [],
+   "characters": [
+    "Robin Hood — outlaw hero",
+    "Little John — loyal giant",
+    "Friar Tuck — jolly monk",
+    "Will Scarlet — fiery outlaw"
+   ],
+   "first_line": null,
+   "genres": [
+    "adventure",
+    "folk tales",
+    "classic"
+   ],
+   "illustrator": "N. C. Wyeth",
+   "note": null,
+   "published": 1917,
+   "reading_age": "9-13",
+   "series": null,
+   "setting": "Sherwood Forest, medieval England",
+   "source": "https://openlibrary.org/works/OL89680W",
+   "summary": "The classic legend of the outlaw archer who robs the rich to help the poor in Sherwood Forest. Illustrated by N. C. Wyeth.",
+   "title": "Robin Hood"
+  },
+  "the-marsh-king-s-daughter": {
+   "author_names": [
+    "Hans Christian Andersen"
+   ],
+   "awards": [],
+   "characters": [
+    "The Marsh King's daughter — girl with two natures",
+    "The Marsh King — ruler of the bog"
+   ],
+   "first_line": null,
+   "genres": [
+    "fairy tale",
+    "classic",
+    "folk tales"
+   ],
+   "illustrator": null,
+   "note": null,
+   "published": 1858,
+   "reading_age": "9-13",
+   "series": null,
+   "setting": "Denmark and Egypt, long ago",
+   "source": "https://openlibrary.org/works/OL15116597W",
+   "summary": "A girl born to a stork-borne Egyptian princess and the Marsh King is raised by humans and divided between her good and wild nature. A long, haunting story from Hans Christian Andersen.",
+   "title": "The Marsh King's Daughter"
+  },
+  "the-saturdays": {
+   "author_names": [
+    "Elizabeth Enright"
+   ],
+   "awards": [],
+   "characters": [
+    "Mona — dreamy eldest",
+    "Rush — practical brother",
+    "Randy — artistic sister",
+    "Oliver — youngest"
+   ],
+   "first_line": null,
+   "genres": [
+    "family story",
+    "classic",
+    "humor"
+   ],
+   "illustrator": null,
+   "note": null,
+   "published": 1941,
+   "reading_age": "8-12",
+   "series": "Melendy Family",
+   "setting": "New York City, 1940s",
+   "source": "https://en.wikipedia.org/wiki/The_Saturdays_(novel)",
+   "summary": "Four siblings pool their allowance so each can have one grand solo outing on Saturdays in New York City.",
+   "title": "The Saturdays"
+  }
+ },
+ "authors": {}
+}

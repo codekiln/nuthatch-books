@@ -12,6 +12,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 TRANSCRIPTS = ROOT / "data" / "transcripts"
 OUT = ROOT / "data" / "books.json"
+CATALOG_PATH = ROOT / "data" / "catalog.json"
+CATALOG = json.loads(CATALOG_PATH.read_text())["books"] if CATALOG_PATH.exists() else {}
 
 MONTHS = {
     "jan": 1, "feb": 2, "mar": 3, "march": 3, "apr": 4, "april": 4, "may": 5,
@@ -81,6 +83,37 @@ def split_parts(entry):
     return title, parts
 
 
+def published_floor(row):
+    """Month index of a mid-year release of the newest book on the line, if known."""
+    book = CATALOG.get(slug(row["title"]), {})
+    year = book.get("published_last") or book.get("published")
+    return month_index(year, 7) if year else None
+
+
+def estimate_after_last_date(rows, start):
+    """Date the lines written after the last margin date.
+
+    The notebook runs in reading order, so no line can come before a book
+    above it was published. Lines are grouped wherever that floor jumps and
+    spread evenly up to the next jump; the last group is a season apart.
+    """
+    groups, floor = [[start, []]], start
+    for row in rows:
+        f = published_floor(row)
+        if f is not None and f > floor:
+            floor = f
+            groups.append([floor, []])
+        groups[-1][1].append(row)
+    groups = [g for g in groups if g[1]]
+    for k, (begin, members) in enumerate(groups):
+        end = groups[k + 1][0] if k + 1 < len(groups) else begin + 3 * (len(members) + 1)
+        for j, row in enumerate(members):
+            if k > 0:  # the group opens with the line whose publication set the floor
+                row["estimate"] = begin + round((end - begin) * j / len(members))
+            else:
+                row["estimate"] = begin + round((end - begin) * (j + 1) / (len(members) + 1))
+
+
 def main():
     rows = []
     for path in sorted(TRANSCRIPTS.glob("IMG_*.json")):
@@ -126,12 +159,9 @@ def main():
         if row["points"] or "estimate" in row:
             continue
         before = [a for a in anchors if a[0] < i]
-        after = [a for a in anchors if a[0] > i]
-        if before and after:
+        if before and i < last_anchor[0]:
             row["estimate"] = before[-1][1]
-        else:
-            # Lines after the last written date: one season apart from each other.
-            row["estimate"] = last_anchor[1] + 3 * (i - last_anchor[0])
+    estimate_after_last_date(rows[last_anchor[0] + 1:], last_anchor[1])
 
     seen, books = {}, []
     for n, row in enumerate(rows, 1):

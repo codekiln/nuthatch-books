@@ -1,0 +1,1348 @@
+{
+ "books": {
+  "a-long-vacation": {
+   "title": "Two Years' Vacation",
+   "author_names": [
+    "Jules Verne"
+   ],
+   "published": 1888,
+   "published_last": 1888,
+   "genres": [
+    "adventure",
+    "survival",
+    "classic"
+   ],
+   "summary": "A party of schoolboys aged eight to fourteen drifts out to sea from Auckland when their schooner breaks its moorings in a storm. They are wrecked on an uncharted island and must organize themselves to survive there for two years.",
+   "characters": [
+    "Gordon — oldest boy, an American",
+    "Briant — French boy, Jack's brother",
+    "Jack — Briant's younger brother"
+   ],
+   "setting": "Auckland, New Zealand, then an uncharted island in the South Pacific, 1860",
+   "awards": [],
+   "series": "Voyages extraordinaires (no. 32)",
+   "reading_age": null,
+   "illustrator": "Léon Benett (original French edition)",
+   "source": "https://en.wikipedia.org/wiki/Two_Years%27_Vacation",
+   "identified": true,
+   "note": "Notebook title 'A Long Vacation' corrected to the standard English title Two Years' Vacation (French: Deux ans de vacances; also Adrift in the Pacific). Draft character names Doniphan and Jacques were not confirmed on the page and were dropped."
+  },
+  "all-the-children-were-sent-away": {
+   "title": "All the Children Were Sent Away",
+   "author_names": [
+    "Sheila Garrigue"
+   ],
+   "published": 1976,
+   "published_last": 1976,
+   "genres": [
+    "historical fiction",
+    "war story",
+    "family story"
+   ],
+   "summary": "A World War II novel about an eight-year-old British girl who is among the many children sent overseas to Canada. It centers on her fear and sense of isolation far from home.",
+   "characters": [],
+   "setting": "Britain and Canada during World War II",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search?q=sheila+garrigue&mode=everything",
+   "identified": true,
+   "note": "Year (1976) confirmed by Open Library; plot description comes from a library catalog record (Bradbury Press, Scarsdale NY, 171 pp.) seen in a search result. Draft details about evacuation from London were not confirmed."
+  },
+  "ask-me-no-questions": {
+   "title": "Ask Me No Questions",
+   "author_names": [
+    "Ann Schlee"
+   ],
+   "published": 1976,
+   "published_last": 1976,
+   "genres": [
+    "historical fiction",
+    "mystery",
+    "family story"
+   ],
+   "summary": "Laura and Barty are sent away to escape a deadly epidemic and end up at their aunt's unsettling home. The aunt is cold toward them, and strange events hint at dark secrets that the siblings try to uncover.",
+   "characters": [
+    "Laura — one of the siblings",
+    "Barty — her brother",
+    "Aunt Bollinger — their cold aunt"
+   ],
+   "setting": "Their aunt's house, away from an epidemic",
+   "awards": [
+    "Boston Globe-Horn Book Honor Book for Fiction (1982)"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://bookroo.com/books/ask-me-no-questions",
+   "identified": true,
+   "note": "Date conflict: Bookroo says first published 1976 (Macmillan, London); Wikipedia's Ann Schlee page lists it as 1979. Setting period (Victorian) not confirmed. A different novel with the same title (Marina Budhos, 2006) exists."
+  },
+  "black-suits-from-outer-space": {
+   "title": "Black Suits from Outer Space",
+   "author_names": [
+    "Gene DeWeese"
+   ],
+   "published": 1985,
+   "published_last": 1985,
+   "genres": [
+    "science fiction",
+    "adventure",
+    "humor"
+   ],
+   "summary": "Teenagers Calvin and Kathy are puzzled by repeated visits from mysterious men in black suits. They end up hiding a huge hairy alien from the school principal and the police chief.",
+   "characters": [
+    "Calvin Willeford — teen hero",
+    "Kathy — Calvin's friend",
+    "The alien — ten-foot hairy visitor"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": "Black Suits from Outer Space #1 (followed by The Dandelion Caper, 1986, and The Calvin Nullifier, 1987)",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://www.risingshadow.net/book/25668-black-suits-from-outer-space",
+   "identified": true,
+   "note": "Draft setting 'small American town' was not confirmed and is left blank."
+  },
+  "dinosaur-mountain-graveyard-of-the-past": {
+   "title": "Dinosaur Mountain: Graveyard of the Past",
+   "author_names": [
+    "Caroline Arnold"
+   ],
+   "published": 1989,
+   "published_last": 1989,
+   "genres": [
+    "nonfiction",
+    "paleontology",
+    "nature"
+   ],
+   "summary": "A children's nonfiction book about the fossils found at Dinosaur National Monument and what they have taught scientists about dinosaurs. It describes how bones were found in a Utah sandstone ridge in 1909.",
+   "characters": [],
+   "setting": "Dinosaur National Monument, Utah and Colorado",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Richard Hewett (photographs; catalogs differ on his credit)",
+   "source": "https://openlibrary.org/works/OL34674W",
+   "identified": true,
+   "note": "Clarion Books, 1989, 48 pages (from catalog records). Draft 'Paleontologists' character tag dropped."
+  },
+  "frosty-a-raccoon-to-remember": {
+   "title": "Frosty: A Raccoon to Remember",
+   "author_names": [
+    "Harriett E. Weaver"
+   ],
+   "published": 1973,
+   "published_last": 1973,
+   "genres": [
+    "nonfiction",
+    "animal story",
+    "memoir"
+   ],
+   "summary": "A true story by a park ranger who finds an orphaned raccoon and adopts him. Frosty's intelligence and mischief change her life at Big Basin Redwood Park.",
+   "characters": [
+    "Frosty — orphaned raccoon",
+    "Harriett Weaver — park ranger who adopts him"
+   ],
+   "setting": "Big Basin Redwood Park, California",
+   "awards": [],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": null,
+   "source": "https://penguinrandomhouse.com/books/187659/frosty-a-raccoon-to-remember-by-harriett-e-weaver",
+   "identified": true,
+   "note": "Draft said 'a family adopts a raccoon'; corrected to a ranger memoir. Open Library gives 1973 (a review elsewhere says 1974). Author's first name appears as Harriet or Harriett."
+  },
+  "in-bikole-eight-modern-stories-of-life-in-a-west-african-village": {
+   "title": "In Bikole: Eight Modern Stories of Life in a West African Village",
+   "author_names": [
+    "Tom Gilroy"
+   ],
+   "published": 1978,
+   "published_last": 1978,
+   "genres": [
+    "short stories",
+    "african fiction"
+   ],
+   "summary": "A collection of eight modern stories about life in a West African village. Little else about its contents could be verified.",
+   "characters": [],
+   "setting": "A West African village",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search?q=in+bikole",
+   "identified": true,
+   "note": "Open Library lists In Bikole by Tom Gilroy, first published 1978 (publisher not shown); a library catalog confirms the title and subtitle. Draft story details (folk tales, reading age) not confirmed."
+  },
+  "jurassic-park": {
+   "title": "Jurassic Park",
+   "author_names": [
+    "Michael Crichton"
+   ],
+   "published": 1990,
+   "published_last": 1990,
+   "genres": [
+    "science fiction",
+    "thriller",
+    "adventure"
+   ],
+   "summary": "Scientists and investors tour a theme park on a Costa Rican island where dinosaurs have been cloned. When the park's security is sabotaged, the animals get loose and the visitors face serious danger.",
+   "characters": [
+    "Alan Grant — paleontologist",
+    "Ellie Sattler — paleobotanist",
+    "Ian Malcolm — chaos theorist",
+    "John Hammond — park founder"
+   ],
+   "setting": "Isla Nublar, off Costa Rica",
+   "awards": [],
+   "series": null,
+   "reading_age": "adult",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Jurassic_Park_(novel)",
+   "identified": true,
+   "note": "Adult novel; not a children's read-aloud. Published October 1990 by Knopf."
+  },
+  "lotte-s-locket": {
+   "title": "Lotte's Locket",
+   "author_names": [
+    "Virginia Sorensen"
+   ],
+   "published": 1964,
+   "published_last": 1964,
+   "genres": [
+    "children's fiction",
+    "family story"
+   ],
+   "summary": "A children's novel by Virginia Sorensen published in 1964. Further plot details could not be verified from the pages reached.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Virginia_Sorensen",
+   "identified": true,
+   "note": "Open Library and Wikipedia confirm title, author and 1964 date; draft plot (Denmark, locket across generations) not confirmed and left out."
+  },
+  "my-friends-the-wild-chimpanzees": {
+   "title": "My Friends the Wild Chimpanzees",
+   "author_names": [
+    "Jane Goodall"
+   ],
+   "published": 1967,
+   "published_last": 1967,
+   "genres": [
+    "nonfiction",
+    "nature",
+    "photo book"
+   ],
+   "summary": "Goodall tells of her study of wild chimpanzees at Gombe, in Tanzania, and of the life stories of individual animals. It is a National Geographic Society book illustrated with about 166 color photographs.",
+   "characters": [
+    "Jane Goodall — field researcher"
+   ],
+   "setting": "Gombe Stream, Tanzania",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://carta.anthropogeny.org/node/2384",
+   "identified": true,
+   "note": "National Geographic Society, 1967, 204 pp.; the catalog credits Jane Goodall and Hugo van Lawick, with a foreword by Leonard Carmichael. Author appears in the notebook as Jane van Lawick-Goodall; normalized to Jane Goodall. Draft chimp names not confirmed."
+  },
+  "ocelot": {
+   "title": "Ocelot",
+   "author_names": [
+    "B. F. Beebe"
+   ],
+   "published": null,
+   "published_last": null,
+   "genres": [
+    "animal story",
+    "nature"
+   ],
+   "summary": "An animal book about the ocelot by B. F. Beebe, with illustrations by James Ralph Johnson. Details of its content and date could not be verified.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "James Ralph Johnson",
+   "source": "https://www.goodreads.com/author/show/782316.B_F_Beebe",
+   "identified": true,
+   "note": "Goodreads lists Ocelot by B. F. Beebe (with illustrator James Ralph Johnson), but no year or description was found."
+  },
+  "persian-folk-and-fairy-tales": {
+   "title": "Persian Folk and Fairy Tales",
+   "author_names": [
+    "Anne Sinclair Mehdevi"
+   ],
+   "published": 1965,
+   "published_last": 1965,
+   "genres": [
+    "folk tales",
+    "fairy tale"
+   ],
+   "summary": "Anne Sinclair Mehdevi retells eleven typical Persian tales for young readers. The stories come from Persia, now Iran.",
+   "characters": [],
+   "setting": "Persia (Iran)",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Paul E. Kennedy",
+   "source": "https://openlibrary.org/search?q=anne+sinclair+mehdevi",
+   "identified": true,
+   "note": "Year 1965 confirmed by Open Library; eleven tales and illustrator from a library catalog record. Publisher (draft said Knopf) not confirmed for this title."
+  },
+  "san-domingo-the-medicine-hat-stallion": {
+   "title": "San Domingo: The Medicine Hat Stallion",
+   "author_names": [
+    "Marguerite Henry"
+   ],
+   "published": 1972,
+   "published_last": 1972,
+   "genres": [
+    "horse story",
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "Peter Lundy's father, who loves a bargain, trades away Peter's beloved horse San Domingo for a thoroughbred, and Peter leaves home. The story follows the pair into the Pony Express and a boy's effort to win his father's respect.",
+   "characters": [
+    "Peter Lundy — teenage rider",
+    "Jethro Lundy — his bargain-loving father",
+    "San Domingo — the Medicine Hat stallion"
+   ],
+   "setting": "The American West before the Civil War, along the Pony Express route",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Robert Lougheed",
+   "source": "https://en.wikipedia.org/wiki/Peter_Lundy_and_the_Medicine_Hat_Stallion",
+   "identified": true,
+   "note": "Draft hero 'Hal' was wrong: the boy is Peter Lundy. Source page covers the 1977 TV film based on the 1972 novel (Rand McNally, 1972). Plot details beyond the setup come from the film summary and catalog descriptions."
+  },
+  "short-stories-a-lodging-for-the-night-the-suicide-club": {
+   "title": "A Lodging for the Night and The Suicide Club",
+   "author_names": [
+    "Robert Louis Stevenson"
+   ],
+   "published": 1878,
+   "published_last": 1882,
+   "genres": [
+    "short stories",
+    "adventure",
+    "classic"
+   ],
+   "summary": "Two Stevenson tales: a story about the poet-thief Francis Villon, and a trio of linked stories in which Prince Florizel of Bohemia and Colonel Geraldine investigate a secret club of people seeking death.",
+   "characters": [
+    "Prince Florizel — Bohemian prince and sleuth",
+    "Colonel Geraldine — his loyal companion",
+    "Francis Villon — poet and thief"
+   ],
+   "setting": "Paris (Villon story) and Victorian London (The Suicide Club)",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Suicide_Club_(short_story_collection)",
+   "identified": true,
+   "note": "Notebook line lists two stories. The Suicide Club ran in London Magazine in 1878; both stories were later collected in New Arabian Nights (1882). Publication date of A Lodging for the Night itself was not confirmed."
+  },
+  "susy-s-scoundrel": {
+   "title": "Susy's Scoundrel",
+   "author_names": [
+    "Harold Keith"
+   ],
+   "published": 1974,
+   "published_last": 1974,
+   "genres": [
+    "animal story",
+    "family story",
+    "western"
+   ],
+   "summary": "An Amish girl in Oklahoma adopts two coyote pups, but their mother steals them back. The pups' later adventures put them in deadly danger.",
+   "characters": [
+    "Susy — Amish girl",
+    "The coyote pups — her pets"
+   ],
+   "setting": "Oklahoma",
+   "awards": [
+    "Spur Award (1974)",
+    "Western Heritage Award (1975)"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "John Schoenherr",
+   "source": "https://en.wikipedia.org/wiki/Harold_Keith",
+   "identified": true,
+   "note": "Draft called it a historical novel; it is an animal story. Crowell, 1974; plot summary from a Goodreads snippet seen in a search, award dates from Wikipedia and an awards list."
+  },
+  "the-adventures-of-tom-sawyer-misc-tales": {
+   "title": "The Adventures of Tom Sawyer",
+   "author_names": [
+    "Mark Twain"
+   ],
+   "published": 1876,
+   "published_last": 1876,
+   "genres": [
+    "classic",
+    "adventure",
+    "humor"
+   ],
+   "summary": "Tom Sawyer is a mischievous orphan in a Mississippi River town who dodges school and chores and gets into scrapes with his friend Huck Finn. His adventures include witnessing a murder and getting lost in a cave.",
+   "characters": [
+    "Tom Sawyer — mischievous boy",
+    "Huckleberry Finn — free-spirited friend",
+    "Becky Thatcher — Tom's sweetheart",
+    "Aunt Polly — Tom's guardian",
+    "Injun Joe — villain"
+   ],
+   "setting": "St. Petersburg, Missouri (modeled on Hannibal), 1830s-1840s",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "True Williams (first American edition)",
+   "source": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer",
+   "identified": true,
+   "note": "Notebook line also mentioned miscellaneous tales; the main work is Tom Sawyer."
+  },
+  "the-barrel-in-the-basement": {
+   "title": "The Barrel in the Basement",
+   "author_names": [
+    "Barbara Brooks Wallace"
+   ],
+   "published": 1985,
+   "published_last": 1985,
+   "genres": [
+    "fantasy",
+    "children's fiction"
+   ],
+   "summary": "Tiny folk named Pudding and Muddle find Old Toaster and his elf-sized house inside a barrel in a basement. Trouble arrives with a curious boy named Freddie and his dog Marvin.",
+   "characters": [
+    "Pudding — one of the Furkens",
+    "Muddle — one of the Furkens",
+    "Old Toaster — lives in the barrel",
+    "Freddie — curious boy"
+   ],
+   "setting": "A basement",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/authors/OL25649A/Barbara_Brooks_Wallace",
+   "identified": true,
+   "note": "Draft called it a mystery about children; booksellers describe a fantasy. Open Library confirms 1985; plot from bookseller listings (Atheneum, 1985)."
+  },
+  "the-bushbabies": {
+   "title": "The Bushbabies",
+   "author_names": [
+    "William Stevenson"
+   ],
+   "published": 1965,
+   "published_last": 1965,
+   "genres": [
+    "adventure",
+    "animal story",
+    "survival"
+   ],
+   "summary": "When her family leaves Kenya, thirteen-year-old Jackie cannot bear to take her pet bushbaby away from its home. She and her father's servant Tembo set out to return the animal to the wild, while authorities come to think Tembo has kidnapped her.",
+   "characters": [
+    "Jackie Rhodes — headstrong thirteen-year-old",
+    "Tembo Murumbi — her father's servant and friend",
+    "Kamau — Jackie's bushbaby"
+   ],
+   "setting": "Kenya, from Mombasa across the grasslands",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Victor Ambrus",
+   "source": "https://en.wikipedia.org/wiki/The_Bushbabies",
+   "identified": true,
+   "note": "Houghton Mifflin, 1965. Draft detail that Tembo is a 'wise guide' and the 'hundreds of miles' claim were not confirmed."
+  },
+  "the-case-of-the-threatened-king": {
+   "title": "The Case of the Threatened King",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1982,
+   "published_last": 1982,
+   "genres": [
+    "mystery",
+    "historical fiction"
+   ],
+   "summary": "When Sara Wiggins and a friend disappear, Andrew and Inspector Wyatt uncover a plot against a visiting king.",
+   "characters": [
+    "Andrew Tillet — young amateur detective",
+    "Sara Wiggins — his friend",
+    "Inspector Wyatt — police inspector"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": "Andrew Tillet mysteries",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search?q=robert+newman+case+of+the+threatened+king",
+   "identified": true,
+   "note": "Hero's name is Andrew Tillet, not 'Tolliver' as in the draft. Year 1982 from Open Library; plot and characters from a LibraryThing summary seen in search results."
+  },
+  "the-chronicles-of-prydain": {
+   "title": "The Chronicles of Prydain",
+   "author_names": [
+    "Lloyd Alexander"
+   ],
+   "published": 1964,
+   "published_last": 1968,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic"
+   ],
+   "summary": "Five linked novels follow Taran, a youth of unknown parentage who dreams of heroism, in the Welsh-inspired land of Prydain. Together with his companions he opposes the dark lord Arawn.",
+   "characters": [
+    "Taran — young hero",
+    "Eilonwy — princess",
+    "Gurgi — loyal creature",
+    "Fflewddur Fflam — bard",
+    "Doli — dwarf",
+    "Arawn — dark lord"
+   ],
+   "setting": "Prydain, a land based on Wales",
+   "awards": [
+    "Newbery Honor (1966, The Black Cauldron)",
+    "Newbery Medal (1969, The High King)"
+   ],
+   "series": "The Chronicles of Prydain",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Chronicles_of_Prydain",
+   "identified": true,
+   "note": "Five books: The Book of Three (1964) to The High King (1968)."
+  },
+  "the-edge-chronicles": {
+   "title": "The Edge Chronicles",
+   "author_names": [
+    "Paul Stewart",
+    "Chris Riddell"
+   ],
+   "published": 1998,
+   "published_last": 2000,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "illustrated"
+   ],
+   "summary": "Twig, the hero of the Twig Saga, journeys through the strange lands of the Edge, a vast cliff with no apparent bottom. The first three books in the notebook line are Beyond the Deepwoods, Stormchaser and Midnight Over Sanctaphrax.",
+   "characters": [
+    "Twig — young hero of the Twig Saga"
+   ],
+   "setting": "The Edge, a vast cliff world",
+   "awards": [],
+   "series": "The Edge Chronicles (Twig Saga)",
+   "reading_age": null,
+   "illustrator": "Chris Riddell",
+   "source": "https://en.wikipedia.org/wiki/The_Edge_Chronicles",
+   "identified": true,
+   "note": "Parts: Beyond the Deepwoods 1998, Stormchaser 1999, Midnight Over Sanctaphrax 2000. Other draft character names were not confirmed."
+  },
+  "the-first-two-lives-of-lukas-kasha": {
+   "title": "The First Two Lives of Lukas-Kasha",
+   "author_names": [
+    "Lloyd Alexander"
+   ],
+   "published": 1978,
+   "published_last": 1978,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "humor"
+   ],
+   "summary": "Lukas-Kasha, a lazy young man, joins a magic show and is carried to the city of Abadan, where he is proclaimed king. He finds that ruling takes more than comfort and runs into powerful opposition when he tries to change things.",
+   "characters": [
+    "Lukas-Kasha — lazy young man turned king",
+    "Nur-Jehan — enslaved girl in the palace",
+    "Kayim — versifier and friend",
+    "Shugdad Mirza — Grand Vizier"
+   ],
+   "setting": "Zara-Petra and the kingdom of Abadan (royal city Shirazan)",
+   "awards": [
+    "Silver Pencil Award (1981)",
+    "Austrian Children's Book Award (1984)"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_First_Two_Lives_of_Lukas-Kasha",
+   "identified": true,
+   "note": "E.P. Dutton, 1978. Draft character 'Nur-Jan' corrected to Nur-Jehan and 'shy' corrected to 'lazy'."
+  },
+  "the-iceberg-hermit": {
+   "title": "The Iceberg Hermit",
+   "author_names": [
+    "Arthur Roth"
+   ],
+   "published": 1974,
+   "published_last": 1974,
+   "genres": [
+    "survival",
+    "adventure",
+    "historical fiction"
+   ],
+   "summary": "Shipwrecked in 1757, seventeen-year-old Allan is stranded on an iceberg in the Arctic seas with only an orphaned polar bear cub for company. He begins a struggle to survive.",
+   "characters": [
+    "Allan — shipwrecked seventeen-year-old"
+   ],
+   "setting": "Arctic seas, 1757",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search?q=arthur+roth+iceberg+hermit",
+   "identified": true,
+   "note": "Author appears in catalogs as Arthur J. Roth. Year 1974 from Open Library (Four Winds Press/Scholastic). The draft's unverified Newbery claim was removed."
+  },
+  "the-little-cow-and-the-turtle": {
+   "title": "The Little Cow and the Turtle",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1955,
+   "published_last": 1955,
+   "genres": [
+    "animal story",
+    "humor",
+    "children's fiction"
+   ],
+   "summary": "A little cow grows bored with pasture life and goes in search of adventure. She befriends a slow old mud turtle, among others.",
+   "characters": [
+    "Little Cow — adventurous cow",
+    "Turtle — slow old mud turtle"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Maurice Sendak",
+   "source": "https://bookfever.com/book/90754/DeJong-Meindert-Illustrated-by-Maurice-Sendak-THE-LITTLE-COW-AND-THE-TURTLE",
+   "identified": true,
+   "note": "Harper & Brothers, 1955, 178 pp.; Sendak illustrated. Draft setting not confirmed."
+  },
+  "the-magic-stone": {
+   "title": "The Magic Stone",
+   "author_names": [
+    "Leonie Kooiker"
+   ],
+   "published": 1974,
+   "published_last": 1974,
+   "genres": [
+    "fantasy",
+    "children's fiction"
+   ],
+   "summary": "Chris, a mischievous boy, finds a magic stone and learns that his friend's grandmother is a witch. The sorcerers' secret association wants the stone back.",
+   "characters": [
+    "Chris — mischievous boy",
+    "The grandmother — a witch",
+    "Janna — old woman in the forest"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Carl Hollander",
+   "source": "https://www.kirkusreviews.com/book-reviews/a/leonie-kooiker/the-magic-stone",
+   "identified": true,
+   "note": "Dutch original De heksensteen (1974); English edition by Morrow, 1978, translated by Richard and Clara Winston. Draft guess of Dutch title 'De toverkei' not supported. The 'published' year is the Dutch original."
+  },
+  "the-not-just-anybody-family": {
+   "title": "The Not-Just-Anybody Family",
+   "author_names": [
+    "Betsy Byars"
+   ],
+   "published": 1986,
+   "published_last": 1986,
+   "genres": [
+    "family story",
+    "humor"
+   ],
+   "summary": "Junior Blossom breaks both legs trying to fly off a barn roof, and his grandfather Pap lands in jail. Their widowed mother is away on the rodeo circuit, so Maggie and Vern work to rescue them.",
+   "characters": [
+    "Junior — daredevil brother",
+    "Maggie — Junior's sister",
+    "Vern — Junior's brother",
+    "Pap — jailed grandfather"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": "The Blossom Family #1",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://kirkusreviews.com/book-reviews/betsy-byars/the-not-just-anybody-family/print",
+   "identified": true,
+   "note": "Delacorte, 1986. Draft said #2; it is the first Blossom Family book."
+  },
+  "the-riddle-of-the-red-whale": {
+   "title": "The Riddle of the Red Whale",
+   "author_names": [
+    "Edward Fenton"
+   ],
+   "published": 1966,
+   "published_last": 1966,
+   "genres": [
+    "mystery",
+    "humor"
+   ],
+   "summary": "James returns to his cousins' farm on Walkaway Hill, where a newcomer's luggage is vandalized and someone is asking nosy questions. A junk-shop owner says people are searching for a 'red whale,' and no one knows what that means.",
+   "characters": [
+    "James — narrator",
+    "Amanda — James's cousin",
+    "Obie — James's cousin",
+    "Mr. Vanniver — new neighbor"
+   ],
+   "setting": "Walkaway Hill, a country farmhouse area",
+   "awards": [],
+   "series": "Sequel to The Phantom of Walkaway Hill",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://www.goodreads.com/author_blog_posts/24462175-rereading-the-riddle-of-the-red-whale-by-edward-fenton?tab=book",
+   "identified": true,
+   "note": "Draft described a whaling mystery; the real book is a country mystery. Doubleday, 1966 (Open Library and catalog records)."
+  },
+  "the-stone-book-quartet": {
+   "title": "The Stone Book Quartet",
+   "author_names": [
+    "Alan Garner"
+   ],
+   "published": 1976,
+   "published_last": 1978,
+   "genres": [
+    "family story",
+    "historical fiction",
+    "classic"
+   ],
+   "summary": "Four short novels each cover a single day in the lives of four generations of Garner's family, set in eastern Cheshire. The first, The Stone Book, tells of a girl who asks her stonemason father for a book.",
+   "characters": [
+    "Mary — stonemason's daughter (The Stone Book)"
+   ],
+   "setting": "Eastern Cheshire near Alderley Edge, about 1860s to 1940s",
+   "awards": [
+    "Phoenix Award (1996, The Stone Book)"
+   ],
+   "series": "The Stone Book Quartet",
+   "reading_age": null,
+   "illustrator": "Michael Foreman",
+   "source": "https://en.wikipedia.org/wiki/The_Stone_Book_Quartet",
+   "identified": true,
+   "note": "The Stone Book 1976, Granny Reardun 1977, Tom Fobble's Day 1977, The Aimer Gate 1978; Collins published a one-volume omnibus in 1979. Foreman's illustration credit comes from a Seven Stories archive record seen in search results."
+  },
+  "the-tattooed-potato-and-other-clues": {
+   "title": "The Tattooed Potato and Other Clues",
+   "author_names": [
+    "Ellen Raskin"
+   ],
+   "published": 1975,
+   "published_last": 1975,
+   "genres": [
+    "mystery",
+    "humor"
+   ],
+   "summary": "Seventeen-year-old art student Dickory Dock takes a job as assistant to the painter Garson at 12 Cobble Lane. She is drawn into mysteries involving him and his neighbors, with plenty of disguises and wordplay.",
+   "characters": [
+    "Dickory Dock — art student",
+    "Garson — eccentric painter",
+    "Isaac Bickerstaffe — Garson's companion",
+    "Joseph P. Quinn — police chief of detectives"
+   ],
+   "setting": "Greenwich Village, New York City",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Tattooed_Potato_and_Other_Clues",
+   "identified": true,
+   "note": "E. P. Dutton, 1975. Draft setting San Francisco corrected to New York."
+  },
+  "the-voyage-of-the-dawn-treader-chronicles-of-narnia": {
+   "title": "The Voyage of the Dawn Treader",
+   "author_names": [
+    "C. S. Lewis"
+   ],
+   "published": 1952,
+   "published_last": 1952,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic"
+   ],
+   "summary": "Lucy, Edmund and their cousin Eustace are pulled into Narnia through a painting of a ship and join King Caspian's voyage east to find seven lost lords. Strange islands and a dragon test the crew.",
+   "characters": [
+    "Lucy Pevensie — youngest Pevensie",
+    "Edmund Pevensie — her brother",
+    "Eustace Scrubb — unpleasant cousin",
+    "Caspian — King of Narnia",
+    "Reepicheep — talking mouse"
+   ],
+   "setting": "The seas east of Narnia and the islands there",
+   "awards": [],
+   "series": "The Chronicles of Narnia (third published, fifth chronologically)",
+   "reading_age": null,
+   "illustrator": "Pauline Baynes",
+   "source": "https://en.wikipedia.org/wiki/The_Voyage_of_the_Dawn_Treader",
+   "identified": true,
+   "note": "Notebook title included a series label; removed. Geoffrey Bles, 15 September 1952."
+  },
+  "the-wonderful-story-of-henry-sugar-and-six-more": {
+   "title": "The Wonderful Story of Henry Sugar and Six More",
+   "author_names": [
+    "Roald Dahl"
+   ],
+   "published": 1977,
+   "published_last": 1977,
+   "genres": [
+    "short stories",
+    "humor"
+   ],
+   "summary": "A collection of seven stories, including the title tale of a rich idler who learns an extraordinary skill. Some pieces are nonfiction, and two draw on Dahl's own life as a schoolboy and a fighter pilot.",
+   "characters": [
+    "Henry Sugar — wealthy idler",
+    "Imhrat Khan — man who sees without his eyes"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Quentin Blake (first-edition cover)",
+   "source": "https://en.wikipedia.org/wiki/The_Wonderful_Story_of_Henry_Sugar_and_Six_More",
+   "identified": true,
+   "note": "Jonathan Cape, 1977. Stories: The Boy Who Talked with Animals, The Hitch-Hiker, The Mildenhall Treasure, The Swan, Henry Sugar, Lucky Break, A Piece of Cake."
+  },
+  "too-much-magic": {
+   "title": "Too Much Magic",
+   "author_names": [
+    "Betsy Sterman",
+    "Samuel Sterman"
+   ],
+   "published": 1987,
+   "published_last": 1987,
+   "genres": [
+    "fantasy",
+    "family story",
+    "humor"
+   ],
+   "summary": "Eight-year-old Jeff finds a cube that seems to grant wishes, and his older brother Bill discovers it actually teleports objects. Their wishes start affecting the whole town, and a new coach with a cube of his own asks them to hand theirs over.",
+   "characters": [
+    "Jeff — eight-year-old who finds the cube",
+    "Bill — his older brother",
+    "The coach — new coach with a cube"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": "8-12",
+   "illustrator": null,
+   "source": "https://www.publishersweekly.com/978-0-397-32186-5",
+   "identified": true,
+   "note": "Lippincott, 1987, by Betsy Sterman; Open Library also lists a 1994 edition credited to Betsy and Samuel Sterman, which may be the edition in the notebook (written 'Betty & Samuel'). Draft 'Betty' corrected to Betsy."
+  },
+  "wolf-rider": {
+   "title": "Wolf Rider",
+   "author_names": [
+    "Avi"
+   ],
+   "published": 1986,
+   "published_last": 1986,
+   "genres": [
+    "mystery",
+    "thriller",
+    "young adult"
+   ],
+   "summary": "Fifteen-year-old Andy Zadinski gets a phone call from a stranger who claims to have killed a girl. Nobody believes him, and he has to push for the truth himself.",
+   "characters": [
+    "Andy Zadinski — fifteen-year-old",
+    "Zeke — mysterious caller",
+    "Nina Kemper — the girl Zeke says he killed"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://bookshare.org/browse/book/23116",
+   "identified": true,
+   "note": "Subtitle: A Tale of Terror. Draft character 'Mr. Zeeman' was not supported; the caller is Zeke. Setting not confirmed."
+  },
+  "harry-potter-series": {
+   "title": "Harry Potter series",
+   "author_names": [
+    "J. K. Rowling"
+   ],
+   "published": 1997,
+   "published_last": 2007,
+   "genres": [
+    "fantasy",
+    "school story",
+    "adventure"
+   ],
+   "summary": "Seven novels follow Harry Potter, a young wizard, through his years at Hogwarts and his conflict with the dark wizard Voldemort. Friendship and courage run through the series.",
+   "characters": [
+    "Harry Potter — young wizard",
+    "Hermione Granger — brilliant friend",
+    "Ron Weasley — loyal friend",
+    "Albus Dumbledore — headmaster",
+    "Voldemort — dark wizard"
+   ],
+   "setting": "Hogwarts School and wizarding Britain",
+   "awards": [],
+   "series": "Harry Potter",
+   "reading_age": null,
+   "illustrator": "Mary GrandPré (US editions)",
+   "source": "https://en.wikipedia.org/wiki/Harry_Potter",
+   "identified": true,
+   "note": "First UK publication 26 June 1997; Deathly Hallows 21 July 2007."
+  }
+ },
+ "authors": {
+  "Jules Verne": {
+   "born": 1828,
+   "died": 1905,
+   "birthplace": "Nantes, France",
+   "nationality": "French",
+   "bio": "Verne was a French novelist and playwright. With his publisher Pierre-Jules Hetzel he created the Voyages extraordinaires, adventure novels rich in science and geography. He is often called a father of science fiction and is among the most translated authors in the world.",
+   "known_for": [
+    "Twenty Thousand Leagues Under the Seas",
+    "Around the World in Eighty Days",
+    "Journey to the Center of the Earth"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jules_Verne"
+  },
+  "Sheila Garrigue": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Sheila Garrigue wrote novels for young readers. Open Library lists All the Children Were Sent Away (1976), Between Friends (1978) and The Eternal Spring of Mr. Ito (1985). Few personal details could be verified.",
+   "known_for": [
+    "All the Children Were Sent Away",
+    "Between Friends",
+    "The Eternal Spring of Mr. Ito"
+   ],
+   "source": "https://openlibrary.org/search?q=sheila+garrigue&mode=everything"
+  },
+  "Ann Schlee": {
+   "born": 1934,
+   "died": 2023,
+   "birthplace": "Greenwich, Connecticut, USA",
+   "nationality": "English",
+   "bio": "Schlee was an English novelist born in the United States who wrote for both children and adults. She studied at Somerville College, Oxford, and was elected a Fellow of the Royal Society of Literature in 1997. Her adult novel Rhine Journey was shortlisted for the 1981 Booker Prize.",
+   "known_for": [
+    "The Vandal",
+    "Rhine Journey",
+    "Ask Me No Questions"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ann_Schlee"
+  },
+  "Gene DeWeese": {
+   "born": 1934,
+   "died": 2012,
+   "birthplace": "Rochester, Indiana, USA",
+   "nationality": "American",
+   "bio": "DeWeese was an American science fiction writer best known for his Star Trek novels. He also wrote gothic, mystery and young adult fiction, publishing more than forty books. He used several pen names, including Thomas Stratton with Robert Coulson.",
+   "known_for": [
+    "Black Suits from Outer Space",
+    "The Adventures of a Two-Minute Werewolf",
+    "Star Trek novels"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Gene_DeWeese"
+  },
+  "Caroline Arnold": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Caroline Arnold writes nonfiction books for children. The Open Library record for Dinosaur Mountain: Graveyard of the Past, published in 1989, lists her as the author. Few personal details could be verified.",
+   "known_for": [
+    "Dinosaur Mountain: Graveyard of the Past"
+   ],
+   "source": "https://openlibrary.org/search?q=caroline+arnold+dinosaur+mountain"
+  },
+  "Harriett E. Weaver": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Harriett Weaver worked as a ranger at Big Basin Redwood Park in California, where she was the only female ranger. Her book Frosty: A Raccoon to Remember tells how she adopted an orphaned raccoon. Her name is sometimes spelled Harriet.",
+   "known_for": [
+    "Frosty: A Raccoon to Remember"
+   ],
+   "source": "https://penguinrandomhouse.com/books/187659/frosty-a-raccoon-to-remember-by-harriett-e-weaver"
+  },
+  "J. K. Rowling": {
+   "born": 1965,
+   "died": null,
+   "birthplace": "Yate, Gloucestershire, England",
+   "nationality": "British",
+   "bio": "Rowling is a British author best known for the seven-volume Harry Potter series, which has sold hundreds of millions of copies. She also writes crime novels as Robert Galbraith and has written children's books such as The Ickabog.",
+   "known_for": [
+    "Harry Potter series",
+    "The Casual Vacancy",
+    "The Cuckoo's Calling (as Robert Galbraith)"
+   ],
+   "source": "https://en.wikipedia.org/wiki/J._K._Rowling"
+  },
+  "Tom Gilroy": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Open Library credits Tom Gilroy with In Bikole: Eight Modern Stories of Life in a West African Village (1978). No biographical details could be verified.",
+   "known_for": [
+    "In Bikole"
+   ],
+   "source": "https://openlibrary.org/search?q=in+bikole"
+  },
+  "Michael Crichton": {
+   "born": 1942,
+   "died": 2008,
+   "birthplace": "Chicago, Illinois, USA",
+   "nationality": "American",
+   "bio": "Crichton was an American author and filmmaker whose techno-thrillers often explored science gone wrong. He earned an MD at Harvard but never practiced. He also directed films such as Westworld and created the television series ER.",
+   "known_for": [
+    "Jurassic Park",
+    "The Andromeda Strain",
+    "Congo"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Michael_Crichton"
+  },
+  "Virginia Sorensen": {
+   "born": 1912,
+   "died": 1991,
+   "birthplace": "Provo, Utah, USA",
+   "nationality": "American",
+   "bio": "Sorensen was an American regionalist writer of adult novels and children's books, associated with Mormon-themed fiction. She won the 1957 Newbery Medal for Miracles on Maple Hill. Her children's novels also include Plain Girl and Lotte's Locket.",
+   "known_for": [
+    "Miracles on Maple Hill",
+    "Plain Girl",
+    "Lotte's Locket"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Virginia_Sorensen"
+  },
+  "Jane Goodall": {
+   "born": 1934,
+   "died": 2025,
+   "birthplace": "Hampstead, London, England",
+   "nationality": "English",
+   "bio": "Goodall was a primatologist who spent more than six decades studying wild chimpanzees at Gombe Stream in Tanzania, beginning in 1960 under Louis Leakey. Her findings showed that chimpanzees use tools and have complex social lives. She founded the Jane Goodall Institute and the Roots & Shoots youth program.",
+   "known_for": [
+    "In the Shadow of Man",
+    "Through a Window",
+    "My Friends the Wild Chimpanzees"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jane_Goodall"
+  },
+  "B. F. Beebe": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "B. F. Beebe wrote animal and nature books for young readers, often illustrated by James Ralph Johnson. Goodreads lists 17 works, including African Elephants (1968) and American Wild Horses (1964). No biographical details could be verified.",
+   "known_for": [
+    "Ocelot",
+    "African Elephants",
+    "American Wild Horses"
+   ],
+   "source": "https://www.goodreads.com/author/show/782316.B_F_Beebe"
+  },
+  "Anne Sinclair Mehdevi": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Mehdevi wrote books about Persia and Iranian life as well as fiction. Open Library lists Persian Adventure (1953), Persia Revisited (1964) and Persian Folk and Fairy Tales (1965). No biographical details could be verified.",
+   "known_for": [
+    "Persian Folk and Fairy Tales",
+    "Persia Revisited",
+    "Persian Adventure"
+   ],
+   "source": "https://openlibrary.org/search?q=anne+sinclair+mehdevi"
+  },
+  "Marguerite Henry": {
+   "born": 1902,
+   "died": 1997,
+   "birthplace": "Milwaukee, Wisconsin, USA",
+   "nationality": "American",
+   "bio": "Henry wrote about 59 books, mostly true-based stories about horses and other animals. She often worked with illustrator Wesley Dennis. She won the Newbery Medal for King of the Wind and is also known for Misty of Chincoteague.",
+   "known_for": [
+    "King of the Wind",
+    "Misty of Chincoteague",
+    "Brighty of the Grand Canyon"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Marguerite_Henry"
+  },
+  "Robert Louis Stevenson": {
+   "born": 1850,
+   "died": 1894,
+   "birthplace": "Edinburgh, Scotland",
+   "nationality": "Scottish",
+   "bio": "Stevenson was a Scottish novelist, essayist and travel writer who became famous in his own lifetime. His later years were spent in Samoa, where he was called Tusitala, the teller of tales. He is buried on Mount Vaea.",
+   "known_for": [
+    "Treasure Island",
+    "Strange Case of Dr Jekyll and Mr Hyde",
+    "Kidnapped"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
+  },
+  "Harold Keith": {
+   "born": 1903,
+   "died": 1998,
+   "birthplace": "Lambert, Oklahoma, USA",
+   "nationality": "American",
+   "bio": "Keith was an Oklahoma writer who set most of his roughly sixteen books in his home state. He worked for decades as the University of Oklahoma's sports publicist. He won the 1958 Newbery Medal for Rifles for Watie.",
+   "known_for": [
+    "Rifles for Watie",
+    "Susy's Scoundrel",
+    "The Obstinate Land"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Harold_Keith"
+  },
+  "Mark Twain": {
+   "born": 1835,
+   "died": 1910,
+   "birthplace": "Florida, Missouri, USA",
+   "nationality": "American",
+   "bio": "Twain was the pen name of Samuel Clemens, a humorist, journalist, lecturer and former riverboat pilot. Tom Sawyer's town of St. Petersburg is based on Hannibal, Missouri, where he grew up. He is often praised as the greatest American humorist.",
+   "known_for": [
+    "The Adventures of Tom Sawyer",
+    "Adventures of Huckleberry Finn",
+    "The Prince and the Pauper"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mark_Twain"
+  },
+  "Barbara Brooks Wallace": {
+   "born": 1922,
+   "died": 2018,
+   "birthplace": "Suzhou, China",
+   "nationality": "American",
+   "bio": "Wallace grew up in China and moved to the United States for high school, later graduating from UCLA. Her children's books and mysteries earned two Edgar Awards, for The Twin in the Tavern and Sparrows in the Scullery. Her best-known titles include Peppermints in the Parlor.",
+   "known_for": [
+    "Peppermints in the Parlor",
+    "The Twin in the Tavern",
+    "Sparrows in the Scullery"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Barbara_Brooks_Wallace"
+  },
+  "William Stevenson": {
+   "born": 1924,
+   "died": 2013,
+   "birthplace": "Marylebone, London, England",
+   "nationality": "British-born Canadian",
+   "bio": "Stevenson was a British-born Canadian journalist and author of nonfiction, fiction and children's books. His bestselling A Man Called Intrepid (1976) became a television miniseries. He also wrote 90 Minutes at Entebbe and the children's novel The Bushbabies.",
+   "known_for": [
+    "A Man Called Intrepid",
+    "90 Minutes at Entebbe",
+    "The Bushbabies"
+   ],
+   "source": "https://en.wikipedia.org/wiki/William_Stevenson_(Canadian_writer)"
+  },
+  "Robert Newman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Robert Newman wrote children's mystery novels featuring Andrew Tillet, Sara Wiggins and Inspector Wyatt. Open Library lists The Case of the Threatened King (1982). Few personal details could be verified, and several authors share the name.",
+   "known_for": [
+    "The Case of the Threatened King",
+    "The Case of the Etruscan Treasure"
+   ],
+   "source": "https://openlibrary.org/search?q=robert+newman+case+of+the+threatened+king"
+  },
+  "Lloyd Alexander": {
+   "born": 1924,
+   "died": 2007,
+   "birthplace": "Philadelphia, Pennsylvania, USA",
+   "nationality": "American",
+   "bio": "Alexander wrote more than forty books, mostly fantasy for young readers, after earlier work as a writer and translator for adults. He served in Army intelligence in World War II and studied in Paris. He won the Newbery Medal for The High King.",
+   "known_for": [
+    "The Chronicles of Prydain",
+    "The Marvelous Misadventures of Sebastian",
+    "Westmark"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Lloyd_Alexander"
+  },
+  "Paul Stewart": {
+   "born": 1955,
+   "died": null,
+   "birthplace": "London, England",
+   "nationality": "British",
+   "bio": "Stewart is a British writer of children's, young adult and adult books. He is best known for the three series he wrote with illustrator Chris Riddell, beginning with The Edge Chronicles. Other works include Muddle Earth and the Wyrmeweald trilogy.",
+   "known_for": [
+    "The Edge Chronicles",
+    "Muddle Earth",
+    "Barnaby Grimes"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Paul_Stewart_(writer)"
+  },
+  "Chris Riddell": {
+   "born": 1962,
+   "died": null,
+   "birthplace": "Cape Town, South Africa",
+   "nationality": "English",
+   "bio": "Riddell is a South African-born English illustrator and political cartoonist for The Observer. He has won three Kate Greenaway Medals and was UK Children's Laureate in 2015. He illustrated The Edge Chronicles, written by Paul Stewart.",
+   "known_for": [
+    "The Edge Chronicles",
+    "Ottoline series",
+    "Goth Girl series"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Chris_Riddell"
+  },
+  "Arthur Roth": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Arthur J. Roth wrote The Iceberg Hermit, first published in 1974 by Four Winds Press. Open Library lists several editions of the book under his name. Few personal details could be verified.",
+   "known_for": [
+    "The Iceberg Hermit"
+   ],
+   "source": "https://openlibrary.org/search?q=arthur+roth+iceberg+hermit"
+  },
+  "Meindert DeJong": {
+   "born": 1906,
+   "died": 1991,
+   "birthplace": "Wierum, Netherlands",
+   "nationality": "Dutch-born American",
+   "bio": "DeJong was born in Friesland and emigrated to the United States as a child, settling in Grand Rapids. He wrote children's books from 1938 to 1986, and Maurice Sendak illustrated seven of them. He won the Newbery Medal for The Wheel on the School and the first American Hans Christian Andersen Award.",
+   "known_for": [
+    "The Wheel on the School",
+    "Journey from Peppermint Street",
+    "The Little Cow and the Turtle"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Meindert_De_Jong"
+  },
+  "Leonie Kooiker": {
+   "born": 1927,
+   "died": 2020,
+   "birthplace": "Markelo, Netherlands",
+   "nationality": "Dutch",
+   "bio": "Kooiker was a Dutch children's writer who also published in the magazine Kris Kras. Her first book, Het malle ding van bobbistiek (1970), won the Gouden Griffel. De heksensteen (1974) appeared in English as The Magic Stone.",
+   "known_for": [
+    "De heksensteen (The Magic Stone)",
+    "Het malle ding van bobbistiek",
+    "Het oerlanderboek"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Leonie_Kooiker"
+  },
+  "Betsy Byars": {
+   "born": 1928,
+   "died": 2020,
+   "birthplace": "Charlotte, North Carolina, USA",
+   "nationality": "American",
+   "bio": "Byars was an American author of children's and young adult books whose career ran from 1962 to 2010. She won the Newbery Medal for Summer of the Swans and the National Book Award for The Night Swimmers. Her Blossom Family books include The Not-Just-Anybody Family.",
+   "known_for": [
+    "Summer of the Swans",
+    "The Pinballs",
+    "The Night Swimmers"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Betsy_Byars"
+  },
+  "Edward Fenton": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "This Edward Fenton wrote children's mysteries, including The Phantom of Walkaway Hill and its sequel The Riddle of the Red Whale (Doubleday, 1966). He should not be confused with the Tudor navigator of the same name. No other biographical details could be verified.",
+   "known_for": [
+    "The Riddle of the Red Whale",
+    "The Phantom of Walkaway Hill"
+   ],
+   "source": "https://openlibrary.org/search?q=edward+fenton+riddle+of+the+red+whale"
+  },
+  "Alan Garner": {
+   "born": 1934,
+   "died": null,
+   "birthplace": "Congleton, Cheshire, England",
+   "nationality": "English",
+   "bio": "Garner is an English novelist and folklorist whose children's fantasy draws on the landscape, history and folklore of Cheshire. The Stone Book Quartet portrays four generations of his own family. He is still living.",
+   "known_for": [
+    "The Weirdstone of Brisingamen",
+    "The Owl Service",
+    "The Stone Book Quartet"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Alan_Garner"
+  },
+  "Ellen Raskin": {
+   "born": 1928,
+   "died": 1984,
+   "birthplace": "Milwaukee, Wisconsin, USA",
+   "nationality": "American",
+   "bio": "Raskin was a writer and illustrator who worked about fifteen years as a commercial artist in New York and designed over a thousand book jackets, including the first A Wrinkle in Time. Her mysteries are full of wordplay and visual puzzles. The Westing Game won the 1979 Newbery Medal.",
+   "known_for": [
+    "The Westing Game",
+    "Figgs & Phantoms",
+    "The Tattooed Potato and Other Clues"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ellen_Raskin"
+  },
+  "C. S. Lewis": {
+   "born": 1898,
+   "died": 1963,
+   "birthplace": "Belfast, Ireland",
+   "nationality": "British",
+   "bio": "Lewis was a literary scholar who taught at Oxford and later at Cambridge and became a popular Christian writer. He is best known for The Chronicles of Narnia. He was a close friend of J. R. R. Tolkien and a member of the Inklings.",
+   "known_for": [
+    "The Chronicles of Narnia",
+    "Mere Christianity",
+    "The Screwtape Letters"
+   ],
+   "source": "https://en.wikipedia.org/wiki/C._S._Lewis"
+  },
+  "Roald Dahl": {
+   "born": 1916,
+   "died": 1990,
+   "birthplace": "Llandaff, Cardiff, Wales",
+   "nationality": "British",
+   "bio": "Dahl was a British writer of children's books and short stories, born in Wales to Norwegian parents. He served in the RAF as a fighter pilot and later in intelligence in World War II. His books have sold hundreds of millions of copies.",
+   "known_for": [
+    "Charlie and the Chocolate Factory",
+    "Matilda",
+    "The BFG"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Roald_Dahl"
+  },
+  "Betsy Sterman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Betsy Sterman wrote the children's novel Too Much Magic (Lippincott, 1987). Open Library also lists a 1994 edition credited jointly to her and Samuel Sterman. No biographical details could be verified.",
+   "known_for": [
+    "Too Much Magic"
+   ],
+   "source": "https://openlibrary.org/search?q=betsy+sterman+too+much+magic"
+  },
+  "Samuel Sterman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Samuel Sterman is credited with Betsy Sterman on a 1994 edition of Too Much Magic in Open Library. No biographical details could be verified.",
+   "known_for": [
+    "Too Much Magic"
+   ],
+   "source": "https://openlibrary.org/search?q=betsy+sterman+too+much+magic"
+  },
+  "Avi": {
+   "born": 1937,
+   "died": null,
+   "birthplace": "Brooklyn, New York, USA",
+   "nationality": "American",
+   "bio": "Avi, born Edward Irving Wortis, has written about eighty books for young readers in genres from historical fiction to fantasy and mystery. He won the 2003 Newbery Medal for Crispin: The Cross of Lead. Two of his books, The True Confessions of Charlotte Doyle and Nothing But the Truth, were Newbery Honor books.",
+   "known_for": [
+    "The True Confessions of Charlotte Doyle",
+    "Nothing But the Truth",
+    "Crispin: The Cross of Lead"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Avi_(author)"
+  }
+ }
+}

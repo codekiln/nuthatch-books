@@ -1,0 +1,1318 @@
+{
+ "books": {
+  "a-kingdom-in-a-horse": {
+   "title": "A Kingdom in a Horse",
+   "author_names": [
+    "Maia Wojciechowska"
+   ],
+   "published": 1965,
+   "published_last": 1965,
+   "genres": [
+    "horse story",
+    "family story",
+    "friendship"
+   ],
+   "summary": "A boy's father, a former rodeo clown, retires to Vermont and tries to buy his son a horse, but the horse ends up with an elderly widow. The mare, Gypsy, gradually draws the boy, his father and the widow together.",
+   "characters": [
+    "David — the boy (age given as 12 or 13 by different sources)",
+    "Sarah Tierney — elderly widow devoted to her horse",
+    "Gypsy — the mare"
+   ],
+   "setting": "Vermont",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=a+kingdom+in+a+horse",
+   "identified": true,
+   "note": "Earlier draft said the boy tries to help a stolen horse; that does not match catalog and review descriptions. Boy's age varies by source."
+  },
+  "albert-and-victoria": {
+   "title": "Albert & Victoria",
+   "author_names": [
+    "Deborah Gangloff"
+   ],
+   "published": 1989,
+   "published_last": 1989,
+   "genres": [
+    "animal fantasy",
+    "friendship",
+    "picture book"
+   ],
+   "summary": "A children's book published by Crown in 1989 in which the title characters are insects. Library subject headings list it under friendship and insects, not royal history.",
+   "characters": [
+    "Albert — insect character",
+    "Victoria — insect character"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=albert+and+victoria+gangloff",
+   "identified": true,
+   "note": "Earlier draft treated this as a book about Queen Victoria and Prince Albert; Open Library lists Gangloff's Albert & Victoria (Crown, 1989) with subjects Insects and Friendship. Plot details not otherwise verified."
+  },
+  "april-raintree": {
+   "title": "In Search of April Raintree",
+   "author_names": [
+    "Beatrice Culleton"
+   ],
+   "published": 1983,
+   "published_last": 1983,
+   "genres": [
+    "family story",
+    "realistic fiction",
+    "young adult"
+   ],
+   "summary": "Two Metis sisters, April and Cheryl Raintree, are taken from their family in Manitoba and raised in separate foster homes. As adults one embraces her Metis identity while the other tries to leave it behind.",
+   "characters": [
+    "April Raintree — older sister, light-skinned, tries to leave her heritage behind",
+    "Cheryl Raintree — younger sister, proud of her Metis heritage"
+   ],
+   "setting": "Manitoba (Winnipeg), Canada",
+   "awards": [],
+   "series": null,
+   "reading_age": "12+",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Beatrice_Mosionier",
+   "identified": true,
+   "note": "Notebook says 'April Raintree', the 1984 expurgated edition for young readers; the original 1983 novel is In Search of April Raintree. Author now publishes as Beatrice Culleton Mosionier. Subject matter is mature."
+  },
+  "black-gold": {
+   "title": "Black Gold",
+   "author_names": [
+    "Marguerite Henry"
+   ],
+   "published": 1957,
+   "published_last": 1957,
+   "genres": [
+    "horse story",
+    "historical fiction",
+    "sports"
+   ],
+   "summary": "A fictionalized account of the real horse Black Gold, who won the 1924 Kentucky Derby. The story follows the horse with his trainer Hanley Webb and jockey Jaydee Mooney.",
+   "characters": [
+    "Black Gold — the racehorse",
+    "Hanley Webb — trainer",
+    "Jaydee Mooney — jockey"
+   ],
+   "setting": "Kentucky and Louisiana racing country, 1920s",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Wesley Dennis",
+   "source": "https://en.wikipedia.org/wiki/Marguerite_Henry",
+   "identified": true,
+   "note": "Described as a fictionalized true story, not strict nonfiction. Publisher Rand McNally per library catalogs. Wikipedia lists a Sequoyah Book Award (1960)."
+  },
+  "david-copperfield": {
+   "title": "David Copperfield",
+   "author_names": [
+    "Charles Dickens",
+    "Gertrude Moderow"
+   ],
+   "published": 1850,
+   "published_last": 1850,
+   "genres": [
+    "classic",
+    "coming of age",
+    "adventure"
+   ],
+   "summary": "Dickens's novel follows David from a lonely childhood through cruel stepparents, boarding school and factory work to a writing career. Along the way he meets the Micawbers, his great-aunt Betsey Trotwood, Steerforth and Uriah Heep.",
+   "characters": [
+    "David Copperfield — narrator and hero",
+    "Betsey Trotwood — his great-aunt",
+    "Wilkins Micawber — cheerful, always in debt",
+    "Uriah Heep — scheming clerk",
+    "James Steerforth — charming school friend"
+   ],
+   "setting": "Victorian England: Suffolk, Yarmouth, London, Dover, Canterbury",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/David_Copperfield_(novel)",
+   "identified": true,
+   "note": "Notebook edition is an adaptation by Gertrude Moderow (Open Library lists a Scott, Foresman David Copperfield, 1951, by her); the original novel appeared 1849-50. Adaptation details not otherwise verified."
+  },
+  "far-out-the-long-canal": {
+   "title": "Far Out the Long Canal",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1964,
+   "published_last": 1964,
+   "genres": [
+    "family story",
+    "sports",
+    "historical fiction"
+   ],
+   "summary": "A Dutch children's novel by Meindert DeJong, set in the Netherlands and centered on skating. Published by Harper & Row in 1964 with illustrations by Nancy Grossman.",
+   "characters": [],
+   "setting": "Netherlands",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Nancy Grossman",
+   "source": "https://openlibrary.org/search.json?q=far+out+the+long+canal",
+   "identified": true,
+   "note": "Plot and characters could not be verified beyond catalog subjects (Netherlands, skating). Illustrator confirmed by Open Library."
+  },
+  "harry-potter-and-the-sorcerer-s-stone": {
+   "title": "Harry Potter and the Sorcerer's Stone",
+   "author_names": [
+    "J. K. Rowling"
+   ],
+   "published": 1997,
+   "published_last": 1997,
+   "genres": [
+    "fantasy",
+    "school story",
+    "adventure"
+   ],
+   "summary": "On his eleventh birthday Harry Potter, raised by unkind relatives, learns he is a wizard and goes to Hogwarts. There he makes friends and gets drawn into a mystery about a guarded magical object and the dark wizard Voldemort.",
+   "characters": [
+    "Harry Potter — orphan wizard",
+    "Ron Weasley — loyal friend",
+    "Hermione Granger — brilliant classmate",
+    "Rubeus Hagrid — gamekeeper",
+    "Albus Dumbledore — headmaster"
+   ],
+   "setting": "England: Little Whinging, Hogwarts, Diagon Alley",
+   "awards": [
+    "Nestle Smarties Book Prize (gold, 9-11), 1997",
+    "British Book Awards Children's Book of the Year"
+   ],
+   "series": "Harry Potter",
+   "reading_age": null,
+   "illustrator": "Mary GrandPre (US edition)",
+   "source": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone",
+   "identified": true,
+   "note": "First published in the UK 1997 as Philosopher's Stone; the US Sorcerer's Stone edition (Scholastic) appeared in 1998."
+  },
+  "ice-king": {
+   "title": "Ice King",
+   "author_names": [
+    "Ernestine N. Byrd"
+   ],
+   "published": 1965,
+   "published_last": 1965,
+   "genres": [
+    "animal story",
+    "adventure",
+    "nature"
+   ],
+   "summary": "A children's novel about a polar bear named Atu, called the Ice King, following his life from cubhood through the loss of his parents and encounters with the Smith Sound Eskimos of northern Greenland.",
+   "characters": [
+    "Atu — the polar bear, the Ice King"
+   ],
+   "setting": "Northern Greenland / Arctic",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Marilyn Miller",
+   "source": "https://openlibrary.org/search.json?q=ice+king+ernestine+byrd",
+   "identified": true,
+   "note": "Earlier draft guessed historical fiction/biography and could not identify it; Open Library and library catalogs list Ice King (Scribner, 1965) by Ernestine N. Byrd as polar bear fiction. Illustrator Marilyn Miller from a catalog description found by search."
+  },
+  "journey-from-peppermint-street": {
+   "title": "Journey from Peppermint Street",
+   "author_names": [
+    "Meindert DeJong"
+   ],
+   "published": 1968,
+   "published_last": 1968,
+   "genres": [
+    "adventure",
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "In a Dutch coastal village in the early 1900s, young Siebren travels at night with his grandfather to visit a sick aunt. The journey is full of odd encounters and small discoveries.",
+   "characters": [
+    "Siebren — the young boy",
+    "Grandfather — his companion on the journey"
+   ],
+   "setting": "Wierum, Netherlands, early 1900s",
+   "awards": [
+    "National Book Award for Young People's Literature 1969 (first winner)"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Emily Arnold McCully",
+   "source": "https://en.wikipedia.org/wiki/Journey_from_Peppermint_Street",
+   "identified": true,
+   "note": "Draft character names unverified; only Siebren and his grandfather and the aunt are confirmed."
+  },
+  "long-claws-an-arctic-adventure": {
+   "title": "Long Claws: An Arctic Adventure",
+   "author_names": [
+    "James Houston"
+   ],
+   "published": 1981,
+   "published_last": 1981,
+   "genres": [
+    "adventure",
+    "picture book",
+    "folk tale"
+   ],
+   "summary": "An Inuit brother and sister make a dangerous trek across the storm-swept tundra to bring a frozen caribou to their hungry family. On the way back a huge grizzly bear picks up their trail.",
+   "characters": [
+    "The brother — Inuit boy",
+    "The sister — Inuit girl",
+    "The grizzly bear — their pursuer"
+   ],
+   "setting": "The Canadian Arctic tundra",
+   "awards": [],
+   "series": null,
+   "reading_age": "5-8",
+   "illustrator": "James Houston",
+   "source": "https://childrenslit.library.torontomu.ca/items/show/7399",
+   "identified": true,
+   "note": "A 32-page illustrated book (McClelland & Stewart / Atheneum, 1981), not a long novel. Catalog records misdate the author as 1793-1841. Plot taken from a catalog description."
+  },
+  "mrs-fish-ape-and-me-the-dump-queen": {
+   "title": "Mrs. Fish, Ape, and Me, the Dump Queen",
+   "author_names": [
+    "Norma Fox Mazer"
+   ],
+   "published": 1980,
+   "published_last": 1980,
+   "genres": [
+    "family story",
+    "friendship",
+    "school story"
+   ],
+   "summary": "Eleven-year-old Joyce lives with her uncle Old Dad, who runs the town dump, and classmates tease her as the Dump Queen. Her ally is the eccentric school custodian Mrs. Fish.",
+   "characters": [
+    "Joyce — the narrator, called the Dump Queen",
+    "Old Dad — her fiercely independent uncle",
+    "Mrs. Fish — the new school custodian"
+   ],
+   "setting": "A small town, school and town dump",
+   "awards": [
+    "German Children's Literature Prize (1982), per search result"
+   ],
+   "series": null,
+   "reading_age": "9-12",
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=mrs+fish+ape+and+me+the+dump+queen",
+   "identified": true,
+   "note": "Reissued as Crazy Fish (2007). Award and plot from a search result summary; the nickname Ape was not explained in sources found. Reading age is a guess from catalog grade level (grades 4-5)."
+  },
+  "nobody-likes-trina": {
+   "title": "Nobody Likes Trina",
+   "author_names": [
+    "Phyllis A. Whitney"
+   ],
+   "published": 1972,
+   "published_last": 1972,
+   "genres": [
+    "family story",
+    "nature",
+    "friendship"
+   ],
+   "summary": "Sandy moves from New York City to a country house in New Jersey and must decide whether to join the popular Melissa in tormenting Trina, a loner who lives in the woods with her grandmother. Through Trina she learns how living things in the woods depend on each other.",
+   "characters": [
+    "Sandy — newcomer from New York City",
+    "Trina — loner who lives with her grandmother",
+    "Melissa — popular girl"
+   ],
+   "setting": "Near Halcyon, New Jersey",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://nyslittree.org/?p=5385",
+   "identified": true,
+   "note": "Publisher Westminster Press, Philadelphia. Plot taken from a catalog description found in search."
+  },
+  "perelandra": {
+   "title": "Perelandra",
+   "author_names": [
+    "C. S. Lewis"
+   ],
+   "published": 1943,
+   "published_last": 1943,
+   "genres": [
+    "science fiction",
+    "fantasy",
+    "classic"
+   ],
+   "summary": "The philologist Ransom is sent to Venus (Perelandra) to counter an attack by Earth's dark power. There he meets a green-skinned Queen living on floating islands and must argue against Professor Weston, who has been taken over by a tempter.",
+   "characters": [
+    "Elwin Ransom — protagonist",
+    "Professor Weston — possessed by a tempter",
+    "The Queen — first woman of Perelandra",
+    "The King — her husband"
+   ],
+   "setting": "Venus (Perelandra), a world of floating islands",
+   "awards": [],
+   "series": "The Space Trilogy (book 2)",
+   "reading_age": "Adult / older readers",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Perelandra",
+   "identified": true,
+   "note": "Second of the Space Trilogy, after Out of the Silent Planet (1938); published 1943 by The Bodley Head."
+  },
+  "run-light-buck-run": {
+   "title": "Run, Light Buck, Run!",
+   "author_names": [
+    "B. F. Beebe"
+   ],
+   "published": 1962,
+   "published_last": 1962,
+   "genres": [
+    "children's fiction",
+    "animal story",
+    "nature"
+   ],
+   "summary": "A juvenile animal and nature title by B. F. Beebe published by David McKay in 1962. The plot could not be confirmed from any page found.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=run+light+buck+run",
+   "identified": true,
+   "note": "Existence, author, 1962 date and publisher (D. McKay Co.) confirmed by Open Library; plot, genre and characters unverified."
+  },
+  "sherlock-holmes": {
+   "title": "Sherlock Holmes",
+   "author_names": [
+    "Arthur Conan Doyle"
+   ],
+   "published": null,
+   "published_last": null,
+   "genres": [
+    "mystery",
+    "classic",
+    "detective"
+   ],
+   "summary": "Detective stories by Arthur Conan Doyle about Sherlock Holmes and his friend Dr. Watson. The notebook does not say which edition or stories were read.",
+   "characters": [
+    "Sherlock Holmes — consulting detective",
+    "Dr. Watson — his friend and narrator"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": "Sherlock Holmes",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Adventures_of_Sherlock_Holmes",
+   "identified": true,
+   "note": "Edition not identified, so no publication year given. Doyle's Holmes stories date 1887-1927; The Adventures of Sherlock Holmes (12 stories) appeared in 1892."
+  },
+  "stuck-in-neutral": {
+   "title": "Stuck in Neutral",
+   "author_names": [
+    "Terry Trueman"
+   ],
+   "published": 2000,
+   "published_last": 2000,
+   "genres": [
+    "young adult",
+    "family story",
+    "realistic fiction"
+   ],
+   "summary": "Fourteen-year-old Shawn McDaniel has severe cerebral palsy and cannot speak, but his mind is sharp. He narrates his daily life and his fear that his father may be planning to end his life.",
+   "characters": [
+    "Shawn McDaniel — narrator with cerebral palsy",
+    "Sydney McDaniel — his father, a writer",
+    "Shawn's mother — main caregiver"
+   ],
+   "setting": "Seattle, Washington",
+   "awards": [
+    "Michael L. Printz Honor 2001"
+   ],
+   "series": null,
+   "reading_age": "12+",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Stuck_in_Neutral",
+   "identified": true,
+   "note": "Publication date varies: HarperCollins 2000; Wikipedia gives HarperTeen paperback October 2001. Mature themes (euthanasia)."
+  },
+  "the-adventures-of-sherlock-holmes-bks-3-4": {
+   "title": "The Adventures of Sherlock Holmes, Books 3 & 4",
+   "author_names": [
+    "Arthur Conan Doyle",
+    "Catherine Edwards Sadler"
+   ],
+   "published": null,
+   "published_last": null,
+   "genres": [
+    "mystery",
+    "classic",
+    "adaptation"
+   ],
+   "summary": "Young-reader adaptations of Sherlock Holmes stories by Catherine Edwards Sadler, issued by Avon Camelot as a numbered series. Books 3 and 4 follow Book One (1981).",
+   "characters": [
+    "Sherlock Holmes — consulting detective",
+    "Dr. Watson — his friend and narrator"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": "Avon Camelot Classics: Adventures of Sherlock Holmes",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=adventures+of+sherlock+holmes+sadler+avon+camelot",
+   "identified": true,
+   "note": "Open Library confirms Sadler's Avon Camelot adaptation (Book One 1981; later printings 1986, 1989) but gives no year for Books 3 and 4, so published is null."
+  },
+  "the-bamboo-flute": {
+   "title": "The Bamboo Flute",
+   "author_names": [
+    "Garry Disher"
+   ],
+   "published": 1992,
+   "published_last": 1992,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "coming of age"
+   ],
+   "summary": "Set in Depression-era Australia, a solitary boy is taught by a swagman to make and play a bamboo flute. It was Disher's first novel for children.",
+   "characters": [
+    "The boy — solitary twelve-year-old",
+    "The swagman — itinerant worker who teaches him the flute"
+   ],
+   "setting": "Australia during the Great Depression",
+   "awards": [
+    "CBCA Book of the Year: Younger Readers 1993"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Bamboo_Flute",
+   "identified": true,
+   "note": "Draft said 1991 and Older Readers; Wikipedia and Disher's page give publication 1992 (Angus & Robertson) and the CBCA Younger Readers award in 1993. Encyclopedia.com says Older Readers, an apparent error."
+  },
+  "the-broccoli-tapes": {
+   "title": "The Broccoli Tapes",
+   "author_names": [
+    "Jan Slepian"
+   ],
+   "published": 1988,
+   "published_last": 1988,
+   "genres": [
+    "family story",
+    "realistic fiction",
+    "young adult"
+   ],
+   "summary": "Sara Douglas's family spends several months in Hawaii, and she sends tape recordings of her experiences back to her sixth-grade class in Boston. The story touches on a wild cat she adopts, a friendship with a Hawaiian boy and her grandmother's death.",
+   "characters": [
+    "Sara — narrator who records the tapes"
+   ],
+   "setting": "Hawaii, with a school class back in Boston",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=broccoli+tapes+slepian",
+   "identified": true,
+   "note": "Open Library and a library record give 1988 (Philomel/Scholastic); Wikipedia says 1989. Character's surname not verified, so only Sara is named; summary from a catalog description."
+  },
+  "the-case-of-the-somerville-secret": {
+   "title": "The Case of the Somerville Secret",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1981,
+   "published_last": 1981,
+   "genres": [
+    "mystery",
+    "historical fiction",
+    "detective"
+   ],
+   "summary": "Andrew Tillet and Sara Wiggins investigate the murder of an old friend of Inspector Wyatt, which leads to the walled villa of the famous archaeologist Lord Somerville. Their clues point to blackmail and a family secret.",
+   "characters": [
+    "Andrew Tillet — young sleuth",
+    "Sara Wiggins — actress and detective partner",
+    "Inspector Peter Wyatt — Scotland Yard",
+    "Lord Somerville — archaeologist",
+    "Pierre — young French chimney sweep"
+   ],
+   "setting": "Victorian London",
+   "awards": [],
+   "series": "Andrew Tillet, Sara Wiggins & Inspector Wyatt (book 3)",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://celalibrary.ca/node/629337?text=Large",
+   "identified": true,
+   "note": "Draft named the hero Andrew Tolliver; the catalog gives Andrew Tillet. Published by Atheneum, 1981."
+  },
+  "the-chronicles-of-narnia-7-books": {
+   "title": "The Chronicles of Narnia (7 books)",
+   "author_names": [
+    "C. S. Lewis"
+   ],
+   "published": 1950,
+   "published_last": 1956,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic"
+   ],
+   "summary": "Seven fantasy novels about the magical land of Narnia, where children from our world help the lion Aslan protect it. The series runs from Narnia's creation to its ending.",
+   "characters": [
+    "Aslan — the lion",
+    "Lucy, Edmund, Susan and Peter Pevensie — the first children to reach Narnia",
+    "Caspian — Narnian prince and king"
+   ],
+   "setting": "Narnia and neighbouring lands",
+   "awards": [
+    "Carnegie Medal 1956 (The Last Battle)"
+   ],
+   "series": "The Chronicles of Narnia",
+   "reading_age": null,
+   "illustrator": "Pauline Baynes",
+   "source": "https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia",
+   "identified": true,
+   "note": "Seven books first published 1950 (The Lion, the Witch and the Wardrobe) to 1956 (The Last Battle)."
+  },
+  "the-dragon-that-lived-under-manhattan": {
+   "title": "The Dragon That Lived Under Manhattan",
+   "author_names": [
+    "E. W. Hildick"
+   ],
+   "published": 1970,
+   "published_last": 1970,
+   "genres": [
+    "fantasy",
+    "humor"
+   ],
+   "summary": "A boy named Jimmy meets a prince who has come to New York to hunt a dragon hiding in the subway tunnels. The dragon later strikes a deal with the city's officials.",
+   "characters": [
+    "Jimmy — the boy",
+    "The Prince — dragon hunter",
+    "The Dragon — hides under Manhattan"
+   ],
+   "setting": "Manhattan and its underground tunnels",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://www.kirkusreviews.com/book-reviews/a/e-w-hildick-5/the-dragon-that-lived-under-manhattan/",
+   "identified": true,
+   "note": "Published by Crown, Oct 1970. Kirkus review is unenthusiastic about the second half."
+  },
+  "the-famous-stanley-kidnapping-case": {
+   "title": "The Famous Stanley Kidnapping Case",
+   "author_names": [
+    "Zilpha Keatley Snyder"
+   ],
+   "published": 1979,
+   "published_last": 1979,
+   "genres": [
+    "adventure",
+    "family story",
+    "humor"
+   ],
+   "summary": "The Stanley family is living in Italy when the children are kidnapped. The captive children give their incompetent kidnappers advice on running a better kidnapping and on nutrition.",
+   "characters": [
+    "David Stanley — tries to befriend the kidnappers",
+    "Amanda Stanley — her bragging about her rich father leads to the kidnapping",
+    "Red Mask — the kidnapper"
+   ],
+   "setting": "Italy",
+   "awards": [],
+   "series": "The Stanley Family",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://www.bookshare.org/browse/book/691687",
+   "identified": true,
+   "note": "Atheneum, 1979. Draft illustrator Alton Raible could not be confirmed and is removed. Plot from a catalog description and a search result."
+  },
+  "the-hundred-secret-senses": {
+   "title": "The Hundred Secret Senses",
+   "author_names": [
+    "Amy Tan"
+   ],
+   "published": 1995,
+   "published_last": 1995,
+   "genres": [
+    "family story",
+    "literary fiction",
+    "magical realism"
+   ],
+   "summary": "Olivia, a Chinese-American photographer, is embarrassed by her half-sister Kwan, who claims to see ghosts and remembers past lives. Kwan arranges a trip to China that is really a scheme to reconcile Olivia with her estranged husband.",
+   "characters": [
+    "Olivia — narrator",
+    "Kwan — her older sister who sees ghosts",
+    "Simon — Olivia's estranged husband"
+   ],
+   "setting": "San Francisco and China",
+   "awards": [],
+   "series": null,
+   "reading_age": "Adult",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Hundred_Secret_Senses",
+   "identified": true,
+   "note": "Adult novel (Putnam, 1995)."
+  },
+  "the-last-slice-of-rainbow": {
+   "title": "The Last Slice of Rainbow and Other Stories",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1985,
+   "published_last": 1985,
+   "genres": [
+    "fantasy",
+    "short stories",
+    "fairy tales"
+   ],
+   "summary": "A collection of fairy-tale style fantasy stories by Joan Aiken. Published in 1985 by Jonathan Cape and Harper & Row.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Alix Berenzy",
+   "source": "https://openlibrary.org/search.json?q=last+slice+of+rainbow+aiken",
+   "identified": true,
+   "note": "Open Library confirms title, 1985 date and illustrator Alix Berenzy; individual stories not verified."
+  },
+  "the-magic-hat-of-mortimer-wintergreen": {
+   "title": "The Magic Hat of Mortimer Wintergreen",
+   "author_names": [
+    "Myron Levoy"
+   ],
+   "published": 1988,
+   "published_last": 1988,
+   "genres": [
+    "fantasy",
+    "humor",
+    "adventure"
+   ],
+   "summary": "A humorous fantasy about a young orphan and a magician's magic hat, involving travel and magic. Plot details were not found beyond catalog subjects.",
+   "characters": [
+    "Mortimer Wintergreen — the title character"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=magic+hat+mortimer+wintergreen",
+   "identified": true,
+   "note": "Open Library confirms 1988 and subjects (orphans, magicians, voyages, humorous stories). Plot beyond that unverified."
+  },
+  "the-night-watchmen": {
+   "title": "The Night-Watchmen",
+   "author_names": [
+    "Helen Cresswell"
+   ],
+   "published": 1969,
+   "published_last": 1969,
+   "genres": [
+    "fantasy",
+    "mystery",
+    "adventure"
+   ],
+   "summary": "A children's fantasy by Helen Cresswell about tramps who act as night watchmen. First published by Macmillan in 1969.",
+   "characters": [],
+   "setting": null,
+   "awards": [
+    "Phoenix Award 1989"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=night+watchmen+cresswell",
+   "identified": true,
+   "note": "Open Library subjects: Fantasy, Tramps, mystery. Wikipedia on Cresswell says it won the Phoenix Award in 1989. Illustrator Gareth Floyd could not be confirmed."
+  },
+  "the-rare-one": {
+   "title": "The Rare One",
+   "author_names": [
+    "Pamela Rogers"
+   ],
+   "published": 1973,
+   "published_last": 1973,
+   "genres": [
+    "family story",
+    "friendship",
+    "realistic fiction"
+   ],
+   "summary": "A children's novel about friendship between a child and a recluse in a stepfamily setting. Published by Hamilton / Thomas Nelson in 1973.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=the+rare+one+pamela+rogers",
+   "identified": true,
+   "note": "Open Library confirms author Pamela Rogers and 1973 with subjects Friendship, Stepfamilies, Recluses, Intergenerational relations, Loneliness. Plot unverified."
+  },
+  "the-slave-dancer": {
+   "title": "The Slave Dancer",
+   "author_names": [
+    "Paula Fox"
+   ],
+   "published": 1973,
+   "published_last": 1973,
+   "genres": [
+    "historical fiction",
+    "adventure"
+   ],
+   "summary": "In 1842 thirteen-year-old Jessie Bollier is kidnapped in New Orleans and forced to play the fife aboard a slave ship, where he witnesses the horrors of the trade. A storm ends the voyage.",
+   "characters": [
+    "Jessie Bollier — 13-year-old fife player",
+    "Captain Cawthorne — unstable captain",
+    "Nicholas Spark — cruel first mate",
+    "Ras — enslaved boy Jessie helps"
+   ],
+   "setting": "New Orleans, the slave ship The Moonlight and the African coast, 1842",
+   "awards": [
+    "Newbery Medal 1974"
+   ],
+   "series": null,
+   "reading_age": "12+",
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Slave_Dancer",
+   "identified": true,
+   "note": "Heavy subject; best with discussion. Published by Bradbury Press."
+  },
+  "the-tale-of-pigling-bland-the-tale-of-miss-moppet-the-tale-of-mr-tod": {
+   "title": "The Tale of Pigling Bland; The Tale of Miss Moppet; The Tale of Mr. Tod",
+   "author_names": [
+    "Beatrix Potter"
+   ],
+   "published": 1906,
+   "published_last": 1913,
+   "genres": [
+    "animal fantasy",
+    "classic",
+    "picture book"
+   ],
+   "summary": "Three Beatrix Potter tales: a young pig heads to market and meets a stolen pig; a kitten teases a mouse; and a fox and a badger fight over a bunny family. Published 1906 (Miss Moppet), 1912 (Mr. Tod) and 1913 (Pigling Bland).",
+   "characters": [
+    "Pigling Bland — sensible young pig",
+    "Pig-wig — stolen black pig",
+    "Miss Moppet — kitten",
+    "Mr. Tod — fox",
+    "Tommy Brock — badger"
+   ],
+   "setting": "English countryside and the Lake District",
+   "awards": [],
+   "series": "The Tales of Beatrix Potter",
+   "reading_age": null,
+   "illustrator": "Beatrix Potter",
+   "source": "https://en.wikipedia.org/wiki/The_Tale_of_Pigling_Bland",
+   "identified": true,
+   "note": "Years from Wikipedia: Miss Moppet 1906, Mr. Tod 1912, Pigling Bland 1913."
+  },
+  "the-usurping-ghost-and-other-encounters-and-experiences": {
+   "title": "The Usurping Ghost and Other Encounters and Experiences",
+   "author_names": [
+    "Susan Dickinson"
+   ],
+   "published": 1971,
+   "published_last": 1971,
+   "genres": [
+    "ghost stories",
+    "short stories"
+   ],
+   "summary": "A collection of ghost stories compiled by Susan Dickinson and published by E. P. Dutton in 1971.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=the+usurping+ghost+dickinson",
+   "identified": true,
+   "note": "Open Library confirms Susan Dickinson, 1971, E. P. Dutton under the short title The Usurping Ghost. Compiler/editor role and contents not verified."
+  },
+  "the-wizard-in-the-tree": {
+   "title": "The Wizard in the Tree",
+   "author_names": [
+    "Lloyd Alexander"
+   ],
+   "published": 1975,
+   "published_last": 1975,
+   "genres": [
+    "fantasy",
+    "humor"
+   ],
+   "summary": "A fantasy about the wizard Mallory, with themes of avarice and magic. Published by Dutton in 1975 with illustrations by Laszlo Kubinyi.",
+   "characters": [
+    "Mallory — the wizard"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Laszlo Kubinyi",
+   "source": "https://openlibrary.org/search.json?q=wizard+in+the+tree+alexander",
+   "identified": true,
+   "note": "Open Library gives 1975 (Wikipedia's bibliography says 1974). Plot beyond catalog subjects not verified."
+  },
+  "tom-fobble-s-day": {
+   "title": "Tom Fobble's Day",
+   "author_names": [
+    "Alan Garner"
+   ],
+   "published": 1977,
+   "published_last": 1977,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "A short novel in Garner's Stone Book Quartet about one day in the life of a boy and his grandfather, with sledding and work among the subjects. It is set in eastern Cheshire.",
+   "characters": [],
+   "setting": "Eastern Cheshire, England",
+   "awards": [],
+   "series": "The Stone Book Quartet",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Stone_Book_Quartet",
+   "identified": true,
+   "note": "Collins, 1977. Illustrator Michael Foreman not confirmed. Position in the quartet varies by source; published 1977."
+  },
+  "wolf-hunt": {
+   "title": "Wolf Hunt",
+   "author_names": [
+    "Walter D. Edmonds"
+   ],
+   "published": 1970,
+   "published_last": 1970,
+   "genres": [
+    "adventure",
+    "nature"
+   ],
+   "summary": "A juvenile novel about wolves and hunting by Walter D. Edmonds, published by Little, Brown in 1970.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/search.json?q=wolf+hunt+edmonds",
+   "identified": true,
+   "note": "Open Library lists a co-credit to William Bock (possibly the illustrator). Plot not verified. Year filled in from Open Library and Wikipedia."
+  }
+ },
+ "authors": {
+  "C. S. Lewis": {
+   "born": 1898,
+   "died": 1963,
+   "birthplace": "Belfast, Ireland",
+   "nationality": "British (born in Ireland)",
+   "bio": "Lewis was a scholar of English literature at Oxford and then Cambridge. He wrote the Narnia books alongside science fiction and Christian writing. He was a close friend of J. R. R. Tolkien.",
+   "known_for": [
+    "The Chronicles of Narnia",
+    "The Space Trilogy",
+    "Mere Christianity"
+   ],
+   "source": "https://en.wikipedia.org/wiki/C._S._Lewis"
+  },
+  "Zilpha Keatley Snyder": {
+   "born": 1927,
+   "died": 2014,
+   "birthplace": "Lemoore, California",
+   "nationality": "American",
+   "bio": "Snyder taught school before publishing her first book in 1964. She wrote 46 books, many of them fantasy and adventure for children. Three of her books were Newbery Honor winners.",
+   "known_for": [
+    "The Egypt Game",
+    "The Headless Cupid",
+    "The Witches of Worm"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Zilpha_Keatley_Snyder"
+  },
+  "Alan Garner": {
+   "born": 1934,
+   "died": null,
+   "birthplace": "Congleton, Cheshire, England",
+   "nationality": "English",
+   "bio": "Garner grew up in Alderley Edge and draws on Cheshire folklore and landscape. He left Oxford in 1956 to write full time. He won the Carnegie Medal for The Owl Service.",
+   "known_for": [
+    "The Weirdstone of Brisingamen",
+    "The Owl Service",
+    "The Stone Book Quartet"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Alan_Garner"
+  },
+  "Norma Fox Mazer": {
+   "born": 1931,
+   "died": 2009,
+   "birthplace": "New York, New York",
+   "nationality": "American",
+   "bio": "Mazer grew up in Glens Falls, New York and met her husband, writer Harry Mazer, at Antioch College. She wrote realistic young-adult and children's novels about family and growing up. She also taught in the Vermont College MFA program.",
+   "known_for": [
+    "Taking Terri Mueller",
+    "After the Rain",
+    "Mrs. Fish, Ape, and Me, the Dump Queen"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Norma_Fox_Mazer"
+  },
+  "Arthur Conan Doyle": {
+   "born": 1859,
+   "died": 1930,
+   "birthplace": "Edinburgh, Scotland",
+   "nationality": "British",
+   "bio": "Doyle trained as a doctor at the University of Edinburgh before writing full time. He created Sherlock Holmes and Dr. Watson, who appear in four novels and 56 short stories. He was knighted in 1902 and later became a prominent spiritualist.",
+   "known_for": [
+    "Sherlock Holmes stories",
+    "The Hound of the Baskervilles",
+    "The Lost World"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+  },
+  "Terry Trueman": {
+   "born": 1947,
+   "died": null,
+   "birthplace": "Birmingham, Alabama",
+   "nationality": "American",
+   "bio": "Trueman worked as a teacher, counselor and therapist before writing full time. He began as a poet, and his son's cerebral palsy inspired his poetry and Stuck in Neutral. That debut novel earned a Printz Honor in 2001.",
+   "known_for": [
+    "Stuck in Neutral",
+    "Inside Out",
+    "Cruise Control"
+   ],
+   "source": "https://encyclopedia.com/children/scholarly-magazines/trueman-terry-1947"
+  },
+  "Marguerite Henry": {
+   "born": 1902,
+   "died": 1997,
+   "birthplace": "Milwaukee, Wisconsin",
+   "nationality": "American",
+   "bio": "Henry spent childhood illness reading and sold her first story at eleven. She wrote horse and animal books, often based on true stories. She worked with illustrator Wesley Dennis for about twenty years.",
+   "known_for": [
+    "Misty of Chincoteague",
+    "King of the Wind",
+    "Black Gold"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Marguerite_Henry"
+  },
+  "Garry Disher": {
+   "born": 1949,
+   "died": null,
+   "birthplace": "Burra, South Australia",
+   "nationality": "Australian",
+   "bio": "Disher is an Australian author of crime fiction and children's books. His first children's novel, The Bamboo Flute, won a Children's Book Council of Australia award. He is also a three-time winner of the Ned Kelly Award for crime fiction.",
+   "known_for": [
+    "The Bamboo Flute",
+    "Wyatt series",
+    "Peninsula Crimes series"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Garry_Disher"
+  },
+  "Deborah Gangloff": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Gangloff wrote the children's book Albert & Victoria, published by Crown in 1989. No biographical details could be found.",
+   "known_for": [
+    "Albert & Victoria"
+   ],
+   "source": "https://openlibrary.org/search.json?q=albert+and+victoria+gangloff"
+  },
+  "Helen Cresswell": {
+   "born": 1934,
+   "died": 2005,
+   "birthplace": "Kirkby-in-Ashfield, Nottinghamshire, England",
+   "nationality": "English",
+   "bio": "Cresswell wrote more than 100 children's books and scripts for BBC children's television. She is known for comic and supernatural fiction. The Night Watchmen won the Phoenix Award in 1989.",
+   "known_for": [
+    "The Bagthorpe Saga",
+    "Lizzie Dripping",
+    "The Night-Watchmen"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Helen_Cresswell"
+  },
+  "Meindert DeJong": {
+   "born": 1906,
+   "died": 1991,
+   "birthplace": "Wierum, Friesland, Netherlands",
+   "nationality": "Dutch-born American",
+   "bio": "DeJong's family emigrated to Michigan in 1914. He wrote children's books for decades and won the 1955 Newbery Medal. He was the first American to win the Hans Christian Andersen Award.",
+   "known_for": [
+    "The Wheel on the School",
+    "Journey from Peppermint Street",
+    "Shadrach"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Meindert_De_Jong"
+  },
+  "Beatrice Culleton": {
+   "born": 1949,
+   "died": null,
+   "birthplace": "Saint Boniface, Manitoba, Canada",
+   "nationality": "Canadian (Metis)",
+   "bio": "Culleton, who now publishes as Beatrice Culleton Mosionier, grew up in foster homes in Winnipeg. Her novel In Search of April Raintree drew on her own experiences. She has also written children's books and a memoir.",
+   "known_for": [
+    "In Search of April Raintree",
+    "Spirit of the White Bison",
+    "Come Walk With Me"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Beatrice_Mosionier"
+  },
+  "Susan Dickinson": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Dickinson compiled The Usurping Ghost and Other Encounters and Experiences, published by E. P. Dutton in 1971. No biographical details could be found.",
+   "known_for": [
+    "The Usurping Ghost and Other Encounters and Experiences"
+   ],
+   "source": "https://openlibrary.org/search.json?q=the+usurping+ghost+dickinson"
+  },
+  "B. F. Beebe": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Beebe wrote animal and nature books for young readers, including Run, Light Buck, Run! (1962) and Coyote, Come Home (1963). No biographical details could be found.",
+   "known_for": [
+    "Run, Light Buck, Run!",
+    "Coyote, Come Home"
+   ],
+   "source": "https://openlibrary.org/search.json?q=run+light+buck+run"
+  },
+  "Walter D. Edmonds": {
+   "born": 1903,
+   "died": 1998,
+   "birthplace": "Boonville, New York",
+   "nationality": "American",
+   "bio": "Edmonds is best known for historical novels set in upstate New York. Drums Along the Mohawk was a bestseller and a 1939 film. He won the 1942 Newbery Medal for The Matchlock Gun.",
+   "known_for": [
+    "Drums Along the Mohawk",
+    "The Matchlock Gun",
+    "Rome Haul"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Walter_D._Edmonds"
+  },
+  "Joan Aiken": {
+   "born": 1924,
+   "died": 2004,
+   "birthplace": "Rye, Sussex, England",
+   "nationality": "English",
+   "bio": "Aiken was the daughter of the American poet Conrad Aiken. She wrote more than 100 books, including alternative-history children's novels and thrillers. She was appointed MBE in 1999.",
+   "known_for": [
+    "The Wolves of Willoughby Chase",
+    "The Whispering Mountain",
+    "The Last Slice of Rainbow"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Joan_Aiken"
+  },
+  "Jan Slepian": {
+   "born": 1921,
+   "died": 2016,
+   "birthplace": "New York, New York",
+   "nationality": "American",
+   "bio": "Born Janice Berek, Slepian studied psychology and worked as a speech therapist before writing. She wrote children's and young-adult books and poetry. Her book The Alfred Summer features a child with cerebral palsy.",
+   "known_for": [
+    "The Alfred Summer",
+    "The Hungry Thing",
+    "The Broccoli Tapes"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jan_Slepian"
+  },
+  "Myron Levoy": {
+   "born": 1930,
+   "died": 2019,
+   "birthplace": "Queens, New York",
+   "nationality": "American",
+   "bio": "Levoy worked as a chemical engineer before becoming a full-time writer. His young-adult books often deal with outsiders, prejudice and identity. He was also active in the peace movement.",
+   "known_for": [
+    "Alan and Naomi",
+    "The Witch of Fourth Street",
+    "The Magic Hat of Mortimer Wintergreen"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Myron_Levoy"
+  },
+  "Robert Newman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Newman wrote juvenile mystery novels, including the Andrew Tillet, Sara Wiggins and Inspector Wyatt series. The Case of the Somerville Secret was published by Atheneum in 1981. No biographical details could be verified.",
+   "known_for": [
+    "The Case of the Somerville Secret"
+   ],
+   "source": "https://celalibrary.ca/node/629337?text=Large"
+  },
+  "James Houston": {
+   "born": 1921,
+   "died": 2005,
+   "birthplace": "Toronto, Ontario, Canada",
+   "nationality": "Canadian",
+   "bio": "Houston was an artist, designer and author who worked in the Canadian Arctic. He helped introduce printmaking to the Inuit and later worked as a designer at Steuben Glass. He wrote and illustrated many children's books.",
+   "known_for": [
+    "Tikta-liktak",
+    "The White Dawn",
+    "Long Claws"
+   ],
+   "source": "https://encyclopedia.com/arts/culture-magazines/houston-james-archibald"
+  },
+  "Pamela Rogers": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Rogers wrote The Rare One, a children's novel published by Hamilton and Thomas Nelson in 1973. No biographical details could be found.",
+   "known_for": [
+    "The Rare One"
+   ],
+   "source": "https://openlibrary.org/search.json?q=the+rare+one+pamela+rogers"
+  },
+  "Amy Tan": {
+   "born": 1952,
+   "died": null,
+   "birthplace": "Oakland, California",
+   "nationality": "American",
+   "bio": "Tan was born to Chinese immigrant parents and worked as a business writer before turning to fiction. Her debut The Joy Luck Club became a film. She also wrote the children's book The Chinese Siamese Cat.",
+   "known_for": [
+    "The Joy Luck Club",
+    "The Kitchen God's Wife",
+    "The Hundred Secret Senses"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Amy_Tan"
+  },
+  "Lloyd Alexander": {
+   "born": 1924,
+   "died": 2007,
+   "birthplace": "Philadelphia, Pennsylvania",
+   "nationality": "American",
+   "bio": "Alexander served in the Army in World War II and studied in Paris. He turned to children's fantasy in his late thirties. His Chronicles of Prydain include The High King, which won the 1969 Newbery Medal.",
+   "known_for": [
+    "The Chronicles of Prydain",
+    "The Marvelous Misadventures of Sebastian",
+    "Westmark"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Lloyd_Alexander"
+  },
+  "Gertrude Moderow": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Moderow adapted classic novels for young readers, including a David Copperfield published by Scott, Foresman in 1951. No biographical details could be found.",
+   "known_for": [
+    "David Copperfield (adaptation)"
+   ],
+   "source": "https://openlibrary.org/search.json?q=david+copperfield+moderow"
+  },
+  "Ernestine N. Byrd": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Byrd wrote animal stories for young readers, including The Black Wolf of Savage River (1959), Ice King (1965) and Tor, Wyoming Bighorn (1969). No biographical details could be found.",
+   "known_for": [
+    "Ice King",
+    "The Black Wolf of Savage River",
+    "Tor, Wyoming Bighorn"
+   ],
+   "source": "https://openlibrary.org/search.json?q=ice+king+ernestine+byrd"
+  },
+  "Beatrix Potter": {
+   "born": 1866,
+   "died": 1943,
+   "birthplace": "West Brompton, London, England",
+   "nationality": "English",
+   "bio": "Potter was a writer, illustrator, naturalist and conservationist who studied fungi. She self-published The Tale of Peter Rabbit in 1901. She later farmed in the Lake District and left land to the National Trust.",
+   "known_for": [
+    "The Tale of Peter Rabbit",
+    "The Tale of Jemima Puddle-Duck",
+    "The Tale of Mr. Tod"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Beatrix_Potter"
+  },
+  "E. W. Hildick": {
+   "born": 1925,
+   "died": 2001,
+   "birthplace": "Bradford, Yorkshire, England",
+   "nationality": "British",
+   "bio": "Hildick was a British author of many children's books who lived partly in the United States from about 1965. His stories often feature working-class young heroes. He also wrote the science fiction title Manhattan Is Missing.",
+   "known_for": [
+    "The Ghost Squad series",
+    "Manhattan Is Missing",
+    "The Dragon That Lived Under Manhattan"
+   ],
+   "source": "https://sf-encyclopedia.com/entry/hildick_e_w"
+  },
+  "Catherine Edwards Sadler": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": "American",
+   "bio": "Sadler adapted Sherlock Holmes stories for young readers in the Avon Camelot series starting in 1981. She also wrote Two Chinese Families and Treasure Mountain for Atheneum. No biographical details could be found.",
+   "known_for": [
+    "Sherlock Holmes adaptations (Avon Camelot)",
+    "Two Chinese Families",
+    "Treasure Mountain"
+   ],
+   "source": "https://openlibrary.org/search.json?q=author%3A%22Catherine+Edwards+Sadler%22"
+  },
+  "J. K. Rowling": {
+   "born": 1965,
+   "died": null,
+   "birthplace": "Yate, Gloucestershire, England",
+   "nationality": "British",
+   "bio": "Rowling conceived the Harry Potter series in 1990 and published the first book in 1997. The series became one of the best-selling in history. She also writes crime novels as Robert Galbraith.",
+   "known_for": [
+    "Harry Potter series",
+    "The Casual Vacancy",
+    "Cormoran Strike series"
+   ],
+   "source": "https://en.wikipedia.org/wiki/J._K._Rowling"
+  },
+  "Phyllis A. Whitney": {
+   "born": 1903,
+   "died": 2008,
+   "birthplace": "Yokohama, Japan",
+   "nationality": "American",
+   "bio": "Whitney wrote mystery novels for children, young adults and adults for many decades. She was born in Japan and later lived in the United States. Nobody Likes Trina was published by Westminster Press in 1972.",
+   "known_for": [
+    "Mystery novels for young readers and adults",
+    "Nobody Likes Trina"
+   ],
+   "source": "https://nyslittree.org/?p=5385"
+  },
+  "Charles Dickens": {
+   "born": 1812,
+   "died": 1870,
+   "birthplace": "Portsmouth, Hampshire, England",
+   "nationality": "English",
+   "bio": "Dickens left school at twelve to work in a factory after his father was jailed for debt. He became the leading Victorian novelist, publishing in serial instalments. He also campaigned for social reform.",
+   "known_for": [
+    "David Copperfield",
+    "Oliver Twist",
+    "Great Expectations"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Charles_Dickens"
+  },
+  "Maia Wojciechowska": {
+   "born": 1927,
+   "died": 2002,
+   "birthplace": "Warsaw, Poland",
+   "nationality": "Polish-American",
+   "bio": "Wojciechowska grew up in Poland, France and England before moving to California in 1942. She wrote children's and young-adult fiction. Shadow of a Bull won the 1965 Newbery Medal.",
+   "known_for": [
+    "Shadow of a Bull",
+    "A Kingdom in a Horse",
+    "Odyssey of Courage"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Maia_Wojciechowska"
+  },
+  "Paula Fox": {
+   "born": 1923,
+   "died": 2017,
+   "birthplace": "New York, New York",
+   "nationality": "American",
+   "bio": "Fox was raised by relatives and caregivers and later taught troubled children. She wrote adult novels, children's books and memoirs. The Slave Dancer won the 1974 Newbery Medal and she won the 1978 Hans Christian Andersen Award.",
+   "known_for": [
+    "The Slave Dancer",
+    "Desperate Characters",
+    "Borrowed Finery"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Paula_Fox"
+  }
+ }
+}

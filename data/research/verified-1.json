@@ -1,0 +1,1289 @@
+{
+ "books": {
+  "a-brand-new-uncle": {
+   "title": "A Brand-New Uncle",
+   "author_names": [
+    "Kate Seredy"
+   ],
+   "published": 1961,
+   "published_last": 1961,
+   "genres": [
+    "family story",
+    "humor"
+   ],
+   "summary": "Library catalogs describe a story in which Bard Smith and his wife solve their troubles by taking in a ten-year-old uncle for their grandchildren. It is one of Seredy's last books, which she wrote and illustrated herself.",
+   "characters": [
+    "Bard Smith — the grandfather"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": "grades 5-7",
+   "illustrator": "Kate Seredy",
+   "source": "https://en.wikipedia.org/wiki/Kate_Seredy",
+   "identified": true,
+   "note": "Corrected: published 1961 (Viking), not 1941; it is not part of the Hungarian Good Master stories, so the earlier Kate, Jancsi and Hungary details were wrong."
+  },
+  "a-tale-of-two-cities-adapted-by-patricia-krapesh": {
+   "title": "A Tale of Two Cities",
+   "author_names": [
+    "Charles Dickens",
+    "Patricia Krapesh"
+   ],
+   "published": 1859,
+   "published_last": 1859,
+   "genres": [
+    "historical fiction",
+    "classic",
+    "adventure"
+   ],
+   "summary": "In this simplified retelling of Dickens's novel, a freed Bastille prisoner, his daughter and a French exile are drawn into the dangers of London and Paris before and during the French Revolution. A London lawyer who closely resembles the exile plays a decisive part.",
+   "characters": [
+    "Sydney Carton — cynical English barrister",
+    "Charles Darnay — French exile",
+    "Lucie Manette — Dr Manette's daughter",
+    "Doctor Manette — freed prisoner"
+   ],
+   "setting": "London and Paris, 1775-1793",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities",
+   "identified": true,
+   "note": "Original novel 1859. The adapted edition by Patricia Krapesh (also spelled Patti) was a 1991 Steck-Vaughn easy reader according to a library catalog record seen in search results; no page describing the adaptation itself could be opened."
+  },
+  "amy-and-the-sorrel-summer": {
+   "title": "Amy and the Sorrel Summer",
+   "author_names": [
+    "Laura Fisher"
+   ],
+   "published": 1964,
+   "published_last": 1964,
+   "genres": [
+    "children's fiction"
+   ],
+   "summary": "A children's book published in 1964 by Holt, Rinehart and Winston. No plot description could be found online.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL7020587W",
+   "identified": true,
+   "note": "Existence confirmed in Open Library (1964, Holt, Rinehart and Winston; author also listed as Laura H. Fisher). Plot not verified; the earlier horse-story description was a guess."
+  },
+  "away-goes-sally": {
+   "title": "Away Goes Sally",
+   "author_names": [
+    "Elizabeth Coatsworth"
+   ],
+   "published": 1934,
+   "published_last": 1934,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "Sally and her relatives set out on a winter journey from Massachusetts to Maine in a small house mounted on runners. It is the first of five historical novels about Sally.",
+   "characters": [
+    "Sally — the young heroine"
+   ],
+   "setting": "New England, a journey from Massachusetts to Maine",
+   "awards": [],
+   "series": "Sally books (5 novels), book 1",
+   "reading_age": null,
+   "illustrator": "Helen Sewell",
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_Coatsworth",
+   "identified": true,
+   "note": "Plot sketch comes from library catalog text in search results; character names Sally Pickering and Uncle Jotham from the earlier draft could not be verified and were removed."
+  },
+  "cat-walk": {
+   "title": "Cat Walk",
+   "author_names": [
+    "Mary Stolz"
+   ],
+   "published": 1983,
+   "published_last": 1983,
+   "genres": [
+    "animal story",
+    "adventure"
+   ],
+   "summary": "A young barnyard cat who wants more than a life of catching rats sets out in search of a name. His journey eventually leads him to a place he can call home.",
+   "characters": [
+    "Cat — a young farm cat in search of a name"
+   ],
+   "setting": "A farm and the road beyond",
+   "awards": [],
+   "series": null,
+   "reading_age": "7-9",
+   "illustrator": "Erik Blegvad",
+   "source": "https://treasuryofgreatchildrensbooks.com/browse/books/8478",
+   "identified": true,
+   "note": "Corrected: this is a farm cat on a quest, not a stray in an American town; Harper & Row, 1983."
+  },
+  "doctor-dolittle-s-zoo": {
+   "title": "Doctor Dolittle's Zoo",
+   "author_names": [
+    "Hugh Lofting"
+   ],
+   "published": 1925,
+   "published_last": 1925,
+   "genres": [
+    "animal fantasy",
+    "humor",
+    "classic"
+   ],
+   "summary": "Doctor Dolittle comes home from his voyages and sets his house in order, expanding his cage-free zoo with a home for crossbred dogs and a club for rodents. Much of the book is the members of the Rat and Mouse Club telling their life stories, and the Doctor also helps Kling, the Dog Detective, with a mystery.",
+   "characters": [
+    "Doctor Dolittle — animal doctor",
+    "Kling — the Dog Detective",
+    "Rat and Mouse Club — storytelling rodents"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": "Doctor Dolittle, fifth book",
+   "reading_age": null,
+   "illustrator": "Hugh Lofting",
+   "source": "https://en.wikipedia.org/wiki/Doctor_Dolittle%27s_Zoo",
+   "identified": true,
+   "note": "Corrected series position: fifth Dolittle book, not sixth. Earlier characters Polynesia, Jip and Dab-Dab were not confirmed for this volume."
+  },
+  "ghosts-a-classic-collection": {
+   "title": "Ghosts: A Classic Collection",
+   "author_names": [
+    "John Ingram"
+   ],
+   "published": null,
+   "published_last": null,
+   "genres": [
+    "ghost stories",
+    "short stories"
+   ],
+   "summary": "A collection of ghost stories. Its contents could not be confirmed.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Walt Sturrock",
+   "source": "https://openlibrary.org/works/OL16992372W",
+   "identified": false,
+   "note": "Searched the title with Ingram and Sturrock. The only trace is Open Library's illustrated ghost-story collection 'Ghosts' (Unicorn Publishing House, 1989, illustrated by Walt Sturrock, b. 1961), which may be the same book, but no record shows the subtitle or John Ingram as editor. Not confirmed."
+  },
+  "her-majesty-grace-jones": {
+   "title": "Her Majesty, Grace Jones",
+   "author_names": [
+    "Jane Langton"
+   ],
+   "published": 1961,
+   "published_last": 1961,
+   "genres": [
+    "family story",
+    "humor"
+   ],
+   "summary": "Set during the Depression, this book follows Grace Jones, a girl who imagines she is the eldest daughter of King George VI and so the future Queen of England. It was Langton's first book for children.",
+   "characters": [
+    "Grace Jones — imaginative girl who believes she will be queen"
+   ],
+   "setting": "United States, the Depression years",
+   "awards": [],
+   "series": "Grace Jones books",
+   "reading_age": null,
+   "illustrator": "Jane Langton",
+   "source": "https://en.wikipedia.org/wiki/Jane_Langton",
+   "identified": true,
+   "note": "US title is The Majesty of Grace (1961); Her Majesty, Grace Jones is an alternate title. Illustrated by Langton herself, not Emily Arnold McCully."
+  },
+  "incognito-mosquito-private-insective": {
+   "title": "Incognito Mosquito, Private Insective",
+   "author_names": [
+    "E. A. Hass"
+   ],
+   "published": 1982,
+   "published_last": 1982,
+   "genres": [
+    "humor",
+    "mystery",
+    "animal fantasy"
+   ],
+   "summary": "A mosquito detective recounts his cases and run-ins with other insect characters to a young reporter, in a send-up of private-eye stories.",
+   "characters": [
+    "Incognito Mosquito — insect detective",
+    "Mickey Mantis — fellow insect"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": "Incognito Mosquito, book 1",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL3961988W",
+   "identified": true,
+   "note": "First published 1982 (Lothrop, Lee and Shepard); sequels followed in 1986 and 1987. Author's full name not found."
+  },
+  "little-house-books-complete-set": {
+   "title": "Little House Books (complete set)",
+   "author_names": [
+    "Laura Ingalls Wilder"
+   ],
+   "published": 1932,
+   "published_last": 1971,
+   "genres": [
+    "historical fiction",
+    "family story",
+    "classic"
+   ],
+   "summary": "Laura Ingalls Wilder's autobiographical series follows a pioneer family from a log cabin in Wisconsin's Big Woods through Kansas, Minnesota and Dakota Territory. The books cover her childhood, her teaching years and her marriage.",
+   "characters": [
+    "Laura Ingalls — the author as a girl",
+    "Mary — older sister",
+    "Ma — mother",
+    "Pa — father, a fiddler"
+   ],
+   "setting": "American Midwest frontier, 1870s-1880s",
+   "awards": [],
+   "series": "Little House",
+   "reading_age": "7-12",
+   "illustrator": "Garth Williams",
+   "source": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_(book_series)",
+   "identified": true,
+   "note": "Eight original books 1932-1943; the ninth, The First Four Years, appeared in 1971 and is included in many complete sets. Garth Williams illustrated the uniform edition reissued in 1953, not the originals."
+  },
+  "midnight-is-a-place": {
+   "title": "Midnight Is a Place",
+   "author_names": [
+    "Joan Aiken"
+   ],
+   "published": 1974,
+   "published_last": 1974,
+   "genres": [
+    "historical fiction",
+    "adventure",
+    "mystery"
+   ],
+   "summary": "Two disinherited orphans, Lucas Bell and Anna-Marie, are cheated of their inheritance in a grim 19th-century mill town. When Midnight Court burns, they face child labor in the mill and a ring of extortionists.",
+   "characters": [
+    "Lucas Bell — orphan who scavenges in the sewers",
+    "Anna-Marie — orphan sent to work in the mill",
+    "Sir Randolph Grimsby — owner of Midnight Court and the mill",
+    "Bludward — extortionist in a steam-driven wheelchair",
+    "Mr. Oakapple — kindly tutor"
+   ],
+   "setting": "Blastburn, a fictional northern English mill town, Victorian era",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://kirkusreviews.com/book-reviews/joan-aiken/midnight-is-a-place/print",
+   "identified": true,
+   "note": "Corrected: the heroine is Anna-Marie, not Lucy. A related Aiken novel set in the Wolves Chronicles world but not part of that series."
+  },
+  "new-dawn-on-rocky-ridge": {
+   "title": "New Dawn on Rocky Ridge",
+   "author_names": [
+    "Roger Lea MacBride"
+   ],
+   "published": 1997,
+   "published_last": 1997,
+   "genres": [
+    "historical fiction",
+    "family story"
+   ],
+   "summary": "A volume in the Rocky Ridge Years series about Rose Wilder, Laura Ingalls Wilder's daughter, growing up in the Ozarks. Its individual plot could not be confirmed.",
+   "characters": [
+    "Rose Wilder — Laura Ingalls Wilder's daughter"
+   ],
+   "setting": "The Ozarks of Missouri",
+   "awards": [],
+   "series": "Rocky Ridge Years",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Roger_MacBride",
+   "identified": true,
+   "note": "Corrected: published 1997 (Open Library and Wikipedia agree), not 1994."
+  },
+  "out-of-the-silent-planet": {
+   "title": "Out of the Silent Planet",
+   "author_names": [
+    "C. S. Lewis"
+   ],
+   "published": 1938,
+   "published_last": 1938,
+   "genres": [
+    "science fiction",
+    "adventure",
+    "classic"
+   ],
+   "summary": "Cambridge philologist Ransom is drugged and carried by spaceship to Malacandra, which is Mars. Escaping his captors, he learns the languages and customs of its three intelligent peoples and meets the planet's spirit ruler.",
+   "characters": [
+    "Elwin Ransom — Cambridge philologist",
+    "Weston — ruthless physicist",
+    "Devine — Weston's greedy accomplice",
+    "Hyoi — friendly hross",
+    "Oyarsa — spirit ruler of Malacandra"
+   ],
+   "setting": "England and Malacandra (Mars)",
+   "awards": [],
+   "series": "The Space Trilogy, book 1",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Out_of_the_Silent_Planet",
+   "identified": true,
+   "note": null
+  },
+  "redwall-series": {
+   "title": "Redwall series",
+   "author_names": [
+    "Brian Jacques"
+   ],
+   "published": 1986,
+   "published_last": 1993,
+   "genres": [
+    "animal fantasy",
+    "adventure",
+    "fantasy"
+   ],
+   "summary": "In Jacques's long-running fantasy series, mice, badgers, hares and other woodland creatures defend Redwall Abbey and Mossflower Wood from vermin such as rats, weasels and stoats. Each book is mostly self-contained.",
+   "characters": [
+    "Matthias — young mouse warrior",
+    "Cluny the Scourge — villainous rat warlord",
+    "Martin the Warrior — legendary mouse hero",
+    "Mariel — young mouse heroine"
+   ],
+   "setting": "Redwall Abbey and Mossflower Wood",
+   "awards": [],
+   "series": "Redwall (22 novels)",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/Redwall",
+   "identified": true,
+   "note": "Volumes listed: Redwall 1986, Mossflower 1988, Mattimeo 1989, Mariel of Redwall 1991, Salamandastron 1992, Martin the Warrior 1993. Illustrator not confirmed."
+  },
+  "see-inside-an-egyptian-town": {
+   "title": "See Inside an Egyptian Town",
+   "author_names": [
+    "R. J. Unstead"
+   ],
+   "published": 1977,
+   "published_last": 1977,
+   "genres": [
+    "nonfiction",
+    "history"
+   ],
+   "summary": "An illustrated look at the buildings and daily life of an ancient Egyptian town founded in 1375 B.C. to honor the god Aten. It belongs to Unstead's See Inside series for young readers.",
+   "characters": [],
+   "setting": "Ancient Egypt",
+   "awards": [],
+   "series": "See Inside",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL5117746W",
+   "identified": true,
+   "note": "Corrected: first edition 1977 (Hutchinson, London; Warwick Press edition 1978), not 1969."
+  },
+  "smith-of-wootton-major-farmer-giles-of-ham": {
+   "title": "Smith of Wootton Major & Farmer Giles of Ham",
+   "author_names": [
+    "J. R. R. Tolkien"
+   ],
+   "published": 1949,
+   "published_last": 1967,
+   "genres": [
+    "fantasy",
+    "fairy tale",
+    "humor"
+   ],
+   "summary": "Two short Tolkien tales in one volume. In Farmer Giles of Ham a reluctant farmer becomes a dragon-taming hero, and in Smith of Wootton Major a village smith swallows a star that opens the way into Faery.",
+   "characters": [
+    "Farmer Giles — reluctant farmer-hero",
+    "Chrysophylax — cunning dragon",
+    "Smith (Starbrow) — village smith who enters Faery"
+   ],
+   "setting": "Rural England of an imagined past",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Pauline Baynes",
+   "source": "https://en.wikipedia.org/wiki/Smith_of_Wootton_Major",
+   "identified": true,
+   "note": "Farmer Giles of Ham 1949; Smith of Wootton Major 1967; the paired edition appeared from Ballantine in 1969."
+  },
+  "tecwyn-the-last-of-the-welsh-dragons": {
+   "title": "Tecwyn, the Last of the Welsh Dragons",
+   "author_names": [
+    "Mary Dawson"
+   ],
+   "published": 1967,
+   "published_last": 1967,
+   "genres": [
+    "fantasy",
+    "dragon story"
+   ],
+   "summary": "A fire-breathing dragon, the last of his kind, hatches in the Welsh town of Pennyben and puts a strain on the town's coal supply.",
+   "characters": [
+    "Tecwyn — the last Welsh dragon"
+   ],
+   "setting": "Pennyben, Wales",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL7199023W",
+   "identified": true,
+   "note": "Identified: Parents' Magazine Press, New York, 1967."
+  },
+  "the-alley": {
+   "title": "The Alley",
+   "author_names": [
+    "Eleanor Estes"
+   ],
+   "published": 1964,
+   "published_last": 1964,
+   "genres": [
+    "family story",
+    "mystery",
+    "humor"
+   ],
+   "summary": "Twenty-six families live in a self-contained alley of houses on a college campus, and their thirty-three children have their own society. When the Ives family is burgled, the children take over the investigation and stage a mock trial.",
+   "characters": [
+    "Connie Ives — narrator",
+    "Dilly Maloon — Connie's best friend",
+    "Arnold — advancement-minded boy"
+   ],
+   "setting": "An alley of houses on a college campus",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Edward Ardizzone",
+   "source": "https://www.kirkusreviews.com/book-reviews/a/eleanor-estes-8/the-alley/",
+   "identified": true,
+   "note": "Corrected: the setting is a campus alley with a burglary, not a Cranbury street; the earlier plot guess was wrong. Harcourt, Brace & World, 1964."
+  },
+  "the-blood-and-thunder-adventure-on-hurricane-peak": {
+   "title": "The Blood-and-Thunder Adventure on Hurricane Peak",
+   "author_names": [
+    "Margaret Mahy"
+   ],
+   "published": 1989,
+   "published_last": 1989,
+   "genres": [
+    "adventure",
+    "humor",
+    "mystery"
+   ],
+   "summary": "The students of the Unexpected School on Hurricane Peak set out to foil the wicked Sir Quincey and his accomplices while solving several mysteries along the way.",
+   "characters": [
+    "Sir Quincey — wicked villain"
+   ],
+   "setting": "Hurricane Peak",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Wendy Smith",
+   "source": "https://en.wikipedia.org/wiki/List_of_works_by_Margaret_Mahy",
+   "identified": true,
+   "note": "Published by J. M. Dent in 1989; the US edition came from McElderry. Summary from a library abstract in search results."
+  },
+  "the-case-of-the-frightened-friend": {
+   "title": "The Case of the Frightened Friend",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1984,
+   "published_last": 1984,
+   "genres": [
+    "mystery",
+    "adventure"
+   ],
+   "summary": "Andrew and Inspector Wyatt help a friend whose father has died mysteriously, whose grandfather is an invalid and whose stepmother behaves suspiciously around the doctor. The case is also tied to a retired admiral and an intelligence leak.",
+   "characters": [
+    "Andrew Tillett — young sleuth",
+    "Inspector Peter Wyatt — Andrew's stepfather",
+    "Sara Wiggins — Andrew's friend"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": "Andrew Tillett series, book 6",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL5108835W.json",
+   "identified": true,
+   "note": "Corrected: the hero is Andrew Tillett, not Tolliver; published 1984 (Atheneum), not 1973."
+  },
+  "the-case-of-the-watching-boy": {
+   "title": "The Case of the Watching Boy",
+   "author_names": [
+    "Robert Newman"
+   ],
+   "published": 1987,
+   "published_last": 1987,
+   "genres": [
+    "mystery",
+    "historical fiction"
+   ],
+   "summary": "Andrew Tillett helps a younger classmate return an abducted boy to his mother. When police report a local kidnapping, Andrew and his friends trace the case to London's upper class.",
+   "characters": [
+    "Andrew Tillett — young sleuth",
+    "Sara Wiggins — friend",
+    "Inspector Peter Wyatt — Andrew's stepfather"
+   ],
+   "setting": "Victorian England",
+   "awards": [],
+   "series": "Andrew Tillett series, book 9",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL5108839W.json",
+   "identified": true,
+   "note": "Corrected: the hero is Andrew Tillett, not Tolliver; published 1987 (Atheneum), not 1975. Series number from a catalog summary."
+  },
+  "the-dandelion-caper": {
+   "title": "The Dandelion Caper",
+   "author_names": [
+    "Gene DeWeese"
+   ],
+   "published": 1986,
+   "published_last": 1986,
+   "genres": [
+    "science fiction",
+    "children's fiction",
+    "cat story"
+   ],
+   "summary": "Walter and his friend Kathy have helped many stranded space tourists, and now they face evil aliens in an abandoned house. A cat with unusual powers comes to their aid.",
+   "characters": [
+    "Walter — boy who helps stranded aliens",
+    "Kathy — his friend"
+   ],
+   "setting": "An abandoned house",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL2761299W.json",
+   "identified": true,
+   "note": "Published 1986 by Putnam; the earlier 'puzzling affair involving dandelions' draft was wrong."
+  },
+  "the-enchanter-s-spell-five-famous-tales": {
+   "title": "The Enchanter's Spell: Five Famous Tales",
+   "author_names": [
+    "Gennady Spirin"
+   ],
+   "published": 1987,
+   "published_last": 1987,
+   "genres": [
+    "fairy tale",
+    "folk tales"
+   ],
+   "summary": "Spirin retells and illustrates five famous tales: Little Daylight, The Princess and the Seven Brothers, The Nutcracker, The Beautiful Kitchen Maid and The Emperor's New Clothes. Each gets its own period setting in his paintings.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Gennady Spirin",
+   "source": "https://publishersweekly.com/9780803703209",
+   "identified": true,
+   "note": "Corrected: Dial Books, 1987, not 1999."
+  },
+  "the-giant": {
+   "title": "The Giant",
+   "author_names": [
+    "William Pène du Bois"
+   ],
+   "published": 1954,
+   "published_last": 1954,
+   "genres": [
+    "fantasy",
+    "humor"
+   ],
+   "summary": "An eight-year-old boy is seven stories tall because he has a perfect digestive system. His family and friends try to hide him, so the narrator befriends him and plans a way for him to live openly.",
+   "characters": [
+    "El Muchacho — the giant boy",
+    "The narrator — his friend"
+   ],
+   "setting": "Hotels and cities of Europe",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "William Pène du Bois",
+   "source": "https://en.wikipedia.org/wiki/William_P%C3%A8ne_du_Bois",
+   "identified": true,
+   "note": "Identified as the Viking Press 1954 book; the vague earlier summary was replaced."
+  },
+  "the-island-on-bird-street": {
+   "title": "The Island on Bird Street",
+   "author_names": [
+    "Uri Orlev"
+   ],
+   "published": 1981,
+   "published_last": 1981,
+   "genres": [
+    "historical fiction",
+    "survival"
+   ],
+   "summary": "Eleven-year-old Alex, a Jewish boy in a ghetto in occupied Poland, is separated from his father when deportations begin. Alone in a bombed-out building, he must find food and avoid soldiers while he waits for his father to return.",
+   "characters": [
+    "Alex — eleven-year-old boy",
+    "Alex's father — separated from him",
+    "Snow — Alex's pet mouse"
+   ],
+   "setting": "A ghetto in occupied Poland, World War II",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Island_on_Bird_Street",
+   "identified": true,
+   "note": "Hebrew original 1981 (Keter); English translation by Hillel Halkin, 1984."
+  },
+  "the-lord-of-the-rings": {
+   "title": "The Lord of the Rings",
+   "author_names": [
+    "J. R. R. Tolkien"
+   ],
+   "published": 1954,
+   "published_last": 1955,
+   "genres": [
+    "fantasy",
+    "adventure",
+    "classic",
+    "epic"
+   ],
+   "summary": "Frodo Baggins and his companions set out to destroy a ring forged by the Dark Lord Sauron by casting it into Mount Doom. The story was published in three volumes: The Fellowship of the Ring, The Two Towers and The Return of the King.",
+   "characters": [
+    "Frodo Baggins — ring-bearer",
+    "Samwise Gamgee — loyal gardener",
+    "Gandalf — wizard",
+    "Aragorn — ranger and hidden king",
+    "Gollum — ring-obsessed creature"
+   ],
+   "setting": "Middle-earth",
+   "awards": [],
+   "series": "The Lord of the Rings",
+   "reading_age": null,
+   "illustrator": "J. R. R. Tolkien",
+   "source": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings",
+   "identified": true,
+   "note": "Volumes: 1954, 1954, 1955 (UK)."
+  },
+  "the-mysterious-disappearance-of-leon-i-mean-noel": {
+   "title": "The Mysterious Disappearance of Leon (I Mean Noel)",
+   "author_names": [
+    "Ellen Raskin"
+   ],
+   "published": 1971,
+   "published_last": 1971,
+   "genres": [
+    "mystery",
+    "humor",
+    "puzzle"
+   ],
+   "summary": "Caroline Fish Carillon searches for her husband Leon, who now goes by Noel and vanished after shouting a garbled message while falling overboard from a boat. She spends years decoding it with her adopted twins and an old friend, in a story packed with word puzzles.",
+   "characters": [
+    "Caroline Fish Carillon — the searching wife",
+    "Leon (Noel) — the missing husband",
+    "Tony and Tina — her adopted twins",
+    "Augie Kunkel — her childhood friend"
+   ],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://en.wikipedia.org/wiki/The_Mysterious_Disappearance_of_Leon_(I_Mean_Noel)",
+   "identified": true,
+   "note": "Corrected: the heroine is Caroline Fish Carillon, not Ellen. Dutton, 1971; illustrator not confirmed."
+  },
+  "the-pet-sitting-peril": {
+   "title": "The Pet-Sitting Peril",
+   "author_names": [
+    "Willo Davis Roberts"
+   ],
+   "published": 1983,
+   "published_last": 1983,
+   "genres": [
+    "mystery",
+    "adventure"
+   ],
+   "summary": "A boy who does odd jobs in an apartment house, including pet-sitting, gets mixed up with arsonists working for the building's owner. The owner plans to burn it down for the insurance.",
+   "characters": [
+    "Nick — the pet sitter"
+   ],
+   "setting": "An apartment building",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL13323W",
+   "identified": true,
+   "note": "Atheneum, 1983."
+  },
+  "the-shepherd-moon": {
+   "title": "The Shepherd Moon",
+   "author_names": [
+    "H. M. Hoover"
+   ],
+   "published": 1984,
+   "published_last": 1984,
+   "genres": [
+    "science fiction",
+    "adventure"
+   ],
+   "summary": "A colonist from a forgotten artificial moon returns to Earth in the far future. A thirteen-year-old girl named Merry and her grandfather work to protect their culture from the visitor's unusual powers.",
+   "characters": [
+    "Merry — thirteen-year-old girl",
+    "Her grandfather — protector of their way of life"
+   ],
+   "setting": "Far-future Earth",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL3349479W",
+   "identified": true,
+   "note": "Corrected: the heroine is Merry, not Meg. Subtitled A Novel of the Future; Viking, 1984."
+  },
+  "the-summer-of-the-falcon": {
+   "title": "The Summer of the Falcon",
+   "author_names": [
+    "Jean Craighead George"
+   ],
+   "published": 1962,
+   "published_last": 1962,
+   "genres": [
+    "nature",
+    "family story",
+    "coming of age"
+   ],
+   "summary": "June Pritchard, thirteen, is given a sparrow hawk to train as a pet. The bird, Zander, resists new rules as stubbornly as June does.",
+   "characters": [
+    "June Pritchard — thirteen-year-old girl",
+    "Zander — her sparrow hawk"
+   ],
+   "setting": "A family summer house in the mountains",
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "Jean Craighead George",
+   "source": "https://openlibrary.org/works/OL111867W",
+   "identified": true,
+   "note": "Corrected: Zander is the bird, not her brother. Crowell, 1962; plot from a library description seen in search results."
+  },
+  "the-thunder-pup": {
+   "title": "The Thunder-Pup",
+   "author_names": [
+    "Janet Hickman"
+   ],
+   "published": 1981,
+   "published_last": 1981,
+   "genres": [
+    "dog story",
+    "children's fiction"
+   ],
+   "summary": "A 1981 children's novel by Janet Hickman about a dog. No plot description could be found online.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL15860665W",
+   "identified": true,
+   "note": "Book exists (Open Library, subject Dogs, Fiction); the plot in the earlier draft could not be verified and was removed."
+  },
+  "the-white-archer-an-eskimo-legend": {
+   "title": "The White Archer: An Eskimo Legend",
+   "author_names": [
+    "James Houston"
+   ],
+   "published": 1967,
+   "published_last": 1967,
+   "genres": [
+    "adventure",
+    "folk tales"
+   ],
+   "summary": "A young Inuit sets out to avenge his parents' violent deaths and spends years becoming a master archer. Over that time he outgrows his hatred.",
+   "characters": [
+    "Kungo — young Inuit hunter"
+   ],
+   "setting": "The Canadian Arctic",
+   "awards": [
+    "Canadian Library Association Book of the Year for Children (1968)"
+   ],
+   "series": null,
+   "reading_age": null,
+   "illustrator": "James Houston",
+   "source": "https://en.wikipedia.org/wiki/James_Archibald_Houston",
+   "identified": true,
+   "note": "Harcourt, Brace & World, 1967. Houston wrote and illustrated it."
+  },
+  "tiger-burning-bright": {
+   "title": "Tiger Burning Bright",
+   "author_names": [
+    "Theodora Du Bois"
+   ],
+   "published": 1963,
+   "published_last": 1963,
+   "genres": [
+    "fiction"
+   ],
+   "summary": "A book by Theodora Du Bois listed in Open Library for 1963. No plot description could be found.",
+   "characters": [],
+   "setting": null,
+   "awards": [],
+   "series": null,
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://openlibrary.org/works/OL11068363W",
+   "identified": true,
+   "note": "Not Peter Feibleman's play Tiger, Tiger, Burning Bright (1963). Wikipedia dates the Du Bois book 1964 but Open Library gives 1963; genre and plot unconfirmed."
+  },
+  "wild-trek": {
+   "title": "Wild Trek",
+   "author_names": [
+    "Jim Kjelgaard"
+   ],
+   "published": 1950,
+   "published_last": 1950,
+   "genres": [
+    "dog story",
+    "adventure",
+    "survival"
+   ],
+   "summary": "Trapper Link Stevens and his half-wild snow dog Chiri set out to rescue a naturalist stranded in the Caribou Mountains. They face a cougar, hostile wolves and the wilderness itself.",
+   "characters": [
+    "Link Stevens — trapper",
+    "Chiri — his snow dog",
+    "Trigg Antray — stranded naturalist"
+   ],
+   "setting": "The Caribou Mountains",
+   "awards": [],
+   "series": "Chiri books, book 2",
+   "reading_age": null,
+   "illustrator": null,
+   "source": "https://www.goodreads.com/book/show/2964258",
+   "identified": true,
+   "note": "Corrected: the characters are Link Stevens and Chiri, not Jim and Chinook. Holiday House, 1950."
+  }
+ },
+ "authors": {
+  "C. S. Lewis": {
+   "born": 1898,
+   "died": 1963,
+   "birthplace": "Belfast, Ireland",
+   "nationality": "British (born in Ireland)",
+   "bio": "Lewis taught English literature at Oxford and then Cambridge. A close friend of J. R. R. Tolkien, he belonged to the Inklings literary group. His Christian radio talks and fiction made him widely read.",
+   "known_for": [
+    "The Chronicles of Narnia",
+    "Out of the Silent Planet",
+    "Mere Christianity",
+    "The Screwtape Letters"
+   ],
+   "source": "https://en.wikipedia.org/wiki/C._S._Lewis"
+  },
+  "Margaret Mahy": {
+   "born": 1936,
+   "died": 2012,
+   "birthplace": "Whakatane, New Zealand",
+   "nationality": "New Zealander",
+   "bio": "Mahy was a New Zealand librarian who became a prolific children's and young-adult author. She won the Carnegie Medal twice and received the Hans Christian Andersen Award in 2006. Her stories often have supernatural touches but focus on growing up.",
+   "known_for": [
+    "A Lion in the Meadow",
+    "The Haunting",
+    "The Changeover"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Margaret_Mahy"
+  },
+  "John Ingram": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": null,
+   "known_for": [],
+   "source": null
+  },
+  "Hugh Lofting": {
+   "born": 1886,
+   "died": 1947,
+   "birthplace": "Maidenhead, Berkshire, England",
+   "nationality": "English-American",
+   "bio": "Lofting trained as a civil engineer and served in the Irish Guards in World War I. He created Doctor Dolittle in illustrated letters to his children from the trenches. The Voyages of Doctor Dolittle won the Newbery Medal.",
+   "known_for": [
+    "The Story of Doctor Dolittle",
+    "The Voyages of Doctor Dolittle"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Hugh_Lofting"
+  },
+  "Patricia Krapesh": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": null,
+   "known_for": [
+    "A Tale of Two Cities (simplified adaptation)"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=krapesh"
+  },
+  "Eleanor Estes": {
+   "born": 1906,
+   "died": 1988,
+   "birthplace": "West Haven, Connecticut, USA",
+   "nationality": "American",
+   "bio": "Estes was a children's librarian who began writing while recovering from tuberculosis. Her Connecticut childhood and small-town family life inspired many of her twenty books. She won the Newbery Medal for Ginger Pye.",
+   "known_for": [
+    "The Moffats",
+    "Ginger Pye",
+    "The Hundred Dresses"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Eleanor_Estes"
+  },
+  "Kate Seredy": {
+   "born": 1899,
+   "died": 1975,
+   "birthplace": "Budapest, Hungary",
+   "nationality": "Hungarian-American",
+   "bio": "Seredy trained as an art teacher in Budapest and moved to the United States in 1922. She wrote and illustrated her own books and saw herself first as an illustrator. The White Stag won the Newbery Medal.",
+   "known_for": [
+    "The Good Master",
+    "The White Stag",
+    "The Singing Tree"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Kate_Seredy"
+  },
+  "Gennady Spirin": {
+   "born": 1948,
+   "died": null,
+   "birthplace": null,
+   "nationality": "Russian-American",
+   "bio": "Spirin is a Russian painter and children's book illustrator known for his watercolor style. He studied in Moscow and moved to the United States after the Soviet Union dissolved, settling in Princeton, New Jersey. He illustrated many fairy tales and classic stories.",
+   "known_for": [
+    "The Enchanter's Spell",
+    "Yakov and the Seven Thieves",
+    "Simeon's Gift"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Gennady_Spirin"
+  },
+  "Laura Ingalls Wilder": {
+   "born": 1867,
+   "died": 1957,
+   "birthplace": "Pepin County, Wisconsin",
+   "nationality": "American",
+   "bio": "Wilder grew up in pioneer families in Wisconsin, Kansas, Minnesota and Dakota Territory and became a teacher. She began writing children's books in her sixties, encouraged by her daughter Rose Wilder Lane. Her Little House series drew on her own childhood.",
+   "known_for": [
+    "Little House in the Big Woods",
+    "Little House on the Prairie",
+    "The Long Winter"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Laura_Ingalls_Wilder"
+  },
+  "Theodora Du Bois": {
+   "born": 1890,
+   "died": 1986,
+   "birthplace": "Brooklyn, New York",
+   "nationality": "American",
+   "bio": "Theodora Du Bois, born Theodora McCormick, wrote mysteries, children's books, romances and science fiction. She married engineer Delafield Du Bois in 1918. Her publisher dropped her after her 1954 novel Seeing Red criticized the House Un-American Activities Committee.",
+   "known_for": [
+    "The Devil's Spoon",
+    "Solution T-25",
+    "Tiger Burning Bright"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Theodora_McCormick_Du_Bois"
+  },
+  "Mary Stolz": {
+   "born": 1920,
+   "died": 2006,
+   "birthplace": "Boston, Massachusetts",
+   "nationality": "American",
+   "bio": "Stolz, born Mary Slattery, began writing in the late 1940s when arthritis kept her housebound. She wrote fiction for children and young adults, mostly for Harper. She earned Newbery Honors for Belling the Tiger and The Noonday Friends.",
+   "known_for": [
+    "A Dog on Barkham Street",
+    "Belling the Tiger",
+    "The Noonday Friends"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Mary_Stolz"
+  },
+  "Ellen Raskin": {
+   "born": 1928,
+   "died": 1984,
+   "birthplace": "Milwaukee, Wisconsin",
+   "nationality": "American",
+   "bio": "Raskin worked as a commercial artist in New York and designed more than a thousand book jackets, including the first edition of A Wrinkle in Time. She then turned to writing and illustrating her own picture books and puzzle mysteries. The Westing Game won the Newbery Medal.",
+   "known_for": [
+    "The Westing Game",
+    "Figgs & Phantoms",
+    "The Mysterious Disappearance of Leon (I Mean Noel)"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Ellen_Raskin"
+  },
+  "R. J. Unstead": {
+   "born": 1915,
+   "died": 1988,
+   "birthplace": null,
+   "nationality": "British",
+   "bio": "Robert John Unstead was a teacher who became headmaster of a primary school in Letchworth. He wrote or edited over forty illustrated history books for young readers, some selling in the millions. He served in the RAF in World War II.",
+   "known_for": [
+    "Looking at Ancient History",
+    "See Inside series",
+    "Story of Britain"
+   ],
+   "source": "https://en.wikipedia.org/wiki/R._J._Unstead"
+  },
+  "Laura Fisher": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": null,
+   "known_for": [
+    "Amy and the Sorrel Summer"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=laura+fisher"
+  },
+  "Jim Kjelgaard": {
+   "born": 1910,
+   "died": 1959,
+   "birthplace": "New York City, New York",
+   "nationality": "American",
+   "bio": "Kjelgaard grew up on a farm in Pennsylvania's Allegheny Mountains and wrote more than forty novels, mostly about dogs and wild animals. He also sold short fiction to magazines such as The Saturday Evening Post. Big Red became a 1962 Disney film.",
+   "known_for": [
+    "Big Red",
+    "Irish Red",
+    "Wild Trek"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jim_Kjelgaard"
+  },
+  "Willo Davis Roberts": {
+   "born": 1928,
+   "died": 2004,
+   "birthplace": "Grand Rapids, Michigan",
+   "nationality": "American",
+   "bio": "Roberts was known mainly for children's mystery and suspense novels. She began with adult fiction in the 1950s and published her first children's book in 1975. She won the Edgar Allan Poe Award for juvenile mysteries in 1989, 1995 and 1997.",
+   "known_for": [
+    "The View from the Cherry Tree",
+    "The Girl with the Silver Eyes",
+    "Baby-Sitting Is a Dangerous Job"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Willo_Davis_Roberts"
+  },
+  "Gene DeWeese": {
+   "born": 1934,
+   "died": 2012,
+   "birthplace": "Rochester, Indiana",
+   "nationality": "American",
+   "bio": "Thomas Eugene DeWeese worked as an electronics technician and technical writer in Milwaukee before freelancing full time in 1974. He wrote more than forty books across science fiction, mystery and young-adult fiction. He is best known for his Star Trek novels.",
+   "known_for": [
+    "The Peacekeepers",
+    "The Adventures of a Two-Minute Werewolf",
+    "The Dandelion Caper"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Gene_DeWeese"
+  },
+  "Joan Aiken": {
+   "born": 1924,
+   "died": 2004,
+   "birthplace": "Rye, Sussex, England",
+   "nationality": "English",
+   "bio": "Aiken was the daughter of the American poet Conrad Aiken and was mostly taught at home. She wrote children's alternative-history novels, supernatural stories, thrillers and Jane Austen continuations. She received an MBE in 1999 for services to children's literature.",
+   "known_for": [
+    "The Wolves of Willoughby Chase",
+    "The Whispering Mountain",
+    "Midnight Is a Place"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Joan_Aiken"
+  },
+  "Elizabeth Coatsworth": {
+   "born": 1893,
+   "died": 1986,
+   "birthplace": "Buffalo, New York",
+   "nationality": "American",
+   "bio": "Coatsworth was a poet and author who graduated from Vassar and later lived in Maine. She published over ninety books and married writer Henry Beston in 1929. She won the Newbery Medal for The Cat Who Went to Heaven.",
+   "known_for": [
+    "The Cat Who Went to Heaven",
+    "The Cat and the Captain",
+    "Away Goes Sally"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_Coatsworth"
+  },
+  "Jane Langton": {
+   "born": 1922,
+   "died": 2018,
+   "birthplace": "Boston, Massachusetts",
+   "nationality": "American",
+   "bio": "Langton studied astronomy and art history and lived near Concord, Massachusetts. She wrote and illustrated children's fantasies and the Homer Kelly mystery series. The Fledgling was a Newbery Honor book, and she received an Edgar Grand Master award in 2018.",
+   "known_for": [
+    "The Fledgling",
+    "The Majesty of Grace",
+    "Emily Dickinson Is Dead"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jane_Langton"
+  },
+  "Robert Newman": {
+   "born": 1909,
+   "died": 1988,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Robert Newman wrote children's mystery novels for Atheneum, including the Andrew Tillett series. The listings found give his dates as 1909-1988 but few other details.",
+   "known_for": [
+    "The Case of the Baker Street Irregular",
+    "The Case of the Frightened Friend",
+    "The Case of the Watching Boy"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=robert+newman"
+  },
+  "William Pène du Bois": {
+   "born": 1916,
+   "died": 1993,
+   "birthplace": "Nutley, New Jersey",
+   "nationality": "American",
+   "bio": "Pène du Bois was educated partly in France and wrote and illustrated children's books. He was a founding editor and art editor of The Paris Review. The Twenty-One Balloons won the 1948 Newbery Medal.",
+   "known_for": [
+    "The Twenty-One Balloons",
+    "The Great Geppy",
+    "The Giant"
+   ],
+   "source": "https://en.wikipedia.org/wiki/William_P%C3%A8ne_du_Bois"
+  },
+  "Brian Jacques": {
+   "born": 1939,
+   "died": 2011,
+   "birthplace": "Liverpool, England",
+   "nationality": "English",
+   "bio": "Jacques worked as a sailor, truck driver, bus driver and milkman before writing. He wrote the first Redwall book for blind children at a Liverpool school where he delivered milk. He hosted a BBC Radio Merseyside show for twenty years.",
+   "known_for": [
+    "Redwall",
+    "Mossflower",
+    "Martin the Warrior"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Brian_Jacques"
+  },
+  "James Houston": {
+   "born": 1921,
+   "died": 2005,
+   "birthplace": "St. Catharines, Ontario, Canada",
+   "nationality": "Canadian",
+   "bio": "Houston spent about twelve years in the Canadian Arctic and helped develop Inuit printmaking. He later moved to New York to work for Steuben Glass. He wrote and illustrated children's books and adult novels about Arctic life.",
+   "known_for": [
+    "The White Archer",
+    "Tikta'liktak",
+    "The White Dawn"
+   ],
+   "source": "https://en.wikipedia.org/wiki/James_Archibald_Houston"
+  },
+  "Janet Hickman": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": "Janet Hickman is credited in Open Library with several children's novels from the 1970s to the 2000s. Few personal details could be confirmed.",
+   "known_for": [
+    "The Thunder-Pup",
+    "Zoar Blue",
+    "Jericho",
+    "Ravine"
+   ],
+   "source": "https://openlibrary.org/search.json?author=janet+hickman&fields=key,title,first_publish_year,author_name,publisher&limit=30"
+  },
+  "Uri Orlev": {
+   "born": 1931,
+   "died": 2022,
+   "birthplace": "Warsaw, Poland",
+   "nationality": "Israeli",
+   "bio": "Orlev survived the Warsaw Ghetto and Bergen-Belsen as a child and emigrated to Israel after the war. He became a full-time children's writer and translator in 1968. He won the Hans Christian Andersen Award in 1996.",
+   "known_for": [
+    "The Island on Bird Street",
+    "Run, Boy, Run",
+    "The Man from the Other Side"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Uri_Orlev"
+  },
+  "Jean Craighead George": {
+   "born": 1919,
+   "died": 2012,
+   "birthplace": "Washington, D.C., USA",
+   "nationality": "American",
+   "bio": "George grew up in a family of naturalists and worked as a Washington Post reporter. She wrote more than a hundred books for young readers, often about the natural world. Julie of the Wolves won the Newbery Medal.",
+   "known_for": [
+    "My Side of the Mountain",
+    "Julie of the Wolves",
+    "The Summer of the Falcon"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Jean_Craighead_George"
+  },
+  "E. A. Hass": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": null,
+   "known_for": [
+    "Incognito Mosquito, Private Insective",
+    "Incognito Mosquito Takes to the Air"
+   ],
+   "source": "https://openlibrary.org/search/authors.json?q=hass+e.+a."
+  },
+  "Mary Dawson": {
+   "born": null,
+   "died": null,
+   "birthplace": null,
+   "nationality": null,
+   "bio": null,
+   "known_for": [
+    "Tecwyn, the Last of the Welsh Dragons"
+   ],
+   "source": "https://openlibrary.org/works/OL7199023W"
+  },
+  "J. R. R. Tolkien": {
+   "born": 1892,
+   "died": 1973,
+   "birthplace": "Bloemfontein, Orange Free State (now South Africa)",
+   "nationality": "British",
+   "bio": "Tolkien was an Oxford philologist and professor of Anglo-Saxon and later of English language and literature. A devout Catholic and close friend of C. S. Lewis, he created Middle-earth. He was made a CBE in 1972.",
+   "known_for": [
+    "The Hobbit",
+    "The Lord of the Rings",
+    "The Silmarillion"
+   ],
+   "source": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+  },
+  "H. M. Hoover": {
+   "born": 1935,
+   "died": 2018,
+   "birthplace": "Stark County, Ohio",
+   "nationality": "American",
+   "bio": "Helen Mary Hoover wrote science fiction and other novels mainly for older children from 1969 to 1996. Her stories often explore friendships between people of different generations. She lived for many years in Virginia.",
+   "known_for": [
+    "Children of Morrow",
+    "The Shepherd Moon",
+    "The Winds of Mars"
+   ],
+   "source": "https://en.wikipedia.org/wiki/H._M._Hoover"
+  },
+  "Charles Dickens": {
+   "born": 1812,
+   "died": 1870,
+   "birthplace": "Portsmouth, England",
+   "nationality": "English",
+   "bio": "Dickens left school at twelve to work in a boot-blacking factory when his father was jailed for debt. He became a journalist and then the most popular novelist of Victorian England. His serialized novels brought him international fame.",
+   "known_for": [
+    "Oliver Twist",
+    "A Christmas Carol",
+    "Great Expectations",
+    "A Tale of Two Cities"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Charles_Dickens"
+  },
+  "Roger Lea MacBride": {
+   "born": 1929,
+   "died": 1995,
+   "birthplace": "New Rochelle, New York",
+   "nationality": "American",
+   "bio": "MacBride was a lawyer and politician who served one term in the Vermont House and was the Libertarian presidential nominee in 1976. He inherited the literary estate of Rose Wilder Lane and went on to write the Rocky Ridge Years books about her childhood. He died in Miami Beach.",
+   "known_for": [
+    "Rocky Ridge Years series",
+    "Little House on Rocky Ridge"
+   ],
+   "source": "https://en.wikipedia.org/wiki/Roger_MacBride"
+  }
+ }
+}
