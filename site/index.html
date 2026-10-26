@@ -1,0 +1,96 @@
+<title>Nuthatch's Read-Aloud Log</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Every book a mother read aloud to her five children in a log cabin in the woods, season by season.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;1,400&family=Caveat:wght@500;700&family=Courier+Prime:wght@400;700&family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&display=swap">
+<link rel="stylesheet" href="style.css">
+
+<svg class="defs" aria-hidden="true" focusable="false">
+  <filter id="wobble"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="7"/><feDisplacementMap in="SourceGraphic" scale="3"/></filter>
+  <symbol id="i-winter" viewBox="0 0 32 32"><g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M16 3v26M4.7 9.5l22.6 13M4.7 22.5l22.6-13"/><path d="M12 5l4 3 4-3M12 27l4-3 4 3M4 14l4.5-1-1.5-4.5M28 18l-4.5 1 1.5 4.5M4 18l4.5 1-1.5 4.5M28 14l-4.5-1 1.5-4.5"/></g></symbol>
+  <symbol id="i-spring" viewBox="0 0 32 32"><path d="M16 29V15" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/><path d="M16 16c0-7 -6-10-12-9 0 6 5 10 12 9z" fill="currentColor"/><path d="M16 13c0-6 5-9 11-8 0 6-5 9-11 8z" fill="currentColor" opacity=".75"/><path d="M8 29h16" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+  <symbol id="i-summer" viewBox="0 0 32 32"><circle cx="16" cy="18" r="9" fill="currentColor"/><path d="M16 9c-1-3-4-4-6-3M16 9c1-3 4-4 6-3M16 9V5" fill="none" stroke="var(--leaf)" stroke-width="2.2" stroke-linecap="round"/><path d="M12 15c1-1.5 3-2 4-1.5" fill="none" stroke="var(--paper)" stroke-width="1.6" stroke-linecap="round" opacity=".7"/></symbol>
+  <symbol id="i-fall" viewBox="0 0 32 32"><ellipse cx="16" cy="19" rx="12" ry="9" fill="currentColor"/><path d="M16 10.5v17M10 11.5c-2.5 3-2.5 12 0 15M22 11.5c2.5 3 2.5 12 0 15" fill="none" stroke="var(--paper)" stroke-width="1.4" opacity=".45"/><path d="M16 11c0-3 1-5 3-6" fill="none" stroke="var(--leaf)" stroke-width="2.4" stroke-linecap="round"/></symbol>
+  <symbol id="i-lamp" viewBox="0 0 32 32"><path d="M12 5h8M13 5c-1 3 -1 5 0 7h6c1-2 1-4 0-7" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M16 14c-2 2-2 4 0 5 2-1 2-3 0-5z" fill="var(--lamp)"/><path d="M10 13c-3 4-3 9 0 12h12c3-3 3-8 0-12z" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 27h16" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+  <symbol id="i-nuthatch" viewBox="0 0 64 40"><path d="M6 20c6-9 20-13 34-10 8 2 14 6 18 10-6 2-14 2-20 0" fill="#6f87a8"/><path d="M8 21c8 6 22 9 34 6 6-1 10-4 12-6-10 0-22-1-30 0z" fill="#f2ebdc"/><path d="M14 24c8 4 20 5 28 3" fill="none" stroke="#c97a45" stroke-width="3" stroke-linecap="round"/><path d="M40 12c6 0 12 4 16 8" fill="none" stroke="#1d2433" stroke-width="3.5" stroke-linecap="round"/><path d="M56 19l8-1-8 3z" fill="#2c3240"/><circle cx="49" cy="17.5" r="1.6" fill="#11151d"/><path d="M6 20l-6-4 3 7z" fill="#4f6687"/><path d="M22 14c4-1 10-1 14 1" fill="none" stroke="#3e5272" stroke-width="1.6"/></symbol>
+</svg>
+
+<header class="cabin">
+  <div class="logs" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span></div>
+  <div class="cabin-inner">
+    <div class="hero-card">
+      <p class="eyebrow"><svg class="ico"><use href="#i-lamp"/></svg> Read aloud by lamplight</p>
+      <h1>Nuthatch's Read&#8209;Aloud Log</h1>
+      <p class="lede">Every book read aloud to five children in a log cabin in the woods, copied season by season from her notebook.</p>
+      <dl class="tally" id="tally"></dl>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="family" aria-labelledby="family-h">
+    <h2 id="family-h" class="section-h">The listeners</h2>
+    <p class="section-sub">Tap a child to see how old they were beside every book.</p>
+    <ul class="family-row" id="family"></ul>
+  </section>
+
+  <section class="whenwas" aria-labelledby="whenwas-h">
+    <h2 id="whenwas-h" class="sr-only">Find a year by age</h2>
+    <form id="whenwas-form" class="whenwas-form">
+      <span>What did we read when</span>
+      <label class="sr-only" for="ww-kid">Child</label>
+      <select id="ww-kid"></select>
+      <span>was</span>
+      <label class="sr-only" for="ww-age">Age</label>
+      <select id="ww-age"></select>
+      <span>?</span>
+      <button type="submit" class="btn">Show me</button>
+    </form>
+  </section>
+
+  <div class="toolbar" id="toolbar">
+    <div class="toolbar-inner">
+      <label class="search"><span class="sr-only">Search titles, authors and characters</span>
+        <input id="q" type="search" placeholder="Search titles, authors, characters" autocomplete="off">
+      </label>
+      <label class="sr-only" for="genre">Genre</label>
+      <select id="genre"><option value="">All kinds of books</option></select>
+      <label class="sr-only" for="jump">Jump to year</label>
+      <select id="jump"><option value="">Jump to a year</option></select>
+      <div class="sky" role="radiogroup" aria-label="Day or night">
+        <button type="button" data-sky="auto" role="radio">Auto</button>
+        <button type="button" data-sky="day" role="radio">Day</button>
+        <button type="button" data-sky="night" role="radio">Night</button>
+      </div>
+    </div>
+    <p class="result-note" id="result-note" hidden></p>
+  </div>
+
+  <div class="timeline-wrap">
+    <div class="trunk" aria-hidden="true"><div class="climber"><svg viewBox="0 0 64 40"><use href="#i-nuthatch"/></svg></div></div>
+    <ol class="timeline" id="timeline"></ol>
+    <aside class="doorframe" id="doorframe" aria-label="Heights on the doorframe">
+      <div class="door-year" id="door-year"></div>
+      <div class="door-wood"><div class="door-marks" id="door-marks"></div></div>
+      <p class="door-caption">pencil marks at a typical height for each age</p>
+    </aside>
+  </div>
+
+  <section class="authors" aria-labelledby="authors-h">
+    <h2 id="authors-h" class="section-h">Authors on the shelf</h2>
+    <div class="most-read" id="most-read"></div>
+    <div class="author-index" id="author-index"></div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p>Copied from a yellow legal pad kept from 1984 into the 2000s. Dates in pencil gray are estimates for lines written without a date.</p>
+</footer>
+
+<dialog id="card" class="card-dialog" aria-labelledby="card-title">
+  <div class="card" id="card-body"></div>
+</dialog>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
