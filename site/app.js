@@ -89,7 +89,7 @@
   }
 
   // ---------- state ----------
-  const state = { q: "", genre: "", focus: null };
+  const state = { q: "", genre: "", age: "", focus: null };
 
   // ---------- day / night ----------
   const mq = window.matchMedia("(prefers-color-scheme: dark)");
@@ -226,6 +226,9 @@
     .forEach(([g, n]) => genreSel.append(h("option", { value: g, text: `${g} (${n})` })));
   if (genreSel.options.length === 1) genreSel.hidden = true;
 
+  const ageSel = $("#age-group");
+  window.NBAgeFilter.groups.forEach(({ key, label }) => ageSel.append(h("option", { value: key, text: label })));
+
   const jumpSel = $("#jump");
   for (const y of yearEls.keys()) jumpSel.append(h("option", { value: y, text: y }));
   jumpSel.addEventListener("change", () => {
@@ -236,11 +239,13 @@
   const note = $("#result-note");
   function applyFilter() {
     const q = state.q.trim().toLowerCase();
-    const active = q || state.genre;
+    const active = q || state.genre || state.age;
     let shown = 0;
     for (const b of books) {
       const el = slipEls.get(b.id);
-      const ok = (!q || hay.get(b.id).includes(q)) && (!state.genre || ((info(b) || {}).genres || []).includes(state.genre));
+      const c = info(b) || {};
+      const ok = (!q || hay.get(b.id).includes(q)) && (!state.genre || (c.genres || []).includes(state.genre))
+        && window.NBAgeFilter.matches(c.reading_age, state.age);
       el.hidden = !ok;
       el.classList.toggle("hit", !!active && ok);
       if (ok) shown++;
@@ -249,15 +254,26 @@
     note.hidden = !active;
     note.replaceChildren(
       `${shown} of ${books.length} readings match. `,
-      h("button", { type: "button", text: "Show all", onclick: () => { $("#q").value = ""; genreSel.value = ""; state.q = ""; state.genre = ""; applyFilter(); } }),
+      h("button", { type: "button", text: "Show all", onclick: resetFilters }),
     );
   }
   let qTimer;
+  function resetFilters() {
+    clearTimeout(qTimer);
+    $("#q").value = "";
+    genreSel.value = "";
+    ageSel.value = "";
+    state.q = "";
+    state.genre = "";
+    state.age = "";
+    applyFilter();
+  }
   $("#q").addEventListener("input", (e) => {
     clearTimeout(qTimer);
     qTimer = setTimeout(() => { state.q = e.target.value; applyFilter(); }, 120);
   });
   genreSel.addEventListener("change", () => { state.genre = genreSel.value; applyFilter(); });
+  ageSel.addEventListener("change", () => { state.age = ageSel.value; applyFilter(); });
 
   function goToYear(y) {
     const el = yearEls.get(y);
@@ -404,8 +420,7 @@
     const el = slipEls.get(id);
     if (!el) return;
     if (el.hidden) {
-      $("#q").value = ""; genreSel.value = ""; state.q = ""; state.genre = "";
-      applyFilter();
+      resetFilters();
     }
     dialog.close();
     el.scrollIntoView({ block: "center" });

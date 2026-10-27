@@ -56,6 +56,8 @@
       </label>
       <label class="sr-only" for="genre">Genre</label>
       <select id="genre"><option value="">All kinds of books</option></select>
+      <label class="sr-only" for="age-group">Recommended age group</label>
+      <select id="age-group" aria-describedby="age-help"><option value="">All recommended ages</option></select>
       <label class="sr-only" for="jump">Jump to year</label>
       <select id="jump"><option value="">Jump to a year</option></select>
       <button type="button" class="btn pull" id="pull">Pull a book off the shelf</button>
@@ -65,7 +67,8 @@
         <button type="button" data-sky="night" role="radio">Night</button>
       </div>
     </div>
-    <p class="result-note" id="result-note" hidden></p>
+    <p class="result-note" id="age-help">Age groups match overlapping recommended reading ages. Missing or unclear recommendations appear under “Age not specified”.</p>
+    <p class="result-note" id="result-note" role="status" hidden></p>
   </div>
 
   <div class="timeline-wrap">
@@ -94,4 +97,5 @@
 </dialog>
 
 <script src="data.js"></script>
+<script src="age-filter.js"></script>
 <script src="app.js"></script>

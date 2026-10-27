@@ -52,11 +52,13 @@ def main():
     html = (SITE / "index.html").read_text()
     css = (SITE / "style.css").read_text()
     js = (SITE / "app.js").read_text()
+    age_js = (SITE / "age-filter.js").read_text()
     data_js = "window.NB = " + json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/") + ";"
     html = html.replace('<link rel="stylesheet" href="style.css">', f"<style>\n{css}\n</style>")
     html = html.replace('<script src="data.js"></script>', f"<script>{data_js}</script>")
     html = html.replace('<script src="app.js"></script>', f"<script>\n{js}\n</script>")
-    assert not re.search(r'src="(app|data)\.js"', html)
+    html = html.replace('<script src="age-filter.js"></script>', f"<script>\n{age_js}\n</script>")
+    assert not re.search(r'src="(app|data|age-filter)\.js"', html)
 
     DIST.mkdir(exist_ok=True)
     # artifact.html is the page body for a Claude artifact, which supplies its own
