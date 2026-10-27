@@ -1,8 +1,8 @@
 """Make the family's 64x80 pixel-art portraits, a day and a night version of each.
 
 Nuthatch and fawnicorn are downsampled from their existing paintings.
-Wonderful cat, treefrog, rabbit and pigeon are drawn here, pixel by pixel,
-to match them.
+Supplied JPEG portraits are preserved and used for both themes.
+The drawing functions below provide fallbacks for portraits without a JPEG.
 
     uv run --with pillow python -I scripts/make_portraits.py [--sheet PATH]
 
@@ -624,8 +624,13 @@ def main():
     images = {}
     for slug in SLUGS:
         for night in (False, True):
-            im = portrait(slug, night)
-            im.save(OUT / f"{slug}-{'night' if night else 'day'}.png", optimize=True)
+            supplied = OUT / f"{slug}.jpg"
+            if supplied.exists():
+                with Image.open(supplied) as source:
+                    im = source.convert("RGB").resize((W, H), Image.Resampling.LANCZOS)
+            else:
+                im = portrait(slug, night)
+                im.save(OUT / f"{slug}-{'night' if night else 'day'}.png", optimize=True)
             images[slug, night] = im
     if args.sheet:
         contact_sheet(images, args.sheet)

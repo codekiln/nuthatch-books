@@ -25,7 +25,8 @@ BOOK_FIELDS = ["id", "work", "n", "title", "parts", "author", "year", "month",
 
 
 def data_uri(path):
-    return "data:image/png;base64," + base64.b64encode(path.read_bytes()).decode()
+    mime = "image/jpeg" if path.suffix == ".jpg" else "image/png"
+    return f"data:{mime};base64," + base64.b64encode(path.read_bytes()).decode()
 
 
 def load_catalog():
@@ -40,8 +41,11 @@ def main():
     family = []
     for member in FAMILY:
         member = dict(member)
-        member["day"] = data_uri(SITE / "img" / "portraits" / f"{member['slug']}-day.png")
-        member["night"] = data_uri(SITE / "img" / "portraits" / f"{member['slug']}-night.png")
+        portraits = SITE / "img" / "portraits"
+        supplied = portraits / f"{member['slug']}.jpg"
+        for theme in ("day", "night"):
+            path = supplied if supplied.exists() else portraits / f"{member['slug']}-{theme}.png"
+            member[theme] = data_uri(path)
         family.append(member)
     payload = {"family": family, "books": books, "catalog": load_catalog()}
 
