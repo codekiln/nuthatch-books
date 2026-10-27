@@ -151,7 +151,7 @@ main { padding-left: var(--gutter-l); padding-right: var(--gutter-r); }
   box-shadow: var(--shadow);
   transition: transform .2s ease;
 }
-.frame img { display: block; width: 100%; height: 100%; image-rendering: pixelated; border-radius: 2px; }
+.frame img { display: block; width: 100%; height: 100%; object-fit: cover; image-rendering: pixelated; border-radius: 2px; }
 .kid:not([disabled]):hover .frame { transform: rotate(-1.5deg) translateY(-2px); }
 .kid[aria-pressed="true"] .frame { box-shadow: 0 0 0 4px var(--lamp), var(--shadow); }
 .kid-name { font-family: var(--f-hand); font-size: 1.6rem; line-height: 1; color: var(--ink); }
