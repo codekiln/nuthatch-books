@@ -14,7 +14,7 @@ FAMILY = [
     {"slug": "nuthatch", "name": "nuthatch", "role": "the reader"},
     {"slug": "wonderful-cat", "name": "wonderful cat", "born": 1980},
     {"slug": "fawnicorn", "name": "fawnicorn", "born": 1981},
-    {"slug": "treefrog", "name": "treefrog", "born": 1986},
+    {"slug": "treefrog", "name": "treefrog", "born": 1984},
     {"slug": "rabbit", "name": "rabbit", "born": 1987},
     {"slug": "pigeon", "name": "pigeon", "born": 1991},
 ]
