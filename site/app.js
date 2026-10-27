@@ -408,6 +408,11 @@
       h("h3", { text: all.length > 1 ? `Read aloud ${all.length} times` : "Read aloud" }),
       checkoutTable(all, false),
       h("div", { class: "card-actions" },
+        h("a", {
+          class: "btn", text: "Find in Libby (Minuteman)",
+          href: `https://libbyapp.com/search/minuteman/search/query-${encodeURIComponent(c.title || b.title)}/page-1`,
+          target: "_blank", rel: "noopener noreferrer",
+        }),
         h("button", { class: "btn", type: "button", onclick: () => findOnTimeline(b.id), text: "Find it on the timeline" }),
         h("button", { class: "btn btn-quiet", type: "button", onclick: pullABook, text: "Pull another book" }),
       ),

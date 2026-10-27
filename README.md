@@ -15,6 +15,8 @@ Every push to `main` rebuilds the page and deploys it to https://codekiln.github
 
 Browse the timeline by recommended age group, genre, or search text. A book appears in every age group its recommendation overlaps. Grade-only, broad, missing, and unrecognized age descriptions appear under “Age not specified”; the original recommendation stays on the book card.
 
+Each book card includes “Find in Libby (Minuteman)”, which opens a title search in the Minuteman Library Network catalog in a new tab.
+
 Run the age-filter checks with Node.js:
 
 ```bash
